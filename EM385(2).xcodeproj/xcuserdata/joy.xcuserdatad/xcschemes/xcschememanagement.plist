@@ -9,6 +9,45 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>GettingStarted (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>GettingStarted (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>GettingStarted (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>A8C1D3EB2C4887CB005A5322</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A8C1D4012C4887CF005A5322</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A8C1D40B2C4887CF005A5322</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 	</dict>
 </dict>
 </plist>

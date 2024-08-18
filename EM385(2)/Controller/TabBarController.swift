@@ -1,19 +1,17 @@
 //
-//  ViewController.swift
+//  TabBarController.swift
 //  EM385(2)
 //
-//  Created by Joy on 7/17/24.
+//  Created by Joy on 7/21/24.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class TabBarController: UITabBarController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+
         // Do any additional setup after loading the view.
     }
-
-
 }
-
