@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="32700.99.1234" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="qxI-a3-Ukl">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="23094" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="qxI-a3-Ukl">
     <device id="retina6_12" orientation="portrait" appearance="light"/>
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22685"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="23084"/>
         <capability name="Image references" minToolsVersion="12.0"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="System colors in document resources" minToolsVersion="11.0"/>
@@ -102,7 +102,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="vv4-QZ-LQv" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="615" y="2938"/>
+            <point key="canvasLocation" x="615" y="2976"/>
         </scene>
         <!--Tab Bar Controller-->
         <scene sceneID="bdr-td-MwQ">
@@ -296,16 +296,11 @@
                                 <rect key="frame" x="0.0" y="147" width="393" height="705"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                                <prototypes>
-                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="cellAtSearchView" id="pAI-t6-k26">
-                                        <rect key="frame" x="0.0" y="50" width="393" height="47.666667938232422"/>
-                                        <autoresizingMask key="autoresizingMask"/>
-                                        <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="pAI-t6-k26" id="y7t-N0-DNi">
-                                            <rect key="frame" x="0.0" y="0.0" width="393" height="47.666667938232422"/>
-                                            <autoresizingMask key="autoresizingMask"/>
-                                        </tableViewCellContentView>
-                                    </tableViewCell>
-                                </prototypes>
+                                <connections>
+                                    <outlet property="dataSource" destination="4VM-fP-D9r" id="4Aj-aj-qTG"/>
+                                    <outlet property="delegate" destination="4VM-fP-D9r" id="QEl-SW-5yg"/>
+                                    <outlet property="prefetchDataSource" destination="4VM-fP-D9r" id="fSe-W9-5k1"/>
+                                </connections>
                             </tableView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="Kow-f1-3qO"/>
@@ -315,11 +310,12 @@
                     <connections>
                         <outlet property="searchBar" destination="Gnj-WQ-j87" id="Kpp-kZ-j0l"/>
                         <outlet property="searchTableView" destination="ZyO-pq-8dp" id="On9-ve-8hh"/>
+                        <segue destination="cb9-eX-Gc2" kind="show" identifier="showSectionSearch" id="gcY-S7-Pz5"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Zbs-Kw-xZB" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2374.8091603053435" y="1421.8309859154931"/>
+            <point key="canvasLocation" x="2375" y="1422"/>
         </scene>
         <!--Bookmark-->
         <scene sceneID="xf2-IL-hyQ">
@@ -396,13 +392,49 @@
             </objects>
             <point key="canvasLocation" x="3246.5648854961833" y="1421.8309859154931"/>
         </scene>
+        <!--Section Search View-->
+        <scene sceneID="yzA-0V-ixD">
+            <objects>
+                <viewController storyboardIdentifier="sectionSearchView" id="cb9-eX-Gc2" customClass="SectionSearchView" customModule="EM385_2_" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="3l1-ta-mdG">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" restorationIdentifier="sectionView" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" allowsSelection="NO" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="-1" estimatedSectionHeaderHeight="-1" sectionFooterHeight="-1" estimatedSectionFooterHeight="-1" translatesAutoresizingMaskIntoConstraints="NO" id="6Bf-RR-LHl">
+                                <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <prototypes>
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="ReusableCell" id="X6L-aB-eoY">
+                                        <rect key="frame" x="0.0" y="50" width="393" height="47.666667938232422"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                        <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="X6L-aB-eoY" id="eel-is-CKX">
+                                            <rect key="frame" x="0.0" y="0.0" width="393" height="47.666667938232422"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                        </tableViewCellContentView>
+                                    </tableViewCell>
+                                </prototypes>
+                            </tableView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="75q-2P-9qI"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="A3e-xs-mnn"/>
+                    <connections>
+                        <outlet property="tableView" destination="6Bf-RR-LHl" id="enm-ZC-fxH"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Okl-aJ-BdY" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2375" y="2220"/>
+        </scene>
     </scenes>
     <resources>
         <image name="Lauchbg" width="1728" height="2304"/>
         <image name="abc" catalog="system" width="128" height="50"/>
         <image name="book.pages" catalog="system" width="107" height="128"/>
         <image name="bookmark" catalog="system" width="110" height="128"/>
-        <image name="doc.text.magnifyingglass" catalog="system" width="110" height="128"/>
+        <image name="doc.text.magnifyingglass" catalog="system" width="106" height="128"/>
         <image name="em385bgr" width="393" height="852"/>
         <image name="gearshape" catalog="system" width="128" height="123"/>
         <image name="house" catalog="system" width="128" height="104"/>

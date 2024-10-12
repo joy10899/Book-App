@@ -1,16 +1,15 @@
 //
-//  SectionViewController.swift
+//  SectionSearchViewViewController.swift
 //  EM385(2)
 //
-//  Created by Joy on 7/21/24.
+//  Created by Joy on 10/11/24.
 //
-
 
 import Foundation
 import UIKit
 import RealmSwift
 
-class SectionViewController: UIViewController {
+class SectionSearchView: UIViewController {
 
     @IBOutlet weak var tableView: UITableView!
     var section: Section
@@ -18,6 +17,7 @@ class SectionViewController: UIViewController {
     var realm: Realm!
     var selectedChapter: Int?
     var selectedSection: String?
+    let data = UserDefaults()
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -26,23 +26,6 @@ class SectionViewController: UIViewController {
         tableView.register(UITableViewCell.self, forCellReuseIdentifier: "SectionCell")
         tableView.rowHeight = UITableView.automaticDimension
             tableView.estimatedRowHeight = 44
-        // Configure Realm with migration logic
-//                let config = Realm.Configuration(
-//                    schemaVersion: 3, // Increment this number when you make changes to the schema
-//                    migrationBlock: { migration, oldSchemaVersion in
-//                        if oldSchemaVersion < 2 {
-                            // Perform the migration here if needed
-//                            migration.enumerateObjects(ofType: Section.className()) { oldObject, newObject in
-                                // Set default values for new properties if necessary
-
-//                            }
-//                        }
-//                    }
-//                )
-                
-                // Set the new configuration as the default Realm configuration
-//                Realm.Configuration.defaultConfiguration = config
-        
         do {
             self.realm = try Realm()
             print("User Realm Section file location: \(realm.configuration.fileURL!.path)")
@@ -54,6 +37,11 @@ class SectionViewController: UIViewController {
     
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
+        
+        selectedChapter = data.integer(forKey: "SelectedChapter")
+        selectedSection = data.string(forKey: "SelectedSection")
+        print("Chapter: '\(selectedChapter)'")
+        print("Chapter: '\(selectedSection)'")
         // Now load the sections after view will appear (and values are set)
         loadSectionsFromRealm()
         print("viewWillAppear")
@@ -73,24 +61,17 @@ class SectionViewController: UIViewController {
     
     // Load Data from Realm
     func loadSectionsFromRealm() {
-        guard let selectedChapter = selectedChapter, let selectedSection = selectedSection else {
-                    print("Chapter or section not set.")
-                    return
-                }
+        print(selectedChapter)
+//        guard let selectedChapter = selectedChapter, let selectedSection = selectedSection else {
+//                    print("Chapter or section not set.")
+//                    return
+//                }
         sections = realm.objects(Section.self).filter("chapter == %d AND section == %@", selectedChapter, selectedSection)
         tableView.reloadData()
     }
 }
-/*
-// MARK: - Navigation
 
-// In a storyboard-based application, you will often want to do a little preparation before navigation
-override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-    // Get the new view controller using segue.destination.
-    // Pass the selected object to the new view controller.
-}
-*/
-extension SectionViewController: UITableViewDelegate, UITableViewDataSource {
+extension SectionSearchView : UITableViewDelegate, UITableViewDataSource {
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         return sections?.count ?? 0
     }
@@ -111,6 +92,7 @@ extension SectionViewController: UITableViewDelegate, UITableViewDataSource {
         return UITableView.automaticDimension
     }
 }
+
 
     
 

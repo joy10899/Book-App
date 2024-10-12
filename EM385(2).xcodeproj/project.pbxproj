@@ -9,6 +9,9 @@
 /* Begin PBXBuildFile section */
 		A83185EA2C543285004BFDB4 /* ChapterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A83185E92C543285004BFDB4 /* ChapterViewController.swift */; };
 		A83185EC2C54366B004BFDB4 /* Chapter.swift in Sources */ = {isa = PBXBuildFile; fileRef = A83185EB2C54366B004BFDB4 /* Chapter.swift */; };
+		A83573982C72A40E00944196 /* RealmSwift in Frameworks */ = {isa = PBXBuildFile; productRef = A83573972C72A40E00944196 /* RealmSwift */; };
+		A835739A2C72A85400944196 /* RealmSwift in Embed Frameworks */ = {isa = PBXBuildFile; productRef = A83573972C72A40E00944196 /* RealmSwift */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		A83B1BEF2CB9B55E003FEB5E /* SectionSearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A83B1BEE2CB9B55E003FEB5E /* SectionSearchView.swift */; };
 		A84723FC2C6CA1BE005CFD80 /* SearchCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A84723FA2C6CA1BE005CFD80 /* SearchCell.swift */; };
 		A84723FD2C6CA1BE005CFD80 /* SearchCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = A84723FB2C6CA1BE005CFD80 /* SearchCell.xib */; };
 		A84723FF2C6CA60B005CFD80 /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A84723FE2C6CA60B005CFD80 /* SearchViewController.swift */; };
@@ -51,6 +54,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
+				A835739A2C72A85400944196 /* RealmSwift in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -60,6 +64,7 @@
 /* Begin PBXFileReference section */
 		A83185E92C543285004BFDB4 /* ChapterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChapterViewController.swift; sourceTree = "<group>"; };
 		A83185EB2C54366B004BFDB4 /* Chapter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter.swift; sourceTree = "<group>"; };
+		A83B1BEE2CB9B55E003FEB5E /* SectionSearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionSearchView.swift; sourceTree = "<group>"; };
 		A84723FA2C6CA1BE005CFD80 /* SearchCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchCell.swift; sourceTree = "<group>"; };
 		A84723FB2C6CA1BE005CFD80 /* SearchCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SearchCell.xib; sourceTree = "<group>"; };
 		A84723FE2C6CA60B005CFD80 /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
@@ -87,6 +92,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A83573982C72A40E00944196 /* RealmSwift in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -168,6 +174,7 @@
 				A8C76D2E2C4E1068003537B6 /* SectionViewController.swift */,
 				A83185E92C543285004BFDB4 /* ChapterViewController.swift */,
 				A84723FE2C6CA60B005CFD80 /* SearchViewController.swift */,
+				A83B1BEE2CB9B55E003FEB5E /* SectionSearchView.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -209,6 +216,7 @@
 			);
 			name = "EM385(2)";
 			packageProductDependencies = (
+				A83573972C72A40E00944196 /* RealmSwift */,
 			);
 			productName = "EM385(2)";
 			productReference = A8C1D3EC2C4887CB005A5322 /* EM385(2).app */;
@@ -283,6 +291,7 @@
 			);
 			mainGroup = A8C1D3E32C4887CB005A5322;
 			packageReferences = (
+				A83573942C72A40E00944196 /* XCRemoteSwiftPackageReference "realm-swift" */,
 			);
 			productRefGroup = A8C1D3ED2C4887CB005A5322 /* Products */;
 			projectDirPath = "";
@@ -333,6 +342,7 @@
 				A83185EC2C54366B004BFDB4 /* Chapter.swift in Sources */,
 				A8C76D2F2C4E1068003537B6 /* SectionViewController.swift in Sources */,
 				A8C1D3F42C4887CB005A5322 /* WelcomeViewController.swift in Sources */,
+				A83B1BEF2CB9B55E003FEB5E /* SectionSearchView.swift in Sources */,
 				A8C1D3F02C4887CB005A5322 /* AppDelegate.swift in Sources */,
 				A8C76D2D2C4E0900003537B6 /* HomeViewController.swift in Sources */,
 				A8C76D2B2C4E0693003537B6 /* TabBarController.swift in Sources */,
@@ -528,7 +538,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -557,7 +567,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -683,6 +693,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		A83573942C72A40E00944196 /* XCRemoteSwiftPackageReference "realm-swift" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/realm/realm-swift.git";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		A83573972C72A40E00944196 /* RealmSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A83573942C72A40E00944196 /* XCRemoteSwiftPackageReference "realm-swift" */;
+			productName = RealmSwift;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = A8C1D3E42C4887CB005A5322 /* Project object */;
 }

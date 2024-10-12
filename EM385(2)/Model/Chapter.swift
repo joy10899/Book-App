@@ -16,8 +16,5 @@ struct Chapter {
     var section: [String]?
     var contents: [String]?
     
-    let chapters = [
-        Chapter(open: false, title: "1 Program Manager-03", number: 1),
-                    Chapter(open: false, title: "2 Sanitation", number: 2),
-                    Chapter(open: false, title: "3", number: 3)]
+
 }

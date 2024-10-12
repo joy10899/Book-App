@@ -33,22 +33,22 @@ class ChapterViewController: UITableViewController {
             Chapter(open: false, title: "3", number: 3)]
         
         // Define the migration block
-        let migrationBlock: MigrationBlock = { migration, oldSchemaVersion in
-            if oldSchemaVersion < 2 {
-                migration.enumerateObjects(ofType: Section.className()) { oldObject, newObject in
-                    
-                }
-            }
-        }
+//        let migrationBlock: MigrationBlock = { migration, oldSchemaVersion in
+//            if oldSchemaVersion < 2 {
+//                migration.enumerateObjects(ofType: Section.className()) { oldObject, newObject in
+//                    
+//                }
+//            }
+//        }
         
         // Set the new schema version and apply the migration
-        let config = Realm.Configuration(
-            schemaVersion: 3, // Increment this number with each schema change
-            migrationBlock: migrationBlock
-        )
+//        let config = Realm.Configuration(
+//            schemaVersion: 3, // Increment this number with each schema change
+//            migrationBlock: migrationBlock
+//        )
         
         // Tell Realm to use this new configuration
-        Realm.Configuration.defaultConfiguration = config
+//        Realm.Configuration.defaultConfiguration = config
         
         
         do {

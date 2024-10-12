@@ -8,13 +8,15 @@
 import UIKit
 
 class SearchCell: UITableViewCell {
-    @IBOutlet weak var chapNumber: UILabel!
+    @IBOutlet weak var chapTitle: UILabel!
     @IBOutlet weak var sectionTitle: UILabel!
-    @IBOutlet weak var chapterTitle: UILabel!
+    @IBOutlet weak var content: UILabel!
     
     override func awakeFromNib() {
         super.awakeFromNib()
-        // Initialization code
+        chapTitle.numberOfLines = 0
+        sectionTitle.numberOfLines = 0
+        content.numberOfLines  = 0
     }
 
     override func setSelected(_ selected: Bool, animated: Bool) {
