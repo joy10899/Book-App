@@ -10,22 +10,21 @@ import UIKit
 import RealmSwift
 
 class SectionSearchView: UIViewController {
-
+    
     @IBOutlet weak var tableView: UITableView!
-    var section: Section
     var sections: Results<Section>?
     var realm: Realm!
     var selectedChapter: Int?
-    var selectedSection: String?
-    let data = UserDefaults()
-    
+    var selectedContent: String?
+    var searchText: String = ""
     override func viewDidLoad() {
         super.viewDidLoad()
         tableView.delegate = self
         tableView.dataSource = self
-        tableView.register(UITableViewCell.self, forCellReuseIdentifier: "SectionCell")
+        tableView.register(UITableViewCell.self, forCellReuseIdentifier: "ReusableCell")
         tableView.rowHeight = UITableView.automaticDimension
-            tableView.estimatedRowHeight = 44
+        tableView.estimatedRowHeight = 44
+        
         do {
             self.realm = try Realm()
             print("User Realm Section file location: \(realm.configuration.fileURL!.path)")
@@ -37,37 +36,36 @@ class SectionSearchView: UIViewController {
     
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
-        
-        selectedChapter = data.integer(forKey: "SelectedChapter")
-        selectedSection = data.string(forKey: "SelectedSection")
-        print("Chapter: '\(selectedChapter)'")
-        print("Chapter: '\(selectedSection)'")
-        // Now load the sections after view will appear (and values are set)
         loadSectionsFromRealm()
-        print("viewWillAppear")
     }
     
-    // Custom initializer
-    init(section: Section) {
-        self.section = section
-        super.init(nibName: nil, bundle: nil)
-    }
-    
-    // Required initializer for using with storyboard or XIB
-    required init?(coder: NSCoder) {
-        self.section = Section()
-        super.init(coder: coder)
-    }
-    
-    // Load Data from Realm
+    /* Load Data from Realm
+     */
     func loadSectionsFromRealm() {
-        print(selectedChapter)
-//        guard let selectedChapter = selectedChapter, let selectedSection = selectedSection else {
-//                    print("Chapter or section not set.")
-//                    return
-//                }
-        sections = realm.objects(Section.self).filter("chapter == %d AND section == %@", selectedChapter, selectedSection)
+        guard let selectedChapter = selectedChapter, let selectedSection = selectedContent else {
+            print("Chapter or section not set.")
+            return
+        }
+        sections = realm.objects(Section.self).filter("chapter == %d AND content == %@", selectedChapter, selectedContent ?? "")
+        
         tableView.reloadData()
+    }
+    
+    func highlightText(searchText: String, content: String) -> NSAttributedString? {
+        let attributedContent = NSMutableAttributedString(string: content)
+        let contentNSString = NSString(string: content)
+        let range = NSRange(location: 0, length: contentNSString.length)
+        
+        // Iterate over the content and find ranges that match the search text
+        contentNSString.enumerateSubstrings(in: range, options: [.byWords, .substringNotRequired]) { (_, substringRange, _, _) in
+            let substring = contentNSString.substring(with: substringRange)
+            
+            if substring.caseInsensitiveCompare(searchText) == .orderedSame {
+                attributedContent.addAttribute(.backgroundColor, value: UIColor.yellow, range: substringRange)
+            }
+        }
+        
+        return attributedContent
     }
 }
 
@@ -77,16 +75,18 @@ extension SectionSearchView : UITableViewDelegate, UITableViewDataSource {
     }
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-        let cell = tableView.dequeueReusableCell(withIdentifier: "SectionCell", for: indexPath)
+        let cell = tableView.dequeueReusableCell(withIdentifier: "ReusableCell", for: indexPath)
+        
         if let sectionContent = sections?[indexPath.row].content {
-            cell.textLabel?.text = sectionContent
-            cell.textLabel?.numberOfLines = 0
-            cell.sizeToFit()
-            cell.layoutIfNeeded()
             
+            cell.textLabel?.attributedText = highlightText(searchText: searchText, content: sectionContent)
+            cell.textLabel?.numberOfLines = 0
         }
+        // Forces layout update to calculate height
+        cell.layoutIfNeeded()
         return cell
     }
+
     
     func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
         return UITableView.automaticDimension

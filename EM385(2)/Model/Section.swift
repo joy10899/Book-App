@@ -7,6 +7,7 @@
 
 import Foundation
 import RealmSwift
+import UIKit
 class Section: Object {
     @Persisted var chapter: Int
     @Persisted var section: String
@@ -15,4 +16,5 @@ class Section: Object {
     @Persisted var refTwo: String?
     @Persisted var refThree: String?
     @Persisted var content: String
+   
 }

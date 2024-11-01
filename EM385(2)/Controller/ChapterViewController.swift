@@ -10,20 +10,7 @@ import RealmSwift
 class ChapterViewController: UITableViewController {
     @IBOutlet weak var chapterView: UITableView!
     var tableViewData = [Chapter]()
-    var section: Section
     var realm: Realm!
-    
-    // Custom initializer
-    init(section: Section) {
-        self.section = section
-        super.init(nibName: nil, bundle: nil)
-    }
-    
-    // Required initializer for using with storyboard or XIB
-    required init?(coder: NSCoder) {
-        self.section = Section()
-        super.init(coder: coder)
-    }
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -32,25 +19,7 @@ class ChapterViewController: UITableViewController {
             Chapter(open: false, title: "2 Sanitation", number: 2),
             Chapter(open: false, title: "3", number: 3)]
         
-        // Define the migration block
-//        let migrationBlock: MigrationBlock = { migration, oldSchemaVersion in
-//            if oldSchemaVersion < 2 {
-//                migration.enumerateObjects(ofType: Section.className()) { oldObject, newObject in
-//                    
-//                }
-//            }
-//        }
-        
-        // Set the new schema version and apply the migration
-//        let config = Realm.Configuration(
-//            schemaVersion: 3, // Increment this number with each schema change
-//            migrationBlock: migrationBlock
-//        )
-        
-        // Tell Realm to use this new configuration
-//        Realm.Configuration.defaultConfiguration = config
-        
-        
+
         do {
             self.realm = try Realm()
             print("User Realm file location: \(realm.configuration.fileURL!.path)")
@@ -73,9 +42,6 @@ class ChapterViewController: UITableViewController {
     
     
     //MARK: - Table view data source
-    //    override func didReceiveMemoryWarning() {
-    //        super.didReceiveMemoryWarning()
-    //    }
     
     override func numberOfSections(in tableView: UITableView) -> Int {
         return tableViewData.count

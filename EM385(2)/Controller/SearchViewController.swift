@@ -14,17 +14,16 @@ class SearchViewController: UIViewController {
     var section: Section
     var searchContents: Results<Section>?
     let realm = try! Realm()
-    let data = UserDefaults()
-    //    var selectedChapter : Int?
-    //    var selectedSection : String?
     
-    // Custom initializer
+    /* Custom initializer
+     */
     init(section: Section) {
         self.section = section
         super.init(nibName: nil, bundle: nil)
     }
     
-    // Required initializer for using with storyboard or XIB
+    /* Required initializer for using with storyboard or XIB
+     */
     required init?(coder: NSCoder) {
         self.section = Section()
         super.init(coder: coder)
@@ -45,21 +44,20 @@ class SearchViewController: UIViewController {
         searchTableView.estimatedRowHeight = 44
     }
     
-    //Funtion return chapter title
+    /* Funtion return chapter title
+     */
     func getTitle(chapterNumber : Int) -> String? {
         for chapter in tableViewData {
             if chapterNumber == chapter.number {
-                print(chapter.title)
                 return chapter.title
             }
         }
         return nil
     }
     
-    //Function Highlight Text
-    func highlightText(searchText: String, content: String) -> AttributedString? {
-        guard !searchText.isEmpty else { return AttributedString(content) }
-        
+    /* Function Highlight Text
+     */
+    func highlightText(searchText: String, content: String) -> NSAttributedString? {
         let attributedContent = NSMutableAttributedString(string: content)
         let contentNSString = NSString(string: content)
         let range = NSRange(location: 0, length: contentNSString.length)
@@ -73,27 +71,23 @@ class SearchViewController: UIViewController {
             }
         }
         
-        return AttributedString(attributedContent)
+        return attributedContent
     }
     
-    //    Prepare segue
+    /* Prepare segue
+     */
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         if segue.identifier == "showSectionSearch" {
-            let vc = UIStoryboard(name: "Main", bundle: nil).instantiateViewController(withIdentifier: "sectionSearchView")
-//                segue.destination as? SectionSearchView {
-            if let indexPath = searchTableView.indexPathForSelectedRow {
-                //            let searchContents = searchContents {
-                data.set(searchContents?[indexPath.row].chapter, forKey: "SelectedChapter")
-                data.set(searchContents?[indexPath.row].content, forKey: "SelectedSection")
-            }
-//                    vc.selectedChapter = selectedChapter
-//                    print("\(selectedChapter)")
-//                    vc.selectedSection = selectedSection
-//                    print("\(selectedSection)")
-                self.show(vc, sender: nil)
+            if let vc = segue.destination  as? SectionSearchView {
+                if let indexPath = searchTableView.indexPathForSelectedRow {
+                    let selectedChapter = searchContents?[indexPath.row].chapter
+                    let selectedContent = searchContents?[indexPath.row].content
+                    vc.selectedChapter = selectedChapter
+                    vc.searchText = searchBar.text ?? "training"
+                    vc.selectedContent = selectedContent
                     
-//                }
-//            }
+                }
+            }
         }
         
     }
@@ -106,10 +100,15 @@ extension SearchViewController: UITableViewDelegate, UITableViewDataSource {
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = searchTableView.dequeueReusableCell(withIdentifier: "SearchCell", for: indexPath) as! SearchCell
         guard let searchContents = searchContents else { return cell}
+        
         let chapterIntFormat = searchContents[indexPath.row].chapter
         cell.chapTitle.text = getTitle(chapterNumber: chapterIntFormat)
+        
         cell.sectionTitle.text = "Section " + String(chapterIntFormat) + searchContents[indexPath.row].section
-        cell.content.text = searchContents[indexPath.row].content
+        let content = searchContents[indexPath.row].content
+        let searchText = searchBar.text ?? "training"
+        cell.content.attributedText = highlightText(searchText: searchText, content: content)
+        
         cell.textLabel?.numberOfLines = 0
         cell.sizeToFit()
         cell.layoutIfNeeded()
@@ -130,14 +129,12 @@ extension SearchViewController: UISearchBarDelegate {
     func searchBarSearchButtonClicked(_ searchBar: UISearchBar) {
         searchContents = realm.objects(Section.self).filter("content CONTAINS %@", searchBar.text!, section.chapter, section.content)
         searchTableView.reloadData()
-        print(searchContents ?? "searchButtonClicked")
     }
     
     func searchBar(_ searchBar: UISearchBar, textDidChange searchText: String) {
         if searchBar.text?.isEmpty ?? true {
             loadContents()
             searchTableView.reloadData()
-            print("text did change")
             
             DispatchQueue.main.async {
                 searchBar.resignFirstResponder()
@@ -145,24 +142,9 @@ extension SearchViewController: UISearchBarDelegate {
         }
     }
     
-    //    Model Manipulation Methods
     func loadContents() {
-        
-        // Ensure selectedChapter and selectedSection are set before querying Realm
-        //        guard let selectedChapter = selectedChapter, let selectedSection = selectedSection else {
-        //            print("Chapter or section not set.")
-        //            return
-        //        }
-        
         // Fetch searchContents from Realm
         searchContents = searchContents?.filter("content CONTAINS[cd] %@", searchBar.text!).sorted(byKeyPath: "chapter", ascending: true)
-        print(searchContents ?? "loadContents")
-        //        searchContents = realm.objects(Section.self).filter("chapter == %d AND section == %@", selectedChapter, selectedSection)
-        
-        //        if searchContents?.isEmpty ?? true {
-        //            print("No matching sections found in Realm for chapter: \(selectedChapter) and section: \(selectedSection)")
-        //        }
-        //
         searchTableView.reloadData()
     }
 }

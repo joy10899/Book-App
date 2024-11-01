@@ -13,7 +13,6 @@ import RealmSwift
 class SectionViewController: UIViewController {
 
     @IBOutlet weak var tableView: UITableView!
-    var section: Section
     var sections: Results<Section>?
     var realm: Realm!
     var selectedChapter: Int?
@@ -26,22 +25,7 @@ class SectionViewController: UIViewController {
         tableView.register(UITableViewCell.self, forCellReuseIdentifier: "SectionCell")
         tableView.rowHeight = UITableView.automaticDimension
             tableView.estimatedRowHeight = 44
-        // Configure Realm with migration logic
-//                let config = Realm.Configuration(
-//                    schemaVersion: 3, // Increment this number when you make changes to the schema
-//                    migrationBlock: { migration, oldSchemaVersion in
-//                        if oldSchemaVersion < 2 {
-                            // Perform the migration here if needed
-//                            migration.enumerateObjects(ofType: Section.className()) { oldObject, newObject in
-                                // Set default values for new properties if necessary
-
-//                            }
-//                        }
-//                    }
-//                )
-                
-                // Set the new configuration as the default Realm configuration
-//                Realm.Configuration.defaultConfiguration = config
+        
         
         do {
             self.realm = try Realm()
@@ -58,18 +42,7 @@ class SectionViewController: UIViewController {
         loadSectionsFromRealm()
         print("viewWillAppear")
     }
-    
-    // Custom initializer
-    init(section: Section) {
-        self.section = section
-        super.init(nibName: nil, bundle: nil)
-    }
-    
-    // Required initializer for using with storyboard or XIB
-    required init?(coder: NSCoder) {
-        self.section = Section()
-        super.init(coder: coder)
-    }
+
     
     // Load Data from Realm
     func loadSectionsFromRealm() {
@@ -83,12 +56,6 @@ class SectionViewController: UIViewController {
 }
 /*
 // MARK: - Navigation
-
-// In a storyboard-based application, you will often want to do a little preparation before navigation
-override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-    // Get the new view controller using segue.destination.
-    // Pass the selected object to the new view controller.
-}
 */
 extension SectionViewController: UITableViewDelegate, UITableViewDataSource {
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {

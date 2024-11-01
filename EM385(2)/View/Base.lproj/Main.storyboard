@@ -310,7 +310,7 @@
                     <connections>
                         <outlet property="searchBar" destination="Gnj-WQ-j87" id="Kpp-kZ-j0l"/>
                         <outlet property="searchTableView" destination="ZyO-pq-8dp" id="On9-ve-8hh"/>
-                        <segue destination="cb9-eX-Gc2" kind="show" identifier="showSectionSearch" id="gcY-S7-Pz5"/>
+                        <segue destination="cb9-eX-Gc2" kind="show" identifier="showSectionSearch" id="KzP-2e-BMJ"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Zbs-Kw-xZB" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
@@ -392,10 +392,10 @@
             </objects>
             <point key="canvasLocation" x="3246.5648854961833" y="1421.8309859154931"/>
         </scene>
-        <!--Section Search View-->
+        <!--sectionSearchView-->
         <scene sceneID="yzA-0V-ixD">
             <objects>
-                <viewController storyboardIdentifier="sectionSearchView" id="cb9-eX-Gc2" customClass="SectionSearchView" customModule="EM385_2_" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="sectionSearchView" title="sectionSearchView" id="cb9-eX-Gc2" customClass="SectionSearchView" customModule="EM385_2_" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="3l1-ta-mdG">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -408,7 +408,7 @@
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="ReusableCell" id="X6L-aB-eoY">
                                         <rect key="frame" x="0.0" y="50" width="393" height="47.666667938232422"/>
                                         <autoresizingMask key="autoresizingMask"/>
-                                        <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="X6L-aB-eoY" id="eel-is-CKX">
+                                        <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" tag="1" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="X6L-aB-eoY" id="eel-is-CKX">
                                             <rect key="frame" x="0.0" y="0.0" width="393" height="47.666667938232422"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                         </tableViewCellContentView>
