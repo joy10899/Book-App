@@ -15,6 +15,8 @@
 		A84723FC2C6CA1BE005CFD80 /* SearchCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A84723FA2C6CA1BE005CFD80 /* SearchCell.swift */; };
 		A84723FD2C6CA1BE005CFD80 /* SearchCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = A84723FB2C6CA1BE005CFD80 /* SearchCell.xib */; };
 		A84723FF2C6CA60B005CFD80 /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A84723FE2C6CA60B005CFD80 /* SearchViewController.swift */; };
+		A8A1E1412CF1264E004E7C35 /* SECTION 1.pdf in Resources */ = {isa = PBXBuildFile; fileRef = A8A1E1402CF1264E004E7C35 /* SECTION 1.pdf */; };
+		A8A1E15D2CF12707004E7C35 /* MyItemProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8A1E15C2CF12707004E7C35 /* MyItemProvider.swift */; };
 		A8C1D3F02C4887CB005A5322 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8C1D3EF2C4887CB005A5322 /* AppDelegate.swift */; };
 		A8C1D3F22C4887CB005A5322 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8C1D3F12C4887CB005A5322 /* SceneDelegate.swift */; };
 		A8C1D3F42C4887CB005A5322 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8C1D3F32C4887CB005A5322 /* WelcomeViewController.swift */; };
@@ -68,6 +70,8 @@
 		A84723FA2C6CA1BE005CFD80 /* SearchCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchCell.swift; sourceTree = "<group>"; };
 		A84723FB2C6CA1BE005CFD80 /* SearchCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SearchCell.xib; sourceTree = "<group>"; };
 		A84723FE2C6CA60B005CFD80 /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
+		A8A1E1402CF1264E004E7C35 /* SECTION 1.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "SECTION 1.pdf"; sourceTree = "<group>"; };
+		A8A1E15C2CF12707004E7C35 /* MyItemProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyItemProvider.swift; sourceTree = "<group>"; };
 		A8C1D3EC2C4887CB005A5322 /* EM385(2).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "EM385(2).app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A8C1D3EF2C4887CB005A5322 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A8C1D3F12C4887CB005A5322 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -172,6 +176,7 @@
 				A8C76D2A2C4E0693003537B6 /* TabBarController.swift */,
 				A8C76D2C2C4E0900003537B6 /* HomeViewController.swift */,
 				A8C76D2E2C4E1068003537B6 /* SectionViewController.swift */,
+				A8A1E1402CF1264E004E7C35 /* SECTION 1.pdf */,
 				A83185E92C543285004BFDB4 /* ChapterViewController.swift */,
 				A84723FE2C6CA60B005CFD80 /* SearchViewController.swift */,
 				A83B1BEE2CB9B55E003FEB5E /* SectionSearchView.swift */,
@@ -194,6 +199,7 @@
 				A83185EB2C54366B004BFDB4 /* Chapter.swift */,
 				A84723FA2C6CA1BE005CFD80 /* SearchCell.swift */,
 				A84723FB2C6CA1BE005CFD80 /* SearchCell.xib */,
+				A8A1E15C2CF12707004E7C35 /* MyItemProvider.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -311,6 +317,7 @@
 			files = (
 				A8C1D3F92C4887CF005A5322 /* Assets.xcassets in Resources */,
 				A84723FD2C6CA1BE005CFD80 /* SearchCell.xib in Resources */,
+				A8A1E1412CF1264E004E7C35 /* SECTION 1.pdf in Resources */,
 				A8C1D3FC2C4887CF005A5322 /* Base in Resources */,
 				A8C1D3F72C4887CB005A5322 /* Base in Resources */,
 			);
@@ -341,6 +348,7 @@
 				A84723FF2C6CA60B005CFD80 /* SearchViewController.swift in Sources */,
 				A83185EC2C54366B004BFDB4 /* Chapter.swift in Sources */,
 				A8C76D2F2C4E1068003537B6 /* SectionViewController.swift in Sources */,
+				A8A1E15D2CF12707004E7C35 /* MyItemProvider.swift in Sources */,
 				A8C1D3F42C4887CB005A5322 /* WelcomeViewController.swift in Sources */,
 				A83B1BEF2CB9B55E003FEB5E /* SectionSearchView.swift in Sources */,
 				A8C1D3F02C4887CB005A5322 /* AppDelegate.swift in Sources */,

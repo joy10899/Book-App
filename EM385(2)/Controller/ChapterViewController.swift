@@ -102,8 +102,8 @@ class ChapterViewController: UITableViewController {
             if let vc = segue.destination  as? SectionViewController {
                 if let indexPath = tableView.indexPathForSelectedRow {
                     var selectedChapter = tableViewData[indexPath.section].number
-                    
                     var selectedSection = tableViewData[indexPath.section].section?[indexPath.row - 1]
+                
                     
                     vc.selectedChapter = selectedChapter
                     vc.selectedSection = selectedSection

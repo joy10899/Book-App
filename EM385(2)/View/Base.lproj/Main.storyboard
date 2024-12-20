@@ -95,8 +95,18 @@
                         <viewLayoutGuide key="safeArea" id="Uds-4F-6C0"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
-                    <navigationItem key="navigationItem" id="o7k-kd-Dip"/>
+                    <navigationItem key="navigationItem" id="o7k-kd-Dip">
+                        <barButtonItem key="rightBarButtonItem" style="plain" id="NCZ-0b-onP">
+                            <button key="customView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" id="M3D-RM-pYw">
+                                <rect key="frame" x="290" y="3" width="87" height="38.333333333333336"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="plain" image="square.and.arrow.up" catalog="system"/>
+                            </button>
+                        </barButtonItem>
+                    </navigationItem>
                     <connections>
+                        <outlet property="shareButton" destination="NCZ-0b-onP" id="Ogh-Ph-Oz3"/>
                         <outlet property="tableView" destination="J32-bs-PJX" id="5Td-pU-Rvk"/>
                     </connections>
                 </viewController>
@@ -270,7 +280,9 @@
                         <viewLayoutGuide key="safeArea" id="b5T-mY-qdq"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
-                    <navigationItem key="navigationItem" id="Onl-QK-pTF"/>
+                    <navigationItem key="navigationItem" id="Onl-QK-pTF">
+                        <barButtonItem key="rightBarButtonItem" title="Item" image="square.and.arrow.up" catalog="system" id="JcO-mM-KRm"/>
+                    </navigationItem>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="2Ss-4A-shg" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
@@ -439,6 +451,7 @@
         <image name="gearshape" catalog="system" width="128" height="123"/>
         <image name="house" catalog="system" width="128" height="104"/>
         <image name="magnifyingglass" catalog="system" width="128" height="117"/>
+        <image name="square.and.arrow.up" catalog="system" width="110" height="128"/>
         <image name="tablecells" catalog="system" width="128" height="93"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>

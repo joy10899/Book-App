@@ -11,6 +11,8 @@ import UIKit
 class Section: Object {
     @Persisted var chapter: Int
     @Persisted var section: String
+    @Persisted var pageStart: Int?
+    @Persisted var pageEnd: Int?
     @Persisted var topic: String?
     @Persisted var refOne: String?
     @Persisted var refTwo: String?
