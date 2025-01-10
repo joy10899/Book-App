@@ -96,17 +96,20 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <navigationItem key="navigationItem" id="o7k-kd-Dip">
-                        <barButtonItem key="rightBarButtonItem" style="plain" id="NCZ-0b-onP">
-                            <button key="customView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" id="M3D-RM-pYw">
-                                <rect key="frame" x="290" y="3" width="87" height="38.333333333333336"/>
+                        <nil key="title"/>
+                        <barButtonItem key="rightBarButtonItem" style="plain" id="Erp-g4-edm">
+                            <button key="customView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" id="6IO-CF-zJi">
+                                <rect key="frame" x="159" y="3" width="75" height="38.333333333333336"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" image="square.and.arrow.up" catalog="system"/>
+                                <connections>
+                                    <action selector="shareButton:" destination="b29-pw-mQS" eventType="touchUpInside" id="6zu-wk-tRX"/>
+                                </connections>
                             </button>
                         </barButtonItem>
                     </navigationItem>
                     <connections>
-                        <outlet property="shareButton" destination="NCZ-0b-onP" id="Ogh-Ph-Oz3"/>
                         <outlet property="tableView" destination="J32-bs-PJX" id="5Td-pU-Rvk"/>
                     </connections>
                 </viewController>

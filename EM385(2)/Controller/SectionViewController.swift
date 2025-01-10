@@ -15,6 +15,9 @@ class SectionViewController: UIViewController {
     
     @IBOutlet weak var tableView: UITableView!
     @IBOutlet weak var shareButton: UIBarButtonItem!
+    @IBAction func shareButton(_ sender: UIButton) {
+        shareContent()
+    }
     
     var sections: Results<Section>?
     var realm: Realm!
@@ -42,10 +45,12 @@ class SectionViewController: UIViewController {
             self.realm = try Realm()
             print("User Realm Section file location: \(realm.configuration.fileURL!.path)")
             loadSectionsFromRealm()
-            shareButton.target = self
-            print("shareButton initialize")
-            shareButton.action = #selector(shareContent)
-            print("Set action for share Button")
+            //Initialize Share Button
+//            shareButton.target = self
+//            print("shareButton initialize")
+//            shareButton.action = #selector(shareContent)
+//            print("Set action for share Button")
+//            
         } catch {
             print("Error initializing Realm: \(error)")
         }
@@ -66,7 +71,10 @@ class SectionViewController: UIViewController {
         tableView.reloadData()
     }
     
-    @objc func shareContent() {
+
+    
+//    @objc func shareContent() {
+    func shareContent() {
         print("Share Button Pressed")
         
         guard let pageStart = pageStart, let pageEnd = pageEnd else {
@@ -78,6 +86,9 @@ class SectionViewController: UIViewController {
             print("Error: Invalid page range.")
             return
         }
+        
+        print("Share Button Pressed")
+        print("Page Range: \(pageStart) to \(pageEnd)")
         
         guard let fileURL = Bundle.main.url(forResource: "SECTION 1", withExtension: "pdf") else {
             print("Error: PDF file not found")
@@ -101,7 +112,11 @@ class SectionViewController: UIViewController {
         
         let activityViewController = UIActivityViewController(activityItems: [tempPDF], applicationActivities: nil)
         activityViewController.excludedActivityTypes = [.addToReadingList, .assignToContact]
-        present(activityViewController, animated: true, completion: nil)
+//        present(activityViewController, animated: true, completion: nil)
+        DispatchQueue.main.async {
+            self.present(activityViewController, animated: true, completion: nil)
+        }
+
     }
 
     
