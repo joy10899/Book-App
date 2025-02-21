@@ -18,5 +18,6 @@ class Section: Object {
     @Persisted var refTwo: String?
     @Persisted var refThree: String?
     @Persisted var content: String
-   
+    @Persisted var highlight: Bool
+    @Persisted var bookmark: Bool
 }

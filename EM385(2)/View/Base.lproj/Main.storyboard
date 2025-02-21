@@ -99,7 +99,7 @@
                         <nil key="title"/>
                         <barButtonItem key="rightBarButtonItem" style="plain" id="Erp-g4-edm">
                             <button key="customView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" id="6IO-CF-zJi">
-                                <rect key="frame" x="159" y="3" width="75" height="38.333333333333336"/>
+                                <rect key="frame" x="302" y="3" width="75" height="38.333333333333336"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" image="square.and.arrow.up" catalog="system"/>
@@ -283,9 +283,7 @@
                         <viewLayoutGuide key="safeArea" id="b5T-mY-qdq"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
-                    <navigationItem key="navigationItem" id="Onl-QK-pTF">
-                        <barButtonItem key="rightBarButtonItem" title="Item" image="square.and.arrow.up" catalog="system" id="JcO-mM-KRm"/>
-                    </navigationItem>
+                    <navigationItem key="navigationItem" id="Onl-QK-pTF"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="2Ss-4A-shg" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>

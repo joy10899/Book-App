@@ -10,8 +10,9 @@ import Foundation
 import UIKit
 import RealmSwift
 import PDFKit
+import UniformTypeIdentifiers
 
-class SectionViewController: UIViewController {
+class SectionViewController: UIViewController, UIDocumentInteractionControllerDelegate {
     
     @IBOutlet weak var tableView: UITableView!
     @IBOutlet weak var shareButton: UIBarButtonItem!
@@ -20,20 +21,15 @@ class SectionViewController: UIViewController {
     }
     
     var sections: Results<Section>?
-    var realm: Realm!
+//    var realm: Realm!
+    let realm = try! Realm()
     var selectedChapter: Int?
     var selectedSection: String?
     var pageStart: Int?
     var pageEnd: Int?
     
-    
     override func viewDidLoad() {
         super.viewDidLoad()
-//        shareButton.target = self
-//        print("shareButton initialize")
-//        shareButton.action = #selector(shareContent)
-//        print("Set action for share Button")
-        
         tableView.delegate = self
         tableView.dataSource = self
         tableView.register(UITableViewCell.self, forCellReuseIdentifier: "SectionCell")
@@ -42,18 +38,11 @@ class SectionViewController: UIViewController {
         
         
         do {
-            self.realm = try Realm()
-            print("User Realm Section file location: \(realm.configuration.fileURL!.path)")
             loadSectionsFromRealm()
-            //Initialize Share Button
-//            shareButton.target = self
-//            print("shareButton initialize")
-//            shareButton.action = #selector(shareContent)
-//            print("Set action for share Button")
-//            
         } catch {
             print("Error initializing Realm: \(error)")
         }
+        
     }
     
     
@@ -71,32 +60,77 @@ class SectionViewController: UIViewController {
         tableView.reloadData()
     }
     
-
+    func highlightText(content: String, keywords: [String], color: UIColor) -> NSAttributedString {
+            let attributedString = NSMutableAttributedString(string: content)
+//            let highlightColor = UIColor.yellow // Change to your preferred color
+            
+            for keyword in keywords {
+                let range = (content as NSString).range(of: keyword)
+                if range.location != NSNotFound {
+                    attributedString.addAttribute(.backgroundColor, value: color, range: range)
+                }
+            }
+            return attributedString
+        }
     
-//    @objc func shareContent() {
-    func shareContent() {
-        print("Share Button Pressed")
+    func findTopic(in text: String) -> [String] {
+        // Regular expression for "01.A.XX"
+        let pattern = #"\d{2}\.[A-Z]\.\d{2}"#
         
+        do {
+            let regex = try NSRegularExpression(pattern: pattern)
+            let matches = regex.matches(in: text, range: NSRange(text.startIndex..., in: text))
+            
+            return matches.map {
+                String(text[Range($0.range, in: text)!])
+            }
+        } catch {
+            print("Invalid regex: \(error.localizedDescription)")
+            return []
+        }
+    }
+    
+    func findSection(in text: String) -> [String] {
+        //Regular expression for "01.A General."
+        let pattern = #"(\d{2}\.[A-Z])\s+[A-Za-z0-9\s]+?\."#
+        
+        do {
+            let regex = try NSRegularExpression(pattern: pattern)
+            let matches = regex.matches(in: text, range: NSRange(text.startIndex..., in: text))
+            
+            return matches.map {
+                String(text[Range($0.range, in: text)!])
+            }
+        } catch {
+            print("Invalid regex: \(error.localizedDescription)")
+            return []
+        }
+    }
+    
+    func checkHighlightColor(sec: [String], topic: [String]) -> UIColor {
+        if sec != [] {
+            return UIColor.yellow
+        } else {
+            return UIColor.cyan
+        }
+    }
+    
+    func checkHighlightText(sec: [String], topic: [String]) -> [String] {
+        if sec != [] {
+            return sec
+        } else {
+            return topic
+        }
+    }
+    
+    func shareContent() {
         guard let pageStart = pageStart, let pageEnd = pageEnd else {
             print("Error: Page range not set.")
             return
         }
-        
-        if pageStart < 0 || pageEnd < pageStart {
-            print("Error: Invalid page range.")
-            return
-        }
-        
-        print("Share Button Pressed")
-        print("Page Range: \(pageStart) to \(pageEnd)")
-        
-        guard let fileURL = Bundle.main.url(forResource: "SECTION 1", withExtension: "pdf") else {
-            print("Error: PDF file not found")
-            return
-        }
-        
-        guard let originalPDF = PDFDocument(url: fileURL) else {
-            print("Failed to initialize PDFDocument")
+        guard let fileURL = Bundle.main.url(forResource: "SECTION 1", withExtension: "pdf"),
+              let originalPDF = PDFDocument(url: fileURL) else {
+            print("Error: PDF file not found or could not be loaded.")
             return
         }
         
@@ -107,19 +141,35 @@ class SectionViewController: UIViewController {
             }
         }
         
-        let tempPDF = FileManager.default.temporaryDirectory.appendingPathComponent("CurrentSection.pdf")
-        newPDF.write(to: tempPDF)
-        
-        let activityViewController = UIActivityViewController(activityItems: [tempPDF], applicationActivities: nil)
-        activityViewController.excludedActivityTypes = [.addToReadingList, .assignToContact]
-//        present(activityViewController, animated: true, completion: nil)
-        DispatchQueue.main.async {
-            self.present(activityViewController, animated: true, completion: nil)
+        guard let directory = FileManager.default.urls(for: .cachesDirectory, in: .userDomainMask).first else {
+            print("Error: Could not fetch caches directory.")
+            return
+        }
+        let tempPDF = directory.appendingPathComponent("CurrentSection.pdf")
+        if !FileManager.default.fileExists(atPath: tempPDF.path) {
+            print("Error: File not found at \(tempPDF.path)")
+            return
         }
 
+        do {
+            try newPDF.write(to: tempPDF)
+            print("PDF written to \(tempPDF)")
+        } catch {
+            print("Error writing PDF: \(error.localizedDescription)")
+            return
+        }
+        
+        let controller = UIDocumentInteractionController(url: tempPDF)
+        controller.delegate = self
+        controller.presentPreview(animated: true)
+    }
+    func documentInteractionControllerViewControllerForPreview(_ controller: UIDocumentInteractionController) -> UIViewController {
+        return UIApplication.shared.windows.first?.rootViewController ?? self
     }
 
-    
+//    func documentInteractionControllerViewControllerForPreview(_ controller: UIDocumentInteractionController) -> UIViewController {
+//            return self
+//        }
 }
 /*
  // MARK: - Navigation
@@ -131,12 +181,27 @@ extension SectionViewController: UITableViewDelegate, UITableViewDataSource {
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCell(withIdentifier: "SectionCell", for: indexPath)
+        // Reset cell properties to avoid reusing highlight styles
+        cell.textLabel?.attributedText = nil
+        cell.backgroundColor = .clear
+        
+        let highlight = sections?[indexPath.row].highlight
         if let sectionContent = sections?[indexPath.row].content {
-            cell.textLabel?.text = sectionContent
-            cell.textLabel?.numberOfLines = 0
-            cell.sizeToFit()
-            cell.layoutIfNeeded()
-            
+            if highlight == true {
+                let sec = findSection(in: sectionContent)
+                let topic = findTopic(in: sectionContent)
+                print("Section Matches: \(sec)")
+                print("Topic Matches: \(topic)")
+                let color = checkHighlightColor(sec: sec, topic: topic)
+                let keyword = checkHighlightText(sec: sec, topic: topic)
+                cell.textLabel?.attributedText = highlightText(content: sectionContent, keywords: keyword, color: color)
+                cell.textLabel?.numberOfLines = 0
+                cell.sizeToFit()
+                cell.layoutIfNeeded()
+                }
+            else {
+                cell.textLabel?.text = sectionContent
+            }
         }
         return cell
     }
