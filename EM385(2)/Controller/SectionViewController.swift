@@ -15,18 +15,14 @@ import UniformTypeIdentifiers
 class SectionViewController: UIViewController, UIDocumentInteractionControllerDelegate {
     
     @IBOutlet weak var tableView: UITableView!
-    @IBOutlet weak var shareButton: UIBarButtonItem!
     @IBAction func shareButton(_ sender: UIButton) {
         shareContent()
     }
     
     var sections: Results<Section>?
-//    var realm: Realm!
     let realm = try! Realm()
     var selectedChapter: Int?
     var selectedSection: String?
-    var pageStart: Int?
-    var pageEnd: Int?
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -38,32 +34,19 @@ class SectionViewController: UIViewController, UIDocumentInteractionControllerDe
         
         
         do {
-            loadSectionsFromRealm()
+            guard let selectedChapter = selectedChapter, let selectedSection = selectedSection else {
+                return
+            }
+            sections = realm.objects(Section.self).filter("chapter == %d AND section == %@",selectedChapter, selectedSection)
+            tableView.reloadData()
         } catch {
             print("Error initializing Realm: \(error)")
         }
         
     }
     
-    
-    // Load Data from Realm
-    func loadSectionsFromRealm() {
-        guard let selectedChapter = selectedChapter, let selectedSection = selectedSection else {
-            print("Chapter or section not set.")
-            return
-        }
-        sections = realm.objects(Section.self).filter("chapter == %d AND section == %@",selectedChapter, selectedSection)
-        pageStart = sections?.first?.pageStart ?? 1
-        print(pageStart)
-        pageEnd = sections?.first?.pageEnd ?? 1
-        print(pageEnd)
-        tableView.reloadData()
-    }
-    
     func highlightText(content: String, keywords: [String], color: UIColor) -> NSAttributedString {
             let attributedString = NSMutableAttributedString(string: content)
-//            let highlightColor = UIColor.yellow // Change to your preferred color
-            
             for keyword in keywords {
                 let range = (content as NSString).range(of: keyword)
                 if range.location != NSNotFound {
@@ -122,54 +105,48 @@ class SectionViewController: UIViewController, UIDocumentInteractionControllerDe
             return topic
         }
     }
-    
-    func shareContent() {
-        guard let pageStart = pageStart, let pageEnd = pageEnd else {
-            print("Error: Page range not set.")
-            return
-        }
-        guard let fileURL = Bundle.main.url(forResource: "SECTION 1", withExtension: "pdf"),
-              let originalPDF = PDFDocument(url: fileURL) else {
-            print("Error: PDF file not found or could not be loaded.")
-            return
-        }
-        
-        let newPDF = PDFDocument()
-        for pageIndex in pageStart...pageEnd {
-            if let page = originalPDF.page(at: pageIndex) {
-                newPDF.insert(page, at: newPDF.pageCount)
-            }
-        }
-        
-        guard let directory = FileManager.default.urls(for: .cachesDirectory, in: .userDomainMask).first else {
-            print("Error: Could not fetch caches directory.")
-            return
-        }
-        let tempPDF = directory.appendingPathComponent("CurrentSection.pdf")
-        if !FileManager.default.fileExists(atPath: tempPDF.path) {
-            print("Error: File not found at \(tempPDF.path)")
-            return
-        }
 
+    func highlightTextAsHTML(content: String, keywords: [String], color: UIColor) -> String {
+        var highlightedContent = content
+        for keyword in keywords {
+            let coloredKeyword = "<span style=\"background-color: \(color.toHexString());\">\(keyword)</span>"
+            highlightedContent = highlightedContent.replacingOccurrences(of: keyword, with: coloredKeyword)
+        }
+        return "<p>\(highlightedContent)</p>"
+    }
+
+    func generateHTMLFile() -> URL? {
+        var htmlContent = "<html><head><meta charset=\"UTF-8\"><title>Highlighted Sections</title></head><body>"
+
+        sections?.forEach { section in
+            let sec = findSection(in: section.content)
+            let topic = findTopic(in: section.content)
+            let color = checkHighlightColor(sec: sec, topic: topic)
+            let keyword = checkHighlightText(sec: sec, topic: topic)
+            htmlContent += highlightTextAsHTML(content: section.content, keywords: keyword, color: color)
+        }
+        
+        htmlContent += "</body></html>"
+        
+        // Save to a temporary file
+        let fileName = "Sections \(selectedChapter)\(selectedSection).html"
+        let filePath = FileManager.default.temporaryDirectory.appendingPathComponent(fileName)
+        
         do {
-            try newPDF.write(to: tempPDF)
-            print("PDF written to \(tempPDF)")
+            try htmlContent.write(to: filePath, atomically: true, encoding: .utf8)
+            return filePath
         } catch {
-            print("Error writing PDF: \(error.localizedDescription)")
-            return
+            print("Error writing HTML file: \(error)")
+            return nil
         }
-        
-        let controller = UIDocumentInteractionController(url: tempPDF)
-        controller.delegate = self
-        controller.presentPreview(animated: true)
-    }
-    func documentInteractionControllerViewControllerForPreview(_ controller: UIDocumentInteractionController) -> UIViewController {
-        return UIApplication.shared.windows.first?.rootViewController ?? self
     }
 
-//    func documentInteractionControllerViewControllerForPreview(_ controller: UIDocumentInteractionController) -> UIViewController {
-//            return self
-//        }
+    func shareContent() {
+        guard let fileURL = generateHTMLFile() else { return }
+        let activityViewController = UIActivityViewController(activityItems: [fileURL], applicationActivities: nil)
+        present(activityViewController, animated: true, completion: nil)
+    }
+
 }
 /*
  // MARK: - Navigation
@@ -190,8 +167,6 @@ extension SectionViewController: UITableViewDelegate, UITableViewDataSource {
             if highlight == true {
                 let sec = findSection(in: sectionContent)
                 let topic = findTopic(in: sectionContent)
-                print("Section Matches: \(sec)")
-                print("Topic Matches: \(topic)")
                 let color = checkHighlightColor(sec: sec, topic: topic)
                 let keyword = checkHighlightText(sec: sec, topic: topic)
                 cell.textLabel?.attributedText = highlightText(content: sectionContent, keywords: keyword, color: color)
@@ -201,6 +176,9 @@ extension SectionViewController: UITableViewDelegate, UITableViewDataSource {
                 }
             else {
                 cell.textLabel?.text = sectionContent
+                cell.textLabel?.numberOfLines = 0
+                cell.sizeToFit()
+                cell.layoutIfNeeded()
             }
         }
         return cell
@@ -211,6 +189,16 @@ extension SectionViewController: UITableViewDelegate, UITableViewDataSource {
     }
 }
 
+extension UIColor {
+    func toHexString() -> String {
+        guard let components = cgColor.components else { return "#FFFF00" }
+        // Default yellow
+        let r = Int(components[0] * 255)
+        let g = Int(components[1] * 255)
+        let b = Int(components[2] * 255)
+        return String(format: "#%02X%02X%02X", r, g, b)
+    }
+}
 
 
 

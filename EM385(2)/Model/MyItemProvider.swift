@@ -10,20 +10,20 @@ import Foundation
 import UIKit
 import UniformTypeIdentifiers
 
-class MyItemProvider: UIActivityItemProvider {
-
-    var fileURL: URL
-
-        init(fileURL: URL) {
-            self.fileURL = fileURL
-            super.init(placeholderItem: fileURL)
-        }
-
-        override var item: Any {
-            return fileURL
-        }
-        
-        override func activityViewControllerPlaceholderItem(_ activityViewController: UIActivityViewController) -> Any {
-            return fileURL
-        }
-    }
+//class MyItemProvider: UIActivityItemProvider {
+//
+//    var fileURL: URL
+//
+//        init(fileURL: URL) {
+//            self.fileURL = fileURL
+//            super.init(placeholderItem: fileURL)
+//        }
+//
+//        override var item: Any {
+//            return fileURL
+//        }
+//        
+//        override func activityViewControllerPlaceholderItem(_ activityViewController: UIActivityViewController) -> Any {
+//            return fileURL
+//        }
+//    }
