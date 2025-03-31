@@ -13,4 +13,7 @@ class HomeViewController: UIViewController {
     @IBAction func ChapButtonPressed() {
         
     }
+    override func viewDidLoad() {
+        super.viewDidLoad()
+    }
 }

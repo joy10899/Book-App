@@ -10,7 +10,7 @@ import UIKit
 class SearchViewController: UIViewController {
     @IBOutlet weak var searchBar: UISearchBar!
     @IBOutlet weak var searchTableView: UITableView!
-    var tableViewData = [Chapter]()
+    var tableViewData = ChapterDataManager.shared.chapters
     var section: Section
     var searchContents: Results<Section>?
     
@@ -32,10 +32,6 @@ class SearchViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        tableViewData = [
-            Chapter(open: false, title: "1 Program Manager-03", number: 1),
-            Chapter(open: false, title: "2 Sanitation", number: 2),
-            Chapter(open: false, title: "3", number: 3)]
         
         //Set up searchTableView delegate and datasource
         searchTableView.delegate = self

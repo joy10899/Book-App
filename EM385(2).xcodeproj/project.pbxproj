@@ -16,6 +16,8 @@
 		A84723FC2C6CA1BE005CFD80 /* SearchCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A84723FA2C6CA1BE005CFD80 /* SearchCell.swift */; };
 		A84723FD2C6CA1BE005CFD80 /* SearchCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = A84723FB2C6CA1BE005CFD80 /* SearchCell.xib */; };
 		A84723FF2C6CA60B005CFD80 /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A84723FE2C6CA60B005CFD80 /* SearchViewController.swift */; };
+		A8954C1E2D85D5F000026B70 /* WaiverViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8954C1D2D85D5F000026B70 /* WaiverViewController.swift */; };
+		A8954C202D85D65100026B70 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8954C1F2D85D65100026B70 /* SettingsViewController.swift */; };
 		A8A1E15D2CF12707004E7C35 /* MyItemProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8A1E15C2CF12707004E7C35 /* MyItemProvider.swift */; };
 		A8C1D3F02C4887CB005A5322 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8C1D3EF2C4887CB005A5322 /* AppDelegate.swift */; };
 		A8C1D3F22C4887CB005A5322 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8C1D3F12C4887CB005A5322 /* SceneDelegate.swift */; };
@@ -71,6 +73,8 @@
 		A84723FA2C6CA1BE005CFD80 /* SearchCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchCell.swift; sourceTree = "<group>"; };
 		A84723FB2C6CA1BE005CFD80 /* SearchCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SearchCell.xib; sourceTree = "<group>"; };
 		A84723FE2C6CA60B005CFD80 /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
+		A8954C1D2D85D5F000026B70 /* WaiverViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaiverViewController.swift; sourceTree = "<group>"; };
+		A8954C1F2D85D65100026B70 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		A8A1E15C2CF12707004E7C35 /* MyItemProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyItemProvider.swift; sourceTree = "<group>"; };
 		A8C1D3EC2C4887CB005A5322 /* EM385(2).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "EM385(2).app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A8C1D3EF2C4887CB005A5322 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -175,10 +179,12 @@
 				A8C1D3F32C4887CB005A5322 /* WelcomeViewController.swift */,
 				A8C76D2A2C4E0693003537B6 /* TabBarController.swift */,
 				A8C76D2C2C4E0900003537B6 /* HomeViewController.swift */,
-				A8C76D2E2C4E1068003537B6 /* SectionViewController.swift */,
 				A83185E92C543285004BFDB4 /* ChapterViewController.swift */,
+				A8C76D2E2C4E1068003537B6 /* SectionViewController.swift */,
 				A84723FE2C6CA60B005CFD80 /* SearchViewController.swift */,
 				A83B1BEE2CB9B55E003FEB5E /* SectionSearchView.swift */,
+				A8954C1F2D85D65100026B70 /* SettingsViewController.swift */,
+				A8954C1D2D85D5F000026B70 /* WaiverViewController.swift */,
 				A839F6002D725A36006CDF99 /* EM385-1-1-2024-Kugan-Formatted.pdf */,
 			);
 			path = Controller;
@@ -344,6 +350,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A8954C1E2D85D5F000026B70 /* WaiverViewController.swift in Sources */,
 				A83185EA2C543285004BFDB4 /* ChapterViewController.swift in Sources */,
 				A84723FF2C6CA60B005CFD80 /* SearchViewController.swift in Sources */,
 				A83185EC2C54366B004BFDB4 /* Chapter.swift in Sources */,
@@ -351,6 +358,7 @@
 				A8A1E15D2CF12707004E7C35 /* MyItemProvider.swift in Sources */,
 				A8C1D3F42C4887CB005A5322 /* WelcomeViewController.swift in Sources */,
 				A83B1BEF2CB9B55E003FEB5E /* SectionSearchView.swift in Sources */,
+				A8954C202D85D65100026B70 /* SettingsViewController.swift in Sources */,
 				A8C1D3F02C4887CB005A5322 /* AppDelegate.swift in Sources */,
 				A8C76D2D2C4E0900003537B6 /* HomeViewController.swift in Sources */,
 				A8C76D2B2C4E0693003537B6 /* TabBarController.swift in Sources */,
