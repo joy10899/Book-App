@@ -37,8 +37,11 @@ class SectionViewController: UIViewController, UIDocumentInteractionControllerDe
             guard let selectedChapter = selectedChapter, let selectedSection = selectedSection else {
                 return
             }
-            sections = realm.objects(Section.self).filter("chapter == %d AND section == %@",selectedChapter, selectedSection)
-            tableView.reloadData()
+            sections = realm.objects(Section.self).filter("chapter == %d AND section == %@",selectedChapter, selectedSection).distinct(by: ["content"])
+            print("Number of matching sections: \(sections?.count ?? 0)")
+            sections?.forEach { print($0.content) }
+
+//            tableView.reloadData()
         } catch {
             print("Error initializing Realm: \(error)")
         }

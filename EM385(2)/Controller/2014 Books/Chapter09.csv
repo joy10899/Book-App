@@ -1,0 +1,315 @@
+chapter,section,topic,refOne,refTwo,refThree,content,highlight,bookmark
+9,A,,,,,09.A General.,True,False
+9,A,1.0,,,,09.A.01 A fire prevention plan shall be developed for all USACE facilities and project sites. > For Construction operations see NFPA 241; for Marine operations see Section 19.A.04.,True,False
+9,A,1.0,a,,,"a. It shall include, as a minimum: A list of the major workplace fire hazards; potential ignition sources; the types of fire suppression equipment or systems appropriate to the control of fire; assignments of responsibilities for maintaining the equipment and systems; personnel responsible for controlling the fuel source hazards; and housekeeping procedures, including the removal of waste materials.",False,False
+9,A,1.0,b,,,"b. It shall be used to brief employees and emergency first responders on the fire hazards, the materials and processes to which they are exposed, and the emergency evacuation procedures.",False,False
+9,A,2.0,,,,09.A.02 An annual survey of the suitability and effectiveness of fire prevention and protection measures and facilities at each project or installation shall be made by a qualified person. Records of the survey findings and recommendations shall be retained on file at the project or installation.,True,False
+9,A,3.0,,,,"09.A.03 When unusual fire hazards exist or fire emergencies develop, additional protection shall be provided as required by the GDA.",True,False
+9,A,4.0,,,,"09.A.04 The GDA shall survey all activities and determine which require a hot work permit. All hot work and hot work permits shall conform to local policy, when present.",True,False
+9,A,4.0,a,,,"a. Hot work permits shall be required when performing activities which generate or have the potential to generate, heat, sparks, or open flames, such as abrasive blasting, burning, brazing, cutting, grinding, powder-actuated tools, hot riveting, soldering, thawing activities, welding, or any similar operation capable of initiating fires or explosions.",False,False
+9,A,4.0,b,,,b. Areas shall be surveyed prior to performing any hot work to ensure they are free of fire hazards and to determine if a fire watch is required.,False,False
+9,A,4.0,c,,,c. Fire watches shall be conducted in accordance with Sections 09.K.01 and 09.K.03.,True,False
+9,A,4.0,d,,,"d. A fully charged fire extinguisher, minimum 10 lbs, shall be readily available in the immediate area of the hot work.",False,False
+9,A,4.0,e,,,e. Hot work permits shall include date(s) authorized for hot work and identify the objects on which the hot work is to be performed. The permit shall be kept on file until the completion of the hot work.,False,False
+9,A,4.0,f,,,f. Hot work is prohibited in the following areas:,False,False
+9,A,4.0,f,1.0,,(1) In areas not authorized by GDA;,False,False
+9,A,4.0,f,2.0,,"(2) In sprinklered buildings while such protection is impaired, unless equivalent protection is provided for the hot work and approved by the GDA;",False,False
+9,A,4.0,f,3.0,,"(3) In the presence of explosive atmospheres, areas where an explosive atmosphere may develop, or where there is an accumulation of combustible dust;",False,False
+9,A,4.0,f,4.0,,"(4) In area near the storage of large quantities of exposed, readily ignitable materials such as bulk sulfur, baled paper, or cotton.",False,False
+9,A,4.0,g,,,"g. See NFPA 51B, Fire Prevention During Welding, Cutting, and Other Hot Work for a sample hot work permit and further information. See also Sections 09.E and 10.D.",True,False
+9,A,5.0,,,,09.A.05 Fires and open flame devices shall not be left unattended.,True,False
+9,A,6.0,,,,"09.A.06 All sources of ignition shall be prohibited within 50 ft (15.2 m) of operations with a potential fire hazard. The area shall be conspicuously and legibly posted  “NO SMOKING, MATCHES, or OPEN FLAME.”",True,False
+9,A,7.0,,,,"09.A.07 Smoking shall be prohibited in all areas where flammable, combustible, or oxidizing materials are stored. “NO SMOKING, MATCHES, or OPEN FLAME” signs will be posted in all prohibited areas.",True,False
+9,A,8.0,,,,09.A.08 Areas where there is danger of underground fire shall not be used for the storage of flammable or combustible materials.,True,False
+9,A,9.0,,,,09.A.09 A barrier having a fire resistance rating equivalent to a listing of at least 1 hour shall segregate DOT-identified non-compatible materials that may create a fire hazard.  > See Section 20.D for compressed gas cylinders.,True,False
+9,A,10.0,,,,09.A.10 A good housekeeping program that provides for prompt removal and disposal of accumulations of combustible scrap and debris shall be implemented on the site.  Self-closing containers shall be used to collect waste saturated with flammable liquids. Only non-combustible or UL labeled nonmetallic containers may be used to dispose of waste and rubbish.,True,False
+9,A,11.0,,,,"09.A.11 Measures must be taken to control the growth of tall grass, brush, and weeds adjacent to facilities. A break of at least 3 ft (0.9 m) shall be maintained around all facilities.",True,False
+9,A,12.0,,,,"09.A.12  Paint-soiled clothing and drop cloths, when not in use, shall be stored in well ventilated steel cabinets or containers.",True,False
+9,A,13.0,,,,09.A.13 Disposal of combustible waste materials shall be in compliance with applicable fire and environmental laws and regulations.,True,False
+9,A,14.0,,,,09.A.14 Burning operations.,True,False
+9,A,14.0,a,,,a. Burning areas shall be established in coordination with the GDA and with the agency responsible for monitoring fire potential at the location of the proposed burning area.,False,False
+9,A,14.0,b,,,"b. Burning operations shall be in compliance with Federal, State, and local regulations and guidelines.",False,False
+9,A,14.0,c,,,c. A sufficient force to control and patrol the burning operations shall be maintained until the last embers have been extinguished.,False,False
+9,A,14.0,d,,,d. Bump blocks shall be provided where trucks back to a fire or burning pit.,False,False
+9,A,14.0,e,,,e. Prescribed burning activities for natural resource management shall be conducted in accordance with guidelines set forth in Section 09.K.,True,False
+9,A,15.0,,,,"09.A.15 Low-density fiberboard, combustible insulation, or vapor barriers with a flame spread rating greater than 25 shall not be installed in permanent buildings.",True,False
+9,A,16.0,,,,09.A.16 Temporary enclosures shall be covered with flame- resistant tarpaulins or material of equivalent fire-resistant characteristics.,True,False
+9,A,17.0,,,,"09.A.17 When outside help is relied upon for fire protection, a written agreement shall be made, or a memorandum of record, stating the terms of the arrangement and the details for fire protection services, and shall be provided to the GDA.",True,False
+9,A,18.0,,,,09.A.18 Temporary building spacing shall be in accordance with the International Building Code (IBC).,True,False
+9,A,19.0,,,,09.A.19 Fire lanes providing access to all areas shall be established and maintained free of obstruction.,True,False
+9,A,20.0,,,,"09.A.20 Vehicles, equipment, materials, and supplies shall not be placed so that access to fire hydrants and other firefighting equipment is obstructed.",True,False
+9,A,21.0,,,,09.A.21 Hazardous locations.,True,False
+9,A,21.0,a,,,"a. Electrical lighting shall be the only means of artificial illumination in areas where flammable liquids, vapors, fumes, dust, or gases are present.",False,False
+9,A,21.0,b,,,b. All electrical equipment and installations in hazardous locations shall be in accordance with the National Electrical Code (NEC) for hazardous locations.,False,False
+9,A,21.0,c,,,c. Globes or lamps shall not be removed or replaced nor shall repairs be made on the electrical circuit until it has been de-energized.,False,False
+9,A,21.0,d,,,"d. Miners' lights and flashlights used around explosives, and in atmospheres likely to contain explosive vapors, dusts, or gases shall be approved by a private sector organization recognized by OSHA under the Nationally Recognized Testing Laboratory Program.",False,False
+9,A,22.0,,,,09.A.22 Sufficient clearance shall be maintained around lights and heating units to prevent ignition of combustible materials.,True,False
+9,A,23.0,,,,09.A.23 All combustibles shall be shielded from the flames of torches used to cut or sweat pipe.,True,False
+9,A,24.0,,,,"09.A.24 Precautions shall be taken to protect formwork and scaffolding from exposure to, and spread of, fire.",True,False
+9,A,25.0,,,,09.A.25 Fire protection in the construction process.,True,False
+9,A,25.0,a,,,a. Fire cut-offs shall be retained in buildings undergoing alterations or demolition until operations require their removal.,False,False
+9,A,25.0,b,,,"b. Where a water distribution system is required for the protection of buildings or other structures, water mains and hydrants shall be installed before or concurrent with the construction of facilities. Until the permanent system is in operation, an equivalent temporary system shall be provided.",False,False
+9,A,25.0,c,,,"c. Permanent (fixed) extinguishing equipment and water supply for fire protection shall be installed and in operable condition as soon as possible. The scheduling of sprinkler installation shall closely follow the building construction and, following completion of each story, shall be placed in service as soon as possible.",False,False
+9,A,25.0,d,,,"d. During demolition or alterations, existing automatic sprinkler systems shall be retained in service as long as reasonable. Modification of sprinkler systems to permit alterations or additional demolition should be expedited so that the system may be returned to service as quickly as possible. Sprinkler control valves shall be checked daily at close of work to ascertain that the protection is in service. The operation of sprinkler control valves is permitted only when approved by the GDA.",False,False
+9,A,25.0,e,,,"e. During the construction process, the construction of fire walls and exit stairways required for completed buildings shall have priority; fire doors, with automatic closing devices, shall be hung on openings as soon as practical.",False,False
+9,A,26.0,,,,09.A.26 Water supply and distribution facilities for fire fighting shall be provided and maintained in accordance with NFPA recommendations.,True,False
+9,A,27.0,,,,"09.A.27 Recommendations of the NFPA shall be complied with in situations not covered in this section. Where local building codes are established, the more stringent requirements shall apply.",True,False
+9,B,,,,,09.B Flammable Liquids.,True,False
+9,B,1.0,,,,"09.B.01 All storage, handling, and use of flammable liquids shall be in accordance with NFPA 30, NFPA 30A, or other applicable standards under the supervision of a qualified person.",True,False
+9,B,2.0,,,,"09.B.02 All sources of ignition shall be prohibited in areas where flammable liquids are stored, handled, and processed. Suitable “NO SMOKING, MATCHES, or OPEN FLAME” signs shall be posted in all such areas.",True,False
+9,B,3.0,,,,09.B.03 Fire protection requirements.,True,False
+9,B,3.0,a,,,a. At least one portable fire extinguisher rated 20-B:C shall be provided on all tank trucks or other vehicles used for transporting and/or dispensing flammable liquids.,False,False
+9,B,3.0,b,,,"b. Each service or refueling area shall be provided with at least one fire extinguisher rated not less than 40-B:C and located so that an extinguisher shall be within 100 ft (30.4 m) of each pump, dispenser, underground fill pipe opening, and lubrication or service area.",False,False
+9,B,4.0,,,,09.B.04 Category 1 or 2 flammable liquids or Category 3 flammable liquids with a flashpoint below 100°F (37.8oC) shall be kept in closed containers or tanks when not in use.,True,False
+9,B,5.0,,,,"09.B.05 Workers shall guard carefully against any part of their clothing becoming contaminated with flammable fluids. They shall not be allowed to continue work if their clothing becomes contaminated, and they must remove or wet down the clothing as soon as possible.",True,False
+9,B,6.0,,,,09.B.06 No flammable liquid with a flash point (closed cup test) below 100°F (37.8°C) shall be used for cleaning purposes or to start or rekindle fires.,True,False
+9,B,7.0,,,,09.B.07 Ventilation adequate to prevent the accumulation of flammable vapors to hazardous levels shall be provided in all areas where flammable liquids are handled or used.,True,False
+9,B,8.0,,,,09.B.08 Only labeled/listed (by a nationally-recognized testing laboratory) containers and portable tanks shall be used for the storage of flammable liquids.,True,False
+9,B,8.0,a,,,"a. Metal containers and portable tanks less than 660 gal (2.5 m3) individual capacity meeting the requirements of, and containing products authorized by, Chapter I, 49 CFR (U.S. DOT Hazardous Materials Regulations), Chapter 9 of the United Nations’ “Recommendations on the Transport of Dangerous Goods,” or NFPA 386 shall be acceptable.",False,False
+9,B,8.0,b,,,"b. Plastic containers meeting the requirements of, and used for petroleum products within the scope of, one or more of the following specifications shall be acceptable: ASTM F852, ASTM F976, and ANSI/UL 1313.",False,False
+9,B,8.0,c,,,c. Plastic drums meeting the requirements of and containing products authorized by 49 CFR or by Chapter 9 of the United Nations' “Recommendations on the Transport of Dangerous Goods” shall be acceptable.,False,False
+9,B,8.0,d,,,"d. Fiber drums that meet the requirements of Item 296 of the National Motor Freight Classification (NMFC) or Rule 51 of the Uniform Freight Classification (UFC) for Types 2A, 3A, 3B-H, 3B-L, or 4A and meet the requirements of and contain liquid products authorized either by Chapter I, 49 CFR (U.S. DOT Hazardous Materials Regulations) or by DOT exemption shall be acceptable.",False,False
+9,B,9.0,,,,"09.B.09 Portable tanks less than 660 gal (2.4 m3) individual capacity shall be provided with one or more devices installed in the top with sufficient emergency venting capacity to limit internal pressure under fire exposure conditions to 10 pounds per square inch (psi) [68.9 kilopascal (kPa)] gauge or 30% of the bursting pressure of the portable tank, whichever is greater.",True,False
+9,B,9.0,a,,,a. At least one pressure-actuated vent having a minimum capacity of 6000 ft3 (170 m3) of free air per hour shall be used. It shall be set to open at not more than 5 psi (35 kPa) gauge.,False,False
+9,B,9.0,b,,,"b. If fusible vents are used, they shall be actuated by elements that operate at a temperature not exceeding 300°F (148.8°C).",False,False
+9,B,9.0,c,,,"c. Where plugging of a pressure-actuated vent can occur, fusible plugs or venting devices that soften to failure at a maximum of 300°F (148.8°C) under fire exposure shall be permitted to be used for the entire emergency venting requirement.",False,False
+9,B,10.0,,,,"09.B.10 The design, construction, and use of storage tanks containing flammable liquids shall be as specified in NFPA 30. Tanks greater than 660 gal (2.5 m3) capacity shall be in accordance with NFPA 30, Chapter 22 and NFPA 30A.",True,False
+9,B,11.0,,,,09.B.11 The maximum allowable size for a container or metal portable tank less than 660 gal (2.5 m3) individual capacities shall not exceed those shown in Table 9-1.,True,False
+9,B,12.0,,,,"09.B.12 The design, construction, and use of storage cabinets, indoor storage areas, outdoor storage areas, hazardous materials storage lockers, and other occupancies shall be in accordance with NFPA 30 or, for marine applications, 46 CFR 147 covers use of cabinets and 46 CFR 92.05-10 specifies design and construction.",True,False
+9,B,13.0,,,,09.B.13 Flammable liquids in quantities greater than that required for 1 day's use shall not be stored in buildings under construction and not more than a 2 day supply shall be stored on paint barges.,True,False
+9,B,14.0,,,,"09.B.14 Flammable liquids shall not be stored in areas used for exits, stairways, or safe passage of people.",True,False
+9,B,15.0,,,,09.B.15 Safety cans and other portable containers for flammable liquids having a flash point at or below 73°F (23°C) shall be labeled/listed and painted red with a yellow band around the can and the name of the contents legibly indicated on the container.,True,False
+9,B,16.0,,,,"09.B.16 Unopened containers of flammable liquids, such as paints, varnishes, lacquers, thinners, and solvents, shall be kept in a well ventilated location, free of excessive heat, smoke, sparks, flame, or direct rays of the sun.",True,False
+9,B,17.0,,,,"09.B.17 In areas where flammable liquids are handled or stored, a self-closing metal refuse can, listed by a nationally recognized testing laboratory, shall be provided and maintained in good condition.",True,False
+9,B,18.0,,,,"09.B.18 Storage areas/tanks shall be surrounded by a curb, earthen dike or other equivalent means of containment of at least 6 in (15 cm) in height and higher as needed to contain the contents in the event of a leak.",True,False
+9,B,18.0,a,,,"a. Other secondary containment methods that are approved by the EPA or USCG can be used in lieu of curbs or dikes (double-walled tanks, etc.).",False,False
+9,B,18.0,b,,,"b. When dikes or curbs are used, provisions shall be made for draining off accumulations of ground or rain water or spills of flammable liquids.",False,False
+9,B,18.0,c,,,"c. Drains shall terminate at a safe location and shall be accessible to operation under fire conditions. If fuel and oil storage areas are subject to the provisions of 40 CFR 112 (Spill Prevention Control and Countermeasures), those provisions shall apply as well.",False,False
+9,B,19.0,,,,"09.B.19 Where liquids are used or handled, provisions shall be made to promptly and safely dispose of leakage or spills.",True,False
+9,B,20.0,,,,09.B.20 Flashlights and electric lanterns used while handling flammable liquids shall be listed by a nationally recognized testing laboratory for the intended use.,True,False
+9,B,21.0,,,,09.B.21 Dispensing flammable liquids - general.,True,False
+9,B,21.0,a,,,"a. All pumping equipment used for the transfer of Category 1 or 2 flammable liquids or Category 3 flammable liquids with a flashpoint below 100°F (37.8oC) shall be listed by a nationally recognized testing laboratory or approved by, and labeled or tagged in accordance with, the Federal agency having jurisdiction, such as the DOT.",False,False
+9,B,21.0,b,,,"b. Dispensing systems for Category 1 or 2 flammable liquids or Category 3 flammable liquids with a flashpoint below 100°F (37.8oC) shall be electrically bonded and grounded. All fuel tanks, hoses, and containers of 5 gal (18.9 L) or less shall be kept in metallic contact while flammable liquids are being transferred; transfer of flammable liquids to containers in excess of 5 gal shall be done only when the containers are electrically bonded.",False,False
+9,B,21.0,c,,,"c. Flammable liquids shall be drawn from, or transferred into, vessels, containers, or tanks within a building or outside only through a closed piping system, from safety cans, by means of a device drawing through the top, or from a container, or portable tanks, by gravity or pump, through an approved self-closing valve. Transferring by means of air pressure on the container or portable tanks is prohibited.",False,False
+9,B,21.0,d,,,"d. Areas in which flammable liquids are transferred in quantities greater than 5 gal (18.9 L) from one tank or container to another, shall be separated from other operations by at least 25 ft (7.6 m) or a barrier having a fire resistance of at least 1 hour. Drainage or other means shall be provided to control spills. Natural or mechanical ventilation shall be provided to maintain the concentration of flammable vapor at or below 10% of the lower flammable limit.",False,False
+9,B,21.0,e,,,e. Dispensing units shall be protected against collision damage by suitable means and permanent dispensing units shall be securely bolted in place.,False,False
+9,B,21.0,f,,,f. Dispensing nozzles and devices for Category 1 or 2 flammable liquids or Category 3 flammable liquids with a flashpoint below 100°F shall be listed.,False,False
+9,B,21.0,g,,,"g. Lamps, lanterns, heating devices, small engines, and similar equipment shall not be filled while hot: these devices shall be filled only in well ventilated rooms free of open flames or in open air and shall not be filled in storage buildings.",False,False
+9,B,21.0,h,,,h. Dispensing devices shall be in all cases at least 20 ft (6 m) from any activity involving fixed sources of ignition.,False,False
+9,B,22.0,,,,09.B.22 Service and refueling areas.,True,False
+9,B,22.0,a,,,a. Dispensing hoses shall be listed. Dispensing nozzles shall be an approved automatic-closing type without a latch-open device.,False,False
+9,B,22.0,b,,,"b. Equipment using flammable liquids as fuel shall be shut down during refueling, servicing, or maintenance, except for emergency generators. Waiver requests may be reviewed and granted by the local SOHO for operations in remote sites or regions where cold weather conditions pose a significant risk when equipment fails to restart (copy provided to CESO).",False,False
+9,B,22.0,c,,,c. Dispensing of Category 1 or 2 flammable liquids or Category 3 flammable liquids with a flashpoint below 100°F (37.8oC) from tanks of 55 gal (0.20 m3) capacity or more shall be by listed pumping arrangement. Transferring by air pressure on the container or portable tank is prohibited.,False,False
+9,B,22.0,d,,,d. Clearly identified and easily accessible switch(es) shall be provided at a location remote from dispensing devices to shut off the power to all dispensing devices in an emergency.,False,False
+9,B,22.0,e,,,e. A listed emergency breakaway device designed to retain liquid on both sides of the breakaway point shall be installed on each hose dispensing Category 1 or 2 flammable liquids or Category 3 flammable liquids with a flashpoint below 100°F (37.8oC) liquids.,False,False
+9,B,23.0,,,,09.B.23 Tank cars/trucks.,True,False
+9,B,23.0,a,,,a. Tank cars/trucks shall be spotted and not loaded or unloaded until brakes have been set and wheels chocked.,False,False
+9,B,23.0,b,,,b. Tank cars/trucks shall be attended for the entire time they are being loaded or unloaded. Precautions shall be taken against fire or other hazards.,False,False
+9,B,23.0,c,,,c. Tank cars/trucks shall be properly bonded and grounded while being loaded or unloaded. Bonding and grounding connections shall be made before dome covers are removed on tank cars/trucks and shall not be disconnected until such covers have been replaced. Internal vapor pressure shall be relieved before dome covers are opened.,False,False
+9,C,,,,,09.C Liquefied Petroleum Gas (LP-Gas).,True,False
+9,C,1.0,,,,"09.C.01 Storage, handling, installation, and use of  LP-Gas and systems shall be in accordance with NFPA Standard 58 and USCG regulations, as applicable.",True,False
+9,C,2.0,,,,"09.C.02 LP-Gas containers, valves, connectors, manifold valve assemblies, regulators, and appliances shall be of an approved type.",True,False
+9,C,3.0,,,,"09.C.03 Any appliance that was originally manufactured for operation with a gaseous fuel other than LP-Gas and is in good condition may be used with LP-Gas only after it is properly converted, adapted, and tested for performance with LP-Gas.",True,False
+9,C,4.0,,,,09.C.04 Polyvinyl chloride and aluminum tubing shall not be used in LP-Gas systems.,True,False
+9,C,5.0,,,,09.C.05 Safety devices.,True,False
+9,C,5.0,a,,,a. Every container and vaporizer shall be provided with one or more safety relief valves or devices. These valves and devices shall be arranged to afford free vent to the outside air and discharge at a point not less than 5 ft (1.5 m) horizontally from any building opening that is below the discharge point.,False,False
+9,C,5.0,b,,,b. Container safety relief devices and regulator relief vents shall be located not less than 5 ft (1.5 m) in any direction from air openings into sealed combustion system appliances or mechanical ventilation air intakes.,False,False
+9,C,5.0,c,,,"c. Shut-off valves shall not be installed between the safety relief device and the container, or the equipment or piping to which the safety relief device is connected, except that a shut-off valve may be used where the arrangement of the valve is such that full required capacity-flow through the safety relief device is always afforded.",False,False
+9,C,6.0,,,,09.C.06 Container valves and accessories.,True,False
+9,C,6.0,a,,,"a. Valves, fittings, and accessories connected directly to the container, including primary shut off valves, shall have a rated working pressure of at least 250 psi (1723.6 kPa) gauge and shall be of material and design suitable for LP-Gas service.",False,False
+9,C,6.0,b,,,"b. Connections to containers (except safety relief connections, liquid level gauging devices, and plugged openings) shall have shutoff valves located as close to the container as practical.",False,False
+9,C,7.0,,,,09.C.07 Multiple container systems.,True,False
+9,C,7.0,a,,,a. Valves in the assembly of multiple container systems shall be arranged so that replacement of containers can be made without shutting off the flow of gas in the system (this is not to be construed as requiring an automatic changeover device).,False,False
+9,C,7.0,b,,,"b. Regulators and low-pressure relief devices shall be rigidly attached to the cylinder valves, cylinders, supporting standards, building walls, or otherwise rigidly secured and shall be installed or protected from the elements.",False,False
+9,C,8.0,,,,"09.C.08 LP-Gas containers and equipment shall not be used in unventilated spaces below grade in pits, below-decks, or other spaces where dangerous accumulations of heavier than-air gas may accumulate due to leaks or equipment failure.",True,False
+9,C,9.0,,,,09.C.09 Welding is prohibited on LP-Gas containers.,True,False
+9,C,10.0,,,,09.C.10 Dispensing.,True,False
+9,C,10.0,a,,,a. Equipment using LP-Gas shall be shut down during refueling operations.,False,False
+9,C,10.0,b,,,"b. Filling of fuel containers for motor vehicles from bulk storage containers shall be performed not less than 10 ft (3 m) from the nearest masonry-walled building, not less than 25 ft (7.6 m) from the nearest building of other construction, and, in any event, not less than  25 ft from any building opening.",False,False
+9,C,10.0,c,,,"c. Filling, from storage containers, of portable containers or containers mounted on skids shall be performed no less than 50 ft (15.2 m) from the nearest building.",False,False
+9,C,11.0,,,,"09.C.11 Installation, use, and storage outside buildings.",True,False
+9,C,11.0,a,,,a. Containers shall be upright upon firm foundations or otherwise firmly positioned. Flexible connections (or other special fixtures) shall be provided to protect against the possibility of the effect of settlement on the outlet piping.,False,False
+9,C,11.0,b,,,b. Containers shall be in a suitable ventilated enclosure or otherwise protected against tampering.,False,False
+9,C,11.0,c,,,"c. Storage outside buildings, of containers awaiting use, shall be located from the nearest building or group of buildings in accordance with Table 9-2.",False,False
+9,C,11.0,d,,,d. Storage areas shall be provided with at least one approved portable fire extinguisher rated no less than 20-B:C.,False,False
+9,C,12.0,,,,"09.C.12 Installation, use, and storage inside of buildings.",True,False
+9,C,12.0,a,,,"a. Storage of LP-gas containers (empty or full) in industrial buildings (not normally frequented by the public) shall not exceed 300 lbs (2,598 ft3 in vapor form). When stored inside, empty containers which have been in LP-Gas service shall be considered as full containers for the purpose of determining the maximum quantity of LP-Gas permitted. >Exemption: A total of 5 one-pound propane cylinders may be stored indoors as long as they are stored away from exits and stairways, or in areas normally used for the safe exit of people.",False,False
+9,C,12.0,b,,,"b. Containers stored inside shall not be located near exits, stairways, or in areas normally used for the safe exit of people.",False,False
+9,C,12.0,c,,,"c. Container valves shall be protected while in storage as follows: by setting into recess of container to prevent the possibility of it being struck if the container is dropped upon a flat surface, or by ventilated cap or collar fastened to the container capable of withstanding blow from any direction equivalent to that of a 30 lb (13.6 kg) weight dropped 4 ft (1.2 m).",False,False
+9,C,12.0,d,,,d. Outlet valves of containers in storage shall be closed.,False,False
+9,C,12.0,e,,,e. Storage locations shall be provided with at least one approved portable fire extinguisher having a minimum rating of 8-B:C.,False,False
+9,C,12.0,f,,,"f. Containers, regulating equipment, manifolds, pipe, tubing, and hose shall be located to minimize exposure to high temperatures or physical damage.",False,False
+9,C,12.0,g,,,"g. The maximum water capacity of individual containers shall be 245 lb (111.1 kg), nominal 100 lb (45.3 kg), LP-Gas capacity.",False,False
+9,C,12.0,h,,,"h. Containers having a water capacity greater than 2.5 lb LP-Gas capacity (1.1 kg), (nominal 1 lb (0.4 kg), that are connected for use shall stand on a firm and substantially level surface and, when necessary, shall be secured in an upright position. Systems using containers having a water capacity greater than 2.5 lb shall be equipped with excess flow valves internal either with the container valves or in the connections to the container valve outlets.",False,False
+9,C,12.0,i,,,i. Regulators shall be directly connected to either the container valves or to manifolds connected to the container valves. The regulator shall be suitable for use with LP-Gas. Manifolds and fittings connecting containers to pressure regulator inlets shall be designed for at least 250 psi (1723.6 kPa) gauge service pressure.,False,False
+9,C,12.0,j,,,j. Valves on containers having water capacity greater than 50 lb (22.6 kg) (nominal 20 lb (9 kg) LP-Gas capacity) shall be protected from damage while in use or storage.,False,False
+9,C,12.0,k,,,"k. Hoses shall be designed for working pressure of at least 250 psi (1723.6 kPa) gauge. Design, construction, and performance of hoses and connections shall have been suitability determined by listing by a nationally recognized testing agency. Hose length shall be as short as possible but long enough to permit compliance with spacing requirements without kinking, straining, or causing the hose to be so close to a burner as to be damaged by heat.",False,False
+9,D,,,,,09.D Temporary Heating Devices.,True,False
+9,D,1.0,,,,09.D.01 Only temporary heating devices approved by the GDA shall be used. Each heater should have a safety data plate permanently affixed by the manufacturer. The plate shall provide requirements or recommendations for:,True,False
+9,D,1.0,a,,,a. Clearances from combustible materials;,False,False
+9,D,1.0,b,,,b. Ventilation (minimum air requirements for fuel combustion);,False,False
+9,D,1.0,c,,,c. Fuel type and input pressure;,False,False
+9,D,1.0,d,,,"d. Lighting, extinguishing, and relighting;",False,False
+9,D,1.0,e,,,e. Electrical power supply characteristics;,False,False
+9,D,1.0,f,,,"f. Location, moving, and handling; and",False,False
+9,D,1.0,g,,,"g. Name and address of the manufacturer. >Note: If this information is not available on a data plate, it shall be in writing at the job site.",False,False
+9,D,2.0,,,,09.D.02 A positive operating procedure shall be established to assure the following:,True,False
+9,D,2.0,a,,,a. Proper placement and servicing;,False,False
+9,D,2.0,b,,,b. Safe clearance from combustible material;,False,False
+9,D,2.0,c,,,c. Close surveillance;,False,False
+9,D,2.0,d,,,d. Safe fuel storage and refueling;,False,False
+9,D,2.0,e,,,e. Proper maintenance; and,False,False
+9,D,2.0,f,,,f. Ventilation and determination of gaseous contamination or oxygen deficiency.,False,False
+9,D,3.0,,,,09.D.03 Heater installation and maintenance shall be in accordance with the manufacturer's instructions.,True,False
+9,D,4.0,,,,09.D.04 Open-flame heating devices having exposed fuel below the flame are prohibited.,True,False
+9,D,5.0,,,,"09.D.05 Heaters, when in use, shall be set horizontally level, unless otherwise permitted by the manufacturer's specifications.",True,False
+9,D,6.0,,,,"09.D.06 Heaters unsuitable for use on wood floors shall be so marked. When such heaters are used, they shall rest on suitable heat insulating material, such as concrete of at least 1 in (2.5 cm) thickness or equivalent; the insulating material shall extend 2 ft (0.6 m) or more in all directions from the edges of the heater.",True,False
+9,D,7.0,,,,"09.D.07 Heaters used near combustible tarpaulins, canvas, or similar coverings shall be located at least 10 ft (3 m) from such coverings; coverings shall be securely fastened to prevent them from igniting or upsetting the heater due to wind action.",True,False
+9,D,8.0,,,,09.D.08 Heaters shall be protected against damage.,True,False
+9,D,9.0,,,,09.D.09 Installation of temporary heating devices shall provide minimum clearances to combustible materials as specified in Table 9-3.,True,False
+9,D,10.0,,,,"09.D.10 Fuel combustion space heating devices used in any enclosed building, room, or structure shall be vented by a flue pipe to the exterior of the structure.",True,False
+9,D,10.0,a,,,"a. Fresh air shall be supplied, by natural or mechanical means, in sufficient quantities to ensure the health and safety of workers. Particular attention shall be given to areas where heat and fumes may accumulate.",False,False
+9,D,10.0,b,,,"b. When heaters are used in confined spaces, precautions shall be taken to ensure proper combustion, maintenance of a safe and healthful atmosphere for workers, and limitation of temperature rise in the area. These precautions shall be addressed in the confined space entry permit. > See Section 34.",False,False
+9,D,10.0,c,,,"c. Vent pipes shall be located at least 18 in (0.5 m) from flammables and combustibles. Where vent pipes pass through combustible walls or roofs, they shall be properly insulated and securely fastened and supported to prevent accidental displacement or separation.",False,False
+9,D,11.0,,,,"09.D.11 When a heater is placed in operation, initial and periodic checks shall be made to ensure it is functioning properly.",True,False
+9,D,12.0,,,,09.D.12 Fuel combustion heater CO hazards.,True,False
+9,D,12.0,a,,,"a. When heaters are used in enclosed or partially enclosed structures, CO shall be continuously monitored. If not feasible, this shall be so stated in the AHA and tests for the presence of CO shall be made within 1 hour of the start of each shift and at least every 4 hours thereafter.",False,False
+9,D,12.0,b,,,b. CO concentrations greater than 25 ppm (TLV) of air volume at worker breathing levels shall require extinguishing of the heater unless additional ventilation is provided to reduce the CO content to acceptable limits.,False,False
+9,D,13.0,,,,"09.D.13 Personnel involved in fueling heaters shall be trained in, and thoroughly familiar with, the manufacturer's recommended safe fueling procedures.",True,False
+9,D,14.0,,,,"09.D.14 Heaters shall be equipped with an approved automatic device to shut off the flow of fuel if the flame is extinguished (on liquid fuel heaters, barometric or gravity oil feed shall not be considered a primary safety control).",True,False
+9,D,15.0,,,,09.D.15 Spark arresters shall be provided on all smoke stacks or burning devices having forced drafts or short stacks permitting live sparks or hot materials to escape.,True,False
+9,D,16.0,,,,09.D.16 Solid fuel heaters are prohibited in buildings and on scaffolds.,True,False
+9,D,17.0,,,,09.D.17 Gas Heaters - General.,True,False
+9,D,17.0,a,,,"a. All piping, tubing, and hose shall be leak tested using soap suds or other noncombustible detection means (tests shall not be made with a flame) after assembly and proven free of leaks at normal operating pressure.",False,False
+9,D,17.0,b,,,b. Hose and fittings shall be protected from damage and deterioration.,False,False
+9,D,17.0,c,,,"c. All hoses and fittings shall be checked to ensure that the type, capacity, and pressure ratings are as specified by the heater manufacturer. Hose shall have a minimum working pressure of 250 psi (1723.6 kPa) gauge and a minimum bursting pressure of 1250 psi (8618.4 kPa) gauge.",False,False
+9,D,17.0,d,,,"d. All hose connectors shall be capable of withstanding, without leakage, a test pressure of 125 psi (861.8 kPa) gauge for natural gas, and 500 psi (3,447 kPa) gauge for LP-Gas and shall be capable of withstanding a pull test of 400 lb (181.4 kg).",False,False
+9,D,17.0,e,,,"e. Hose connectors shall be securely connected to the heater by mechanical means. Neither slip-end"" connectors (connections that allow the hose end to be held only by the friction of the hose material against the metal fitting of the unit) nor ring keepers (tightened over the hose to provide an increased force holding the hose to the metal fitting) are permitted.""",False,False
+9,D,18.0,,,,"09.D.18 Natural gas heaters. When flexible gas supply lines are used, the length shall be as short as practical and shall not exceed 25 ft (7.6 m).",True,False
+9,D,19.0,,,,09.D.19 Portable LP-Gas Heaters. > See also Section 09.C.,True,False
+9,D,19.0,a,,,"a. If LP-Gas is supplied to a heater by hose, the hose shall not be less than 10 ft (3 m), or more than 25 ft (7.6 m), in length.",False,False
+9,D,19.0,b,,,b. Heaters shall be equipped with an approved regulator in the supply line between the fuel cylinder and the heater unit. Cylinder connectors shall be provided with an excess flow valve to minimize the flow of gas in the event the fuel line ruptures.,False,False
+9,D,19.0,c,,,"c. LP-Gas heaters having inputs above 50,000 British Thermal Unit (BTU)/hour shall be equipped with either a pilot, which must be lighted and proved before the main burner can be turned on, or an electronic ignition. > These provisions do not apply to portable heaters under 7,500 BTU/ hour when used with containers having a maximum water capacity of 2.5 lb (1.1 kg).",False,False
+9,D,19.0,d,,,"d. Container valves, connectors, regulators, manifolds, piping, and tubing shall not be used as structural support for LP-Gas heaters.",False,False
+9,D,19.0,e,,,"e. Heaters, other than integral heater-container units, shall be located at least 6 ft (1.8 m) from any LP-Gas container (this shall not prohibit the use of heaters designed specifically for attachment to the LP-Gas container or to a supporting standard, provided they are designed and installed to prevent direct or radiant heat application from the heater into the containers). Blower and radiant type heaters shall not be directed toward any LP Gas container within 20 ft (6 m).",False,False
+9,D,19.0,f,,,"f. If two or more heater-container units (of either the integral or non-integral type) are located in an unpartitioned area of the same floor, the container or containers of each unit shall be separated from the container or containers of any other unit by at least 20 ft (6 m).",False,False
+9,D,19.0,g,,,"g. When heaters are connected to containers for use in an unpartitioned area on the same floor, the total water capacity of containers, manifolded together for connection to a heater(s), shall not be greater than 735 lb (333.3 kg), [nominal 300 lb (136 kg) LP-Gas capacity]. Such manifolds shall be separated by at least 20 ft (6 m).",False,False
+9,D,20.0,,,,09.D.20 Installation of heating equipment in service or lubrication areas.,True,False
+9,D,20.0,a,,,a. Heating equipment installed in lubrication or service areas where there is no dispensing or transferring of flammable liquids shall be installed such that the bottom of the heating unit is at least 18 in (.5 m) above the floor and is protected from damage.,False,False
+9,D,20.0,b,,,b. Heating equipment installed in lubrication or service areas where flammable liquids are dispensed shall be of a type approved for garages and shall be installed at least 8 ft (2.4 m) above the floor.,False,False
+9,E,,,,,09.E Heating Devices and Melting Kettles.,True,False
+9,E,1.0,,,,"09.E.01 Heating devices and melting kettles shall be placed on firm, level, noncombustible foundations and shall be protected against traffic, accidental tipping, or similar hazards and, whenever possible, shall be placed downwind from employees or occupied buildings.",True,False
+9,E,2.0,,,,"09.E.02 A method to contain uncontrolled spills of the heated material, which might be on fire, shall be developed. The placement of a fire retardant tarp under the kettle (or other effective means) shall be used.",True,False
+9,E,3.0,,,,"09.E.03 A minimum of 2 fire extinguishers, rated not less than 2A:20B:C shall be available within 25 ft (7.6 m) of the working kettles. > Hot work permits shall be required on Government installations unless otherwise indicated by the GDA.",True,False
+9,E,4.0,,,,09.E.04 The kettle operator must be trained in the proper operation of the kettle and have knowledge of the material being heated so as to not allow the material to be heated beyond the allowable temperature. A working thermometer shall be provided and used.,True,False
+9,E,5.0,,,,"09.E.05 Heating devices and melting kettles shall not be left unattended when in use. When the kettle is heating material to the working temperature, the operator must be located on the same level as the kettle, be within eyesight and be within 25 ft (7.6 m) of the kettle. > See 09.K.03.",True,False
+9,E,6.0,,,,"09.E.06 Bituminous-material melting kettles shall be provided with an effective tight fitting lid or hood, and a calibrated thermometer in operating condition.",True,False
+9,E,6.0,a,,,a. The temperature shall be maintained 25o below the flash point of the bituminous material.,False,False
+9,E,6.0,b,,,b. All melting kettles shall be sized for the job.,False,False
+9,E,6.0,c,,,c. Asphalt and tar kettles shall not be located on roofs.,False,False
+9,E,7.0,,,,"09.E.07 Bituminous-material melting kettles shall not be used or operated inside or within 25 ft (7.6 m) of combustible materials, including propane tanks stored or in use. The lid for the kettle should open away from the building.",True,False
+9,E,8.0,,,,09.E.08 The liquid propane container(s) used as the heat source shall be kept at least 10 ft (3 m) away from the kettle and shall be placed in an upright and secured position to insure it doesn’t tip over.,True,False
+9,E,9.0,,,,09.E.09 Kettles shall be located so that means of egress is not restricted and shall be no closer than 10 ft (3 m) of egress path.,True,False
+9,E,10.0,,,,09.E.10 Enclosed areas in which hot substances are heated or applied shall be ventilated.,True,False
+9,E,11.0,,,,"09.E.11 Ladles, equipment, and material shall be moisture-free before being used or placed in heated material.",True,False
+9,E,12.0,,,,09.E.12 Flammable liquids with a flash point below 100oF (37.8oC) shall not be used to thin the mixture or to clean equipment.,True,False
+9,E,13.0,,,,"09.E.13 An effective fire prevention plan shall be included in the APP, AHA and maintained at the jobsite. All workers shall be trained in the specifics of the plan.09.F First Response Fire Protection.",True,False
+9,F,1.0,,,,09.F.01 Portable fire extinguishers shall be provided where needed as specified in Table 9-4.,True,False
+9,F,1.0,a,,,"a. Fire extinguishers shall be inspected monthly and maintained as specified in NFPA 10.b. Records shall be kept on a tag or label attached to the extinguisher, on an inspection check list maintained on file, or by an electronic method that provides a permanent record. Record/tag shall include date inspection was performed and initials of the person performing the inspection..",False,False
+9,F,2.0,,,,09.F.02 Approved fire extinguishers.,True,False
+9,F,2.0,a,,,a. Fire extinguishers shall be approved by a nationally recognized testing laboratory and labeled to identify the listing and labeling organization and the fire test and performance standard that the fire extinguisher meets or exceeds.,False,False
+9,F,2.0,b,,,b. Fire extinguishers shall be marked with their letter (class of fire) and numeric (relative extinguishing effectiveness) classification.,False,False
+9,F,2.0,c,,,c. Fire extinguishers using carbon tetrachloride or chlorobromomethane extinguishing agents are prohibited.,False,False
+9,F,2.0,d,,,d. Soldered or riveted shell self-generating foam or gas cartridge water-type portable extinguishers that are operated by inverting the extinguisher to rupture or initiate an uncontrollable pressure generating chemical reaction to expel the agent are prohibited.,False,False
+9,F,3.0,,,,"09.F.03 Fire extinguishers shall be in a fully charged and operable condition and shall be suitably placed, distinctly marked, and readily accessible.",True,False
+9,F,4.0,,,,"09.F.04 When portable fire extinguishers are provided for employee use in the workplace, the employer shall provide training (upon initial employment and at least annually thereafter) in the following:",True,False
+9,F,4.0,a,,,a. General principles of fire extinguisher use and the hazards involved with incipient stage fire fighting to all employees; and,False,False
+9,F,4.0,b,,,b. Use of the appropriate firefighting equipment to those employees designated in an emergency action plan to use firefighting equipment.,False,False
+9,F,5.0,,,,09.F.05 Approved fire blankets shall be provided and kept in conspicuous and accessible locations as warranted by the operations involved.,True,False
+9,F,6.0,,,,09.F.06 No fire shall be fought where the fire is in imminent danger of contact with explosives. All persons shall be removed to a safe area and the fire area guarded against intruders.,True,False
+9,F,7.0,,,,09.F.07 Standpipe and hose system equipment.,True,False
+9,F,7.0,a,,,a. Standpipes shall be located or otherwise protected against damage. Damaged standpipes shall be repaired promptly.,False,False
+9,F,7.0,b,,,"b. Reels and cabinets used to contain fire hose shall be designed and maintained to ensure the prompt use of the hose valve, hose, and other equipment. Reels and cabinets shall be conspicuously identified and used only for fire equipment.",False,False
+9,F,7.0,c,,,"c. Hose outlets and connections shall be located high enough above the floor to avoid their obstruction and to be accessible to employees. To ensure hose connections are compatible with support fire equipment, screw threads shall be standardized or adapters shall be provided throughout the system.",False,False
+9,F,7.0,d,,,d. Standpipe systems shall be equipped with vinyl type or lined hoses of such length that friction loss resulting from water flowing through the hose will not decrease the pressure at the nozzle below 30 psi (206.8 kPa) gauge. The dynamic pressure at the nozzle shall be within 30 psi (206.8 kPa) gauge and 125 psi (861.8 kPa) gauge.,False,False
+9,F,7.0,e,,,e. Standpipe hoses shall be equipped with basic spray nozzles with a straight stream to wide stream spray pattern. Nozzles shall have a water discharge control capable of functions ranging from full discharge to complete shutoff.,False,False
+9,F,8.0,,,,09.F.08 The following tests shall be performed on standpipe and hose systems before placing them in service:,True,False
+9,F,8.0,a,,,"a. Piping (including yard piping) shall be hydrostatically tested for at least 2 hours at not less than 200 psi (1378.9 kPa), or at least 50 psi (344.7 kPa) in excess of normal pressure when the normal pressure is greater than 150 psi (1034.2 kPa)); and b. Hose shall be hydrostatically tested with couplings in place at a pressure of not less than 200 psi (1378.9 kPa). This pressure shall be maintained for at least 15 seconds, but not more than 1 minute, during which time the hose shall not leak nor shall the jacket thread break.",False,False
+9,F,9.0,,,,09.F.09 Standpipe and hose system inspection and maintenance.,True,False
+9,F,9.0,a,,,"a. Water supply tanks shall be kept filled to the proper level except during repairs. When pressure tanks are used, proper pressure shall be maintained at all times except during repairs.",False,False
+9,F,9.0,b,,,"b. Valves in the main piping connections to the automatic sources of water supply shall be kept fully open at all times, except during repairs.",False,False
+9,F,9.0,c,,,"c. Hose systems shall be inspected at least annually and after each use to assure that all equipment is in place, available for use, and in operable condition.",False,False
+9,F,9.0,d,,,"d. When the system or any portion of the system is found not to be serviceable, it shall be removed for repair and replaced with equivalent protection (such as fire watches and extinguisher) until the repairs are complete.",False,False
+9,F,9.0,e,,,"e. Hemp and linen hoses shall be unracked, physically inspected for deterioration, and reracked using a different fold pattern at least annually.",False,False
+9,F,10.0,,,,09.F.10 The minimum water supply for standpipe and hose systems provided for the use of employees shall be sufficient to provide 100 gal (0.37 m3) per minute for at least 30 minutes.,True,False
+9,F,11.0,,,,"09.F.11 For all structures in which standpipes are required, or where standpipes exist in structures being altered, the standpipes shall be brought up as soon as practical and maintained as construction progresses so that they are always ready for fire protection use. There shall be at least one standard hose outlet at each floor.",True,False
+9,F,12.0,,,,"09.F.12 For employees that may encounter incipient stage wild land fires, local safety programs shall provide basic training (upon initial employment and at least annually thereafter) in techniques commonly used to extinguish incipient stage wild land fires and the hazards associated with such fire fighting activities.",True,False
+9,G,,,,,09.G Fixed Fire Suppression Systems.,True,False
+9,G,1.0,,,,"09.G.01 Fixed fire suppression systems shall be designed, installed, and acceptance tested in accordance with requirements of the NFPA.",True,False
+9,G,2.0,,,,"09.G.02 Fixed fire suppression systems shall be inspected and maintained in accordance with UFC 3-600-02, O&M: Inspection, Testing, and Maintenance of Fire Protection Systems. Inspection and maintenance dates shall be recorded on the container, on a tag attached to the container, or in a central location.",True,False
+9,G,3.0,,,,09.G.03 Automatic sprinkler systems shall be protected from damage.,True,False
+9,G,4.0,,,,09.G.04 Vertical clearance of at least 18 in (45.7 cm) shall be maintained between the top of stored material and sprinkler deflectors.,True,False
+9,G,5.0,,,,"09.G.05 If a fixed extinguishing system becomes inoperable, the employer shall notify the employees and take necessary precautions to assure their safety until the system is restored to operating order.",True,False
+9,G,6.0,,,,09.G.06 Effective safeguards shall be provided to warn employees against entry into fixed extinguishing system discharge areas where the atmosphere remains hazardous to employee safety and health. Manual operating devices shall be identified as to the hazard against which they will provide protection.,True,False
+9,G,7.0,,,,"09.G.07 Warning or caution signs shall be posted at the entrance to, and inside, areas protected by fixed extinguishing systems that use agents in concentrations known to be hazardous to employee safety and health.",True,False
+9,G,8.0,,,,09.G.08 Dry chemical fixed extinguishing systems.,True,False
+9,G,8.0,a,,,a. Dry chemical extinguishing agents shall be compatible with any foams or wetting agents with which they are used.,False,False
+9,G,8.0,b,,,b. Dry chemical extinguishing agents of different compositions shall not be mixed together.,False,False
+9,G,8.0,c,,,c. Dry chemical extinguishing systems shall be refilled with the chemical stated on the approval nameplate or an equivalent compatible material.,False,False
+9,G,9.0,,,,09.G.09 Gaseous agent fixed extinguishing systems.,True,False
+9,G,9.0,a,,,a. Agents used for initial supply and replenishment shall be of a type approved for the system's application.,False,False
+9,G,9.0,b,,,b. Employees shall not be exposed to toxic levels of the gaseous agent or its decomposition products.,False,False
+9,G,10.0,,,,"09.G.10 When water and spray foam fixed extinguishing systems are used, the drainage of water shall be away from work areas and routes of emergency egress.",True,False
+9,H,,,,,09.H Firefighting Equipment.,True,False
+9,H,1.0,,,,09.H.01 Firefighting equipment shall be provided and installed in accordance with applicable NFPA and OSHA regulations.,True,False
+9,H,2.0,,,,"09.H.02 No fire protection equipment or device shall be made inoperative or used for other purposes, unless specifically approved by the GDA.",True,False
+9,H,3.0,,,,"09.H.03 If fire hose connections are not compatible with local firefighting equipment, adapters shall be made available.",True,False
+9,I,,,,,09.I Fire Detection and Employee Fire Alarm Systems.,True,False
+9,I,1.0,,,,09.I.01 Fire detection and employee fire alarm systems shall be designed and installed in accordance with requirements of NFPA and OSHA.,True,False
+9,I,2.0,,,,09.I.02 Fire detection systems and components shall be restored to normal operating condition as soon as possible after each test/alarm. Spare devices and components shall be maintained in sufficient quantities for the prompt restoration of the system.,True,False
+9,I,3.0,,,,09.I.03 Fire detection systems shall be maintained in operable condition except during maintenance or repairs.,True,False
+9,I,3.0,a,,,a. Fire detectors and detector systems shall be tested and adjusted as often as necessary to maintain operability and reliability; factory calibrated detectors need not be adjusted after installation.,False,False
+9,I,3.0,b,,,"b. Pneumatic and hydraulic operated detection systems installed after January 1, 1981, shall be equipped with supervised systems.",False,False
+9,I,3.0,c,,,"c. The servicing, testing, and maintenance of fire detection systems shall be performed by a trained person knowledgeable in the operations and functions of the system.",False,False
+9,I,3.0,d,,,"d. Fire detectors that need to be cleaned of dirt, dust, or other particulate matter to be fully functional shall be cleaned at regular intervals.",False,False
+9,I,4.0,,,,"09.I.04 Fire detection systems and devices shall be protected from weather, corrosion, and mechanical and physical damage.",True,False
+9,I,5.0,,,,09.I.05 Fire detectors shall be supported independently of their control wiring or tubing.,True,False
+9,I,6.0,,,,09.I.06 An alarm system shall be established by the employer so that employees on the site and the local fire department can be alerted of an emergency.,True,False
+9,I,7.0,,,,09.I.07 Manually operated alarm actuation devices shall be conspicuous and accessible and inspected and maintained in operable condition.,True,False
+9,I,8.0,,,,09.I.08 The alarm shall be distinctive and recognizable as a signal to evacuate the work area or to perform actions designated in the emergency action plan.,True,False
+9,I,8.0,a,,,a. The alarm shall be capable of being perceived above ambient noise and light levels by all employees in the affected area.,False,False
+9,I,8.0,b,,,b. Tactile devices may be used to alert those employees who would not otherwise be able to recognize the audible or visual alarm.,False,False
+9,I,9.0,,,,"09.I.09 Employees shall be instructed in the preferred means of reporting emergencies, such as manual pull box alarms, public address systems, or telephones.",True,False
+9,I,9.0,a,,,a. The alarm code and reporting instructions shall be conspicuously posted at phones and at employee entrances.,False,False
+9,I,9.0,b,,,b. Reporting and evacuating instructions shall be conspicuously posted.,False,False
+9,I,9.0,c,,,"c. For work at installations that are equipped with radio wave fire alarm systems, a compatible fire alarm transmitter should be used at the construction site.",False,False
+9,J,,,,,09.J Firefighting Organizations - Training and Drilling.,True,False
+9,J,1.0,,,,"09.J.01 Firefighting organizations shall be provided to assure adequate protection to life and property. NFPA recommendations shall be used for determining type, size, and training of fire fighting organizations.",True,False
+9,J,2.0,,,,09.J.02 Fire brigade drills shall be held to assure a well-trained and efficient operating force. Records of such drills shall be maintained at the installation.,True,False
+9,J,3.0,,,,"09.J.03 Demonstration and training in first-aid firefighting shall be conducted at intervals to ensure that project personnel are familiar with, and capable of operating, firefighting equipment.",True,False
+9,K,,,,,09.K Fire Watch.,True,False
+9,K,1.0,,,,"09.K.01 When fire watch personnel or guards are provided, they shall make frequent rounds through buildings and storage areas when work is suspended.",True,False
+9,K,2.0,,,,09.K.02 Smoke detectors shall be installed and maintained where personnel are quartered.,True,False
+9,K,3.0,,,,"09.K.03 In any instance where combustible materials have been exposed to fire hazards (i.e., welding operations, hot metals, open flame, etc.), a fire watch shall be assigned to remain at the location for at least one (1) hour after the exposure has ended.",True,False
+9,L,,,,,09.L USACE Wild Land Fire Control.,True,False
+9,L,1.0,,,,"09.L.01 At all USACE facilities and areas with potential exposure to wild land fire, whether prescribed or planned, a wild land fire management plan shall be developed. The plan, which is further detailed in USACE Engineer Pamphlet (EP) 1130-2-540, shall address prescribed fire and wild fire prevention and suppression, shall include the following items, and shall be updated annually:",True,False
+9,L,1.0,a,,,"a. An individual prescribed fire burn plan procedure, as outlined in EP 1130-2-540, that requires individual burn plans to include an AHA and an on-site safety meeting to include discussion of predicted weather patterns, escape route(s), and safety zone(s);",False,False
+9,L,1.0,b,,,b. An analysis of wild land fire causes and special wild fire hazards and risks;,False,False
+9,L,1.0,c,,,c. Proposed measures to reduce wild fire occurrence and decrease fire damage;,False,False
+9,L,1.0,d,,,d. Procedures for public education and wild fire prevention sign posting (including procedures for keeping the public informed of the current fire danger rating);,False,False
+9,L,1.0,e,,,e. Provisions for cooperative efforts with all other neighboring wild land fire management protection agencies;,False,False
+9,L,1.0,f,,,"f. The in-house wild land fire management or control team organization and personnel roster, training and equipment requirements, and notification procedures;",False,False
+9,L,1.0,g,,,"g. A listing of cooperating agencies and notification procedures, (including any mutual aid agreements with adjacent fire departments and agencies);",False,False
+9,L,1.0,h,,,"h. A listing of additional available resources for work force, equipment, supplies, and facilities, and contracting or procurement information;",False,False
+9,L,1.0,i,,,"i. An up-to-date map(s) of the managed and/or protected area(s) that shows boundaries, roads, and other means of access, heliports, airports, water sources, special hazards, and special fire risks;",False,False
+9,L,1.0,j,,,j. A listing of weather information sources;,False,False
+9,L,1.0,k,,,k. Procedures for public notification; and,False,False
+9,L,1.0,l,,,l. A pre-attack fire suppression plan as outlined in EP 1130-2-540.,False,False
+9,L,2.0,,,,09.L.02 Wild land fire management teams and operations should be organized and conducted in accordance with the requirements of NFPA 1143.,True,False
+9,L,2.0,a,,,"a. Wild land fire management team personnel shall, as a minimum, receive training that will include fire line safety, basic wild land fire behavior, basic wild land fire suppression tactics, communications procedures, first aid and use, limitations and care of protective and firefighting equipment.",False,False
+9,L,2.0,b,,,b. Firefighting equipment shall be maintained in working and ready condition.,False,False
+9,L,2.0,c,,,"c. PPE, fire-resistant clothing, safety hard hats, safety toe (non steel-toe) leather boots, goggles, and fire resistant gloves, as required by NFPA 1143, part A.5.3.1.2 and NFPA 1977, shall be provided and maintained in working and ready condition. > See also Section 5.",False,False
+9,L,2.0,d,,,"d. Employees engaged in fire management activities shall be examined, as part of their medical surveillance, by a physician and certified to be physically able to perform assigned fire management duties.",False,False
+9,L,2.0,e,,,"e. Communication equipment shall be provided to personnel as necessary for coordination, control, and emergency needs.",False,False
+9,L,3.0,,,,09.L.03 Recommendations of NFPA 1143 shall be complied with in wild land fire situations not covered in this Section.,True,False
+9,L,4.0,,,,09.L.04 Wild land fire management teams shall consist of 2 or more qualified individuals.,True,False

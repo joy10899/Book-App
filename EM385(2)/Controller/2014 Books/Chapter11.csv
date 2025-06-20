@@ -1,0 +1,380 @@
+chapter,section,topic,refOne,refTwo,refThree,content,highlight,bookmark
+11,A,,,,,11.A General.,True,False
+11,A,1.0,,,,"11.A.01 Approval and qualification. The term “Qualified Person (QP)”, as used in this section, refers to “Qualified Person, Electrical”. > See Appendix Q.",True,False
+11,A,1.0,a,,,a. All electrical wiring and equipment shall be a type listed by a nationally recognized testing laboratory for the specific application for which it is to be used.,False,False
+11,A,1.0,b,,,"b. All electrical work shall comply with applicable National Electrical Safety Code (NESC), National Electric Code (NEC), National Fire Protection Association (NFPA), OSHA and USCG regulations.  If the work being performed (as described within this chapter) conflicts with the above codes and regulations, the most stringent shall apply.",False,False
+11,A,1.0,c,,,"c. Electrical work shall be performed by QP with verifiable credentials who are familiar with applicable code requirements. Verifiable credentials consist of State, National and/or Local Certifications or Licenses that a Master or Journeyman Electrician may hold, depending on work being performed, and should be identified in the appropriate AHA. Journeyman/Apprentice ratio shall be in accordance with State, Local and Host Nation requirements applicable to where work is being performed.",False,False
+11,A,1.0,d,,,"d. USACE and/or other Government designated QPs must possess verifiable credentials and shall be familiar with applicable code requirements. Verifiable credentials consist of State, National and/or Local Certifications/Licenses that a Master or Journeyman Electrician may hold, or USACE -sponsored local training programs (e.g., hydropower training program, District navigation training program, etc.) but the following applies:",False,False
+11,A,1.0,d,1.0,,(1) Training shall be provided by an electrically qualified source to the level of work being performed;,False,False
+11,A,1.0,d,2.0,,(2) Training and qualifications shall be verifiable and documented;,False,False
+11,A,1.0,d,3.0,,(3) Qualification level shall be identified in the employee’s PHA;,False,False
+11,A,1.0,d,4.0,,"(4) QPs must demonstrate skills and knowledge related to the construction, operation and maintenance of the electrical equipment and installations and receive relevant safety training to recognize, avoid and control associated hazards.",False,False
+11,A,1.0,e,,,"e. Emergency Procedures and training. Employees exposed to shock hazard and those employees responsible for taking action in case of emergency shall be trained in methods of release of victims from contact with exposed energized electrical conductors or circuit parts. Employees shall be regularly instructed in methods of first aid and emergency procedures, such as approved methods of resuscitation, if their duties warrant such training. Training and re-training of employees in approved methods of resuscitation, including cardiopulmonary resuscitation and automatic external defibrillator (AED) use, shall be certified by the employer as required by Section 03.A and OSHA 29 CFR 1910.151 and NFPA 70E 110.2(c).",True,False
+11,A,2.0,,,,11.A.02 Isolation.,True,False
+11,A,2.0,a,,,"a. Before work begins, a Qualified Person in charge shall ascertain by inquiry, direct observation and by instruments, whether any part of an electric power circuit (exposed or concealed) is located such that the performance of work could bring any person, tool, or machine into physical or electrical contact with it. This verification procedure shall be documented prior to work beginning.",False,False
+11,A,2.0,b,,,"b. All equipment and circuits to be worked on shall be de-energized before work is started. Personnel shall be protected by a Hazardous Energy Control Program (HECP) and procedures (i.e. lockout/tagout, blanking, positive means of blocking, grounding, etc.). Positive means shall be provided for rendering controls or devices inoperative while repairs or adjustments are being made to the machines they control. > See Section 12. >Note: If work MUST be performed on an energized system, then the employer must first demonstrate that de-energizing introduces additional or increased hazards (i.e., interruption of life support equipment, removal of light for an area, etc.) or is infeasible due to equipment design or operational limitations (i.e., testing, troubleshooting, etc.).",False,False
+11,A,2.0,c,,,"c. Energized work may never be performed without prior authorization. Once it has been determined that equipment must be worked on in an energized condition, an energized work permit shall be submitted to GDA for acceptance. > See NFPA 70E. Permits must be prepared in advance and include, as a minimum:",False,False
+11,A,2.0,c,1.0,,(1) Description of work and location;,False,False
+11,A,2.0,c,2.0,,(2) Justification for why the work must be performed in an energized condition;,False,False
+11,A,2.0,c,3.0,,(3) Description of work practices to be followed;,False,False
+11,A,2.0,c,4.0,,(4) An electrical shock analysis and boundaries (safe working distances);,False,False
+11,A,2.0,c,5.0,,(5) Arc flash hazard analysis and arc flash boundary determination;,False,False
+11,A,2.0,c,6.0,,(6) Identification of PPE necessary to safely perform the task;,False,False
+11,A,2.0,c,7.0,,(7) Means to restrict access of unqualified persons in work area;,False,False
+11,A,2.0,c,8.0,,"(8) Evidence of completing the job briefing (includes safety, tools, PPE, any other hazards and controls).",False,False
+11,A,2.0,d,,,d. Live parts of wiring or equipment shall be guarded to protect all persons or objects from harm.,False,False
+11,A,2.0,e,,,"e. High voltage equipment (i.e., switchyards, transformers, etc) shall be protected from unauthorized access. Entrances not under constant observation shall be kept locked; metallic enclosures shall be grounded and signs warning of high voltage and prohibiting unauthorized entrance shall be posted at entrances.",False,False
+11,A,2.0,f,,,f. Enclosure gates or doors shall swing outward or provide clearance from installed equipment.,False,False
+11,A,3.0,,,,"11.A.03 When it is necessary to work on energized lines or equipment, rubber gloves and other protective equipment and hotline tools meeting the provisions of ANSI and ASTM standards shall be used. For work on energized equipment, only tools insulated for the rated voltage shall be used.  > See Section 05.I and NFPA 70E.",True,False
+11,A,4.0,,,,11.A.04 Flexible cords.,True,False
+11,A,4.0,a,,,a. Refer to NEC (NFPA 70) for minimum requirements on permanent use flexible cords for permanently installed equipment such as cranes and elevators.,False,False
+11,A,4.0,b,,,"b. For maintenance and construction activities, all portable flexible cords or cables (i.e., extension cords) shall be inspected by the user of the cord at least daily.",False,False
+11,A,4.0,c,,,"c. Portable flexible cords shall contain the number of adequately sized conductors required for the load plus an adequately sized equipment ground conductor. A QP shall determine appropriate hard or extra hard usage flexible cord length and size as specified in the NEC, Article 400. Portable flexible cords shall be minimum 14 AWG.",False,False
+11,A,4.0,d,,,"d. Portable flexible cords passing through work areas shall be protected from damage (including that caused by foot traffic, vehicles, sharp corners, protections, and pinching). Flexible cords and cables passing through holes shall be protected by bushings or fittings.",False,False
+11,A,4.0,e,,,"e. Portable flexible cords shall be used only in continuous lengths without splice or tap. The repair of hard-service cords/cord sets is permitted if conductors are spliced in accordance with NEC - the splices must be performed by a QP, the insulation is equal to the cable being spliced, and wire connections are soldered.",False,False
+11,A,4.0,f,,,"f. Patched, oil-soaked, worn, or frayed electric portable flexible cords shall not be used.",False,False
+11,A,4.0,g,,,"g. Portable flexible cords shall be supported in place at intervals that ensure that they will be protected from physical damage. Support shall be in the form of cable ties, straps or similar type fittings installed so as not to cause damage. They shall not be hung from nails, or suspended by bare wire.",False,False
+11,A,5.0,,,,11.A.05 The QP is responsible for determining the number of workers required to perform the job safely and shall identify work hazards and controls in the corresponding AHA. Work must be performed with a sufficient number of workers to provide a safe working environment.,True,False
+11,A,6.0,,,,"11.A.06 Switchboxes, receptacle boxes, metal cabinets, enclosures around equipment, and temporary power lines shall be marked to indicate the maximum operating voltage.",True,False
+11,A,7.0,,,,"11.A.07 Insulation mats or platforms of substantial construction and providing good footing shall be placed on floors and on the frames of equipment having exposed live parts so that the operator or persons in the vicinity cannot touch such parts unless standing on the mats, platforms, or insulated floors.",True,False
+11,A,8.0,,,,11.A.08 Suitable temporary barriers or other means shall be provided to designate arc flash and electrical shock boundaries. Boundaries shall ensure a workspace cannot be used as a passageway while electrical work is being performed.,True,False
+11,A,9.0,,,,"11.A.09 When fuses are installed or removed with one or both terminals energized, use an insulated fuse pulling tool for the rated voltage.",True,False
+11,A,10.0,,,,11.A.10 Attachment plugs and receptacles.,True,False
+11,A,10.0,a,,,a. Plugs and receptacles shall be kept out of water unless of an approved submersible type.,False,False
+11,A,10.0,b,,,b. Attachment plugs for use in work areas shall be constructed so that they will endure rough use and shall be equipped with a cord grip to prevent strain on the terminal screws.,False,False
+11,A,10.0,c,,,c. Attachment plugs and other connectors supplying equipment at more than 240 volts shall be skirted or otherwise designed so that arcs will be confined.,False,False
+11,A,10.0,d,,,d. Plugs and receptacles in power distribution networks of over 240 volts shall be inspected by a QP before each use.,False,False
+11,A,10.0,e,,,e. Physical attachment of plugs into receptacles rated over 240 volts shall be made with the circuit de-energized.,False,False
+11,A,10.0,f,,,f. Appropriate PPE shall be worn prior to energizing circuits feeding equipment plugged in to receptacles rated over 240 volts.,False,False
+11,A,10.0,g,,,"g. When a National Electrical Manufacturers Association (NEMA) standard configuration exists for a particular voltage, amperage, frequency, or type of current, the NEMA standard plug and receptacle shall be used.",False,False
+11,A,11.0,,,,11.A.11 Portable hand lamps.,True,False
+11,A,11.0,a,,,a. Portable hand lamps shall be of molded composition or another type approved for the purpose.,False,False
+11,A,11.0,b,,,"b. Metal-shell, paper-lined lamp holders shall not be used.",False,False
+11,A,11.0,c,,,c. Hand lamps shall be equipped with a handle and a substantial guard over the bulb. The guard shall be attached to the lamp holder or the handle.,False,False
+11,A,12.0,,,,"11.A.12 Metal jewelry (i.e., wristbands, watch chains, rings, bracelets, necklaces, body jewelry, piercings, etc) shall not be worn when working on or near electrical equipment.",True,False
+11,B,,,,,11.B Arc Flash.,True,False
+11,B,1.0,,,,"11.B.01 Whenever work on or near energized parts greater than 50 volts is necessary, a hazard analysis/arc flash hazard analysis will be conducted in accordance with NFPA 70E. Either Appendices or Tables may be used to conduct the analysis. The flash protection boundary, approach distances, hazard/risk category and personal protective equipment (PPE) requirements shall all be identified.",True,False
+11,B,2.0,,,,11.B.02 PPE that provides appropriate arc flash protection is required for all personnel working on or near exposed energized electrical equipment operating at 50 volts or more. Identification of required PPE is based on equipment arc flash labels or NFPA 70E task tables. > See Section 05.I.,True,False
+11,B,3.0,,,,"11.B.03 PPE garments shall meet and be labeled in accordance with ASTM F1506, Standard Specification for Flame Resistant Textile Materials for Wearing Apparel for use by Electrical Workers Exposed to Momentary Electric Arc and Related Thermal Hazards.",True,False
+11,B,4.0,,,,"11.B.04 Arc rated clothing shall be properly worn. Long sleeves must be rolled down and buttoned, shorts are prohibited and trousers shall extend the full length of the leg. Garments with exposed metallic fasteners shall not be worn unless the garments are properly arc rated.",True,False
+11,B,5.0,,,,"11.B.05 Garments, to include fall protection harnesses, worn over arc rated protective clothing, must also be arc rated.",True,False
+11,B,6.0,,,,"11.B.06 Clothing that could increase the extent of injuries when exposed to electric arcs or open flames (i.e., acetate, nylon, polyester, rayon or any blend, celluloid or other flammable plastic), shall not be worn. No metal slides or zippers unless they are effectively covered.",True,False
+11,B,7.0,,,,"11.B.07 Arc flash labels must be placed on energized equipment. Labels are required to warn of potential arc flash hazards and appropriate PPE. Labels, at minimum, shall include:",True,False
+11,B,7.0,a,,,a. Limits of approach;,False,False
+11,B,7.0,b,,,b. Nominal system voltage;,False,False
+11,B,7.0,c,,,c. Hazard/Risk category (required PPE);,False,False
+11,B,7.0,d,,,d. Incident energy at working distance.,False,False
+11,B,8.0,,,,"11.B.08 All personnel entering the identified arc flash protection boundary must be QPs and properly trained in NFPA 70E requirements and procedures. Unless permitted by NFPA 70E, Article 130.4, no Unqualified Person shall be permitted to approach nearer than the Limited Approach Boundary of energized conductors and circuit parts.  Training must be administered by an electrically qualified source and documented.",True,False
+11,C,,,,,"11.C Overcurrent Protection, Disconnects, and Switches.",True,False
+11,C,1.0,,,,11.C.01 All circuits shall be protected against overload.,True,False
+11,C,1.0,a,,,a. Overcurrent protection shall be based on the current-carrying capacity of the conductors supplied and the power load being used.,False,False
+11,C,1.0,b,,,b. No overcurrent device shall be placed in any permanently grounded conductor except where the overcurrent device simultaneously opens all conductors of the circuit or where the device is required by NEC 430 for motor overload protection.,False,False
+11,C,1.0,c,,,"c. Overcurrent protection devices must be readily accessible, clearly labeled, not exposed to physical damage, not placed in the vicinity of easily ignitable materials, and located or shielded such that their operation will not expose employees to injury due to arcing or the sudden movement of parts.",False,False
+11,C,1.0,d,,,d. Circuit breakers shall clearly indicate whether they are in the open (de- energized/off) or closed (energized/on) position.,False,False
+11,C,1.0,e,,,"e. Enclosures containing overcurrent protective devices shall be provided with lockable, close-fitting doors.",False,False
+11,C,1.0,f,,,"f. Access and working space shall be provided and maintained around all electrical equipment to permit ready and safe operation and maintenance in accordance with NFPA 70, Article 110.26, Spaces About Electrical Equipment. Where required clearance is not feasible (i.e., floating plant, vessels, etc.), procedures shall be in place to ensure sufficient clearance is maintained for fully opening the door and/or servicing the electrical enclosure.",False,False
+11,C,2.0,,,,11.C.02 Disconnects.,True,False
+11,C,2.0,a,,,a. Disconnecting means shall be located or shielded so that persons will not be injured when the disconnect is operated.,False,False
+11,C,2.0,b,,,b. Enclosures for disconnecting means shall be securely fastened to the surface and fitted with covers.,False,False
+11,C,2.0,c,,,c. Disconnecting means shall be capable of accepting a lock and of being locked in the open (de-energized/off) position.,False,False
+11,C,3.0,,,,11.C.03 Switches.,True,False
+11,C,3.0,a,,,"a. A readily accessible, manually-operated switch shall be provided for each incoming service or supply circuit.",False,False
+11,C,3.0,b,,,b. Switches shall be of the externally operable type mounted in an enclosure listed for the intended use and installed to minimize the danger of accidental operation.,False,False
+11,C,4.0,,,,"11.C.04 Switches, fuses, and automatic circuit breakers shall be marked, labeled, or arranged for ready identification of the circuits or equipment that they supply.",True,False
+11,C,5.0,,,,"11.C.05 Switches, circuit breakers, fuse panels, and motor controllers located outdoors or in wet locations shall be in a listed weatherproof enclosure or cabinet.",True,False
+11,D,,,,,11.D Grounding.,True,False
+11,D,1.0,,,,"11.D.01 All electrical circuits, equipment and enclosures shall be grounded in accordance with the NEC and the NESC to provide a permanent, continuous and effective path to ground unless otherwise noted in this manual.",True,False
+11,D,1.0,a,,,"a. A ground shall be provided for non-current carrying metallic parts of equipment such as generators (per NEC 250.34, portable and vehicle-mounted generators are exempt from grounding provided conditions if Section 11.D.01.b and c are met), non-engine driven electrically powered arc welders, light plants, switches, motor controller cases, fuse boxes, distribution cabinets, frames, non-current carrying rails used for travel and motors of electrically operated cranes, electric elevators, metal frames of non-electric elevators to which electric conductors are attached, other electric equipment, and metal enclosures around electric equipment.",True,False
+11,D,1.0,b,,,b. Portable Generators. Portable describes equipment that is easily carried by personnel from one location to another. The frame of a portable generator is not required to be grounded and may serve as the grounding electrode for a system supplied by the generator under the following conditions:,False,False
+11,D,1.0,b,1.0,,"(1) The generator supplies ONLY equipment mounted on the generator, cord-and-plug­connected equipment through receptacles mounted on the generator, or both; and",False,False
+11,D,1.0,b,2.0,,(2) The non-current-carrying metal parts of the equipment and the equipment grounding conductor terminals of the receptacles are bonded to the generator frame.,False,False
+11,D,1.0,c,,,c. Vehicle-Mounted Generators. The frame of a vehicle need not be grounded and may serve as the grounding electrode for a system supplied by a generator located on the vehicle under the following conditions:,False,False
+11,D,1.0,c,1.0,,(1) The frame of the generator is bonded to the vehicle frame;,False,False
+11,D,1.0,c,2.0,,(2) The generator supplies only equipment located on the vehicle or cord-and-plug­connected equipment through receptacles mounted on the vehicle;,False,False
+11,D,1.0,c,3.0,,(3) The non-current-carrying metal parts of equipment and the equipment grounding conductor terminals of the receptacles are bonded to the generator frame; and,False,False
+11,D,1.0,c,4.0,,(4) The system complies with provisions of Section 11.D.01.,True,False
+11,D,1.0,d,,,d. A system conductor that is required to be grounded (per NEC 250.34) shall be bonded to the generator frame where the generator is a component of a separately derived system.,False,False
+11,D,1.0,e,,,e. Portable and semi-portable electrical tools and equipment shall be grounded by a multi-conductor cord having an identified grounding conductor and a multi-contact polarized plug and receptacle.,False,False
+11,D,1.0,f,,,"f. Floodlights, light plants and work lights shall be grounded.",False,False
+11,D,1.0,g,,,"g. Tools protected by an approved system of double insulation, or its equivalent, need not be grounded. Double-insulated tools shall be distinctly marked and listed by a nationally-recognized testing laboratory.",False,False
+11,D,1.0,h,,,"h. A grounding terminal or grounding type device on a receptacle, cord connector, or attachment plug may not be used for purposes other than grounding.",False,False
+11,D,2.0,,,,11.D.02 Grounding rod and pipe electrodes.,True,False
+11,D,2.0,a,,,"a. Electrodes of rod or pipe shall be free from non-conducting coatings and, if practicable, shall be embedded below permanent moisture levels.",False,False
+11,D,2.0,b,,,"b. Grounding rods and pipe electrodes shall be in unbroken 8 ft (2.4 m) lengths and driven to full depth. Where rock bottom is encountered, the electrode shall be driven at an angle not to exceed 45° from the vertical or shall be buried in a trench that is at least  2.5 ft (0.7 m) deep.",False,False
+11,D,2.0,c,,,"c. A single electrode that does not have a resistance to ground of 25 ohms or less, shall be augmented by one additional electrode spaced no closer than 6 ft  (1.8 m) to the first electrode.",False,False
+11,D,2.0,d,,,"d. Electrodes or rods of iron or steel shall be at least 5/8 in (15 mm) diameter. Nonferrous rods, or their equivalent, shall be listed by a nationally-recognized testing laboratory and shall be at least ½ in (12 mm) diameter.",False,False
+11,D,2.0,e,,,e. Electrodes or pipe or conduit shall be at least ¾ in (21 mm) trade size. Pipes and conduit of iron or steel shall have the outer surface galvanized or otherwise metal- coated for corrosion control.,False,False
+11,D,2.0,f,,,f. Grounding electrode systems of permanent facilities shall be in accordance with NEC 250.,False,False
+11,D,3.0,,,,11.D.03 Conductors used for bonding or grounding stationary and movable equipment shall be of ample size to carry the anticipated current.,True,False
+11,D,3.0,a,,,"a. When attaching bonding and grounding clamps or clips, a secure and positive metal-to-metal contact shall be made.",False,False
+11,D,3.0,b,,,b. The ground end shall be attached first. The equipment end shall be attached and removed by insulated tools or other suitable devices.,False,False
+11,D,3.0,c,,,"c. When removing grounds, the grounding device shall be removed from the line or equipment first, using insulated tools or other suitable devices.",False,False
+11,D,3.0,d,,,d. Bonding and grounding attachments shall be made before systems are activated and shall not be broken until after systems are de-activated.,False,False
+11,D,3.0,e,,,e. A designated grounding conductor shall not be used as a current carrying conductor.,False,False
+11,D,4.0,,,,11.D.04 Grounding circuits shall be checked to ensure that the circuit between the ground and a grounded power conductor has a resistance low enough to permit sufficient current flow to allow the fuse or circuit breaker to interrupt the current.,True,False
+11,D,5.0,,,,"11.D.05 Ground-Fault Circuit-Interrupter (GFCI) Protection For Personnel. All receptacle outlets  (125-volt, 15-, 20-, 30-amperage and greater) that provide temporary electrical power during construction, remodeling, maintenance, repair, or demolition shall have ground-fault circuit-interrupter (GFCI) protection for personnel. > See NEC, Article 590.6 and 29 CFR 1926.404(b); See also paragraph g below.",True,False
+11,D,5.0,a,,,"a. GFCI protection shall be provided on all circuits serving portable electric hand tools or semi-portable electric power tools (such as block/brick saws, table saws, air compressors, welding machines, and drill presses).",False,False
+11,D,5.0,b,,,b. The GFCI device shall be calibrated to trip within the threshold values of 5 ma +/- 1 ma as specified in UL Standard 943. GFCI devices shall be tested before initial use and before use after modification.,False,False
+11,D,5.0,c,,,c. Receptacle outlets that are not part of the permanent wiring of the building or structure shall be GFCI protected by one of the following means:,False,False
+11,D,5.0,c,1.0,,(1) A receptacle outlet with integral GFCI protection;,False,False
+11,D,5.0,c,2.0,,(2) A standard receptacle outlet connected downstream of a receptacle outlet with integral GFCI protection; or,False,False
+11,D,5.0,c,3.0,,(3) Receptacles protected by a GFCI-type circuit breaker.,False,False
+11,D,5.0,d,,,"d. Receptacle outlets that are part of the permanent wiring of the building or structure and are used for temporary electric power, (including portable generators) shall use a portable GFCI if the receptacle outlets are not already GFCI protected. The portable GFCI shall be as near as practicable to the receptacle outlet. >Exception: In industrial facilities only, where conditions of maintenance and supervision ensure that only qualified personnel are involved, an Assured Equipment Grounding Conductor Program (AEGCP), see also Appendix E, shall be permitted for only those receptacle outlets used to supply equipment that would create a greater hazard if power was interrupted or having a design that is not compatible with GFCI protection.",False,False
+11,D,5.0,e,,,e. Electric tool circuits that are hard-wired directly to an electrical source of power shall be protected by a GFCI circuit-breaker type.,False,False
+11,D,5.0,f,,,f. GFCIs shall be installed in accordance with the NEC. The permanent wiring shall consist of electrical circuits grounded in accordance with the NEC.,False,False
+11,D,5.0,g,,,"g. GFCIs may be sensitive to some equipment (such as concrete vibrators), or unavailable for the voltage and current rating. In these instances, an AEGCP in accordance with Appendix E is acceptable in lieu of GFCIs if the exception is documented on an AHA and contains the following:",False,False
+11,D,5.0,g,1.0,,"(1) The conditions, or need, for the exception; and",False,False
+11,D,5.0,g,2.0,,(2) Implementation of the requirements of the AEGCP;,False,False
+11,D,5.0,g,3.0,,"(3) The request for the exception, the AHA, and the AEGCP must be submitted and accepted by the GDA prior to implementing the program.",False,False
+11,E,,,,,11.E Temporary Wiring and Lighting.,True,False
+11,E,1.0,,,,"11.E.01	A sketch of proposed temporary power distribution systems shall be submitted to the GDA and accepted for use before temporary power is installed. The sketch shall indicate the location, voltages, and means of protection of all circuits, including receptacles, disconnecting means, grounding, GFCIs, and lighting circuits.",True,False
+11,E,2.0,,,,11.E.02 Testing.,True,False
+11,E,2.0,a,,,"a. Temporary electrical distribution systems and devices shall be checked and found acceptable for polarity, ground continuity, and ground resistance before initial use and before use after modification. GFCI shall be tested monthly.",False,False
+11,E,2.0,b,,,b. Ground resistance and circuits shall be measured at the time of installation and shall comply with Sections 11.D.02 and 11.D.04. The measurement shall be recorded and a copy furnished to the GDA.,True,False
+11,E,3.0,,,,11.E.03 The vertical clearance of temporary wiring for circuits carrying 600 volts or less shall be:,True,False
+11,E,3.0,a,,,"a. 10 ft (3 m) above finished grade, sidewalks, or from any platform;",False,False
+11,E,3.0,b,,,"b. 12 ft (3.8 m) over areas other than public streets, alleys, roads and driveways, subject to vehicular traffic other than truck traffic;",False,False
+11,E,3.0,c,,,"c. 15 ft (4.5 m) over areas other than public streets, alleys, roads and driveways, subject to truck traffic;",False,False
+11,E,3.0,d,,,"d. 18 ft (5.5 m) over public streets, alleys, roads, and driveways.",False,False
+11,E,4.0,,,,11.E.04 Wet Locations. An Activity hazard Analysis (AHA) shall be developed by the work crew for these activities.,True,False
+11,E,4.0,a,,,a. Submersible electric pumps may be used to support periodic maintenance and/or construction activities only when the pump is designed by the manufacturer to operate in wet locations.,False,False
+11,E,4.0,a,1.0,,(1) The pump shall be installed and tested by a QP and operated by personnel trained to the appropriate level.,False,False
+11,E,4.0,a,2.0,,"(2) When personnel are, or could be, present in the water during pump operation, the pump shall be equipped with a Ground Fault Circuit Interrupter (GFCI), except as noted in (3) below. >Note: If pump manufacturer does not allow personnel in the area when pumps are used in water, an appropriate Hazardous Energy Control Program, to include lockout/tagout, must be in place. > See Section 12.",False,False
+11,E,4.0,a,3.0,,"(3) Where conditions of maintenance and supervision ensure that only qualified personnel are involved, an Assured Equipment Grounding Conductor Program (AEGCP, see Appendix E) shall be permitted for those receptacle outlets used to supply equipment that is not compatible with GFCI protection or that would create a greater hazard if power was interrupted. > See Section 11.D.05.g, NEC Article 590.6 and 29 CFR 1926.404(b). >Note: The AEGCP shall be continuously enforced at the site by one or more designated persons to ensure that equipment grounding conductors for all temporary power are installed and maintained in accordance with the AEGCP, NEC and OSHA.",True,False
+11,E,4.0,b,,,"b. Where a receptacle is used in a wet location, it shall be contained in a weatherproof enclosure, the integrity of which is not affected when an attachment plug is inserted.",False,False
+11,E,4.0,c,,,"c. All temporary lighting strings in outdoor or wet locations (such as tunnels, culverts, valve pits, floating plant, etc.) shall consist of lamp sockets and connection plugs permanently molded to the hard service cord insulation.",False,False
+11,E,5.0,,,,11.E.05 Wires shall be insulated from their supports.,True,False
+11,E,6.0,,,,11.E.06 Temporary lighting.,True,False
+11,E,6.0,a,,,a. Bulbs attached to temporary lighting strings and extension cords shall be protected by guards unless the bulbs are deeply recessed in a reflector.,False,False
+11,E,6.0,b,,,"b. Unless designed for suspension, temporary lights shall not be suspended by their electric wire.",False,False
+11,E,6.0,c,,,c. Exposed empty light sockets and broken bulbs shall be replaced immediately.,False,False
+11,E,6.0,d,,,"d. Portable electric lighting used in wet and/or other conductive locations (e.g., drums, tanks, vessels, sumps, scroll cases, etc.) shall be rated and operated at 12 volts or less. > See also Section 11.H.",True,False
+11,E,7.0,,,,"11.E.07 When temporary wiring is used in tanks or other confined spaces, an approved disconnect, properly identified, UL labeled, and rated for this application and environment, shall be provided at or near the entrance to such spaces for the purpose of readily disconnecting the electrical power in case of an emergency.",True,False
+11,E,8.0,,,,11.E.08 Non-metallic sheathed cable may be used as allowed by the NEC and as follows:,True,False
+11,E,8.0,a,,,"a. Along studs, joists, or similar supports closely following the building finish or running boards when 7 ft-8 in (2.3 m) or more above the floor;",False,False
+11,E,8.0,b,,,"b. When firmly attached to each cabinet, box fitting, or fixture by means of a cable clamp. > Non-metallic sheathed cable may not be used when precluded by the NEC nor as portable extension cords, lying on the ground subject to any type of traffic, where subject to frequent flexing, or as service entrance cable.",False,False
+11,E,9.0,,,,"11.E.09 Temporary lighting circuits shall be separate from electric tool circuits. Receptacle circuits shall be dedicated to either temporary lighting or electric tools and shall be labeled LIGHTS ONLY"" or ""TOOLS ONLY",True,False
+11,F,,,,,11.F Operations Adjacent to Overhead Lines.,True,False
+11,F,1.0,,,,11.F.01 Overhead transmission and distribution lines shall be carried on towers and poles that provide safe clearances over roadways and structures.,True,False
+11,F,1.0,a,,,a. Clearances shall be adequate for the movement of vehicles and for the operation of construction equipment.,False,False
+11,F,1.0,b,,,"b. All electric power or distribution lines shall be placed underground in areas where there is extensive use of equipment having the capability to encroach on the clearance distances specified in Section 11.E.03. For voltages greater than 600, reference NESC for required clearance distance.",True,False
+11,F,1.0,c,,,"c. Protection of outdoor trolleys and portable cables rated above 600 volts for supplying power to moveable construction equipment such as gantry cranes, mobile cranes, shovels, etc., shall conform to NESC.",False,False
+11,F,2.0,,,,11.F.02 Work activity adjacent to overhead lines shall not be initiated until a survey has been made to ascertain the safe clearance from energized lines. > See Section 11.A.02.,True,False
+11,F,3.0,,,,11.F.03 Any overhead wire shall be considered energized unless the person owning such line or operating officials of the electrical utility supplying the line certifies that it is not energized and it has been visibly grounded and tested.,True,False
+11,F,4.0,,,,11.F.04 Operations adjacent to overhead lines are prohibited unless at least one of the following conditions is satisfied:,True,False
+11,F,4.0,a,,,a. Power has been shut off and positive means taken to prevent the lines from being energized;,False,False
+11,F,4.0,b,,,"b. Equipment, or any part of the equipment, does not have the capability of coming within the minimum clearance from energized overhead lines as specified in Table 11-1, OR the equipment has been positioned and blocked to assure no part, including cables, wire rope, components and attachments, can come within those clearances; AND a notice of the minimum required clearance has been posted at the operator's position;",False,False
+11,F,4.0,c,,,"c. Electric line trucks and/or aerial lifts used for working on energized overhead lines must meet the requirements of OSHA 1910.269 and Table 11-I. >NOTE: Cranes and other equipment (excavators, forklifts, etc) used to hoist loads with rigging: Equipment operations in which any part of the equipment, load line, or load (including rigging and lifting accessories) is closer than the minimum approach distance in Table 11-1 to an energized power line is prohibited, except as allowed in Section 16.G.12. > See 16.G.12 and Table 16-2.",True,False
+11,F,5.0,,,,11.F.05 Work activity that could affect or be affected by overhead lines shall not be initiated until coordinated with the appropriate utility officials.,True,False
+11,F,6.0,,,,11.F.06 Standard emergency communication procedures shall be established and rehearsed to assure rapid emergency shutdown for all work being conducted on overhead power lines.,True,False
+11,F,7.0,,,,11.F.07 Floating plant and associated equipment shall not be sited or placed within 20 ft (6 m) of overhead transmission or distribution lines,True,False
+11,F,8.0,,,,"11.F.08 Cage boom guards, insulating links, or proximity warning devices may be used on cranes, but such devices shall not alter the requirements of any other regulation of this part, even if such device is required by law or other regulation. Insulating links shall be capable of withstanding a 1 minute dry low frequency dielectric test of 50,000 volts AC.",True,False
+11,F,9.0,,,,11.F.09 Induced currents.,True,False
+11,F,9.0,a,,,"a. Before work near transmitter towers where there is potential for an electrical charge to be induced in equipment or materials, the transmitter shall be de-energized or tests shall be conducted to determine if an electrical charge could be induced.",False,False
+11,F,9.0,b,,,b. The following precautions shall be taken to dissipate induced voltages:,False,False
+11,F,9.0,b,1.0,,(1) The equipment shall be provided with an electrical ground to the upper rotating structure supporting the boom; and,False,False
+11,F,9.0,b,2.0,,(2) Ground jumper cables shall be attached to materials being handled by boom equipment when electrical charge could be induced while working near energized transmitters. Crews shall be provided with nonconductive poles having large alligator clips or other similar protection to attach the ground cable to the load and insulating gloves will be used.,False,False
+11,G,,,,,11.G Batteries and Battery Charging.,True,False
+11,G,1.0,,,,"11.G.01 Batteries shall be stored in enclosures with outside vents or in well-ventilated rooms and be so arranged as to prevent the escape of fumes, gasses, electrolyte spray, or liquid electrolyte into other areas.",True,False
+11,G,2.0,,,,11.G.02 Provisions shall be made for sufficient diffusion and ventilation of gases from storage batteries to prevent the accumulation of explosive mixtures.,True,False
+11,G,3.0,,,,11.G.03 Battery storage and handling.,True,False
+11,G,3.0,a,,,a. Racks and trays shall be substantial and shall be treated to make them resistant to the electrolyte.,False,False
+11,G,3.0,b,,,b. Floors shall be of acid resistant construction or protected from accumulation of acid.,False,False
+11,G,3.0,c,,,c. Facilities for quick drenching of the eyes and body shall be provided for emergency use within 25 ft (7.6 m) of battery handling areas. > See Section 06.B.02.b.,True,False
+11,G,3.0,d,,,d. Use only insulated tools in the battery area to prevent accidental shorting across battery connections.,False,False
+11,G,3.0,e,,,e. PPE shall be used as prescribed in Section 11.G.06 and Section 5.,True,False
+11,G,3.0,f,,,"f. For lead acid batteries, bicarbonate of soda to neutralize any acid spillage [1 lb/gal (0.1 kg/L) of water] shall be provided for flushing and neutralizing spilled electrolyte and for fire protection.",False,False
+11,G,4.0,,,,11.G.04 Battery charging.,True,False
+11,G,4.0,a,,,a. Battery charging installations shall be located in areas designated for that purpose.,False,False
+11,G,4.0,b,,,b. Charging apparatus shall be protected against physical damage.,False,False
+11,G,4.0,c,,,"c. When charging batteries, the vent caps shall be kept in place to avoid spray of electrolyte. Care shall be taken to assure vent caps are functioning.",False,False
+11,G,4.0,d,,,"d. Prior to charging batteries, the electrolyte level shall be checked and adjusted to the proper level if necessary.",False,False
+11,G,5.0,,,,11.G.05 Exit route from battery area shall remain unobstructed.,True,False
+11,G,6.0,,,,11.G.06 PPE. The following shall be available and used for safe battery handling.,True,False
+11,G,6.0,a,,,a. Goggles and faceshields appropriate to the chemical and electrical hazard;,False,False
+11,G,6.0,b,,,b. Acid-resistant rubber gloves;,False,False
+11,G,6.0,c,,,c. Protective rubber aprons and safety shoes;,False,False
+11,G,6.0,d,,,"d. Lifting devices of adequate capacity, when required.",False,False
+11,H,,,,,11.H Hazardous (Classified) Locations.,True,False
+11,H,1.0,,,,"11.H.01 Locations of electrical equipment and wiring shall be classified on the properties of the flammable vapors, liquids or gases, or combustible dusts or fibers that may be present and the likelihood that a flammable or combustible concentration or quantity is present. In classifying locations, each room, section, or area shall be classified on an individual basis in accordance with the definitions given in Table 11-2 and NEC Article 500. These hazardous locations within the facility, as designated, shall be documented by the employer.",True,False
+11,H,2.0,,,,"11.H.02 All equipment, wiring methods, and installations of equipment in hazardous (classified) locations shall be either listed as intrinsically safe, listed for the hazardous location, or demonstrated to be safe for the location.",True,False
+11,H,3.0,,,,11.H.03 Only equipment wiring and installation of equipment in hazardous locations shall be permitted in those hazardous (classified) locations.,True,False
+11,H,4.0,,,,"11.H.04 Equipment and wiring listed for the hazardous (classified) location shall be approved not only for the class of location but also for the ignitable or combustible properties of the specific gas, vapor, dust, or fiber that will be present.",True,False
+11,H,4.0,a,,,"a. This equipment shall be marked to show the class, group, and operating temperature or temperature range for which it is approved.",False,False
+11,H,4.0,b,,,"b. With the following exceptions, the temperature marking shall not exceed the ignition temperature of the specific gas or vapor to be encountered.",False,False
+11,H,4.0,b,1.0,,"(1) Equipment of the non-heat producing type (e.g., junction boxes and conduit) and equipment of the heat producing type having a maximum temperature not more than 212°F (100°C) need not have a marked operating temperature or temperature range.",False,False
+11,H,4.0,b,2.0,,"(2) Fixed lighting fixtures marked for use in Class I, Division 2 or Class II, Division 2 locations need not be marked to indicate the group.",False,False
+11,H,4.0,b,3.0,,"(3) Fixed general-purpose equipment in Class I locations, other than lighting fixtures, that is acceptable for use in Class I, Division 2 locations need not be marked with the class, group, division, or operating temperature.",False,False
+11,H,4.0,b,4.0,,"(4) Fixed dust-tight equipment, other than lighting fixtures, that is acceptable for use in Class II, Division 2, and Class III locations need not be marked with the class, group, division, or operating temperature.",False,False
+11,H,5.0,,,,"11.H.05 Equipment that is safe for the hazardous location shall be of a type and design that will provide protection from the hazards arising from the combustibility and flammability of vapors, liquids, gases, dusts, or fibers involved.",True,False
+11,H,6.0,,,,11.H.06 Equipment approved for a specific hazardous location shall not be installed or intermixed with equipment approved for another specific hazardous location.,True,False
+11,H,7.0,,,,"11.H.07 All wiring components and utilization equipment shall be explosion proof (vapor, dust, or fiber tight) and shall be maintained in that condition.",True,False
+11,H,7.0,a,,,"a. There shall be no loose or missing screws, gaskets, threaded connections, or other impairments to this tight condition.",False,False
+11,H,7.0,b,,,"b. Conduits shall be threaded and made wrench-tight: where it is impractical to make a threaded joint tight, a bonding jumper shall be used.",False,False
+11,I,,,,,11.I Power Transmission and Distribution.,True,False
+11,I,1.0,,,,"11.I.01 The requirements in this subsection shall apply to the erection of new electric transmission and distribution lines and equipment, and the alteration, conversion, and improvement of existing electric transmission and distribution lines and equipment.",True,False
+11,I,2.0,,,,"11.I.02 Before starting work, existing conditions shall be evaluated and determined. Such conditions shall include, but not be limited to, location and voltage of energized lines and equipment, conditions of poles, and location of circuits and equipment including power and communication lines and fire alarm circuits.",True,False
+11,I,2.0,a,,,"a. Electric equipment and lines shall be considered energized until determined to be de-energized by tests, or other means, and grounds applied.",False,False
+11,I,2.0,b,,,b. New lines or equipment may be considered de-energized and worked as such where the lines or equipment are grounded or where the hazard of induced voltages is not present and adequate clearances or other means are implemented to prevent contact with energized lines or equipment.,False,False
+11,I,2.0,c,,,c. The operating voltage of equipment and lines shall be determined before working on or near energized parts.,False,False
+11,I,3.0,,,,11.I.03 Clearance requirements of either subparagraph a or b below shall be observed.,True,False
+11,I,3.0,a,,,a. No QP shall be permitted to approach or take any conductive object without an approved insulating handle closer to exposed energized parts than shown in Table 11-3 (phase to ground) unless:,False,False
+11,I,3.0,a,1.0,,(1) The QP is insulated or guarded from the energized part (gloves or gloves with sleeves rated for the voltage involved shall be considered insulation of the QP from the energized part);,False,False
+11,I,3.0,a,2.0,,(2) The energized part is insulated or guarded from the QP and any other conductive object at a different potential; or,False,False
+11,I,3.0,a,3.0,,"(3) The QP is isolated, insulated, or guarded from any other conductive object(s), as during live-line, bare-hand work.",False,False
+11,I,3.0,b,,,"b. The minimum phase to ground working distance and minimum clear hot stick distances in Table 11-3 shall not be exceeded. The minimum clear hot stick distance refers to the distance from the hot end of live-line tools to the lineman when performing live-line work. Conductor support tools (such as link sticks, strain carriers, and insulator cradles) may be used provided the clear length of insulation is at least as long as the insulator string or as long as the minimum phase to ground distance in Table 11-3.",False,False
+11,I,4.0,,,,"11.I.04 When de-energizing lines and equipment operated in excess of 600 volts, and the means of disconnecting from electric energy is not visibly open or visibly locked and tagged out, provisions a through g below are required. > In addition, requirements in Section 12 apply.",True,False
+11,I,4.0,a,,,a. The equipment or section of line to be de-energized shall be clearly identified and shall be isolated from all sources of voltage.,False,False
+11,I,4.0,b,,,b. Notification and assurance from the GDA shall be obtained that:,False,False
+11,I,4.0,b,1.0,,(1) All switches and disconnects through which electric energy may be supplied to the particular section of line or equipment to be worked have been de-energized;,False,False
+11,I,4.0,b,2.0,,(2) All switches and disconnects are plainly tagged and/or locked indicating that persons are at work; and,False,False
+11,I,4.0,b,3.0,,(3) All switches and disconnects capable of being rendered inoperable are rendered inoperable.,False,False
+11,I,4.0,c,,,"c. After all designated switches and disconnects have been opened, rendered inoperable, and tagged and/or locked, visual inspections shall be conducted to ensure that equipment or lines are de-energized.",False,False
+11,I,4.0,d,,,d. Protective grounds shall be applied on the disconnected equipment or lines to be worked on.  > See Section 11.I.07.,True,False
+11,I,4.0,e,,,e. Guards or barriers shall be erected as necessary to adjacent energized lines.,False,False
+11,I,4.0,f,,,"f. When more than one crew requires the same line or equipment to be de- energized, a prominent tag and lock for each crew shall be placed on the line or equipment by the Authorized Individual(s) holding the clearance(s) on said equipment or line.",False,False
+11,I,4.0,g,,,"g. Upon completion of work on de-energized lines or equipment, each Authorized Individual holding a clearance shall determine that all employees in the crew are clear and request a release of the clearance. The protective grounds installed will be removed. Authorized Individual will report to the GDA that all tags and locks protecting the crew may be removed.",False,False
+11,I,5.0,,,,"11.I.05 When opening or closing a disconnect switch or circuit breaker on a power transmission/distribution line, exposure to potential explosion shall be limited. Safe operating procedures shall be established to minimize the risk of explosion.",True,False
+11,I,6.0,,,,"11.I.06 When a crew working on a line or equipment can clearly see that the means of disconnecting from electrical energy are visibly open or visibly locked-out, the following provisions are required. > See Section 12.",True,False
+11,I,6.0,a,,,a. Guards or barriers shall be erected as necessary to adjacent energized lines.,False,False
+11,I,6.0,b,,,"b. Upon completion of work on de-energized lines or equipment, each designated person-in-charge shall determine that all employees in the crew are clear that all protective grounds installed by the crew have been removed and shall report to the GDA that all tags and locks protecting the crew may be removed.",False,False
+11,I,7.0,,,,11.I.07 Grounding.,True,False
+11,I,7.0,a,,,a. De-energized conductors and equipment that are to be grounded shall be tested or visually checked by meters or indicators to be de-energized.,False,False
+11,I,7.0,b,,,b. Requirements as detailed in NEC and NESC for placing and removing protective grounds shall be followed.,False,False
+11,I,7.0,c,,,"c. Grounds shall be placed between the work location and all sources of energy and as close as practicable to the work location, or grounds shall be placed at the work location.",False,False
+11,I,7.0,c,1.0,,"(1) If work is to be performed at more than one location in a line section, the line section must be grounded and short circuited at one location in the line section and the conductor to be worked on shall be grounded at each work location.",False,False
+11,I,7.0,c,2.0,,(2) The minimum distance in Table 11-3 shall be maintained from ungrounded conductors at the work location.,False,False
+11,I,7.0,c,3.0,,"(3) Where the making of a ground is impractical, or the conditions resulting from it would be more hazardous than working on the lines or equipment without grounding, the grounds may be omitted and the line or equipment worked as energized.",False,False
+11,I,7.0,d,,,d. Grounds may be temporarily removed only when necessary for test purposes and extreme caution shall be exercised during the test procedures. The lines or equipment from which grounds have been removed shall be considered energized.,False,False
+11,I,7.0,e,,,"e. When grounding electrodes are used, such electrodes shall have a resistance to ground of less than 25 ohms to remove the danger of harm to personnel or permit prompt operation of protective devices (NEC 250).",False,False
+11,I,7.0,f,,,f. Grounding to tower shall be made with a tower clamp capable of conducting the anticipated fault current.,False,False
+11,I,7.0,g,,,"g. All ground leads shall be properly sized for the anticipated fault current, but shall never be sized smaller than No. 2 AWG.",False,False
+11,I,8.0,,,,11.I.08 Tools.,True,False
+11,I,8.0,a,,,a. All hydraulic tools that are used on or around energized lines or equipment shall use non-conducting hoses having adequate strength for the normal operating pressures.,False,False
+11,I,8.0,b,,,b. All pneumatic tools that are used on or around energized lines or equipment shall have non-conducting hoses of adequate strength for the normal operating pressures and have an accumulator on the compressor to collect moisture.,False,False
+11,I,8.0,c,,,c. Portable metal or conductive ladders shall not be used near energized lines or equipment except in specialized work such as in high voltage substations where nonconductive ladders might present a greater hazard than conductive ladders. Conductive or metal ladders shall be prominently marked as conductive and all precautions shall be taken when used in specialized work.,False,False
+11,I,8.0,d,,,d. Conductive pull tape or rope shall not be used when working on or near energized parts.,False,False
+11,I,9.0,,,,11.I.09 Aerial lift trucks. > See Sections 18 and 22.M.,True,False
+11,I,9.0,a,,,a. The aerial device manufacturer shall state in the operator’s manual and on the instruction plate whether the aerial device is insulating or non-insulating.,False,False
+11,I,9.0,b,,,"b. Aerial lift trucks shall be grounded or barricaded and considered as energized equipment, or the aerial lift truck shall be insulated for the work being performed.  Table 11-1 will be legibly printed on a plate of durable non-conductive material and shall be mounted on the bucket or its vicinity so as to be visible to the operator of the boom.",False,False
+11,I,9.0,c,,,c. Equipment or material shall not be passed between a pole or structure and an aerial lift while an employee working from the basket is within reaching distance of energized conductors or equipment that are not covered with insulating protective equipment.,False,False
+11,I,9.0,d,,,d. Only qualified electrical workers may operate aerial lift equipment within the restricted approach boundary distances.,False,False
+11,I,10.0,,,,"11.I.10 With the exception of equipment certified for work on the proper voltage, mechanical equipment shall not be operated closer to any energized line or equipment than the clearances in Table 11-1 unless:",True,False
+11,I,10.0,a,,,a. An insulated barrier is installed between the energized part and the mechanical equipment;,False,False
+11,I,10.0,b,,,b. The mechanical equipment is grounded;,False,False
+11,I,10.0,c,,,c. The mechanical equipment is insulated; or,False,False
+11,I,10.0,d,,,d. The mechanical equipment is considered as energized.,False,False
+11,I,11.0,,,,11.I.11 Material handling and storage.,True,False
+11,I,11.0,a,,,"a. When hauling poles during the hours of darkness, illuminated warning devices shall be attached to the trailing end of the longest pole.",False,False
+11,I,11.0,b,,,"b. Materials and equipment shall not be stored under energized bus, energized lines, or near energized equipment if it is possible to store them elsewhere. If materials or equipment must be stored under energized lines or near energized equipment, clearance shall be maintained as in Table 11-1 and extraordinary caution shall be exercised in maintaining these clearances when operating equipment or moving materials near such energized equipment.",False,False
+11,I,11.0,c,,,c. Tag lines shall be of a non-conducting type when used near energized lines.,False,False
+11,I,12.0,,,,"11.I.12 Before climbing poles, ladders, scaffolds, or other elevated structures, an inspection shall determine that the structures are capable of sustaining the additional or unbalanced stresses to which they will be subjected. Poles or structures that may be unsafe for climbing shall not be climbed until made safe by guying, bracing, or other means.",True,False
+11,I,13.0,,,,"11.I.13 Before installing or removing wire or cable, action will be taken as necessary to prevent the failure of poles and other structures.",True,False
+11,I,14.0,,,,"11.I.14 When setting, moving, or removing poles by cranes, derricks, gin poles, A- frames, or other mechanized equipment near energized lines or equipment, precautions shall be taken to avoid contact with energized lines or equipment, except in bare hand, live-line work, or where barriers or protective devices are used.",True,False
+11,I,15.0,,,,"11.I.15 Unless using protective equipment for the voltage involved, employees standing on the ground shall avoid contacting equipment or machinery working adjacently to energized lines or equipment.",True,False
+11,I,16.0,,,,11.I.16 Lifting equipment shall be bonded to an effective ground or it shall be considered energized and barricaded when used near energized equipment or lines.,True,False
+11,I,17.0,,,,11.I.17 Pole holes shall not be left unattended or unguarded.,True,False
+11,I,18.0,,,,"11.I.18 Where necessary to assure the stability of mobile equipment, the location shall be graded and leveled.",True,False
+11,I,19.0,,,,"11.I.19 When employees are working at two or more levels on a tower, activities shall be conducted such that there is a minimum exposure of employees to falling objects.",True,False
+11,I,20.0,,,,11.I.20 Guy lines shall be used to maintain sections or parts of tower sections in position and to reduce the possibility of tipping. Guy lines on towers shall be protected at ground level from accidental contact.,True,False
+11,I,21.0,,,,11.I.21 Tower members and sections being assembled shall be adequately supported.,True,False
+11,I,22.0,,,,"11.I.22 No one shall be permitted under a tower that is in the process of erection or assembly, except as may be required to guide and secure the section being set.",True,False
+11,I,23.0,,,,"11.I.23 When erecting towers using hoisting equipment adjacent to energized transmission lines, the lines shall be de-energized when practical. If the lines are not de-energized, minimum clearance distances shall be maintained as specified in Table 11-1 and extraordinary caution shall be exercised in maintaining these clearances when operating equipment or moving materials near such energized equipment.",True,False
+11,I,24.0,,,,11.I.24 The load line shall not be detached from a tower section until the section is adequately secured.,True,False
+11,I,25.0,,,,"11.I.25 Except during emergency restoration procedures, tower erection shall be discontinued in high wind or other adverse weather conditions that could make the work hazardous. When work is conducted under such conditions, the hazards and the means for their control shall be delineated in an AHA.",True,False
+11,I,26.0,,,,"11.I.26 Before stringing operations, a briefing shall be held to discuss the following:",True,False
+11,I,26.0,a,,,a. The plan of operation;,False,False
+11,I,26.0,b,,,b. The type of equipment to be used;,False,False
+11,I,26.0,c,,,c. Grounding devices and procedures to be followed;,False,False
+11,I,26.0,d,,,d. Crossover methods to be employed; and,False,False
+11,I,26.0,e,,,e. Clearance authorizations that are required.,False,False
+11,I,27.0,,,,"11.I.27 When there is a possibility of a de-energized conductor being installed or removed coming into accidental contact with an energized circuit or receiving a dangerous induced voltage buildup, the conductor being installed or removed shall be grounded or provisions made to insulate or isolate the employee.",True,False
+11,I,28.0,,,,"11.I.28 If an existing line is de-energized, proper clearance authorization shall be secured and the line grounded on both sides of the crossover or the wire being strung or removed shall be considered and worked as energized.",True,False
+11,I,29.0,,,,"11.I.29 When crossing over energized conductors in excess of 600 volts, ropes, nets or guard structures shall be installed unless provision is made to isolate or insulate the worker or the energized conductor. Where practical the automatic re-closing feature of the circuit-interrupting device shall be made inoperative. In addition, the line being strung shall be grounded on either side of the crossover or considered and worked as energized.",True,False
+11,I,30.0,,,,"11.I.30 Conductors being strung or removed shall be kept under positive control by tension reels, guard structures, tie lines, or other means to prevent accidental contact with energized circuits.",True,False
+11,I,31.0,,,,"11.I.31 Guard structure members shall be sound, of adequate dimension and strength, and adequately supported.",True,False
+11,I,32.0,,,,"11.I.32 Catch-off anchors, rigging, and hoists shall be of ample capacity to prevent loss of the lines.",True,False
+11,I,33.0,,,,"11.I.33 Reel handling equipment, including pulling and braking machines, shall have ample capacity, operate smoothly, and be leveled and aligned in accordance with the manufacturer's operating instructions.",True,False
+11,I,34.0,,,,"11.I.34 The manufacturer's load rating shall not be exceeded for stringing lines, pulling lines, sock connections, and all load-bearing hardware and accessories.",True,False
+11,I,35.0,,,,11.I.35 Pulling lines and accessories shall be inspected regularly and replaced or repaired when damaged or when dependability may be doubtful.,True,False
+11,I,36.0,,,,11.I.36 Conductor grips shall not be used on wire rope unless designed for this application.,True,False
+11,I,37.0,,,,11.I.37 Employees shall not be permitted under overhead operations or on cross-arms while a conductor or pulling line is being pulled (in motion).,True,False
+11,I,38.0,,,,"11.I.38 A transmission clipping crew shall have a minimum of two structures clipped between the crew and the conductor being sagged. When working on bare conductors, clipping and tying crews shall work between grounds at all times; the grounds shall remain intact until the conductors are clipped in, except on dead end structures.",True,False
+11,I,38.0,,,,"11.I.39 Except during emergency restoration procedures, work from structures shall be discontinued when adverse weather (such as high wind or ice on structures) makes the work hazardous. Stringing and clipping operations shall be discontinued during an electrical storm in the vicinity.",True,False
+11,I,40.0,,,,11.I.40 Reliable communications between the reel tender and pulling rig operator shall be provided.,True,False
+11,I,41.0,,,,11.I.41 Each pull shall be snubbed or dead ended at both ends before subsequent pulls.,True,False
+11,I,42.0,,,,"11.I.42 Before stringing parallel to an existing energized transmission line, a determination, by a QP, shall be made to ascertain whether dangerous induced voltage buildups will occur, particularly during switching and ground fault conditions. When there is a possibility that such dangerous induced voltage may exist, the employer shall comply with the provisions of Sections 11.I.42 through 11.I.49 in addition to the provisions of Sections 11.I.25 through 11.I.40 unless the line is worked as energized.",True,False
+11,I,43.0,,,,"11.I.43 When stringing adjacent to energized lines, the tension stringing method or other methods that preclude unintentional contact between the lines being pulled and any person shall be used.",True,False
+11,I,44.0,,,,"11.I.44 All pulling and tensioning equipment shall be isolated, insulated, or grounded.",True,False
+11,I,45.0,,,,"11.I.45 A ground shall be installed between the tensioning reel setup and the first structure to ground each bare conductor, sub-conductor, and overhead ground conductor during stringing operations.",True,False
+11,I,46.0,,,,"11.I.46 During stringing operations, each bare conductor, sub-conductor, and overhead ground conductor shall be grounded at the first tower adjacent to both the tensioning and pulling setup and in increments so that no point is more than 2 mi (3.2 km) from a ground.",True,False
+11,I,46.0,a,,,a. The grounds shall be left in place until conductor installation is complete.,False,False
+11,I,46.0,b,,,b.These grounds shall be removed as the last phase of aerial cleanup.,False,False
+11,I,46.0,c,,,"c. Except for moveable-type grounds, the grounds shall be placed and removed with a hot stick.",False,False
+11,I,47.0,,,,"11.I.47 Conductors, sub-conductors, and overhead ground conductors shall be grounded at all dead-end or catch-off points.",True,False
+11,I,48.0,,,,"11.I.48 A ground shall be located at each side and within 10 ft (3 m) of working areas where conductors, sub-conductors, or overhead ground conductors are being spliced at ground level. The two ends to be spliced shall be bonded to each other. Splicing should be carried out on either an insulated platform or a conductive metallic grounding mat bonded to both grounds. The grounding mat should be roped off and an insulated walkway provided for access to the mat.",True,False
+11,I,49.0,,,,"11.I.49 All conductors, sub-conductors, and overhead ground conductors shall be bonded to any isolated tower where it may be necessary to complete work on the transmission line.",True,False
+11,I,49.0,a,,,a. Work on dead-end towers shall require grounding on all de-energized lines.,False,False
+11,I,49.0,b,,,b. Grounds may be removed as soon as the work is completed provided the line is not left open-circuited at the isolated tower at which work is being completed.,False,False
+11,I,50.0,,,,"11.I.50 When performing work from the structure, clipping crews and all others working on conductors, sub-conductors, or overhead ground conductors shall be protected by individual grounds installed at every workstation.",True,False
+11,I,51.0,,,,"11.I.51 Before using the live-line bare-hand technique on energized high-voltage conductors or parts, a check shall be made of:",True,False
+11,I,51.0,a,,,a. The voltage rating of the circuit on which the work is to be performed;,False,False
+11,I,51.0,b,,,b. The clearances to ground of lines and other energized parts of which work is to be performed; and,False,False
+11,I,51.0,c,,,c. The voltage limitations of the aerial-lift equipment intended to be used.,False,False
+11,I,52.0,,,,"11.I.52 Only tools and equipment designed, tested, and intended for live-line bare-hand work shall be used, and such tools and equipment shall be kept clean and dry.",True,False
+11,I,53.0,,,,11.I.53 All work shall be personally supervised by a person trained and qualified to perform live-line bare-hand work.,True,False
+11,I,54.0,,,,11.I.54 The automatic re-closing feature of circuit interrupting devices shall be made inoperative where practical before working on any energized line or equipment.,True,False
+11,I,55.0,,,,11.I.55 Work shall not be performed during electrical storms or when electrical storms are imminent.,True,False
+11,I,56.0,,,,11.I.56 A conductive bucket liner or other suitable conductive device shall be provided for bonding the insulated aerial device to the energized line or equipment.,True,False
+11,I,56.0,a,,,"a. The employee shall be connected to the bucket liner by conductive shoes, leg clips, or other suitable means; climbers shall not be worn while performing work from an aerial lift.",False,False
+11,I,56.0,b,,,"b. Where necessary, electrostatic shielding for the voltage being worked or conductive clothing shall be provided.",False,False
+11,I,57.0,,,,"11.I.57 Before the boom is elevated, the outriggers on the aerial truck shall be extended and adjusted to stabilize the truck. The body of the truck shall be bonded to an effective ground or barricaded and considered as energized equipment.",True,False
+11,I,58.0,,,,"11.I.58 Before moving an aerial lift into the work position, all controls (ground level and bucket) shall be checked and tested to determine that they are in proper working condition.",True,False
+11,I,59.0,,,,"11.I.59 Electrical insulating components and systems of aerial devices that are rated and used as an insulating device shall be, after a thorough inspection of their condition and cleanliness, tested for compliance with their rating.",True,False
+11,I,59.0,a,,,a. Tests shall be conducted in accordance with the manufacturer's recommendations.,False,False
+11,I,59.0,b,,,b. Tests shall be conducted only by QPs who are knowledgeable of the hazards.,False,False
+11,I,60.0,,,,11.I.60 All aerial lifts to be used for live-line bare-hand work shall have dual controls (ground level and basket).,True,False
+11,I,60.0,a,,,"a. The basket controls shall be within easy reach of the employee in the basket. If a two-basket lift is used, access to the controls shall be within easy reach from either basket.",False,False
+11,I,60.0,b,,,b. The ground level controls shall be located near the base of the boom and will permit override operation of equipment at any time.,False,False
+11,I,60.0,c,,,"c. Except in case of an emergency, ground level lift control shall not be operated unless permission has been obtained from the employee in the lift.  > See Section 11.I.57.",True,False
+11,I,61.0,,,,"11.I.61 Before an employee contacts the energized part to be worked on, the conductive bucket liner shall be bonded to the energized conductor by a positive connection that shall remain attached to the energized conductor until the work on the energized circuit is completed.",True,False
+11,I,62.0,,,,11.I.62 The minimum clearances for live-line bare-hand work shall be as specified in Table 11-3.,True,False
+11,I,62.0,a,,,"a. These minimum clearances shall be maintained from all grounded objects and from lines and equipment at a different potential than that to which the insulated aerial device is bonded, unless such grounded objects or other lines and equipment are covered by insulated guards.",False,False
+11,I,62.0,b,,,"b. These distances shall be maintained when approaching, leaving, and when bonded to the energized circuit.",False,False
+11,I,62.0,c,,,"c. When approaching, leaving, or bonding to an energized circuit, the minimum distances in  Table 11-3 shall be maintained among all parts of the insulated boom assembly and any grounded parts (including the lower arm or portions of the truck).",False,False
+11,I,62.0,d,,,"d. When positioning the bucket alongside an energized bushing or insulator string, the minimum line-to-ground clearances of Table 11-3 must be maintained among all parts of the bucket and the grounded end of the bushing or insulator string.",False,False
+11,I,62.0,e,,,e. A minimum clearance table (as in Table 11-3) shall be printed on a plate of durable nonconductive material and mounted in the bucket or in its vicinity so as to be visible to the boom operator.,False,False
+11,I,62.0,f,,,f. Only insulated measuring sticks shall be used to verify clearance distances.,False,False
+11,I,63.0,,,,"11.I.63 Handlines between buckets, booms, and the ground are prohibited.",True,False
+11,I,63.0,a,,,"a. Conductive materials more than 36 in (1 m) long shall NOT be placed in the bucket, except for appropriate length jumpers, armor rods, and tools.",False,False
+11,I,63.0,b,,,b. Non-conductive handlines may be used from line to ground when not supported from the bucket.,False,False
+11,I,64.0,,,,11.I.64 The bucket and boom shall not exceed the manufacturer's rated capacity while attempting to lift or support additional load.,True,False
+11,J,,,,,11.J Underground Electrical Installations.,True,False
+11,J,1.0,,,,11.J.01 Guarding underground openings.,True,False
+11,J,1.0,a,,,"a. Warning signs and rigid barricades shall be promptly placed when covers of manholes, handholes, or vaults are removed.",False,False
+11,J,1.0,b,,,"b. When an employee enters an underground opening the opening shall be protected with a barricade, temporary cover, or other guard appropriate for the hazard.",False,False
+11,J,1.0,c,,,c. Underground opening guards and warning signs shall be adequately illuminated.,False,False
+11,J,2.0,,,,"11.J.02 Maintenance holes and unvented vaults shall be treated as, and subject to the requirements of confined spaces. > See Section 33.",True,False
+11,J,3.0,,,,11.J.03 Smoking shall be prohibited in maintenance holes and vaults.,True,False
+11,J,4.0,,,,"11.J.04 When open flames must be used in manholes, ventilation shall be provided.",True,False
+11,J,5.0,,,,"11.J.05 Before using open flames in maintenance holes or vaults, the holes/vaults shall be tested and found safe or cleared of any combustible gases or liquids.",True,False
+11,J,6.0,,,,"11.J.06 When underground facilities are exposed (electric, gas, water, telephone, etc., or cables other than the one being worked on), they shall be protected to avoid damage.",True,False
+11,J,7.0,,,,"11.J.07 Before cutting into a cable or opening a splice, the cable shall be identified and verified to be the proper cable and de-energized.",True,False
+11,J,8.0,,,,"11.J.08 When working on buried cable or on cable in manholes, metallic sheath continuity shall be maintained by bonding across the opening or by equivalent means.",True,False
+11,K,,,,,11.K Work In Energized Substations.,True,False
+11,K,1.0,,,,"11.K.01 When working in an energized substation, authorization shall be obtained from the GDA before work is begun.",True,False
+11,K,2.0,,,,"11.K.02 When work is to be done in an energized substation, the following shall be determined:",True,False
+11,K,2.0,a,,,"a. The facilities that are energized, and",False,False
+11,K,2.0,b,,,b. Any protective equipment and precautions are necessary for the safety of personnel.,False,False
+11,K,3.0,,,,11.K.03 Clearance requirements per Section 11.I.03 shall be followed.,True,False
+11,K,4.0,,,,"11.K.04 Only qualified employees shall perform work on or adjacent to energized control panels.  > See Sections 11.A.01, 11.B.",True,False
+11,K,5.0,,,,"11.K.05 Precautions shall be taken to prevent accidental operation of relays or other protective devices due to jarring, vibration, or improper wiring.",True,False
+11,K,6.0,,,,"11.K.06 Use of vehicles, gin poles, cranes, and other equipment in unguarded high voltage equipment areas   shall at all times be controlled by qualified employees.  > See Table 11-1.",True,False
+11,K,7.0,,,,11.K.07 All mobile cranes and derricks shall be effectively grounded when being moved or operated near energized lines or equipment or the equipment shall be considered energized.,True,False
+11,K,8.0,,,,"11.K.08 When a substation fence must be expanded or removed, a temporary fence affording similar protection, when the site is unattended, shall be provided. Adequate interconnection with ground shall be maintained between temporary fence and permanent fence.",True,False
+11,K,9.0,,,,11.K.09 All gates to unattended substations shall be locked except when work is in progress.,True,False
+11,K,10.0,,,,"11.K.10 When switching gang switches, visual inspection shall be made to ensure all insulators and the switch handle ground is in good condition. Insulating gloves must be worn when operating switch handles.",True,False
+11,L,,,,,11.L Communication Facilities.,True,False
+11,L,1.0,,,,11.L.01 Employees shall not look into an open wave guide or antenna that is connected to an energized electromagnetic source.,True,False
+11,L,2.0,,,,"11.L.02 If the electromagnetic radiation level within an accessible area exceeds the levels given in Section 06.F, the area shall be posted with appropriate signs.",True,False
+11,L,3.0,,,,"11.L.03 When an employee works in an area where the electromagnetic radiation is unknown or could exceed the levels given in Section 06.F, measurements shall be taken to ensure that employee's exposure is not greater than that permitted.",True,False

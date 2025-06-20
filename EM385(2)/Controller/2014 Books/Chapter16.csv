@@ -1,0 +1,906 @@
+chapter,section,topic,refOne,refTwo,refThree,content,highlight,bookmark
+16,A,,,,,16.A General.,True,False
+16,A,1.0,,,,"16.A.01 The requirements of this Section are applicable to all load handling equipment (LHE) to include cranes, derricks, hoists and power-operated equipment that can be used to raise, lower and/or horizontally move a suspended load.",True,False
+16,A,1.0,,,,> Exemptions. All requirements of Section 16 apply except as noted below:,False,False
+16,A,1.0,a,,,"a. Affixed A-frames performing anchor handling or dredge-related operations (ONLY) with a vessel or barge are exempt from Sections 16.B and 16.C; In addition, see Section 16.L.08 for equipment-specific requirements;",True,False
+16,A,1.0,b,,,"b. Base-mounted drum hoists used to hoist personnel, guided and non-guided, whether powered by internal combustion engine, electric motor or other prime mover, to include air tuggers) are exempt from Sections 16.B;  In addition, see Section 16.U for equipment specific requirements;",True,False
+16,A,1.0,c,,,c. Digger derricks used for utility/pole installation;,False,False
+16,A,1.0,d,,,"d. Vehicle-mounted aerial devices (i.e., Bucket Trucks) - See Section 22.M VehicleMounted Elevating and Rotating Work Platforms (Aerial Devices/Lifts) and also Section 22.L, Elevating Aerial Work Platforms (AWPs);",True,False
+16,A,1.0,e,,,"e. Hydraulic Excavators, Wheeled/Trackhoe/Backhoe loaders used to hoist loads with rigging are exempt from the requirements in Sections 16.B.02 through 16.B.05 (crane operator certifications) only. Rigger qualifications still apply, per Section 15.B. See Section 16.S for equipment-specific requirements;",True,False
+16,A,1.0,f,,,"f. Powered Industrial Trucks (PIT’s, i.e., Forklifts)/Telehandlers when configured to hoist and lower (by means of a winch or hook) and horizontally move a suspended (rigged) load are exempt from the requirements in 16.B.02 through 16.B.05 (crane operator certifications) only, UNLESS this equipment is used to hoist/lift personnel. This activity is considered a Critical Lift and as such, requires a physical examination for the operator (per 16.B.05 and additional criteria per Section 16.Q. Rigger qualifications still apply, per Section 15.B. > See Section 16.  Q for equipment-specific requirements;",True,False
+16,A,1.0,g,,,"g. Machinery that hoists by using a come-a-long or chainfall (whether human-, air- or electric- powered, chain or wire-rope type);",False,False
+16,A,1.0,h,,,"h. Operators of equipment with a maximum manufacturer-rated hoisting/lifting capacity of 2,000 pounds (907 kg) or less, are exempt from the operator qualification or certification requirements in Sections 16.B.02 through 16.B.05 only. In addition, this equipment may not be used to hoist personnel;",True,False
+16,A,1.0,i,,,"i. Hoist Operators are exempt from Section 16.B.05, Physical Examination requirements UNLESS this equipment is used to hoist/lift personnel. This activity is considered a Critical Lift and requires a physical examination for the operator. In addition, all Class II operators that will be hoisting personnel shall be trained at a minimum, in the requirements listed in Section 16.T. > See also Section 16.C.07.b, Note 3 and Section 16.U;",True,False
+16,A,1.0,j,,,j. Dedicated drilling rigs;,False,False
+16,A,1.0,k,,,k. Tree trimming and removal work;,False,False
+16,A,1.0,l,,,l. Gin poles when used for the erection of communication towers;,False,False
+16,A,1.0,m,,,m. Helicopter cranes are exempt from Sections 16.B and 16.C;,True,False
+16,A,1.0,n,,,n. Stacker cranes;,False,False
+16,A,1.0,o,,,o. Mechanic’s Trucks with a hoisting device when used in activities related to maintenance and repair;,False,False
+16,A,1.0,p,,,p. Material Delivery.,False,False
+16,A,1.0,p,1.0,,"(1) Articulating/knuckle-boom truck cranes that deliver material to a construction site when used to transfer materials from the truck crane to the ground, without arranging the materials in a particular sequence for hoisting.",False,False
+16,A,1.0,p,2.0,,"(2) Articulating/knuckle-boom truck cranes that deliver material to a construction site when the crane is used to transfer building supply sheet goods or building supply packaged materials from the truck crane onto a structure, using a fork/cradle at the end of the boom, but only when the truck crane is equipped with a properly functioning automatic overload prevention device. Such sheet goods or packaged materials include, but are not limited to: sheets of sheet rock, sheets of plywood, bags of cement, sheets or packages of roofing shingles, and rolls of roofing felt.",False,False
+16,A,1.0,p,3.0,,(3) This exclusion does not apply when:,False,False
+16,A,1.0,p,3.0,a,"(a) The articulating/knuckle-boom crane is used to hold, support or stabilize the material to facilitate a construction activity, such as holding material in place while it is attached to the structure;",False,False
+16,A,1.0,p,3.0,b,"(b) The material being handled by the articulating/knuckle-boom crane is a prefabricated component. Such prefabricated components include, but are not limited to: precast concrete members or panels, roof trusses (wooden, cold-formed metal, steel, or other material), prefabricated building sections such as, but not limited to: floor panels, wall panels, roof panels, roof structures, or similar items;",False,False
+16,A,1.0,p,3.0,c,"(c) The material being handled by the crane is a structural steel member (for example, steel joists, beams, columns, steel decking (bundled or unbundled) or a component of a systems-engineered metal building.",False,False
+16,A,2.0,,,,"16.A.02 Certification of Compliance (COC). Contractors shall submit a COC for each piece of LHE prior to being brought on site. The COC shall be submitted to the GDA for acceptance. > See Form 16-1, Certificate Of Compliance.",True,False
+16,A,2.0,a,,,a. The COC states that the LHE and the rigging equipment meets applicable regulations (to include inspections and tests) as required by the manufacturers and the requirements of this manual. It must be signed by a Competent Person for Crane and Rigging. > See Appendix Q.,False,False
+16,A,2.0,b,,,b. COC shall be posted on the LHE.,False,False
+16,A,3.0,,,,16.A.03 Standard Lift Plan (SLP). All lifts must be planned to avoid situations where the operator cannot maintain safe control of the lift.,True,False
+16,A,3.0,a,,,"a. A written SLP shall be prepared for every lift or series of lifts (if duty cycle or routine lifts are being performed). The SLP shall be developed, reviewed and accepted by all personnel involved in the lift. The SLP shall be maintained on the LHE for the current lift(s) being made. Historical SLPs shall be maintained for a minimum of 3 months.",False,False
+16,A,3.0,b,,,"b. At a minimum, the following shall be addressed or use the non-mandatory Form 16-2, Standard Pre-Lift Plan/Checklist:",False,False
+16,A,3.0,b,1.0,,"(1) Personnel: roles, responsibilities, qualification, public persons or other trade personnel access or affected by lift;",False,False
+16,A,3.0,b,2.0,,"(2) Area Preparation: load handling location and path of travel, blocking/cribbing, overhead lines, ground stability;",False,False
+16,A,3.0,b,3.0,,"(3) LHE Considerations: capacity, configuration, obstructions, inspection, ground support conditions;",False,False
+16,A,3.0,b,4.0,,"(4) Load parameters: weight, center of gravity, radii, and configuration;",False,False
+16,A,3.0,b,5.0,,"(5) Rigging: type, inspection, need for softeners;",False,False
+16,A,3.0,b,6.0,,"(6) Environmental Considerations: wind, storms, precipitation, power lines in area of travel or load swing, counterweight swing area barricaded.",False,False
+16,A,4.0,,,,"16.A.04 The employer shall comply with all manufacturer's instructions, procedures and recommendations applicable to the operational functions of LHE, including LHE use with attachments. The safe operating speeds or loads shall not be exceeded. When they are not available, the employer shall develop and ensure compliance with all procedures necessary for the safe operation of the equipment and attachments according to:",True,False
+16,A,4.0,a,,,a. Procedures for the operational controls that must be developed by a Qualified Person (QP).,False,False
+16,A,4.0,b,,,b. Procedures related to the capacity of the equipment that must be developed and signed by a Registered Professional Engineer (RPE) familiar with the equipment.,False,False
+16,A,5.0,,,,"16.A.05 When the manufacturer's instructions or recommendations are more stringent than the requirements of this manual, the manufacturer's instructions or recommendations shall apply.",True,False
+16,A,6.0,,,,16.A.06. The use of all electronic equipment not necessary to the work activity being performed is prohibited.,True,False
+16,A,7.0,,,,"16.A.07 LHE shall be shut down before and during fueling operations. Closed systems, with an automatic shut-off that will prevent spillage if connections are broken, may be used to fuel diesel powered equipment left running.",True,False
+16,A,8.0,,,,16.A.08 Inspections or determinations of road and shoulder conditions and structures shall be made in advance to assure that clearances and load capacities are safe for the passage or placing of any LHE.,True,False
+16,A,9.0,,,,"16.A.09 Equipment requirements, as applicable to the type equipment.",True,False
+16,A,9.0,a,,,a. An operable fuel gage;,False,False
+16,A,9.0,b,,,b. An operable audible warning device (horn);,False,False
+16,A,9.0,c,,,c. Adequate rearview mirror or mirrors;,False,False
+16,A,9.0,d,,,d. Non-slip surfaces on steps;,False,False
+16,A,9.0,e,,,e. A power-operated starting device;,False,False
+16,A,9.0,f,,,f. Seats must be provided for the operator and all personnel that are required to be in/on equipment;,False,False
+16,A,9.0,g,,,"g. Whenever visibility conditions warrant additional light, all vehicles, or combinations of vehicles, in use shall be equipped with at least two headlights and two taillights in operable condition;",False,False
+16,A,9.0,h,,,"h. Glass in windshields, windows, and doors shall be safety glass. Cracked or broken glass shall be replaced;",False,False
+16,A,9.0,i,,,i. One (minimum) dry chemical or CO2 fire extinguisher with a minimum rating of 10B:C installed in the cab or at the machinery housing;,False,False
+16,A,9.0,j,,,"j. All self-propelled LHE, whether moving alone or in combination, shall be equipped with a back-up alarm. > See Section 18.B.01.",True,False
+16,A,9.0,k,,,"k. Warning lights, attached to the applicable equipment shall be used as collision avoidance measures for airfield operations. Lighting shall be in accordance with guidance provided by the Federal Aviation Administration (FAA). > For Airfield Operations, see Section 32.",False,False
+16,A,10.0,,,,16.A.10 Rollover protective structures (ROPS) as required by the manufacturer must be in place and maintained.,True,False
+16,A,11.0,,,,"16.A.11 The manufacturer’s specifications and operating manuals for hydraulic equipment and attachments utilizing quick connect/disconnect systems shall be followed. After completing a switch of attachments, the equipment operator shall take the actions necessary to ensure the quick connect/disconnect system is positively engaged.",True,False
+16,A,12.0,,,,"16.A.12 All required guarding and safety devices shall be provided, used and maintained:",True,False
+16,A,12.0,a,,,"a. All belts, gears, shafts, pulleys, sprockets, spindles, drums, flywheels, chains, or other reciprocating, rotating, or moving parts of equipment shall be guarded when exposed to contact by persons or when they otherwise create a hazard.",False,False
+16,A,12.0,b,,,"b. All hot surfaces of equipment, including exhaust pipes or other lines, shall be guarded or insulated to prevent injury and fire.",False,False
+16,A,12.0,c,,,"c. Platforms, foot walks, steps, handholds, guardrails, and toe boards shall be designed, constructed, and installed on machinery and equipment to provide safe footing and access ways.",False,False
+16,A,13.0,,,,"16.A.13 Work Area Control. When there are accessible areas in which the LHE’s rotating superstructure (permanently or temporarily mounted) poses a risk of striking or pinching/crushing an employee against another part of the equipment or another object, employees shall be prevented from entering these areas.",True,False
+16,A,14.0,,,,16.A.14 Running lines located within 6 ft - 6 in (1.9 m) of the ground or working level shall be guarded or the area restricted by physical barriers to preclude injury.,True,False
+16,A,15.0,,,,16.A.15 Maintenance/Repair of LHE.,True,False
+16,A,15.0,a,,,"a. Maintenance, including preventive maintenance and repairs, shall be performed in accordance with the manufacturer's recommendations. Records of maintenance and repairs conducted during the life of a contract shall be made available upon request of the GDA (contractor operators) or the supervisor/leader of the activity/task (government operators).",False,False
+16,A,15.0,b,,,"b. Replacement parts or repairs shall have at least the original design factor; replacement parts for load bearing and other critical parts shall be obtained from the original manufacturer, (if possible) or certified by a RPE knowledgeable in LHE.",False,False
+16,A,15.0,c,,,c. All LHE shall be shut down and positive means taken to prevent its operation while repairs or manual lubrications are being done.,False,False
+16,A,15.0,c,1.0,,(1) Equipment designed to be serviced while running are exempt from this requirement.,False,False
+16,A,15.0,c,2.0,,(2) Control of hazardous energy (lockout/tagout) must be considered during the maintenance and repair of equipment. A Hazardous Energy Control Program and specific isolation procedures shall be identified in the AHA and implemented to ensure the unexpected re-energization of the equipment does not occur. > See Section 12.,False,False
+16,A,16.0,,,,16.A.16 Parking.,True,False
+16,A,16.0,a,,,"a. Whenever LHE is parked, the parking brake shall be set.",False,False
+16,A,16.0,b,,,b. LHE parked on an incline shall have the wheels chocked or track mechanisms blocked and the parking brake set.,False,False
+16,A,16.0,c,,,"c. All LHE left unattended at night, adjacent to a highway in normal use or adjacent to construction areas where work is in progress, shall have lights or reflectors, or barricades equipped with lights or reflectors, to identify the location of the equipment.",False,False
+16,B,,,,,16.B Personnel Qualifications.,True,False
+16,B,1.0,,,,"16.B.01 LHE shall be operated only by trained, certified, qualified and designated personnel. Proof of qualification shall be provided by the employer and designation shall be in writing. In addition to fully qualified LHE operators, the following personnel may be designated (in writing) to operate LHE under limited conditions;",True,False
+16,B,1.0,a,,,a. Trainees under the direct supervision of the designated operator of the crane or hoist;,False,False
+16,B,1.0,b,,,"b. LHE maintenance, inspection and repair personnel are permitted to operate the equipment only where all of the following requirements are met.",False,False
+16,B,1.0,b,1.0,,"(1) The operation is limited to those functions necessary to perform maintenance, inspect the equipment, or verify its performance.",False,False
+16,B,1.0,b,2.0,,(2) Lifting of loads by these personnel is NOT allowed and they must either operate the equipment:,False,False
+16,B,1.0,b,2.0,a,"(a) under the direct supervision of a qualified operator (see Section 16.B.02), OR",True,False
+16,B,1.0,b,2.0,b,"(b) must read/review the operator’s manual so that they are familiar with the operations, limitation, characteristics and hazards associated with the LHE being inspected, maintained, or repaired.",False,False
+16,B,1.0,c,,,"c. LHE maintenance, inspection and repair personnel covered by this Section are exempt from the crane operator physical requirements identified in Section 16.B.05.",True,False
+16,B,2.0,,,,16.B.02 Crane Operator Requirements – General.,True,False
+16,B,2.0,a,,,"a. Prior to the start of a specific activity or task, documentation of operator certifications, qualifications and designations shall be included in the AHA and provided to the GDA (contractor operators) or the supervisor/leader of the activity/task (government operators).",False,False
+16,B,2.0,a,1.0,,(1) Certification for all crane/hoist operators shall be achieved by successful completion of written and operational testing.,False,False
+16,B,2.0,a,2.0,,(2) Qualification of all crane/hoist operators shall be made by the employer after a review of the certification documents and an assurance that the operator(s) is familiar with the equipment to be operated (has adequate knowledge of USACE and OSHA crane safety requirements and manufacturer recommendations provided in the crane operator’s manual).,False,False
+16,B,2.0,a,3.0,,(3) The employer then designates the operator(s) in writing for the equipment to be operated.,False,False
+16,B,2.0,b,,,"b. Crane Operators shall be able to communicate effectively with the lift supervisor, rigger(s), signal person(s) and other affected employees on site.",False,False
+16,B,2.0,c,,,"c. Crane operators shall demonstrate their ability to read, write and comprehend  in the language of the crane manufacturer’s operation and maintenance instruction materials, exhibit acceptable arithmetic skills and load/capacity chart usage and use written manufacturer procedures applicable to the type and configuration of equipment for which qualification is being sought.",False,False
+16,B,3.0,,,,"16.B.03 Crane Operator Certification, Qualification and Designation. The employer must ensure that, prior to operating any equipment covered under Section 16, the operator of the equipment is covered by Section 16.B.01, or is certified, qualified and designated in writing to operate the equipment in accordance with one of the following options:",True,False
+16,B,3.0,a,,,a. Option 1. Current certification by a Nationally Accredited Crane Operator Testing Organization.,False,False
+16,B,3.0,a,1.0,,"(1) The operator’s certificate must identify the type of equipment on which the operator was certified. Once the operator has obtained the certification, the employer must insure that the operator is qualified to operate a particular piece of equipment for that type and capacity and must designate this in writing.",False,False
+16,B,3.0,a,1.0,,"➢Note: If no accredited testing agency offers certification examinations for a particular type of equipment, an operator will be deemed certified to operate that equipment if he/she has been certified for the type/capacity that is most similar to that equipment and for which a certification examination is available. Employer qualification and designation on the equipment is still required.",False,False
+16,B,3.0,a,2.0,,"(2) For a testing organization to be considered accredited to certify operators, it must:",False,False
+16,B,3.0,a,2.0,a,"(a) Be accredited by a nationally recognized accrediting agency based on that agency’s determination that industry recognized criteria for written and practical testing materials, conditions and administration are being met;",False,False
+16,B,3.0,a,2.0,b,(b) Administer written and practical tests that assess operator applicants regarding necessary knowledge and skills and that provided different levels of certification based on equipment capacity and type;,False,False
+16,B,3.0,a,2.0,c,(c) Have procedures for operators to re-apply and be retested in event operator applicant fails a test or is decertified;,False,False
+16,B,3.0,a,2.0,d,(d) Have testing procedures for recertification;,False,False
+16,B,3.0,a,2.0,e,(e) Have accreditation reviewed by the nationally recognized accrediting agency at least every 3 years;,False,False
+16,B,3.0,a,2.0,f,(f) Issue a certification under this option that is portable and is valid for 5 years from date of issuance.,False,False
+16,B,3.0,b,,,"b. Option 2. Qualification by an audited employer program. The employer’s qualification of its employee must meet the following requirements: > Note: This ”audited” option was associated with a phase-in period. However, because Industry has not yet met these requirements, OSHA has extended the deadline until 14 Nov 2017, to meet this Option. In lieu of a “Certified auditor that is not an employee of the employer”, the employer’s qualification of its employees may be performed by a “Qualified Person (QP) that may be an employee of the employer”. In addition, the following must be met:",False,False
+16,B,3.0,b,1.0,,(1) Successful completion of written and practical tests that are either developed by an accredited crane operator testing organization (see Option 1 above) or approved by an auditor (QP) in accordance with the following:,False,False
+16,B,3.0,b,1.0,a,(a) The auditor (QP) is certified to evaluate such tests by an accredited crane operator testing organization (see Option 1 above);,False,False
+16,B,3.0,b,1.0,b,(b) The auditor is not an employee of the employer (see Note above);,False,False
+16,B,3.0,b,1.0,c,(c) The approval must be based on the auditor’s determination that the tests meet nationally recognized test development criteria and are valid and reliable in assessing the operator applicants’ knowledge and skill needed;,False,False
+16,B,3.0,b,1.0,d,(d) The audit must be conducted in accordance with nationally recognized auditing standards.,False,False
+16,B,3.0,b,2.0,,(2) The employer program shall be audited within 3 months of the beginning of the program and every 3 years thereafter;,False,False
+16,B,3.0,b,3.0,,(3) The employer program shall have testing procedures for recertification;,False,False
+16,B,3.0,b,4.0,,(4) Any significant deficiencies identified by the auditor shall be corrected prior to further qualification of any operators;,False,False
+16,B,3.0,b,5.0,,(5) Records of audits shall be retained for 3 years and made available to the GDA upon request;,False,False
+16,B,3.0,b,6.0,,(6) A qualification issued under this option:,False,False
+16,B,3.0,b,6.0,a,(a) Is not portable. Such a qualification meets the requirements of this Section only where the operator is employed by (and operating the equipment for) the employer that issued the qualification;,False,False
+16,B,3.0,b,6.0,b,(b) Is valid for 5 years from date of issuance.,False,False
+16,B,3.0,c,,,"c. Option 3. Qualification by the U.S. Military. An operator who is an employee of the U.S. military is considered qualified if he/she has a current operator certification, qualification and designation issued by the U.S. Military for operation of the equipment. An employee of the U.S. Military is a federal employee of the Department of Defense or Armed Forces and does not include employees of private contractors. This option includes USACE crane, derrick and hoist operators) and is further detailed in Section 16.B.04.",True,False
+16,B,3.0,d,,,d. Option 4. Licensing by a State or Local Government Entity. A government (state or local) licensing department/office that issues operator licenses for operating equipment covered by this Section is considered a government accredited crane operator testing organization provided the following criteria are met:,False,False
+16,B,3.0,d,1.0,,"(1) The requirements for obtaining the license include assessment and determination via written and operational tests of the operator applicant’s knowledge regarding safe operation of the specific type of equipment the individual will operate, including, at a minimum, the knowledge and skills listed in Section 16.B.02;",True,False
+16,B,3.0,d,2.0,,"(2) The testing meets industry recognized criteria for written testing materials, practical examinations, test administration, grading, facilities/equipment and personnel;",False,False
+16,B,3.0,d,3.0,,(3) The government authority that oversees the examiners has determined that the requirements for Option 4 licensing have been met;,False,False
+16,B,3.0,d,4.0,,(4) The examiner has testing procedures for recertification designed to ensure that the operator continues to meet the technical knowledge and skills requirements;,False,False
+16,B,3.0,d,5.0,,(5) A license issued by a government accredited crane operator testing organization:,False,False
+16,B,3.0,d,5.0,a,(a) Meets the operator qualification requirements of this Section for operation of equipment only within the jurisdiction of the government entity; and,False,False
+16,B,3.0,d,5.0,b,(b) Is valid for the period of time stipulated by the licensing department/office but no longer than 5 years.,False,False
+16,B,4.0,,,,"16.B.04 USACE Operator Certification , Qualification, and Designation.",True,False
+16,B,4.0,a,,,a. The following options are available for the certification and qualification of USACE operators:,False,False
+16,B,4.0,a,1.0,,"(1) Each crane operator may be trained, tested and certified by a nationally accredited testing organization, (see Section 16.B.03 Option 1); If this option is chosen, USACE is still responsible for ensuring that the operator is qualified to operate a particular piece of equipment (to include, type, capacity and configuration) and must designate this in writing; OR",True,False
+16,B,4.0,a,2.0,,"(2) Each operator can be trained, tested and licensed by a professional source that certifies crane operators as long as the program is audited (see Section 16.B.03, Option 2). This requirement will remain until 14 Nov 2017 whereupon this option will be replaced by one that is required to be audited by a 3rd party certified auditor. If this option is chosen, USACE is still responsible for ensuring that the operator is qualified to operate a particular piece of equipment (to include, type, capacity and configuration) and must designate this in writing, OR",True,False
+16,B,4.0,a,3.0,,"(3) Each operator can be trained, tested and licensed by a USACE designated in-house crane trainer in accordance with USACE National Crane Training Program. If this option is chosen, a qualified person is responsible for ensuring that the operator is qualified to operate a particular piece of equipment (to include, type, capacity and configuration) and must designate this in writing.",False,False
+16,B,4.0,b,,,b. Certification and qualification under this option is:,False,False
+16,B,4.0,b,1.0,,(1) Not portable. Such a certification and qualification meets the requirements of this Section only where the operator is employed by (and operating the equipment for) USACE; AND,False,False
+16,B,4.0,b,2.0,,(2) Is valid for 2 years from date of issuance.,False,False
+16,B,5.0,,,,"16.B.05 Operator Physical Qualifications/Examination. All crane operators shall be physically qualified to operate the equipment. Physical examinations for operators are required to be conducted every 2 years and any time a condition is observed that may impact safe operation. Written proof, signed by a physician [this term is intended to mean a Medical Doctor (M.D.) or Doctor of Osteopathy (D.O.)] stating that the operator has had a physical examination and meets the medical requirements set forth below shall be submitted to the GDA for acceptance prior to allowing an operator to operate the equipment.",True,False
+16,B,5.0,,,,➢Note: Operators of Hoisting Equipment are exempt from this requirement UNLESS this equipment is used to hoist/lift personnel. > See also Sections 16.A.01.i and 16.U;,True,False
+16,B,5.0,a,,,"a. Operators shall have a current physician's (M.D. or D.O.) certification, dated within the past 2 years, that states the operator meets the following physical qualifications:",False,False
+16,B,5.0,a,1.0,,"(1) Vision of at least 20/30 Snellen in one eye and 20/50 in the other, with or without corrective lenses;",False,False
+16,B,5.0,a,2.0,,(2) Normal depth perception and field of vision;,False,False
+16,B,5.0,a,3.0,,"(3) Ability to distinguish colors, regardless of position;",False,False
+16,B,5.0,a,4.0,,"(4) Adequate hearing, with or without hearing aid, for the specific operation;",False,False
+16,B,5.0,a,5.0,,"(5) Sufficient strength, endurance, agility, coordination, manual dexterity, and speed of reaction to meet the demands of equipment operation;",False,False
+16,B,5.0,a,6.0,,"(6) No evidence that the operator is subject to seizures or loss of physical control. If evidence of this nature is found, it may be sufficient cause for disqualification. In such cases, specialized medical tests may be required to evaluate these conditions and determine their impact;",False,False
+16,B,5.0,a,7.0,,"(7) No Evidence of physical, emotional or psychological limitations that could result in a hazard to the operator, or that in the opinion of the examiner could interfere with the operator’s performance. If evidence of this nature is found, it may be sufficient cause for disqualification. Specialized medical tests may be required to determine these conditions.",False,False
+16,B,5.0,b,,,b. Deviations from Physical Qualification Requirements.,False,False
+16,B,5.0,b,1.0,,(1) Deviations from the physical requirements are not necessarily totally disqualifying.,False,False
+16,B,5.0,b,2.0,,"(2) However, where such deviations exist, competent medical and management authorities shall give special consideration to each individual case and may recommend waivers.",False,False
+16,B,5.0,b,3.0,,"(3) Waivers may be approved by the local Safety and Occupational Health office (SOHO) and must be re-issued every 2 years, based on results of operator's medical clearance examination. A copy shall be provided to HQ, SOHO.",False,False
+16,B,5.0,b,4.0,,"(4) Normally, waivers shall not be granted for applicants who have never before established operator qualifications.  However, an evaluation on an individual basis shall be made per the above requirements. Any limitations identified shall be noted on the operator’s license and license record.",False,False
+16,B,5.0,c,,,c. Contractor drug testing program. All contractor crane operators shall participate in a drug testing program and have a negative result for a substance abuse test. The level of testing will be in accordance with standard practices for industry or by the agency’s random drug testing program. This test will be confirmed by a recognized laboratory service.,False,False
+16,B,5.0,d,,,"d. Government drug testing program. All government (DOD) crane operators, as identified below, shall participate in a drug testing program and have a negative result for a substance abuse test, per AR 600-85, paragraph 5-8 (15). In addition, if an employee is in any other specified Test Designated Position (TDP) in this AR 600-85, he/she must be tested accordingly. The level of testing will be in accordance with by the agency’s testing program. This test will be confirmed by a recognized laboratory service:",False,False
+16,B,5.0,d,1.0,,"(1) Crane operators that operate OVERHEAD CRANES (only) with a lifting capacity of 20T or greater, AND",False,False
+16,B,5.0,d,2.0,,"(2) Are in the following job series and are required to operate, inspect, maintain, repair or rig loads for overhead cranes:",False,False
+16,B,5.0,d,2.0,a,"(a) WG-5725, Crane Operator;",False,False
+16,B,5.0,d,2.0,b,"(b) WG-3359, Instrument Mechanic;",False,False
+16,B,5.0,d,2.0,c,"(c) WG-5350, Machinery Mechanic; OR",False,False
+16,B,5.0,d,2.0,d,"(d)  WK-5401, Industrial Equipment Operator.",False,False
+16,B,6.0,,,,16.B.06 Signal Person Qualifications.,True,False
+16,B,6.0,a,,,a. All signal persons must be qualified by either a third party Qualified Evaluator or the employer’s Qualified Evaluator/LHE trainer.,False,False
+16,B,6.0,b,,,"b. Documentation must be provided by the Evaluator and must specify each type of signaling (e.g., hand signals, radio signals, etc.) for which the signal person meets the requirements of this Section.",False,False
+16,B,6.0,c,,,c. If subsequent actions by the signal person indicate that the individual does not meet the qualification requirement of this Section the employer must not allow the individual to continue working as a signal person until retraining is provided and a re-assessment is made.,False,False
+16,B,6.0,d,,,d. The qualification means that the Evaluator has assessed the individual’s capabilities and has determined that the signal person has met the qualification requirements below:,False,False
+16,B,6.0,d,1.0,,"(1) Know and understand the type of signals used (radio, cell, hand, etc). If hand signals are used, the signal person must know and understand the Standard Method for hand signals;",False,False
+16,B,6.0,d,2.0,,(2) Be competent in the application of the type of signals used;,False,False
+16,B,6.0,d,3.0,,"(3) Have a basic understanding of crane operation and limitations, including crane dynamics involved in swinging and stopping loads and boom deflection from hoisting loads;",False,False
+16,B,6.0,d,4.0,,(4) Demonstrate that he/she meets the requirements above through a written and practical test.,False,False
+16,B,6.0,e,,,e. An assessment by an employer’s Qualified Evaluator/LHE trainer is not portable. Other employers are not permitted to use it to meet these requirements.,False,False
+16,C,,,,,16.C Classification of USACE LHE and Training of USACE Operators. >NOTE: Operator qualifications/licenses detailed below are only valid provided operator receives refresher training as required below.,True,False
+16,C,1.0,,,,"16.C.01 Designated personnel must be qualified to operate a particular Class (i.e., mobile, tower, overhead, etc.) and type (lattice boom, hydraulic boom, etc.) of crane or hoist and the training provided shall be applicable to that Class and type of crane or hoist. The USACE classification of cranes and hoisting equipment and their associated training requirements are identified here. All exams shall meet the applicable parts of Option 3, based on type of equipment.",True,False
+16,C,2.0,,,,16.C.02. Class I crane/hoist types:,True,False
+16,C,2.0,a,,,a. Fixed cab telescopic hydraulic mobile cranes;,False,False
+16,C,2.0,b,,,b. Swing cab telescopic hydraulic mobile cranes;,False,False
+16,C,2.0,c,,,"c. Lattice boom, truck or crawler cranes;",False,False
+16,C,2.0,d,,,"d. Cab-operated overhead, bridge, gantry, under hung and monorail cranes;",False,False
+16,C,2.0,e,,,"e. Remote-operated (wireless) overhead, bridge, gantry, under hung and monorail cranes over 30T capacity: >Exemption: Operators of CONTINUALLY GUIDED loads over 30T are considered Class II operators. As an example, gates that are raised and lowered in a slot and remain in a slot.  However, if a gate clears the slot and is freely suspended, then a Class I operator is required).",False,False
+16,C,2.0,f,,,f. Hammerhead cranes;,False,False
+16,C,2.0,g,,,g. Portal cranes;,False,False
+16,C,2.0,h,,,h. Tower cranes;,False,False
+16,C,2.0,i,,,i. Derricks post or stiff leg type;,False,False
+16,C,2.0,j,,,"j. Floating or barge-mounted LHE, temporarily or permanently mounted, that requires a Naval Architect Analysis (NAA)/floating load chart per Section 16.L.",True,False
+16,C,3.0,,,,"16.C.03 Class I operators are qualified to operate, perform preventive maintenance and inspection of this equipment as required;",True,False
+16,C,4.0,,,,16.C.04 Class I training must be:,True,False
+16,C,4.0,a,,,a. Initial: A minimum of 24-hour training with successful completion (passed) written and practical/operational examinations;,False,False
+16,C,4.0,b,,,"b. Biennial (every 24 months) Refresher: A minimum of 8-hour refresher training, with successful completion (passed) of written and practical/operational examination. > Note: Grace Period - refresher training is intended to be obtained every 24 months. Understanding that emergencies and other unplanned events can occur that may interrupt the normal scheduling of this training, a 60-day grace period is permitted IF necessary and is dependent upon supervisory approval.",False,False
+16,C,5.0,,,,16.C.05 Class II crane/hoist types:,True,False
+16,C,5.0,a,,,"a. All hard-wired, pendant-mounted operated overhead, bridge and gantry cranes;",False,False
+16,C,5.0,b,,,b.  Under hung;,False,False
+16,C,5.0,c,,,c. Monorail;,False,False
+16,C,5.0,d,,,d. Pedestal;,False,False
+16,C,5.0,e,,,e. Wall-mounted jib cranes.,False,False
+16,C,5.0,f,,,"f. Any remote-operated (wireless) overhead, bridge, gantry, under hung and monorail cranes 30T capacity or less;",False,False
+16,C,5.0,g,,,"g. Base-Mounted Drum Hoists used to Hoist Personnel, Guided and Non-guided Worker’s Hoists [Whether Powered by Internal Combustion Engine, Electric Motor or Other Prime Mover (Air Tuggers)].",False,False
+16,C,6.0,,,,"16.C.06 Class II crane operators are qualified to operate, perform preventive maintenance and inspection of this equipment as required.",True,False
+16,C,7.0,,,,"16.C.07 Class II training, must be:",True,False
+16,C,7.0,a,,,a. Initial: A minimum of 2-hour training with successful completion (passed) of written and practical/operational examinations;,False,False
+16,C,7.0,b,,,"b. Biennial (every 24 months) Refresher: A minimum of 1-hour refresher training with successful completion (passed) of written and practical/operational examination. >Note 1: Grace Period - Refresher training is intended to be obtained every 24 months. Understanding that emergencies and other unplanned events can occur that may interrupt the normal scheduling of this training; a 60-day grace period is permitted IF necessary and is dependent upon supervisory approval. >Note 2: Exemption of equipment with a maximum manufacturer-rated hoisting/lifting capacity of 2,000 pounds or less (exempt from the requirements in Sections 16.B.02 through 16.B.06 only), See Section 16.A.01.h. It is anticipated that operator of this equipment will review manufacturer’s instructions for proper operation however. This equipment shall not be used for hoisting personnel. >Note 3: Operators of Class II cranes/hoisting equipment are exempt from Section 16.B.05, Physical Examination requirements, UNLESS this equipment is used to hoist/lift personnel. See also Sections 16.A.01.i, 16.B.05 and 16.U. This activity is considered a Critical Lift and requires a physical examination for the operator. In addition, All Class II operators that will be hoisting personnel shall be trained at a minimum, in the requirements listed in Section 16.T, 16. U or other applicable equipment-related Section.",True,False
+16,C,8.0,,,,"16.C.08 Prior to re-issuance of qualification, crane and hoisting equipment operators must have attended applicable training (initial and refresher) and passed the written and operational examination requirements specified above.",True,False
+16,C,9.0,,,,"16.C.09 Each USACE activity or operating project will maintain a current list of operators, complete crane and hoisting equipment training records for each operator, and a list of all equipment that each operator is qualified to operate.",True,False
+16,D,,,,,16.D Inspection Criteria for Load Handling Equipment (LHE).,True,False
+16,D,1.0,,,,"16.D.01  Inspections of LHE shall be in accordance with this Section, applicable ASME standards, OSHA regulations and the manufacturer’s recommendations.",True,False
+16,D,2.0,,,,"16.D.02 Records of all LHE tests and inspections shall be maintained onsite. Contractors shall make these records readily available upon request and, when submitted, they shall become part of the official project file.",True,False
+16,D,3.0,,,,16.D.03  Contractor shall provide the GDA 24-hours notice in advance of any LHE entering the site (prior to inspection/tests) so that observation of the Contractor’s inspection process and spot checks may be conducted.,True,False
+16,D,4.0,,,,"16.D.04 Whenever any LHE is found to be unsafe, or whenever a deficiency that affects the safe operation of the LHE is observed, the affected LHE shall be immediately taken out of service and its use prohibited until unsafe conditions have been corrected.",True,False
+16,D,5.0,,,,"16.D.05 Cranes, hoists, derricks and other LHE in regular service.",True,False
+16,D,5.0,a,,,a. Inspection procedures for LHE in regular service are divided into three general classifications based on the intervals at which inspections shall be performed.,False,False
+16,D,5.0,b,,,"b. The intervals depend on the nature of critical components of the LHE and the degree of their exposure to wear, deterioration, or malfunction.",False,False
+16,D,5.0,c,,,"c. The three general types are: Shift, Monthly and Annual. >Note: Monthly inspections are required by OSHA. The items to be inspected and the requirements are the same as those covered by the Shift inspection, therefore monthly inspections will not be addressed separately in this Section but still must be performed.",False,False
+16,D,6.0,,,,"16.D.06 Shift Inspections. Before every LHE operation (at beginning of each shift) or following a change of operator, a Competent Person (CP) shall, at a minimum, visually inspect the items in accordance with this Section, applicable ASME standards, OSHA regulations and the manufacturer’s recommendations. Equipment shall not be used until this inspection demonstrates that no corrective action is required.",True,False
+16,D,6.0,a,,,"a. The shift inspection must be documented and shall include the results of the inspection, name and signature of the CP who conducted the inspection and the date of the inspection.",False,False
+16,D,6.0,b,,,"b. Documentation shall be maintained for a minimum of 12 months, or the life of the contract, whichever is longer.",False,False
+16,D,7.0,,,,"16.D.07 Annual Inspections shall be performed at least annually, or more frequently if recommended by the manufacturer, or if a load bearing or load controlling part or component has been altered, replaced or repaired. > See Section 16.F.02.b (1). >Note: Adding/removing counterweights is not considered load controlling/load bearing.",True,False
+16,D,7.0,a,,,a. Annual inspection shall be done by a QP and will include operational testing to determine that the equipment as configured in the inspection is functioning properly.,False,False
+16,D,7.0,b,,,"b. The inspection must be documented and shall include items checked and results of inspection, name and signature of the person who conducted the inspection, and the date and this documentation must be retained until at least the next annual inspection occurs, 12 months, or the duration of the contract, whichever is longer.",False,False
+16,D,7.0,c,,,"c. If any deficiency is identified, an immediate determination shall be made by the QP as to whether the deficiency constitutes a safety hazard. If so, then the equipment shall be removed from service until it has been corrected. If not yet a safety hazard, the QP may determine that the employer shall monitor daily until the deficiency is corrected.",False,False
+16,D,8.0,,,,"16.D.08 Inspection of cranes, derricks and other LHE not in regular use. Annual inspection shall be performed if the equipment has been idle for 3 months or more.  > See Section 16.D.07.",True,False
+16,D,9.0,,,,"16.D.09 If LHE is involved in an incident or accident, an inspection shall be conducted in accordance with the manufacturer’s recommendations. If the manufacturer is no longer available, a RPE shall be consulted and shall determine the level of inspection required.",True,False
+16,D,10.0,,,,16.D.10 Running and Standing Wire Rope Inspection.,True,False
+16,D,10.0,a,,,"a. Each Shift. A CP shall perform this inspection each shift by visually inspecting all running ropes, counterweight ropes and load trolley (standing) ropes in accordance with this Section, applicable ASME standards, OSHA regulations and the manufacturer’s recommendations. Visual inspection shall concentrate on identifying apparent deficiencies in wire rope (running and standing). Opening of wire rope is prohibited and booming down is not required as part of this inspection.",False,False
+16,D,10.0,a,1.0,,"(1) The shift inspection must be documented and shall include the results of the inspection, name and signature of the CP who conducted the inspection and the date of the inspection.",False,False
+16,D,10.0,a,2.0,,"(2) Documentation shall be maintained for a minimum of 12 months, or the life of the contract, whichever is longer.",False,False
+16,D,10.0,b,,,"b. Annual. At least every 12 months, wire ropes (running and standing) in use on equipment must be inspected by a QP in accordance with this Section, applicable ASME standard, OSHA regulations and the manufacturer’s recommendations. Documentation is same as for Shift inspections above.",False,False
+16,E,,,,,16.E Safety Devices and Operational Aids. Safety devices and operational aids shall not be used as a substitute for the exercise of professional judgment by the operator.,True,False
+16,E,1.0,,,,16.E.01 Safety Devices. The following safety devices are required on all cranes and derricks covered by Section 16 unless otherwise specified.,True,False
+16,E,1.0,a,,,a. Crane level indicator.,False,False
+16,E,1.0,a,1.0,,(1) The equipment shall have a crane level indicator that is either built into the equipment or is available on the equipment.,False,False
+16,E,1.0,a,2.0,,"(2) This requirement does not apply to portal overhead or gantry cranes, derricks, floating cranes/derricks and crane/derricks on barges, pontoons, vessels or other means of flotation.",False,False
+16,E,1.0,b,,,"b. Boom stops, except for derricks and hydraulic booms.",False,False
+16,E,1.0,c,,,"c. Jib stops (if jib is attached), except for derricks.",False,False
+16,E,1.0,d,,,"d. Equipment with foot pedal brakes shall have locks, except for portal and floating cranes.",False,False
+16,E,1.0,e,,,e. Hydraulic outrigger jacks shall have an integral holding device (check valve).,False,False
+16,E,1.0,f,,,"f. Equipment on rails shall have rail clamps and rail stops, except for portal cranes.",False,False
+16,E,1.0,g,,,g. Horn.,False,False
+16,E,2.0,,,,16.E.02 Proper Operation of Safety Devices.,True,False
+16,E,2.0,a,,,a. Operations shall not begin unless the safety devices listed above are in proper working order.,False,False
+16,E,2.0,b,,,"b. If a safety device stops working properly during operations, the operator shall safely stop operations.",False,False
+16,E,2.0,c,,,c. Operations shall not resume until the device is again working properly.,False,False
+16,E,2.0,d,,,d. Alternative measures are not permitted to be used.,False,False
+16,E,3.0,,,,16.E.03 Operational Aids.,True,False
+16,E,3.0,a,,,"a. Operations shall not begin unless the listed operational aids are in proper working order except where the employer meets the specified temporary alternative measures. More protective alternative measures specified by the crane manufacturer, if any, shall be followed.",False,False
+16,E,3.0,b,,,"b. If a listed operational aid stops working properly during operations, the operator shall safely stop operations until the temporary alternative measures are implemented or the device is again working properly. If a replacement part is no longer available, the use of a substitute device that performs the same type of function is permitted and is not considered a modification.",False,False
+16,E,3.0,c,,,"c. Category I operational aids and alternative measures. Operational aids listed in this paragraph that are not working properly shall be repaired not later than 7 days after the deficiency occurs. >Exception: If the employer documents that it has ordered the necessary parts within 7 days of the occurrence of the deficiency, the repair shall be completed within 7 days of receipt of the parts.",False,False
+16,E,3.0,c,1.0,,(1) Boom hoist limiting device. TEMPORARY alternative measures (use at least one):,False,False
+16,E,3.0,c,1.0,a,(a) Use a boom angle indicator;,False,False
+16,E,3.0,c,1.0,b,"(b) Clearly mark the boom hoist cable, in a visible location to the operator, at a point that will give the operator sufficient time to stop the hoist to keep the boom within the minimum allowable radius. In addition, install mirrors or remote video cameras and displays if necessary for the operator to see the mark;",False,False
+16,E,3.0,c,1.0,c,"(c) Clearly mark the boom hoist cable, in a visible location to the spotter, at a point that will give the spotter sufficient time to signal the operator and have the operator stop the hoist to keep the boom within the minimum allowable radius.",False,False
+16,E,3.0,c,2.0,,(2) Luffing jib limiting device. Equipment with a luffing jib shall have a luffing jib limiting device.,False,False
+16,E,3.0,c,3.0,,(3) Anti two-blocking device (A2B).  Anti-two blocking devices shall be installed at all points of  two-blocking.,False,False
+16,E,3.0,c,3.0,a,(a) All cranes and derricks shall be equipped with A2B/Hoist-limit device that will disengage the function that is causing the two-blocking or an A2B damage prevention feature (except as noted). They shall be tested and certified functional by a CP prior to operating the crane.,False,False
+16,E,3.0,c,3.0,b,"(b) Lattice boom cranes:  Lattice boom cranes shall be equipped with an A2B device to stop the load hoisting and boom-down functions before the load block or load contacts the boom tip. >Exception 1 – Duty Cycle: Lattice boom cranes that are used exclusively for duty cycle operations are exempt from A2B equipment requirements. When a lattice boom crane engaged in duty cycle work is required to make a non-duty cycle lift (for example, to lift a piece of equipment), it will be exempt from the A2B equipment requirements if the following procedures are implemented:",False,False
+16,E,3.0,c,3.0,i,"(i) An international orange colored warning device (flag, tape or ball) is properly secured to the hoist line at a distance of 8 ft to 10 ft (2.4 m to 3m) above the rigging;",False,False
+16,E,3.0,c,3.0,i,(ii) The signal person acts as a spotter to alert the crane operator with a “STOP” signal when the warning device approaches the boom tip and the crane operator ceases hoisting functions when alerted of this;,False,False
+16,E,3.0,c,3.0,i,"(iii) While the non-duty cycle lift is underway the signal person shall not stand under the load, shall have no duties other than as a signal person, and shall comply with the signaling requirements of this manual. >Exception 2 – Lattice boom cranes with manually operated friction brakes: Lattice boom crane and hoisting equipment with manually activated friction brakes, A2B warning devices may be used in lieu of A2B prevention devices.",False,False
+16,E,3.0,c,3.0,c,(c) Telescopic boom cranes:,False,False
+16,E,3.0,c,3.0,i,(i) Telescopic boom cranes shall be equipped with an A2B device to stop the load hoisting function before the load block or load contacts the boom tip and to prevent damage to the hoist rope or other machine components when extending the boom.,False,False
+16,E,3.0,c,3.0,i,(ii) Telescopic boom cranes that are used exclusively for duty cycle operations shall be equipped with a two-blocking damage prevention feature or warning device to prevent damage to the hoist rope or other machine components when extending the boom.,False,False
+16,E,3.0,c,3.0,d,(d) Floating cranes:  Floating cranes may use an A2B alarm system in lieu of a disengaging device unless they are hoisting personnel.,False,False
+16,E,3.0,c,3.0,e,"(e) Other cranes used in duty cycle operations, to include clamshell (grapple), magnet, drop ball, container handling, concrete bucket, pile driving and extracting operations, drilled shaft operations (except telescopic boom cranes), dynamic compaction and continuous flight auger drilling are exempt from the requirements for A2B devices.",False,False
+16,E,3.0,c,3.0,f,(f) Temporary alternative measure: clearly mark the cable (so that it can be easily seen by the operator) at a point that will give the operator sufficient time to stop the hoist to prevent two-blocking and use a spotter when extending the boom.,False,False
+16,E,3.0,c,4.0,,"(4) Wind speed indicating device mounted on the crane, in a location where the maximum wind speed can be measured for the lifting activity. In lieu of the above and where wind speed and gusts can be effectively determined, a hand-held anemometer may be used.",False,False
+16,E,3.0,d,,,"d. Category II operational aids and alternative measures. Operational aids listed in this paragraph that are not working properly shall be repaired not later than 30 days after the deficiency occurs. >Exception: If the employer documents that it has ordered the necessary parts within 7 days of the occurrence of the deficiency, and the parts are not received in time to complete the repair in 30 days, the repair shall be completed within 7 days of receipt of the parts.",False,False
+16,E,3.0,d,1.0,,"(1) Boom angle or radius indicator. The equipment shall have a boom angle or radius indicator readable from the operator’s station (does not apply to articulating cranes or digger derricks manufactured before November 8, 2011). Temporary alternative measures: radii or boom angle shall be determined by measuring the radii or boom angle with a measuring device. Calibration and testing of indicators will be performed in accordance with the manufacturer's recommendations.",False,False
+16,E,3.0,d,2.0,,(2) Jib angle indicator (if equipment has luffing jib; does not apply to articulating cranes). Temporary alternative measures: radii or jib angle shall be determined by ascertaining the main boom angle and then measuring the radii or jib angle with a measuring device.,False,False
+16,E,3.0,d,3.0,,"(3) Boom length indicator (does not apply to articulating cranes) if the equipment has a telescopic boom, except where the load rating is independent of the boom length. Temporary alternative measures: one of the following methods shall be used:",False,False
+16,E,3.0,d,3.0,a,(a) Mark the boom with measured marks to calculate boom length;,False,False
+16,E,3.0,d,3.0,b,(b) Calculate boom length from boom angle and radius measurements; OR,False,False
+16,E,3.0,d,3.0,c,(c) Measure the boom with a measuring device.,False,False
+16,E,3.0,d,4.0,,"(4) Load weighing and similar devices. Equipment shall have at least one of the following: load weighing device, load moment indicator (LMI), rated capacity indicator or rated capacity limiter (does not apply to digger derricks manufactured prior to November 8, 2011). Temporary alternative measures: The weight of the load shall be determined from a reliable source (i.e., load manufacturer), by a reliable calculation method (i.e., calculating a steel beam from measured dimensions and a known per foot weight), or by other equally reliable means. This information shall be provided to the operator prior to the lift. >Exception: Overhead and/or mobile LHE used in duty cycle operations are exempt from the requirements for load indicating devices and LMI devices.",False,False
+16,E,3.0,d,5.0,,"(5) Hoist drum rotation indicator if the drum is not visible from the operator’s station. Temporary alternative measures: mark the drum and if needed, install mirrors or remote video cameras and displays if necessary for the operator to see the mark.",False,False
+16,E,3.0,d,6.0,,"(6) Outrigger position (horizontal beam extension) sensor/monitor if the equipment has outriggers (required on equipment manufactured after January 1, 2008). Temporary alternative measure: the operator shall verify that the position of the outriggers is correct (in accordance with manufacturer’s procedures) before beginning operations requiring outrigger deployment.",False,False
+16,E,4.0,,,,16.E.04 All loads shall be determined through one of the following methods. This information must be known or provided to the operator prior to the lift.,True,False
+16,E,4.0,a,,,a. Load weighing device;,False,False
+16,E,4.0,b,,,b. Load moment (or rated capacity) indicator;,False,False
+16,E,4.0,c,,,"c. Load moment (or rated capacity) limiter, OR",False,False
+16,E,4.0,d,,,"d. The weight of the load must be determined either from a source recognized by the industry (such as the load manufacturer) or by a calculation method recognized by industry [i.e., calculating a steel beam from measured dimensions and a known per foot weight as determined by a qualified rigger (QR)]. >Exception: Permanently installed overhead, gantry or other cranes that are used to pick gates (spillway, intake, discharge, etc) from slots have been designed with a reserve capacity and are factory proof tested at 125% of working load limit (WLL). Load cells are highly recommended to determine rigging capacities and overload conditions, but are not required.",False,False
+16,F,,,,,16.F Testing.,True,False
+16,F,1.0,,,,"16.F.01 Written reports of tests, showing test procedures and confirming the adequacy of repairs or alterations, shall be maintained with the crane and hoisting equipment or at the on-site project office.",True,False
+16,F,2.0,,,,16.F.02 Operational Testing.,True,False
+16,F,2.0,a,,,"a. A QP shall conduct operational tests in accordance with ANSI/ASME and the manufacturer's recommendations. If the manufacturer has no procedures, the requirements in this Section, as a minimum, must be performed.",False,False
+16,F,2.0,b,,,b. Operational testing shall be performed:,False,False
+16,F,2.0,b,1.0,,"(1) Before initial use of a crane or hoisting equipment after a load bearing or load controlling part or component, brake, travel component, or clutch (to include securing devices, skids and barges for floating cranes) has been altered, replaced, or repaired. >Note: Adding/removing counterweights is not considered load controlling/load bearing.",False,False
+16,F,2.0,b,2.0,,(2) Every time a crane or hoisting equipment(s) is reconfigured or re-assembled after disassembly (to include booms);,False,False
+16,F,2.0,b,3.0,,(3) Every time a crane and/or hoisting equipment is brought onto a USACE project; and,False,False
+16,F,2.0,b,4.0,,"(4) Every year during annual inspection. >Note: Complete operational testing of the equipment after the replacement of wire rope is not required. However, a limited operational test shall be made prior to putting the equipment back into service.",False,False
+16,F,2.0,c,,,"c. Operational Testing, as a minimum, shall include the following:",False,False
+16,F,2.0,c,1.0,,(1) Load lifting and lowering mechanisms;,False,False
+16,F,2.0,c,2.0,,(2) Boom lifting and lowering mechanisms;,False,False
+16,F,2.0,c,3.0,,(3) Boom extension and retraction mechanisms;,False,False
+16,F,2.0,c,4.0,,(4) Swinging mechanisms;,False,False
+16,F,2.0,c,5.0,,(5) Travel mechanisms;,False,False
+16,F,2.0,c,6.0,,(6) Safety devices;,False,False
+16,F,2.0,c,7.0,,(7) Operational aids.,False,False
+16,F,3.0,,,,16.F.03 Load Testing. Load testing is considered a Critical Lift. > See Section 16.H.,True,False
+16,F,3.0,a,,,"a. Load tests shall be performed under the direction of a QP in accordance with appropriate ASME standards and the manufacturer's recommendations. At a minimum, the load test procedures shall include the following:",False,False
+16,F,3.0,a,1.0,,(1) Hoist the test load to ensure that the load is supported by the crane and held by the hoist brake(s) for a minimum of 5 minutes;,False,False
+16,F,3.0,a,2.0,,"(2) Swing the crane.  Insure there are no physical restrictions, the full range of its swing, with the test load;",False,False
+16,F,3.0,a,3.0,,"(3) Boom the crane up and down within the allowable working radius for the test load. At the maximum radius, hold the load for a minimum of 5 minutes and insure there is no movement of the load;",False,False
+16,F,3.0,a,4.0,,"(4) Lower the test load and hold the load with the brake(s). >Note: If the manufacturer is no longer in business and procedures are unavailable, a QP familiar with the type of equipment involved shall develop and approve procedures, which as a minimum, shall include those listed above.",False,False
+16,F,3.0,b,,,"b. Load Testing shall be performed at 100 to 110% of the ANTICIPATED LOAD for the specified configuration, not to exceed 100% of the manufacturer's load chart at the configuration of the test.  The actual anticipated load itself may be used as the test load if approved by the GDA.",False,False
+16,F,3.0,c,,,c. Load testing shall be performed:,False,False
+16,F,3.0,c,1.0,,"(1) Before initial use of crane or hoisting equipment in which a load bearing or load controlling part or component, brake, travel component, or clutch has been altered, replaced, or repaired, and >Note: Adding/removing counterweights is not considered load controlling/load bearing.",False,False
+16,F,3.0,c,2.0,,"(2) Every time a crane or hoisting equipment(s) is reconfigured or re-assembled after disassembly (to include booms); >Note:  Attaching/detaching a jib, which is an attachment, is not considered “reconfiguring or re-assembling” a crane and so does not require a load test.  Installing or stowing the jib must be per manufacturer’s recommendations and a competent person shall document this action prior to operation.",False,False
+16,F,3.0,c,3.0,,(3) When the manufacturer requires load testing.,False,False
+16,F,3.0,c,3.0,a,"(a) The employer shall specifically research, identify and document manufacturer required load-testing frequency for each USACE-owned/operated and/or Contractor- owned/operated crane or hoisting equipment and maintain and/or provide this information to the GDA;",False,False
+16,F,3.0,c,3.0,b,"(b) Under conditions (1) and (2) above, a selective load test may be performed (testing only those components that have or may have been affected by the alteration, replacement, or repaired);",False,False
+16,F,3.0,c,3.0,c,"(c) The replacement of the rope is specifically excluded from this requirement. However, a limited operational test including actions in Sections 16.F.02.c above, under a normal operating load shall be made prior to putting the equipment back into service.",True,False
+16,F,3.0,d,,,"d. The manufacturer's specifications and limitations applicable to the operation of any crane and hoisting equipment shall be followed. At no time shall a crane or hoisting equipment be loaded in excess of the manufacturer's rating, except overhead and gantry cranes in accordance with ANSI/ASME B30.2 or B30.16. Loads shall not exceed 125% of the rated load for test purposes or planned engineered lifts for overhead and gantry cranes. > See Section 16.H, Critical Lifts.",True,False
+16,F,3.0,d,1.0,,"(1) Where manufacturer's specifications are not available, the limitations assigned to the equipment shall be based on the determinations of a registered engineer competent in this field, and such determinations will be documented and recorded.",False,False
+16,F,3.0,d,2.0,,"(2) Attachments used with crane and hoisting equipment shall not exceed the capacity, rating, or scope recommended by the manufacturer.",False,False
+16,F,3.0,e,,,e. Written reports that show test procedures and confirm the adequacy of repairs or alterations shall be maintained and provided upon request.,False,False
+16,G,,,,,16.G Operation.,True,False
+16,G,1.0,,,,"16.G.01 All LHE shall have the following documents with them (in the cab, if applicable) at all times they are to be operated:",True,False
+16,G,1.0,a,,,a. A copy of the operating manual developed by the manufacturer for the specific make and model of equipment.,False,False
+16,G,1.0,a,1.0,,"(1) When not available from a manufacturer, a QP shall establish the ratings and operating limitations (load charts), recommended operating speeds, special hazard warnings, instructions and operators manual, maintenance, testing, and inspection requirements that apply during the use.",False,False
+16,G,1.0,a,2.0,,"(2) Where load capacities are available only in electronic form: in the event of a failure which makes the load capacities inaccessible, the operator must immediately cease operations or follow safe shut-down procedures until the load capacities (in electronic or other form) are available. A printed copy of the load capacities shall be maintained and available.",False,False
+16,G,1.0,b,,,"b. A copy of the load-rating chart (separate or included in the operating manual), shall include:",False,False
+16,G,1.0,b,1.0,,"(1) The LHE make and model, serial number, and year of manufacturer;",False,False
+16,G,1.0,b,2.0,,"(2) Load ratings for all operating configurations, including optional equipment;",False,False
+16,G,1.0,b,3.0,,"(3) Recommended reeving for the hoist line, and",False,False
+16,G,1.0,b,4.0,,(4) Operating limits in windy or cold weather conditions.,False,False
+16,G,1.0,c,,,c. A durable load chart with legible letters and figures shall be readily available to the operator at the control station;,False,False
+16,G,1.0,d,,,"d. The crane log book shall be used to record operating hours and all crane inspections, tests, maintenance, and repair. The log shall be updated daily as the crane is used and shall be signed by the operator and supervisor. Service mechanics shall sign the log after conducting maintenance or repairs on the crane;",False,False
+16,G,1.0,e,,,"e. All inspections, test, maintenance and repairs for LHE shall be maintained in the log, the O&M records or equivalent for that piece of equipment.",False,False
+16,G,2.0,,,,16.G.02 No modifications or additions that affect the capacity or safe operation of LHE shall be made without the manufacturer's written approval.,True,False
+16,G,2.0,a,,,"a. If such modifications or changes are made, the capacity, operation, and maintenance instruction plates, tags, or decals shall be changed accordingly.",False,False
+16,G,2.0,b,,,b. In no case shall the original safety factor of the equipment be reduced.,False,False
+16,G,3.0,,,,16.G.03 Hoisting wire ropes shall be installed in accordance with ANSI/ASME standards and the equipment manufacturer's recommendations.,True,False
+16,G,3.0,a,,,a. Overhead and gantry cranes shall have at least two full wraps of wire rope on the drums at all times.,False,False
+16,G,3.0,b,,,b. All other cranes shall have at least three full wraps (not layers) of wire rope on the drums at all times.,False,False
+16,G,3.0,c,,,c. The drum end of the wire rope shall be anchored to the drum by an arrangement specified by the crane manufacturer.,False,False
+16,G,4.0,,,,16.G.04 Responsibilities.,True,False
+16,G,4.0,a,,,"a. The responsibilities of the operator include, but are not limited to, the following requirements:",False,False
+16,G,4.0,a,1.0,,(1) The operator shall not engage in any activity that will divert his attention while operating the equipment;,False,False
+16,G,4.0,a,2.0,,(2) The operator shall not leave the controls while a load is suspended;,False,False
+16,G,4.0,a,3.0,,"(3) Before leaving the LHE unattended, the operator shall:",False,False
+16,G,4.0,a,3.0,a,"(a) Land any load, bucket, lifting magnet, or other device;",False,False
+16,G,4.0,a,3.0,b,(b) Disengage the master clutch;,False,False
+16,G,4.0,a,3.0,c,"(c) Set travel, swing, boom brakes, and other locking devices;",False,False
+16,G,4.0,a,3.0,d,(d) Put the controls in the “OFF” or neutral position;,False,False
+16,G,4.0,a,3.0,e,(e) Secure the equipment against accidental travel; and,False,False
+16,G,4.0,a,3.0,f,"(f) Stop the engine. >Exception: When crane operation is frequently interrupted during a shift and the operator must leave the crane. Under these circumstances, the engine may remain running and the conditions above must be followed (don’t have to stop the engine).  In addition, the following conditions shall apply:",False,False
+16,G,4.0,a,3.0,i,(i) The operator shall remain adjacent to the equipment and is not engaged in any other duties;,False,False
+16,G,4.0,a,3.0,i,"(ii) The CP determines that it is safe to do so and implements measures necessary to restrain the boom hoist and telescoping, load, swing and outrigger functions;",False,False
+16,G,4.0,a,3.0,i,(iii) The crane shall be located within an area protected from unauthorized entry.,False,False
+16,G,4.0,a,4.0,,"(4) The operator shall respond to signals from the person who is directing the lift or an appointed signal person. When a signal person is not used in the LHE operation, the operator shall ensure he has full view of the load and the load travel paths at all times the load is rigged to the equipment;",False,False
+16,G,4.0,a,5.0,,"(5) Each operator is responsible for those operations under his direct control. Whenever there is a concern as to safety, the operator shall have the authority to stop and refuse to handle loads until a QP has determined that safety has been assured.",False,False
+16,G,4.0,b,,,"b. The operator, qualified lift supervisor and rigger shall jointly ensure:",False,False
+16,G,4.0,b,1.0,,"(1) The LHE is level and, where necessary, blocked;",False,False
+16,G,4.0,b,2.0,,(2) The load is well secured and balanced in the sling or lifting device before it is lifted more than a few inches;,False,False
+16,G,4.0,b,3.0,,(3) The lift and swing path is clear of obstructions and adequate clearance is maintained from electrical sources per Table 16-1; and,False,False
+16,G,4.0,b,4.0,,(4) All persons are clear of the swing radius of the counterweight and housing.,False,False
+16,G,4.0,c,,,"c. When two or more cranes (tandem lift is a critical lift) or LHE are used to lift one load, the lift supervisor shall be responsible for the following:",False,False
+16,G,4.0,c,1.0,,"(1) Analyzing the operation and instruct all personnel involved in the proper positioning, rigging of the load, and the movements to be made;",False,False
+16,G,4.0,c,2.0,,"(2) Making determinations as necessary to reduce crane (LHE) ratings, load position, boom location, ground support, and speed of movement, which are required to safely make the lift;",False,False
+16,G,4.0,c,3.0,,(3) Ensuring that dedicated personnel are present and equipment is functioning properly. All personnel involved with the crane (LHE) operation shall understand the communication systems and their responsibilities.,False,False
+16,G,5.0,,,,16.G.05 Communications.,True,False
+16,G,5.0,a,,,"a. A standard signal system shall be used on all LHE (by hand, voice, audible or comparable signals).",False,False
+16,G,5.0,a,1.0,,"(1) Manual (hand) signals may be used when the distance between the operator and signal person is not more than 100 ft (30.4 m). If using hand signals, Standard Method must be used per Figure 16-1 for Mobile Cranes, Figure 16-4 for Overhead and Gantry.",False,False
+16,G,5.0,a,2.0,,"(2) Radio, telephone, or a visual and audible electrically-operated system shall be used when the distance between operator and signal person is more than 100 ft (30.4 m) or when they cannot see each other.",False,False
+16,G,5.0,b,,,b. A signal person must be used in the following situations:,False,False
+16,G,5.0,b,1.0,,"(1) When the point of operation, load travel, area near or at load placement, is not in full view of the operator;",False,False
+16,G,5.0,b,2.0,,(2) When the equipment is traveling and the view in the direction of travel is obstructed;,False,False
+16,G,5.0,b,3.0,,"(3) Due to site -specific safety concerns, either the operator or the person handling the load determines that it is necessary.",False,False
+16,G,5.0,c,,,"c. During LHE operations requiring signals, the ability to transmit signals between the operator and signal person shall be maintained. If that ability is interrupted at any time, the operator shall safely stop operations requiring signals until it is reestablished and a proper signal is given and understood.",False,False
+16,G,5.0,d,,,d. Only one person gives signals to a LHE operator at a time unless an emergency stop signal is given (which may be given by anyone and must be obeyed by the operator).,False,False
+16,G,6.0,,,,"16.G.06 Riding on loads, hooks, hammers, buckets, material hoists, or other hoisting equipment not meant for personnel handling is prohibited.",True,False
+16,G,7.0,,,,"16.G.07 When practical and when their use does not create a hazard, tag lines shall be used to control loads.",True,False
+16,G,8.0,,,,"16.G.08 Whenever a slack line condition occurs, the proper seating of the rope in the sheaves and on the drum shall be checked prior to further operations.",True,False
+16,G,9.0,,,,"16.G.09 Power Line Clearance During Assembly and/or Disassembly (up to 350 kV). Before assembling or disassembling LHE, the employer must determine if any part of the LHE, load line, or load (including rigging and lifting accessories) could get closer than 20 ft (6 m) to a power line during this process. If so, one of the following requirements must be met:",True,False
+16,G,9.0,a,,,a. De-energize and ground. Confirm from the utility owner/operator that the line has been de-energized and visibly grounded at the worksite.,False,False
+16,G,9.0,b,,,"b. 20-ft (6 m) clearance. Ensure no part of the LHE, load line or load gets closer than 20 ft (6 m) to the power line by implementing the following:",False,False
+16,G,9.0,b,1.0,,"(1) Conduct a planning meeting with the assembly/disassembly (A/D) director, operator, A/D crew and the other workers who will be in the area. Review location of the power lines and the control measures to prevent encroachment/or electrocution;",False,False
+16,G,9.0,b,2.0,,"(2) If tag lines are used, they must be non-conductive;",False,False
+16,G,9.0,b,3.0,,"(3) In addition, at least one of the following must be in place:",False,False
+16,G,9.0,b,3.0,a,(a) Use of a dedicated spotter who is in continuous contact with the operator;,False,False
+16,G,9.0,b,3.0,b,(b) A proximity alarm set to give operator sufficient warning;,False,False
+16,G,9.0,b,3.0,c,"(c) A device that automatically limits range of movement, set to prevent encroachment;",False,False
+16,G,9.0,b,3.0,d,"(d) An elevated warning line, barricade or line of signs in view of the operator, equipped with flags or similar high-visibility markings.",False,False
+16,G,9.0,c,,,c. Table 16-1 clearance.,False,False
+16,G,9.0,c,1.0,,(1) Determine the line’s voltage and minimum clearance distance permitted under Table 16-1.,False,False
+16,G,9.0,c,2.0,,"(2) Determine if any part of the LHE, load line, or load, could get closer that the minimum clearance distance to the power line permitted. If so, the control measures identified in paragraph b (above) shall be implemented.",False,False
+16,G,10.0,,,,"16.G.10 Power line clearance – equipment operations (all voltages). The employer must identify the work zone for the LHE in question (work zone is the area 360 degrees around the crane, up to the LHE’s maximum working radius). A determination shall be made if any part of the LHE, load line or load (to include rigging and lifting accessories), if operated up to the LHE/crane’s maximum working radius in the work zone, could get within 20 ft (6 m) of the power line one of the following must be met:",True,False
+16,G,10.0,a,,,a. De-energize and ground. Confirm from the utility owner/operator that the power line has been de-energized and visibly grounded at the worksite.,False,False
+16,G,10.0,b,,,"b. Twenty Feet Clearance (20 ft clearance). Ensure no part of the LHE, load line or load gets closer than 20 ft (6 m) to the power line by implementing the following:",False,False
+16,G,10.0,b,1.0,,"(1) Conduct a planning meeting with the site/lift supervisor, signal person/rigger, operator, crew and the other workers who will be in the area. Review location of the power lines and the control measures to prevent encroachment or electrocution.",False,False
+16,G,10.0,b,2.0,,"(2) If tag lines are used, they must be non-conductive;",False,False
+16,G,10.0,b,3.0,,"(3) Erect and maintain an elevated warning line, barricade or line of signs in view of the operator, equipped with flags or similar high-visibility markings, at 20 ft (6 m) from the power line or at a minimum approach distance under Table 16-1.",False,False
+16,G,10.0,b,4.0,,"(4) In addition, at least one of the following must be in place:",False,False
+16,G,10.0,b,4.0,a,"(a) Use of a dedicated spotter who is in continuous contact with the operator. The spotter must have a visual aid to assist in identifying the minimum clearance distance (e.g., clearly visible line painted on the ground). The spotter must be positioned to effectively gauge the clearance distance;",False,False
+16,G,10.0,b,4.0,b,(b) A proximity alarm set to give operator sufficient warning;,False,False
+16,G,10.0,b,4.0,c,"(c) A device that automatically limits range of movement, set to prevent encroachment.",False,False
+16,G,10.0,b,4.0,d,(d) An insulating link/device installed at a point between the end of the load line (or below) and the load.,False,False
+16,G,10.0,c,,,c. Table 16-1 clearance.,False,False
+16,G,10.0,c,1.0,,(1) Determine line’s voltage and minimum clearance distance permitted under Table 16-1.,False,False
+16,G,10.0,c,2.0,,"(2) Determine if any part of the equipment, load line, or load, while operating up to the LHE’s maximum working radius in the work zone could get closer than the minimum clearance distance to the power line permitted. If so, the control measures identified in paragraph b above shall be implemented.",False,False
+16,G,10.0,d,,,d. Permanently installed overhead and gantry cranes clearances shall be in accordance with NFPA 70;,False,False
+16,G,10.0,e,,,"e. When working near transmitter/communication towers where the LHE is close enough for an electrical charge to be induced in the LHE or materials being handled, the transmitter must be de-energized or provided with an electrical ground. Taglines, if used, shall be non-conductive.",False,False
+16,G,10.0,f,,,f. It shall be assumed that all power lines are energized unless the utility owner/operator confirms that the power line has been and will continue to be deenergized and visibly grounded at the worksite.,False,False
+16,G,10.0,g,,,g. Training. Each operator and crew member assigned to work with the equipment shall have received the following training by a QP:,False,False
+16,G,10.0,g,1.0,,(1) Procedures to follow in the event there is contact with the power line;,False,False
+16,G,10.0,g,2.0,,(2) Information regarding the danger of electrocution from the operator simultaneously touching the equipment and the ground;,False,False
+16,G,10.0,g,3.0,,"(3) The importance to the operator’s safety of remaining inside the cab except where there is an imminent danger of fire, explosion, or other emergency that necessitates leaving the cab;",False,False
+16,G,10.0,g,4.0,,(4) The safest means of evacuating LHE that may be energized;,False,False
+16,G,10.0,g,5.0,,(5) The danger of the potentially energized zone around the LHE;,False,False
+16,G,10.0,g,6.0,,(6) The need for crew in the area to avoid approaching or touching the LHE and the load;,False,False
+16,G,10.0,g,7.0,,(7) Safe clearance distance from the power line;,False,False
+16,G,10.0,g,8.0,,(8) Power lines are presumed to be energized unless the utility owner/operator confirms that the power line is deenergized and visibly grounded;,False,False
+16,G,10.0,g,9.0,,(9) Power lines are presumed to be uninsulated unless the utility owner/operator or a RPE who is a QP confirms that a line is insulated;,False,False
+16,G,10.0,g,10.0,,"(10) The limitations of an insulating link/device, proximity alarm, and range control (or similar) device if used;",False,False
+16,G,10.0,g,11.0,,(11) Equipment grounding procedures and the limitations thereof;,False,False
+16,G,10.0,g,12.0,,"(12) Dedicated spotters must be trained to effectively perform their tasks, including the applicable training previously identified herein.",False,False
+16,G,11.0,,,,16.G.11 Power line safety - over 350 kV. The requirements of Sections 16.G.09 and 16.G.10 apply to power lines over 350 kV except:,True,False
+16,G,11.0,a,,,"a. For power lines over 350 kV but at or below 1000 kV, wherever the distance “20 feet (6 m)” is specified, the distance “50 feet (15 m)” must be substituted; and,",False,False
+16,G,11.0,b,,,"b. For power lines over 1000 kV, the minimum clearance distance must be established by the utility owner/operator or a RPE who is a QP with respect to electrical power transmission and distribution.",False,False
+16,G,12.0,,,,16.G.12 Power Line Safety While Traveling Under or Near Power Lines with NO Load. The employer must ensure that;,True,False
+16,G,12.0,a,,,a. The boom/mast and its support system are lowered sufficiently to ensure clearances in Table 16-2 are maintained;,False,False
+16,G,12.0,b,,,b. Effects of speed and terrain on equipment movement (including boom/mast) are considered to ensure clearances in Table 16-2 are maintained;,False,False
+16,G,12.0,c,,,"c. If any part of the LHE, while traveling will get closer than 20 ft (6 m) to the power line, a dedicated spotter who is in continuous contact with the operator is used;",False,False
+16,G,12.0,d,,,"d. When traveling at night, or in conditions of poor visibility, in addition to the above, the employer must ensure that;",False,False
+16,G,12.0,d,1.0,,"(1) the power lines are illuminated, or alternate methods are used to identify location of power lines;",False,False
+16,G,12.0,d,2.0,,(2) a safe path of travel is identified and used.,False,False
+16,G,13.0,,,,16.G.13 Physical clearances.,True,False
+16,G,13.0,a,,,a. Adequate clearance shall be maintained between moving and rotating structures of the LHE and fixed objects to allow the passage of employees without harm. The minimum adequate clearance is 24 in (61 cm).,False,False
+16,G,13.0,b,,,"b. Accessible areas within the swing radius of the rear of the LHE’s rotating superstructure, either permanently or temporarily mounted, shall be barricaded to prevent an employee from being struck or crushed.",False,False
+16,G,14.0,,,,"16.G.14  Crane Mats. Where crane mats are required for a stable, level work surface for crane operations, the matting material shall be in good condition and of adequate thickness, width, and length as to completely support the crane. The mats shall be laid perpendicular to the crane travel path, and shall be placed as close to each other as possible. A spotter shall be used to guide the crane when it moves on the mat surface to prevent the crane from traveling beyond the limit of the crane mats.  16.H Critical Lifts.",True,False
+16,H,1.0,,,,"16.H.01 When using LHE, the following are identified as critical lifts requiring detailed planning and additional or unusual safety precautions. Critical lifts are defined as:",True,False
+16,H,1.0,a,,,"a. Lifts involving hazardous materials (e.g., explosives, highly volatile substances);",False,False
+16,H,1.0,b,,,b. Hoisting personnel with LHE;,False,False
+16,H,1.0,c,,,c. Lifts made with more than one LHE;,False,False
+16,H,1.0,d,,,d. Lifts where the center of gravity could change;,False,False
+16,H,1.0,e,,,"e. Lifts made when the load weight is 75% of the rated capacity of the LHE load chart or more (not applicable to gantry, overhead or bridge cranes);",False,False
+16,H,1.0,f,,,f. Lifts without the use of outriggers using rubber tire load charts;,False,False
+16,H,1.0,g,,,g. Lifts using more than one hoist on the same LHE;,False,False
+16,H,1.0,h,,,h. Lifts involving Multiple Lift Rigging (MLR) Assemblies or other non-routine or technically difficult rigging arrangements;,False,False
+16,H,1.0,i,,,"i. Lifts involving submerged loads. >Exception: lifts that were engineered to travel in guided slots throughout the lift and have fixed rigging and/or lifting beams, i.e., intake gates, tailgates/logs);",False,False
+16,H,1.0,j,,,"j. Lifts out of the operator’s view. >Exception: if hand signals used by a signal person in view of the operator or radio communications are available and in use, load does not exceed two tons AND is determined a routine lift by the lift supervisor;",False,False
+16,H,1.0,k,,,k. Load Tests;,False,False
+16,H,1.0,l,,,"l. When land-based LHE mounted on barges, pontoons or other means of flotation are required to travel while lifting the load. > See Sections 16.L.03 and 16.L.04.",True,False
+16,H,1.0,m,,,m. Any lift the operator believes should be considered critical.,False,False
+16,H,2.0,,,,"16.H.02 Critical lift plans. Before making a critical lift, a critical lift plan shall be developed.   > See Non-Mandatory, Critical Lift Plan, Form 16-3.",True,False
+16,H,2.0,a,,,"a. By a CP and shall include the LHE operator, lift supervisor, and the rigger and signed by all involved personnel prior to the lift;",False,False
+16,H,2.0,b,,,"b. For a series of lifts on one project or job, as long as the LHE, personnel, type loads and configuration do not differ;",False,False
+16,H,2.0,c,,,c. Documented with a copy provided to the GDA for acceptance prior to the lift(s) being made;,False,False
+16,H,2.0,d,,,"d. And shall include, as a minimum:",False,False
+16,H,2.0,d,1.0,,"(1) The specific make and model of each piece of LHE, the line, boom, and swing speeds;",False,False
+16,H,2.0,d,2.0,,"(2) The exact size and weight of the load to be lifted and all LHE and rigging components that add to the weight. The manufacturer's maximum load limits for the entire range of the lift, as listed in the load charts, shall also be specified;",False,False
+16,H,2.0,d,3.0,,"(3) The plan shall specify the lift geometry and procedures, including the LHE position, height of the lift, the load radius, and the boom length and angle, for the entire range of the lift;",False,False
+16,H,2.0,d,4.0,,"(4) Site drawing shall be included to identify placement/location(s) of LHE, adjacent equipment and/or facilities, etc;",False,False
+16,H,2.0,d,5.0,,"(5) The plan shall designate the operator, lift supervisor and rigger and include their qualifications;",False,False
+16,H,2.0,d,6.0,,(6) The plan will include a rigging plan that shows the lift points and describes rigging procedures and hardware requirements;,False,False
+16,H,2.0,d,7.0,,"(7) The plan will describe the ground conditions, outrigger or crawler track requirements, and, if necessary, the design of mats, necessary to achieve a level, stable foundation of sufficient bearing capacity for the lift;",False,False
+16,H,2.0,d,8.0,,"(8) For floating LHE, the plan shall describe the operating base (platform) condition and any potential maximum list / trim;",False,False
+16,H,2.0,d,9.0,,(9) The plan will list environmental conditions under which lift operations are to be stopped;,False,False
+16,H,2.0,d,10.0,,(10) The plan will specify coordination and communication requirements for the lift operation;,False,False
+16,H,2.0,d,11.0,,"(11) For tandem LHE lifts, identify the requirements for an equalizer beam if applicable.",False,False
+16,I,,,,,16.I Environmental Considerations.,True,False
+16,I,1.0,,,,16.I.01 LHE shall not be operated when wind speeds at the site attain the maximum wind velocity based on the surface/load ratio recommendations of the manufacturer.,True,False
+16,I,1.0,a,,,"a. At winds greater than 20 mph (9 m/s), the operator, rigger, and lift supervisor shall cease all crane operations, evaluate conditions and determine if the lift shall proceed. This determination shall be based on wind calculations per manufacturer’s recommendations.",False,False
+16,I,1.0,b,,,b. The determination to proceed or not shall be documented in the LHE/crane operator’s logbook.,False,False
+16,I,2.0,,,,16.I.02 Operations performed during weather conditions that produce icing of the LHE or reduced visibility shall be performed at reduced functional speeds and with signaling means appropriate to the situation.,True,False
+16,I,3.0,,,,"16.I.03 When lightning is observed, all LHE operations shall stop. A determination shall be made as to proximity to operation being performed. (Use a lightning detector or once lightning is seen, count the number of seconds until you hear thunder. Divide number of seconds by 5 to get the distance the lightning is away from you). If lightning is 10 miles away or less, work must stop until 30 minutes after the last audible thunder or visible flash of lightning. Plan work activities according to the latest weather forecast and be prepared to stop operations, until bad weather has safely passed. These actions shall be documented (daily report, crane operator’s log book, etc.).",True,False
+16,I,4.0,,,,"16.I.04 For night operations, lighting adequate to illuminate the working areas while not interfering with the operator’s vision shall be provided. > See Section 7.",True,False
+16,J,,,,,"16.J Lattice, Hydraulic, Crawler-, Truck-, Wheel-, and Ringer-Mounted Cranes.",True,False
+16,J,1.0,,,,"16.J.01 For required operator aids and indicating devices, see Section 16.E.03.",True,False
+16,J,2.0,,,,16.J.02 Boom assembly and disassembly. This operation shall be covered in the AHA and CP shall be identified.,True,False
+16,J,2.0,a,,,a. The manufacturer's boom assembly and disassembly procedures shall be reviewed by the team before starting the assembly or disassembly. The CP shall be present during assembly/disassembly operations.,False,False
+16,J,2.0,b,,,"b. When removing pins or bolts from a boom, workers shall stay out from under the boom. Sections shall be blocked, cribbed, or otherwise secured to prevent them from falling.",False,False
+16,J,2.0,c,,,"c. Blocking, cribbing and other means of securing shall be confirmed, verified and approved by a CP before assembly/disassembly operations are allowed to proceed.",False,False
+16,J,3.0,,,,16.J.03 Outriggers.,True,False
+16,J,3.0,a,,,"a. Anytime outriggers are required to be used, they shall be extended or deployed per the crane manufacturer’s load/capacity chart specifications, except for locomotive cranes.",False,False
+16,J,3.0,b,,,"b. When partially extended outriggers are used, the following requirements shall be met:",False,False
+16,J,3.0,b,1.0,,(1) Crane operation with partially extended outriggers shall only be undertaken if approved by the crane manufacturer;,False,False
+16,J,3.0,b,2.0,,(2) Outriggers shall be set at equal positions that correspond to the load/capacity charts supplied by the manufacturer for those positions. Only the load chart(s) corresponding to the outrigger positions shall be used for operation;,False,False
+16,J,3.0,b,3.0,,"(3) When situations arise where outriggers must be set at unequal positions that correspond to the load/capacity charts corresponding with the individual quadrants of operation. The manufacturer or QP shall be consulted to determine if the capacity reductions, special operating procedures, or limitations are required;",False,False
+16,J,3.0,c,,,c. Outrigger floats shall be securely attached to the outriggers.,False,False
+16,J,3.0,d,,,d. Blocking/pads under outrigger floats shall meet the following requirements:,False,False
+16,J,3.0,d,1.0,,"(1) Sufficient strength to prevent crushing, bending, or shear failure;",False,False
+16,J,3.0,d,2.0,,"(2) Such thickness, width, and length as to completely support the float, transmit the load to the supporting surface, and prevent shifting, toppling, or excessive settlement under load.  The blocking area size and thickness shall be based on additional items such as soil conditions, soil type, compaction, liquid limits, underground utilities, crane type and capacity, and having the crane within 1% of level.",False,False
+16,J,4.0,,,,"16.J.04 Unless the manufacturer has specified an on-rubber rating, mobile cranes shall not pick or swing loads over the side of the crane unless the outriggers are down and properly extended.",True,False
+16,J,5.0,,,,"16.J.05 Unless recommended against by the manufacturer, crane booms shall be lowered to ground level or secured against displacement by wind loads or other outside forces when not in use. If the manufacturer recommends against this practice, the manufacturer's recommended practice shall be followed.",True,False
+16,J,6.0,,,,"16.J.06 When pick and carry operations occur (Rough Terrain Cranes), the boom must be centered over the front of the crane, the mechanical swing lock engaged, and the load restrained from swinging.",True,False
+16,K,,,,,"16.K Portal, Tower, and Pillar Cranes.",True,False
+16,K,1.0,,,,"16.K.01 All load bearing foundations, supports, and rail tracks shall be constructed or installed as determined by a RPE with knowledge in this area, in accordance with the crane manufacturer's recommendations.",True,False
+16,K,2.0,,,,"16.K.02 Cranes shall be erected/dismantled in accordance with the manufacturer's recommended procedures, (or if manufacturer procedures are not available, in accordance with procedures developed by a RPE with knowledge in this area).",True,False
+16,K,2.0,a,,,"a. When erected/dismantled, written instructions by the manufacturer and/or RPE and a list of the weights of each component shall be kept at the site.",False,False
+16,K,2.0,b,,,b. Erection and dismantling shall be performed under the supervision of a QP.,False,False
+16,K,2.0,c,,,c. An AHA shall be developed and procedures established before the erection/dismantling work commences to insure site-specific needs are considered. The analysis will include:,False,False
+16,K,2.0,c,1.0,,"(1) The location of the crane in relation to other tower cranes, adjacent buildings or towers, overhead power and communication lines, underground utilities;",False,False
+16,K,2.0,c,2.0,,(2) Foundation design and construction requirements; and,False,False
+16,K,2.0,c,3.0,,"(3) When the tower is erected within a structure, clearances between the tower and the structure and bracing and wedging requirements.",False,False
+16,K,2.0,d,,,"d. Wind velocity at the site at the time of erection/dismantling shall be a consideration as a limiting factor that could require suspending the erection/dismantling operation and shall be as determined by the manufactured or if this data is not available, by a QP.",False,False
+16,K,2.0,e,,,"e. Before crane components are erected, they shall be visually inspected for damage. Dented, bent, torn, gouged or otherwise damaged members shall not be erected.",False,False
+16,K,2.0,f,,,"f. Initially and after each climb, the crane shall be plumbed and then held in the plumbed condition by wedges or other means. Cranes shall be plumbed to a tolerance of 1:500 (1 in:40 ft; 2.4 cm:12 m) unless the manufacturer specifies otherwise.",False,False
+16,K,3.0,,,,"16.K.03 Pre-operation tests shall be performed when cranes are erected and after each climbing operation, before placing the crane in service. All functional motions, motion limiting devices and brakes shall be properly tested for operation in accordance with the manufacturer's recommended procedures and ANSI/ASME B30.3 or B30.4, as applicable:",True,False
+16,K,3.0,,,,a.  Crane supports;,False,False
+16,K,3.0,b,,,"b. Brakes and clutches, limit and overload switches, and locking and safety devices; and",False,False
+16,K,3.0,c,,,"c. Load hoisting and lowering, boom hoisting and lowering, and swing motion mechanisms and procedures.",False,False
+16,K,4.0,,,,"16.K.04 Climbing Procedures. Prior to and during, all climbing procedures (to include inside and top climbing), the employer shall:",True,False
+16,K,4.0,a,,,a. Comply with all manufacturer prohibitions;,False,False
+16,K,4.0,b,,,"b. Have a RPE verify that the host structure is strong enough to sustain the forces imposed through the braces, brace anchorages and supporting floors;",False,False
+16,K,4.0,c,,,"c. Ensure that no part of the climbing procedure takes place when wind velocity at the crane superstructure exceeds the limit set by the manufacturer or a QP, or 20 mph (9 m/s) at the crane superstructure if no such limit has been set. The characteristics of the gusts should be considered for their effect on the climbing operation; and",False,False
+16,K,4.0,d,,,d. The operator of a hammerhead tower crane shall be present during climbing or telescoping operations.,False,False
+16,K,5.0,,,,"16.K.05 Safety devices and operational aids. Operations shall not begin unless the operational aids are in proper working order, except where the employer meets the specified temporary alternative measures. In addition to those listed in 16.E.03, the following shall be provided: >Note: The general requirements, as identified in Section 16.E.03 for Operational aids, do not apply to tower cranes. The devices listed in this Section are required on all tower cranes covered by this subpart, unless otherwise specified.",True,False
+16,K,5.0,a,,,"a. Rail clamps, if used, shall have slack between the point of attachment to the rail and the end fastened to the crane. Rail clamps shall not be used as a means of restraining tipping of a crane display magnitude of load on the hook;",False,False
+16,K,5.0,b,,,b. Hydraulic system pressure limiting device;,False,False
+16,K,5.0,c,,,"c. The following brakes, which shall automatically set in the event of pressure loss or power failure, are required: hoist brake on all hoists, swing brake, trolley brake, rail travel brake;",False,False
+16,K,5.0,d,,,d. Deadman control or forced neutral return control (hand) levers;,False,False
+16,K,5.0,e,,,e. Emergency stop switch at the operator’s station;,False,False
+16,K,5.0,f,,,f. Trolley travel limiting device prevents trolley from running into the trolley end stops;,False,False
+16,K,5.0,g,,,"g. Ambient wind velocity device. This device shall be mounted at or near the top of the crane. A velocity readout shall be provided at the operator’s station in the cab, and a visible or audible alarm shall be triggered in the cab and at remote control stations when a preset wind velocity has been exceeded;",False,False
+16,K,5.0,h,,,h. Hoist line pull limiting device (limits lifted load).,False,False
+16,K,6.0,,,,"16.K.06 Multiple tower crane jobsites. On jobsites where more than one fixed jib (hammerhead) tower crane is installed, the cranes shall be located such that no crane or its load may come in contact with the structure of another crane. Cranes are permitted to pass over one another.",True,False
+16,K,7.0,,,,16.K.07 Weathervaning. Tower cranes required to weathervane when out-of-service shall be installed with clearance for boom (jib) and superstructure to swing through a full 360 degree arc without striking any fixed object or other weathervaning crane. The boom shall be taken in the attitude dictated by its wind area balance.  Non-weathervaning boom (jibs) shall be taken in the least favorable attitude. Traveling cranes shall also resist design wind level induced sliding.,True,False
+16,L,,,,,"16.L Floating Cranes/Derricks, Crane Barges, and Auxiliary Shipboard -Mounted Cranes.",True,False
+16,L,1.0,,,,"16.L.01 The requirements in this Section are supplemental requirements for floating LHE, pile drivers, drill rigs, man-lifts and land LHE on barges, pontoons, vessels or other means of flotation and auxiliary shipboard mounted cranes, unless otherwise specified.",True,False
+16,L,2.0,,,,"16.L.02 Design & Construction Standards. The lifting equipment on floating cranes, crane barges and on ships (shipboard cranes) shall be designed and constructed in accordance with one of the following standards:",True,False
+16,L,2.0,,,a,(a) ANSI/ASME B30.8;,False,False
+16,L,2.0,,,b,"(b) American Bureau of Shipping (ABS) Guide for Certification of Cranes, or",False,False
+16,L,2.0,,,c,(c) American Petroleum Institute (API) Specification 2C.,False,False
+16,L,3.0,,,,16.L.03 LHE Manufacturer’s Floating Service Load Chart.,True,False
+16,L,3.0,a,,,a. Manufacturer’s Floating Service Load Chart. A LHE Manufacturer’s Floating Service Load Chart shall be provided. The Load Chart shall be in accordance with all criteria from the selected standard in Section 16.L.02.,True,False
+16,L,3.0,a,1.0,,(1) The Floating Service Load Chart shall provide a table of rated load vs. boom angle and radius.,False,False
+16,L,3.0,a,2.0,,(2) The Floating Service Load Chart shall also provide the maximum allowable machine list and trim associated with the tabular loads and radii provided.,False,False
+16,L,3.0,b,,,"b. Floating Service Load Chart if Manufacturer’s Floating Service Load Chart is not available, a floating service load chart may be developed and provided by a qualified RPE, competent in the field of floating cranes. The Load Chart shall:",False,False
+16,L,3.0,b,1.0,,(1) Be in accordance with all criteria from the selected standard in Section 16.L.02;,True,False
+16,L,3.0,b,2.0,,(2) Provide a table of rated load vs. boom angle and radius;,False,False
+16,L,3.0,b,3.0,,(3) Provide the maximum allowable machine list and machine trim associated with the tabular loads and radii provided;,False,False
+16,L,3.0,b,4.0,,"(4) Be stamped by a RPE, qualified and competent in the field of floating cranes. The RPE, competent in the field of floating cranes shall, stamp and certify (sign) that the Naval Architectural Analysis (NAA) meets the requirements of Sections 16.L.03.",True,False
+16,L,4.0,,,,16.L.04 Stability During Lift Operation.,True,False
+16,L,4.0,a,,,"a. During lift operations, the stability of the floating LHE, or vessel and shipboard crane shall meet the requirements for “lifting” as set forth in 46 CFR 173.005 through 46 CFR 173.025, over the full range of crane slewing angles.",False,False
+16,L,4.0,b,,,"b. During lift operations, the stability of the floating LHE, or vessel and shipboard crane shall limit floating platform heel and trim such that the resultant LHE list and trim over the full range of LHE slewing angles are within the limits identified in the LHE Floating Service Load Chart.",False,False
+16,L,4.0,c,,,"c. A minimum of 12 in (0.3 m) of freeboard shall be maintained during lift operations, over the full range of crane slewing angles.",False,False
+16,L,4.0,d,,,"d. The entire bottom area of the floating platform shall be submerged for all lifts, over the full range of crane slewing angles.",False,False
+16,L,5.0,,,,16.L.05 Floating Service Naval Architectural Analysis (NAA). A NAA shall be provided.,True,False
+16,L,5.0,a,,,a. The NAA shall evaluate the LHE on the floating platform. The LHE Manufacturer’s Floating Service Load Chart (Section 16.L.03) shall be validated for:,True,False
+16,L,5.0,a,1.0,,"(1) The stability during lift operation (Sections 16.L.04.a through d), and",True,False
+16,L,5.0,a,2.0,,(2) The machine list and trim limits for afloat service. The Load Chart shall be de-rated (reduced) as required to meet the requirements for stability during lift operation and for machine list and trim limits for afloat service.,False,False
+16,L,5.0,b,,,"b. The NAA shall include the full 360o (degree) slewing range of the crane, unless specific slewing angle limits are identified.",False,False
+16,L,5.0,c,,,"c. When deck loads are to be carried while lifting, the NAA shall incorporate the deck loading amount, location and deck load center of gravity, and sail area into the stability analysis.",False,False
+16,L,5.0,d,,,"d. The NAA shall incorporate wind loading, into the heel and list calculations with a minimum wind speed of 40 mph (18 m/s).",False,False
+16,L,5.0,e,,,"e. The NAA shall be stamped/certified by an RPE or qualified Naval Architect/Marine Engineer, competent in the field of floating cranes. The RPE or Naval Architect/Marine Engineer shall stamp and/or certify (sign) that the NAA meets the requirements of Sections 16.L.04, and 16.L.05.",True,False
+16,L,6.0,,,,16.L.06 Floating Service Structural Analysis.,True,False
+16,L,6.0,a,,,a. The floating platform structure shall be adequate for the loads applied from lifting over the full crane slewing range.,False,False
+16,L,6.0,b,,,"b. For vessels which are not built for the application, a structural analysis shall be provided to document the structural adequacy of the floating platform in conjunction with applied LHE loads, for the lift amounts as developed in the NAA. Deck loads and environmental loads shall be applied as part of the structural analysis.",False,False
+16,L,6.0,c,,,"c. Where established floating platform design structural capacities, such as allowable deck loads, are available, these may be used in support of the structural analysis.",False,False
+16,L,6.0,d,,,"d. The structural analysis shall be stamped by an RPE, competent in the field of floating LHE. The RPE shall stamp and certify (sign) that the Floating Service Structural Analysis meets the requirements of Sections 16.L.04 and 16.L.05.",True,False
+16,L,6.0,e,,,e. The lift amounts developed in the NAA shall be reduced if the structural analysis shows insufficient structural capacity at the NAA loads. The amount of reduction shall be as required for the structural capacity.,False,False
+16,L,7.0,,,,"16.L.07 Floating Service Load Chart, LHE on Floating Platform.  The NAA and Floating Service Structural Analyses shall be used to develop the Floating Service Load Chart.",True,False
+16,L,7.0,a,,,a. The Floating Service Load Chart will define the lift/radius capacity of the LHE on the specific floating platform.,False,False
+16,L,7.0,b,,,b. The Floating Service Load Chart shall incorporate any de-ratings required by either the NAA or Floating Service Structural Analysis.,False,False
+16,L,7.0,c,,,"c. An RPE or Naval Architect/Marine Engineer, competent in the field of floating crane/derrick design, shall stamp and/or certify (sign) that the Floating Service Load Chart meets the requirements of Sections 16.L.05 and 16.L.06.",True,False
+16,L,7.0,d,,,d. The load chart certification may be either:,False,False
+16,L,7.0,d,1.0,,"(1) A floating service load chart developed (de-rated) from the Manufacturer’s floating service load chart, or",False,False
+16,L,7.0,d,2.0,,"(2) If no de-rating is required, the Crane Manufacturer’s Floating Service Load Chart with separate attached certification document.",False,False
+16,L,7.0,e,,,e. The Floating Service Load Chart and the Floating Service Naval Architect Analysis shall be submitted to the GDA for acceptance prior to start of work.,False,False
+16,L,7.0,f,,,"f. The Floating Service Load Chart shall be posted in the cab or at the operator’s station (if no cab). All other procedures applicable to the operation of the equipment (instructions and operators manual, recommended operating speeds, etc.) shall be readily available on board.",False,False
+16,L,7.0,g,,,"g. The Floating Service Load Chart shall, at a minimum, include the following:",False,False
+16,L,7.0,g,1.0,,(1) Naval Architect’s Notes delineating:,False,False
+16,L,7.0,g,1.0,a,(a) Draft limits;,False,False
+16,L,7.0,g,1.0,b,(b) Deck cargo weight and Vertical Center of Gravity above deck;,False,False
+16,L,7.0,g,1.0,c,(c) Maximum wind speed;,False,False
+16,L,7.0,g,1.0,d,(d) Environmental limits;,False,False
+16,L,7.0,g,1.0,e,(e) Vessel heel and trim limits;,False,False
+16,L,7.0,g,1.0,f,"(f) LHE Machine list and trim limits, and",False,False
+16,L,7.0,g,1.0,g,"(g) Vessel condition (e.g., dry bilges, watertight integrity, etc.).",False,False
+16,L,7.0,g,2.0,,(2) The LHE Manufacturer’s Floating Service Crane Load Chart.,False,False
+16,L,7.0,g,3.0,,"(3) If de-rating of the Crane Manufacturer’s Floating Service Crane Load Chart is required, a separate Floating Service Safe Working Load Chart shall be provided with:",False,False
+16,L,7.0,g,3.0,a,(a) Mode of operation;,False,False
+16,L,7.0,g,3.0,b,"(b) Table of hook load, boom elevation angle, lift radius (with list/trim considered);",False,False
+16,L,7.0,g,3.0,c,(c) Maximum Machine List and Trim;,False,False
+16,L,7.0,g,3.0,d,(d) Maximum Floating Platform List and Trim;,False,False
+16,L,7.0,g,3.0,e,"(e) LHE configuration, to include boom length, amount of counterweight, parts of wire, and block size.",False,False
+16,L,7.0,h,,,h. The Floating Service Load Chart shall be programmed into the crane LMI.,False,False
+16,L,7.0,i,,,"i. The Floating Service Load Chart shall remain valid so long as no major modifications are made to the LHE or to the floating platform, as documented by a QP.",False,False
+16,L,8.0,,,,"16.L.08  Land LHE, derricks and mobile auxiliary LHE mounted on barges, pontoons or other means of flotation.",True,False
+16,L,8.0,a,,,"a. All requirements in Sections 16.L.02 through 16.L.07 shall be applicable for land- LHE, derricks and mobile auxiliary LHE mounted on barges, pontoons or other means of flotation.",True,False
+16,L,8.0,b,,,"b. LHE Mats. The need, type, size and location of LHE mats required shall be determined for the type of LHE on the barge.",False,False
+16,L,8.0,c,,,c. Means of attachment of LHE shall be shall be provided to prevent shifting during lift operations. The attachment method shall not be used to hold down LHE against overturning moment.,False,False
+16,L,9.0,,,,16.L.09 LHE Travel.,True,False
+16,L,9.0,a,,,"a. If traveling is required on the barge with no load, the travel area shall be evaluated in the NAA, and identified on the Floating service Load Chart.",False,False
+16,L,9.0,b,,,"b. If traveling is required while lifting the load, the lift shall be deemed a critical lift and a critical lift plan is required.",False,False
+16,L,9.0,c,,,"c. If traveling is required while lifting the load, the requirements in Sections 16.L.02 through 16.L.07 must be satisfied throughout the travel range. The NAA and Structural Analyses shall cover the travel range with load. The travel area shall be evaluated in the in the NAA, and identified on the Floating Service Load Chart.",True,False
+16,L,10.0,,,,16.L.10 A-Frame Non-Slewing Anchor Handling Barge/Vessel.,True,False
+16,L,10.0,a,,,"a. A-Frame Non-Slewing anchor handling barge/vessels may be used for anchor handling, low lifting of loads such as anchor buoys/weights, dredge pipe, submerged pipeline and pontoons. >Note: If used for any other lifting application, the work platform will be considered a floating derrick and all other requirements of Section 16 apply.",False,False
+16,L,10.0,b,,,b. A-Frame Non-Slewing anchor barge/vessels shall also comply with the following:,False,False
+16,L,10.0,b,1.0,,(1) All deck surfaces of the pontoon or barge shall be above the water;,False,False
+16,L,10.0,b,2.0,,"(2) Means for limiting the applied load, such as mechanical means or marking the draft of the barge corresponding to the rated load, shall be provided. Calculations shall be available and the barge shall be tested to verify rated load;",False,False
+16,L,10.0,b,3.0,,(3) A ratchet and pawl shall be provided for releasing the load from the hoisting machinery brake;,False,False
+16,L,10.0,b,4.0,,(4) An operating manual/procedure shall be available for use by the operator. The operator shall be trained in the anchor handling barge systems operation.,False,False
+16,L,10.0,c,,,"c. If additional external load is superimposed above that which can be hoisted with the onboard hoisting machinery, then a chain stopper shall be used to remove the external load from the A-frame and hoist machinery.",False,False
+16,L,11.0,,,,16.L.11 Employer-Made Lift Equipment Used on Barges or Pontoons.,True,False
+16,L,11.0,a,,,"a. If lift equipment is employer-made, it shall not be used unless the employer has documents demonstrating that the load charts and applicable parameters for use meet the requirements of one of the standards identified in Section 16.L.02.",True,False
+16,L,11.0,b,,,b. All requirements in Sections 16.L.02 through 16.L.07 shall be applicable.,True,False
+16,L,12.0,,,,16.L.12 Modifications.,True,False
+16,L,12.0,a,,,"a. Weight and Center of Gravity (CG) changes. Any modifications to the Crane and Floating Platform that result in any of the following changes to the crane and floating platform lightship characteristics shall require a new Naval Architect Analysis, and a new Floating Service Load Chart:",False,False
+16,L,12.0,a,1.0,,(1) An increase in Vertical CG by more than 2 in (5 cm);,False,False
+16,L,12.0,a,2.0,,"(2) A change in the lightship displacement by more than 3o (degrees), or",False,False
+16,L,12.0,a,3.0,,(3) A shift in Longitudinal CG of more than 1o  of floating platform length.,False,False
+16,L,12.0,b,,,"b. Modifications to the crane that result in changes to the crane lift capacity and/or to the crane machine list and trim limits shall require a new NAA, and a new Floating Service Load Chart.",False,False
+16,L,13.0,,,,16.L.13 Overhead Bridge Cranes On Floating Platforms.,True,False
+16,L,13.0,a,,,"a. An overhead bridge crane Naval Architectural Heel and Trim Analysis shall be performed for overhead bridge cranes on floating platforms by a RPE or Naval Architect/Marine Engineer, competent in LHE on floating plant.",False,False
+16,L,13.0,a,1.0,,(1) The Analysis shall determine the maximum vessel heel and trim that can be generated by use of the bridge crane.,False,False
+16,L,13.0,a,2.0,,"(2) The Analysis shall cover the full longitudinal and transverse motion range of the bridge crane, the crane weight, and the crane full rated load.",False,False
+16,L,13.0,a,3.0,,"(3) If floating platform heel and trim not related to the bridge crane operation is present during the bridge crane operation, the non-related heel and trim shall be included in the Bridge Crane Naval Architectural Heel and Trim Analysis.",False,False
+16,L,13.0,a,4.0,,"(4) A RPE or Naval Architect/Marine Engineer, competent in the field of floating crane/derrick design, shall stamp and/or certify (sign) that the Bridge Crane Naval Architectural Heel and Trim meets the Analysis requirements of this Section.",False,False
+16,L,13.0,b,,,b. Bridge Crane Operation at floating platform heel and trim. The bridge crane manufacturer shall verify that the bridge crane may be safely operated at the vessel heel and trim maximums identified by the Bridge Crane Naval Architectural Analysis.,False,False
+16,L,13.0,c,,,c. Floating Platform heel and trim indication. A heel and trim indicating device shall be provided on all bridge crane equipped floating platforms. The indicating device shall be visible by the bridge crane operator during bridge crane operation.,False,False
+16,L,14.0,,,,16.L.14 Use of Elevating Aerial Work Platforms (AWPs) Onboard Floating Platforms.,True,False
+16,L,14.0,a,,,a. AWPs shall only be operated in accordance with the manufacturer’s recommendations for service on floating platforms.,False,False
+16,L,14.0,b,,,b. AWPs used on floating platforms shall have a secondary set of controls at ground level.,False,False
+16,L,14.0,c,,,c. AWPs may not be moved on the platform (driven) during operations with personnel onboard the lift unless it is allowed and addressed in the NAA.,False,False
+16,L,14.0,d,,,d. Floating Platform Heel and Trim.,False,False
+16,L,14.0,d,1.0,,"(1) When an AWP is to be used on a floating platform, the floating platform heel and trim shall remain within the AWP manufacturer’s identified limits for floating operation.",False,False
+16,L,14.0,d,2.0,,(2) The floating platform shall be ballasted as needed to maintain barge heel and trim within the manufacturer’s limits for the AWP operation.,False,False
+16,L,14.0,e,,,e. Verification of Floating Platform Heel and Trim.,False,False
+16,L,14.0,e,1.0,,(1) Platform heel and trim shall be verified prior to operations with personnel on the AWP.,False,False
+16,L,14.0,e,2.0,,(2) The secondary set of platform controls shall be utilized to verify platform heel and trim through the intended range of AWP operations. The test shall incorporate weight on the platform at least equal to the personnel and equipment using the AWP.,False,False
+16,L,14.0,f,,,f. Operations on Floating Platform during AWP operation. No operations on the floating platform that will affect the platform heel and trim beyond the required limits shall be permitted during the use of the AWP.,False,False
+16,L,15.0,,,,"16.L.15 Near-Maximum Loads. When loads approach the maximum rating of the crane or derrick, the person responsible for the job shall ascertain that the weight of the load has been determined within +/- 10% before it is lifted.",True,False
+16,L,16.0,,,,"16.L.16 Safety Devices and Operational Aids. In addition to those required by Section 16.E, the following are required:",True,False
+16,L,16.0,a,,,a. Machine Heel and Trim indicating device. This device shall be located in the crane cab or at the operator’s station (if there is no cab);,False,False
+16,L,16.0,b,,,b. Boom Angle Indicator within clear view of the operator’s station;,False,False
+16,L,16.0,c,,,c. Floating Platform List and Trim indicating device: as a means for the operator to visually determine the heel and trim of the platform as opposed to the crane;,False,False
+16,L,16.0,d,,,d. Draft Marks - as a means for monitoring both draft and freeboard;,False,False
+16,L,16.0,e,,,e. Wind speed and direction indicator must be within clear view of the operator’s station;,False,False
+16,L,16.0,f,,,f. Anti two-block device - See Section 16.E.03.,True,False
+16,L,17.0,,,,"16.L.17 Portable Remote Controls. If portable remote controls are used for lifting, the operator shall:",True,False
+16,L,17.0,a,,,"a. be directly aware of the vessel heel and trim and the crane machine heel and trim during lift operations, or",False,False
+16,L,17.0,b,,,b. be in direct communication with a team member who is directly monitoring vessel heel and trim and the crane machine heel and trim during lift operations.,False,False
+16,L,18.0,,,,"16.L.18 Inspections. In addition to inspection of the crane/derrick per Section 16.D, inspection of the barge, pontoons, vessel or other means of flotation used to support a land crane/derrick by a CP is required.",True,False
+16,L,18.0,a,,,"a. Each shift: the means used to secure/attach the equipment to the vessel/flotation device shall be inspected for proper condition, to include wear, corrosion, loose or missing fasteners, defective welds and (where applicable) insufficient tension.",False,False
+16,L,18.0,b,,,"b. Monthly: In addition to Section 16.L.08.a, the vessel/means of flotation used shall be inspected for the following:",True,False
+16,L,18.0,b,1.0,,(1) Taking on water;,False,False
+16,L,18.0,b,2.0,,(2) Deck load for proper securing;,False,False
+16,L,18.0,b,3.0,,"(3) Chain lockers, storage, fuel compartments and battening of hatches for serviceability as a water-tight appliance;",False,False
+16,L,18.0,b,4.0,,(4) Firefighting and lifesaving equipment in place and functional.,False,False
+16,L,18.0,c,,,"c. If any deficiency is identified, an immediate determination shall be made by a QP as to whether the deficiency constitutes a hazard. If so, the vessel/flotation device shall be removed from service until it has been corrected.",False,False
+16,L,19.0,,,,16.L.19 Operations.,True,False
+16,L,19.0,a,,,"a. Operator Lift Planning. Operators shall plan lifts in advance, with particular attention to lift radii & boom angle and machine list & trim. Lift planning shall address the anticipated range of boom angles, LMI response, and expected LMI warning indicators, if any. > See Section 16.L.20.",True,False
+16,L,19.0,b,,,b. Operators shall monitor the boom tip and the boom angle indicator carefully to ensure that limits of the load chart are not exceeded. The boom angle indicator will respond directly to increasing lift radius resulting from crane trim created by floating platform heel and trim.,False,False
+16,L,19.0,c,,,c. Operators should be aware that safety devices such as LMIs do not offer protection against loads generated by relative motions between a floating crane and a fixed object to be lifted. The AHA shall address the potential for gross overload and failure mode conditions.,False,False
+16,L,19.0,d,,,"d. Where portable remote controls are used during lifting, the operator shall have procedures to monitor vessel heel and trim and crane machine heel and trim.",False,False
+16,L,19.0,e,,,"e. Whenever practical, crane use during buoy tending shall be limited to lifting the freely suspended buoy clear of the water onto the vessel.",False,False
+16,L,19.0,f,,,f. Bilges shall be kept as dry as possible to eliminate the adverse effect of free surface (sloshing liquid).,False,False
+16,L,19.0,g,,,"g. Where crane mats are required for a stable, level work surface for crane operations, the matting material shall be in good condition and of adequate thickness, width, and length as to completely support the crane. The mats shall be laid perpendicular to the crane travel path, and shall be placed as close to each other as possible. A spotter shall be used to guide the crane when it moves on the mat surface to prevent the crane from traveling beyond the limit of the crane mats and the NAA.",False,False
+16,L,20.0,,,,16.L.20 Standard Lift Plan (SLP).,True,False
+16,L,20.0,a,,,"a. All lifts must be planned to avoid procedures that could result in configurations where the operator cannot maintain safe control of the lift. In addition to the requirements and criteria to be considered in Section 16.A.03 for a written Standard Lift Plan (SLP, nonmandatory Standard Pre-Lift Plan/Checklist, Form 16-2 may be used), the SLP for LHE on floating plant must also consider the following:",True,False
+16,L,20.0,b,,,"b. Lifts shall reflect floating operational parameters such as anticipated boom angles, values for wire leads, unknown load for extractions, and upper limits on crane force.",False,False
+16,L,20.0,c,,,"c. When deck loads are to be carried while lifting, the situation shall be analyzed for modified ratings.",False,False
+16,L,20.0,d,,,"d. When mounted on barges or pontoons, the rated loads and radii of land cranes shall be modified as recommended by the manufacturer or QP. The modification shall be evaluated by the QP specific to the flotation device/platform being used.",False,False
+16,L,20.0,e,,,"e. Load charts in accordance with 16.L.07 shall be posted in the cab or at the operator’s station (if no cab). All other procedures applicable to the operation of the equipment (instructions and operators manual, recommended operating speeds, etc.) shall be readily available on board.",True,False
+16,L,20.0,f,,,"f. Procedures to monitor vessel heel and trim and crane machine list and trim, if portable remote controls are used.",False,False
+16,M,,,,,16.M Overhead and Gantry Cranes.,True,False
+16,M,1.0,,,,"16.M.01 The requirements in this Section are supplemental requirements for overhead and gantry cranes whether permanently installed in a facility or not and includes overhead/bridge cranes, semi gantry, cantilever gantry, wall cranes, storage bridge cranes, and others having the same fundamental characteristics whether it travels on tracks, wheels or other means (unless otherwise specified).",True,False
+16,M,2.0,,,,"16.M.02 All load bearing foundations, anchorages, runways, and rail tracks shall be constructed or installed in accordance with the crane manufacturer's recommendations and ANSI/ASME B30.2 or B30.17, as applicable.",True,False
+16,M,3.0,,,,16.M.03 The rated load of the crane shall be plainly marked on each side of the crane.,True,False
+16,M,3.0,a,,,"a. If the crane has more than one hoisting unit, each hoist shall have its rated load marked on it or its load block.",False,False
+16,M,3.0,b,,,"b. Markings on the bridge, trolley, and load block shall be legible from the ground or floor.",False,False
+16,M,4.0,,,,"16.M.04 Warning device. Except for floor-operated cranes, an alarm or other effective warning signal shall be provided for each crane equipped with a power traveling mechanism.",True,False
+16,M,5.0,,,,"16.M.05 Clearance shall be maintained between the crane, any structure or object, and any parallel running cranes and cranes operating at different elevations.",True,False
+16,M,6.0,,,,"16.M.06 Contacts with runway stops or other cranes shall be made with extreme caution. The operator shall do so with particular care for the safety of persons on or below the crane, and only after making certain that any persons on the other cranes are aware of what is being done.",True,False
+16,M,7.0,,,,16.M.07 Operators of outdoor cranes shall secure them when leaving.,True,False
+16,M,8.0,,,,"16.M.08 When the wind-indicating alarm of a cab-operated outdoor crane sounds, crane operations shall be discontinued and the crane shall be prepared and stored for excessive wind conditions.",True,False
+16,M,9.0,,,,16.M.09  Hand signals used by signal persons during overhead/gantry crane operations shall be per Figure 16-4.,True,False
+16,N,,,,,16.N Monorails and Under Hung Cranes.,True,False
+16,N,1.0,,,,"16.N.01 Crane runways, monorail tracks, track supports, and track control devices shall be constructed or installed in accordance with the crane manufacturer's recommendations and ANSI/ASME B30.11.",True,False
+16,N,2.0,,,,16.N.02 The rated load of the crane shall be plainly marked on each side of the crane.,True,False
+16,N,2.0,a,,,"a. If the crane has more than one hoisting unit, each hoist shall have its rated load marked on it or its load block.",False,False
+16,N,2.0,b,,,"b. Markings on the bridge, trolley, and load block shall be legible from the ground or floor.",False,False
+16,N,3.0,,,,16.N.03  Hand signals used by signal persons during monorail/under hung operations shall be per Figure 16-4.,True,False
+16,O,,,,,16.O Derricks.,True,False
+16,O,1.0,,,,"16.O.01 For permanent fixed locations, the following load anchoring data shall be provided to the GDA. For non-permanent installations, this data shall be determined by a QP.",True,False
+16,O,1.0,a,,,a. Guy derricks.,False,False
+16,O,1.0,a,1.0,,"(1) Maximum horizontal and vertical forces when handling rated loads with the particular guy slope and spacing stipulated for the application, and",False,False
+16,O,1.0,a,2.0,,(2) Maximum horizontal and vertical forces at the guy when handling rated loads with the particular guy slope and spacing stipulated for the application.,False,False
+16,O,1.0,b,,,b. Stiffleg derricks.,False,False
+16,O,1.0,b,1.0,,"(1) Maximum horizontal and vertical forces at the mast base when handling rated loads with the particular stiffleg slope and spacing stipulated for the application, and",False,False
+16,O,1.0,b,2.0,,(2) Maximum horizontal and vertical forces at the stifflegs when handling rated loads with the particular stiffleg arrangement stipulated for the application.,False,False
+16,O,2.0,,,,"16.O.02 Derrick booms, load hoists, and swinger mechanisms shall be suitable for the derrick work intended and shall be anchored to prevent displacement from imposed loads.",True,False
+16,O,3.0,,,,"16.O.03 When rotating a derrick, sudden starts and stops shall be avoided and rotational speed shall be such that the load does not swing out beyond the radius at which it can be controlled. A tagline shall be used.",True,False
+16,O,4.0,,,,16.O.04 Boom and hoisting rope systems shall not be twisted.,True,False
+16,O,5.0,,,,"16.O.05 Ropes shall not be handled on a winch head without the knowledge of the operator. When a winch head is being used, the operator shall be within reach of the power unit controls.",True,False
+16,O,6.0,,,,"16.O.06 When securing the boom, dogs or other positive holding mechanisms on the hoist shall be engaged.",True,False
+16,O,7.0,,,,16.O.07 When not in use the derrick boom shall be either:,True,False
+16,O,7.0,a,,,a. Layed down;,False,False
+16,O,7.0,b,,,b. Secured to a stationary member as nearly under the head as possible by attachment of a sling to the load block;,False,False
+16,O,7.0,c,,,c. Lifted to a vertical position and secured to the mast (for guy derricks); or,False,False
+16,O,7.0,d,,,d. Secured against a stiffleg (for stiffleg derricks).,False,False
+16,P,,,,,16.P Handling Loads Suspended from Rotorcraft.,True,False
+16,P,1.0,,,,16.P.01 Helicopter cranes shall comply with regulations of the Federal Aviation Administration (FAA).,True,False
+16,P,2.0,,,,"16.P.02 Before each day's operation, a briefing shall be conducted to set forth the plan of operation for the pilot and ground personnel.",True,False
+16,P,3.0,,,,16.P.03 Loads shall be properly slung.,True,False
+16,P,3.0,a,,,a. Tag lines shall be of a length that will not permit their being drawn up into rotors.,False,False
+16,P,3.0,b,,,"b. Pressed sleeve, swedged eyes, or equivalent means shall be used for all freely suspended loads to prevent hand splices from spinning open or wire clamps from loosening.",False,False
+16,P,4.0,,,,16.P.04 All electrically operated cargo hooks shall have the electrical activating device so designed and installed as to prevent inadvertent operation.,True,False
+16,P,4.0,a,,,"a. In addition, these cargo hooks shall be equipped with an emergency mechanical control for releasing the load.",False,False
+16,P,4.0,b,,,"b. The hooks shall be tested prior to each day's operation to determine that the release functions properly, both electrically and mechanically.",False,False
+16,P,5.0,,,,"16.P.05 Every practical precaution shall be taken to provide for the protection of the employees from flying objects in the rotor downwash. All loose gear within 100 ft (30.5 m) of the place of lifting or depositing the load, and all other areas susceptible to rotor downwash, shall be secured or removed.",True,False
+16,P,6.0,,,,"16.P.06 The helicopter pilot shall be responsible for the size, weight, and manner in which loads are connected to the helicopter. If, for any reason, the helicopter pilot believes the lift cannot be made safely, the lift shall not be made.",True,False
+16,P,7.0,,,,"16.P.07 When employees are required to work under hovering craft, safe access shall be provided for employees to reach the hoist line hook and engage or disengage cargo slings. Employees shall not work under hovering craft except to hook, unhook, or position loads.",True,False
+16,P,8.0,,,,"16.P.08 Static charge on the suspended load shall be dissipated with a grounding device before ground personnel touch the suspended load, or protective rubber gloves shall be worn by all ground personnel touching the suspended load.",True,False
+16,P,9.0,,,,16.P.09 The weight of an external load shall not exceed the rated capacity.,True,False
+16,P,10.0,,,,"16.P.10 Hoist wires or other gear, except for pulling lines or conductors that are allowed to pay out"" from a container or roll off a reel",True,False
+16,P,11.0,,,,"16.P.11 When visibility is reduced by dust or other conditions, ground personnel shall exercise special caution to keep clear of main and stabilizing rotors. Precautions shall also be taken to eliminate reduced visibility.",True,False
+16,P,12.0,,,,16.P.12 No unauthorized person shall be allowed to approach within 50 ft (15.2 m) of the helicopter when the rotor blades are turning.,True,False
+16,P,13.0,,,,"16.P.13 Whenever approaching or leaving a helicopter with blades rotating, all employees shall remain in full view of the pilot and keep in a crouched position. Employees shall avoid the area from the cockpit or cabin rearward unless authorized by the helicopter pilot to work there.",True,False
+16,P,14.0,,,,16.P.14 There shall be constant reliable communication between the pilot and a designated employee of the ground crew who acts as a signal person during loading and unloading. This signal person shall be distinctly recognizable from other ground personnel. Hand signals used shall be per ASME B30.12.,True,False
+16,P,15.0,,,,16.P.15 Good housekeeping shall be maintained in all helicopter loading and unloading areas.,True,False
+16,Q,,,,,16.Q Powered Industrial Trucks (PITs) /Telehandlers.,True,False
+16,Q,1.0,,,,"16.Q.01 This equipment may only be used to hoist loads if allowed by the equipment manufacturer. If these procedures are unavailable, you are prohibited from performing this function.",True,False
+16,Q,2.0,,,,"16.Q.02 Operations involving the use of PITs to raise personnel and/or using rigging to transport or hoist loads or personnel require different operator skills and considerations than the standard PIT operations performed with this equipment. When PITs are to be used to transport personnel or hoist loads utilizing hooks, eyes, slings, chains, or other rigging the following requirements shall apply:",True,False
+16,Q,2.0,a,,,a. Proper operating procedures in accordance with the equipment manufacturer’s operating manual;,False,False
+16,Q,2.0,b,,,"b. Written proof of qualifications of equipment operators, riggers, and others involved in the transporting and hoisting operations;",False,False
+16,Q,2.0,c,,,c. Other personnel may also operate this equipment under the specific conditions as identified in Section 16.B.01.,True,False
+16,Q,2.0,d,,,d. Proper use and on site availability of manufacturer's load rating capacities or charts as related to approved attachments;,False,False
+16,Q,2.0,e,,,"e. Proper use of rigging, including positive latching devices to secure the load and rigging;",False,False
+16,Q,2.0,f,,,f. Inspection of rigging;,False,False
+16,Q,2.0,g,,,g. Use of tag lines to control the load;,False,False
+16,Q,2.0,h,,,"h. Adequate communications, and",False,False
+16,Q,2.0,i,,,i. An AHA specific to the transporting or hoisting operation must be developed and provided to GDA.,False,False
+16,R,,,,,16.R Pile Driving Operations.,True,False
+16,R,1.0,,,,"16.R.01 Pile driving equipment shall be outfitted with a positive and negative restraint device to prevent accidental hammer disengagement ( i.e., preventing the hammer from falling or uncontrolled rising out of the lead, as well as preventing contact with head block or sheaves, if so equipped).",True,False
+16,R,1.0,a,,,"a. The contractor shall comply with all manufacturer’s instructions, procedures and recommendations applicable to the operational functions of equipment, including its use with pile driving attachments. The safe operating speeds, lifting capacity, stability under load shall not be exceeded. When manufacturer’s instructions are not available, the employer shall develop and ensure compliance with all procedures necessary for the safe operation of the equipment and attachments and",False,False
+16,R,1.0,a,1.0,,(1) Procedures for the operational controls must be developed by a QP.,False,False
+16,R,1.0,a,2.0,,(2) Procedures related to the capacity of the equipment must be developed and signed by a RPE familiar with the equipment.,False,False
+16,R,1.0,b,,,"b. For contractor installed pile driving attachments to equipment whose original intent was for a different task, (for example an excavator or forklift modified to drive piling) the attachment must be designed by a RPE with experience designing construction equipment, and comply with 16.R.01.(a).",True,False
+16,R,1.0,c,,,c. The operator of this type of equipment must comply with the requirements of 16.S.03 and must be trained and authorized to operate the pile driving attachment.,True,False
+16,R,1.0,d,,,"d. A Dedicated Pile-Driver is a machine that is designed to function exclusively as a pile-driver. These machines typically have the ability to both hoist the material that will be pile-driven and to pile-drive that material. This type of equipment and the operator must comply with Sections 16.A through 16.J, 16.L, and 16.R. > See Figures 16-2, Dedicated Pile Driver, and 16-3, Non-Dedicated Pile Driver.",True,False
+16,R,2.0,,,,"16.R.02 Prior to initiating pile driving or extraction operations, the contractor shall develop a site-specific safety plan. The plan shall identify specific steps for the intended operations, list of hazards, and procedures to minimize or eliminate those hazards. Plans shall include, as a minimum:",True,False
+16,R,2.0,a,,,a. Identification of utility locations both above and below grade;,False,False
+16,R,2.0,b,,,b. Designated areas for equipment operations and material storage;,False,False
+16,R,2.0,c,,,c. Assembly and disassembly sequences for pile driving equipment;,False,False
+16,R,2.0,d,,,d. Operation of pile driving equipment and handling of pile materials;,False,False
+16,R,2.0,e,,,e. A geotechnical report identifying subsurface and surface ground conditions;,False,False
+16,R,2.0,f,,,"f. A documented daily inspection requirement to include the hammer, cushion blocks, rigging, fuel lines, pressurized hoses, clamps, welds, hardware, and all other pile driving associated equipment, and",False,False
+16,R,2.0,g,,,g. Establishment of a controlled work area to prevent access by persons not directly involved in the operation.,False,False
+16,R,3.0,,,,"16.R.03 With the exception of the pile driver equipment operator (crane/track hoe/forklift), personnel shall not stand under the kicker/spotter or directly under, in front of, or closer than 12 ft (4 m), or greater if manufacturer specifies, of the pile hammer or pile when the pile is being driven.",True,False
+16,R,4.0,,,,16.R.04 The crane/track hoe/forklift operator station shall be protected from falling objects.,True,False
+16,R,5.0,,,,"16.R.05 Cranes and mechanized equipment used only for pile driving and extracting operations (except telescopic boom cranes), are exempt from the requirements for A2B devices. > See Section 16.E.03.c(3).",True,False
+16,R,6.0,,,,"16.R.06 Guy, outriggers, thrust outs, counter-balances, or rail clamps shall be provided to maintain stability of pile-driver rigs.",True,False
+16,R,7.0,,,,16.R.07 Pile-driving leads.,True,False
+16,R,7.0,a,,,"a. Pile driving leads shall be assembled using only the approved fasteners and torque values as required by the manufacturer. The leads shall be of adequate size, length, and strength to safely accommodate the weight and length of the pile driving hammer, the pile to be driven, and the position (vertical or on a batter) in which they will be used.",False,False
+16,R,7.0,b,,,b. Employees shall be prohibited from remaining on leads or ladders while the pile is being driven.,False,False
+16,R,7.0,c,,,c. Landings on leads shall not be used for storage of any kind.,False,False
+16,R,7.0,d,,,"d. Pile driving leads shall have stop blocks to prevent the hammer from being raised against the head block, if so equipped.",False,False
+16,R,7.0,e,,,e. Pile driving leads shall be free of projections or snags to minimize damage and personnel safety hazards.,False,False
+16,R,7.0,f,,,"f. A blocking device, capable of supporting the weight of the hammer, shall be provided for placement in the leads under the hammer at all times while employees are working under the hammer.",False,False
+16,R,7.0,f,,,"➢Exception: Where it is necessary for an employee to momentarily lean through the leads to guide a pile under the hammer, it is not required that the pile hammer be blocked in the leads.",False,False
+16,R,7.0,g,,,"g. A minimum weekly documented inspection of the pile driving leads shall be conducted. If found to be unsafe, or whenever a deficiency that affects the safe use of pile driving leads is observed, they shall be immediately taken out of service and their use prohibited until unsafe conditions have been corrected.",False,False
+16,R,7.0,h,,,h. Swinging leads shall have fixed ladders or have bracing located such that its configuration will serve as adequate ladder rungs.,False,False
+16,R,7.0,i,,,i. Fixed leads shall:,False,False
+16,R,7.0,i,1.0,,"(1) Have fixed ladders and if equipped with decked landings, shall have guardrails, intermediate rails, and toe boards. Fixed ladders or stairs shall be provided for access to landings and head blocks.",False,False
+16,R,7.0,i,2.0,,"(2) Be provided with guardrails or Personal Fall Protection Systems, to include Certified Anchorages, to provide fall protection for any workers exposed to falls of 6 ft (1.8 m) or greater, for work over water, over machinery, or over dangerous operations per Section 21.",False,False
+16,R,7.0,i,3.0,,(3) Have a crane boom tip connection designed by a RPE that is familiar with the ASME B30 standards.,False,False
+16,R,8.0,,,,"16.R.08 Dogs, on pile-driver hoist drums, that automatically disengage when the load is relieved or the drum is rotated shall be prohibited.",True,False
+16,R,9.0,,,,16.R.09 Guards shall be provided across the top of the head block to prevent wire from jumping out of the sheaves.,True,False
+16,R,10.0,,,,"16.R.10 All pneumatic or steam hose connections to pile-driver hammers, pile ejectors, or jet pipes shall be securely attached with an adequate length of at least ¼ in (0.6-cm) alloy steel chain, having 3,250 lb (1,500 kg) working load limit, or equal strength wire, to prevent whipping if the joint is broken.",True,False
+16,R,11.0,,,,"16.R.11 Hydraulic/pneumatic/steam line controls shall consist of two shutoff valves, one of which shall be a quick-acting lever type within easy reach of the hammer operator.",True,False
+16,R,12.0,,,,16.R.12 Hoisting and moving pile.,True,False
+16,R,12.0,a,,,a. All employees shall be kept clear when piling is being hoisted into the leads.,False,False
+16,R,12.0,b,,,b. Hoisting and driving of piling shall be done by use of a closed shackle or other positive attachment that will prevent accidental disengagement of the rigging.,False,False
+16,R,12.0,c,,,c. Taglines shall be used for controlling unguided piles and free hanging (flying) hammers.,False,False
+16,R,12.0,d,,,d. Hammers shall be lowered to the bottom of the leads while the pile driver is being moved.,False,False
+16,R,13.0,,,,"16.R.13 When driving jacked piles, all access pits shall be provided with ladders and bulk headed curbs to prevent material from falling into the pit.",True,False
+16,R,14.0,,,,"16.R.14 When it is necessary to cut off the tops of driven piles, pile-driving operations shall be suspended except where the cutting operations are located at least twice the length of the longest pile cut-off from the driver.",True,False
+16,R,15.0,,,,16.R.15 Pile extraction.,True,False
+16,R,15.0,a,,,"a. If piling cannot be pulled without exceeding the load rating of equipment, a pile extractor shall be used.",False,False
+16,R,15.0,b,,,"b. When pulling piling, the crane shall be equipped with LMI devices (unless the load can be calculated and is within the load rating chart of the crane) and the booms shall not be raised more than 60° above the horizontal. (This requirement does not apply to vibrating-type pulling devices.)",False,False
+16,R,15.0,c,,,"c. Piling shall not be pulled by tipping the crane, releasing the load brake momentarily, and catching the load before the crane has settled.",False,False
+16,R,15.0,d,,,"d. Rigging. When pulling pile, the hook shall have the positive locking safety latch. This latch shall be secured so rigging gear roll will not occur.",False,False
+16,R,16.0,,,,16.R.16 Floating pile drivers. > See Section 16.L.,True,False
+16,S,,,,,"16.S Hydraulic Excavators, Wheel/Track/Backhoe Loaders Used to Hoist Loads with Rigging.",True,False
+16,S,1.0,,,,"16.S.01 Personnel shall not work in, pass under, or ride in the buckets or booms of excavators in operation.",True,False
+16,S,2.0,,,,"16.S.02 Hydraulic excavating equipment shall not be used to hoist personnel. The riding of personnel on loads, hooks, hammers, buckets or any other hydraulic excavating equipment attachment is prohibited.",True,False
+16,S,3.0,,,,"16.S.03 Excavators used with attachments such as drill rigs, pile driving equipment, etc. shall require training specific to that operation for the operator.",True,False
+16,S,4.0,,,,"16.S.04 Hydraulic excavating equipment may only be used to hoist loads if allowed by the equipment manufacturer. If these procedures are unavailable, you are prohibited from performing this function.",True,False
+16,S,5.0,,,,"16.S.05 When hydraulic excavating equipment is to be used to hoist loads utilizing hooks, eyes, slings, chains, or other rigging the following requirements shall apply:",True,False
+16,S,5.0,a,,,"a. Operations involving the use of hydraulic excavating equipment and rigging to hoist loads require different operator skills and considerations than the standard excavating operations routinely performed with hydraulic excavating equipment. An AHA specific to the hoisting operation shall be prepared. The AHA shall include, but not be limited to:",False,False
+16,S,5.0,a,1.0,,"(1) Written proof of qualifications of equipment operators, riggers, and others involved in the hoisting operations;",False,False
+16,S,5.0,a,2.0,,(2) Other personnel may also operate this equipment under the specific conditions as identified in Section 16.B.01.,True,False
+16,S,5.0,a,3.0,,(3) Operational testing shall be performed as described in Section 16.S.05.b;,True,False
+16,S,5.0,a,4.0,,(4) Proper operating procedures in accordance with the equipment manufacturer’s operating manual;,False,False
+16,S,5.0,a,5.0,,(5) Proper use and on site availability of manufacturer's load rating capacities or charts;,False,False
+16,S,5.0,a,6.0,,"(6) Proper use of rigging, including positive latching devices to secure the load and rigging;",False,False
+16,S,5.0,a,7.0,,(7) Inspection of rigging;,False,False
+16,S,5.0,a,8.0,,(8) Use of tag lines to control the load;,False,False
+16,S,5.0,a,9.0,,(9) Adequate communications;,False,False
+16,S,5.0,a,10.0,,"(10) Establishment of a sufficient swing radius (equipment, rigging and load); and",False,False
+16,S,5.0,a,11.0,,(11) Stability of surfaces beneath the hydraulic excavating equipment.,False,False
+16,S,5.0,b,,,b. An operational test with the selected hydraulic excavating equipment will be performed in the presence of the GDA.,False,False
+16,S,5.0,b,1.0,,"(1) The operational test shall consist of a demonstration that the test load and selected rigging can be safely lifted, maneuvered, controlled, stopped, and landed.",False,False
+16,S,5.0,b,2.0,,"(2) The operational test shall be representative of the complete cycle of the proposed hoisting operation, including configuration, orientation and positioning of the excavating equipment and the use of identical rigging.",False,False
+16,S,5.0,b,3.0,,"(3) The test load shall be equivalent to the maximum anticipated load, but shall not exceed 100% of the manufacturer’s load rating capacity for the excavating equipment as configured. Written documentation of the performance of the operational test outlining test procedures and results shall be maintained at the on-site project office.",False,False
+16,S,5.0,c,,,c. All rigging and rigging operations shall comply with requirements of Section 15.,False,False
+16,S,5.0,d,,,"d. Hooks, eyes, slings, chains or other rigging shall not be attached to or hung from the teeth of a bucket during the transporting or hoisting of a load by hydraulic excavating equipment.",False,False
+16,S,5.0,e,,,"e. After the completion and acceptance of an operational test described in this Section, if repairs, major maintenance or reconfiguration are required to be performed on the hydraulic excavating equipment or attachments, another operational test shall be performed to demonstrate that the completed repairs are satisfactory and that the test load and selected rigging can be safely lifted, maneuvered, controlled, stopped, and landed.",False,False
+16,S,6.0,,,,16.S.06  Loads shall be lifted the minimum height necessary to clear the ground or other obstacles and carried as low as possible when the equipment is traveling.,True,False
+16,S,7.0,,,,16.S.07  Loads shall not be lifted over personnel.,True,False
+16,S,8.0,,,,16.S.08  Adequate clearances shall be maintained from electrical sources.,True,False
+16,T,,,,,16.T LHE-Supported Personnel (Work) Platforms.,True,False
+16,T,1.0,,,,"16.T.01 LHE-supported personnel platforms are only allowed to be used if the crane manufacturer allows personnel lifting to occur on that equipment. In addition, provisions must be made for lowering of the personnel in the event of a (crane) power failure.",True,False
+16,T,2.0,,,,"16.T.02 Only LHE with power-operated up and down boom hoists and load lines shall be used to support work platforms. The use of machines having live booms is prohibited (i.e.,   friction cranes). Platforms shall be lowered under power and not by the brake.",True,False
+16,T,3.0,,,,"16.T.03  If a LHE-supported work platform is determined to be the safest, most practical method of access, the operation shall be deemed a critical lift (per Section 16.H) and meet the following requirements:",True,False
+16,T,3.0,a,,,a. The person responsible for the lift shall perform an AHA and attest to the need for the operation in writing.,False,False
+16,T,3.0,b,,,b. The responsible person shall sign the AHA and submit it to the GDA for acceptance.,False,False
+16,T,3.0,c,,,c. Personnel shall not be hoisted until the GDA has accepted the AHA.,False,False
+16,T,3.0,d,,,d. Crane supported work platforms may be used for routine access of employees to underground construction via a shaft.,False,False
+16,T,4.0,,,,16.T.04  The work platform and suspension system shall be designed and certified by an RPE with knowledge in this area.,True,False
+16,T,4.0,a,,,"a. The work platform (excluding fall protection systems) shall be capable of supporting, without failure, its own weight and at least five times the maximum intended load. Criteria for fall protection systems are contained in Sections 21 and 16.T.10.",True,False
+16,T,4.0,b,,,b. The suspension system shall be designed to minimize tipping of the platform due to movement of the employees on the work platform.,False,False
+16,T,4.0,c,,,"c. The system used to connect the work platform to the equipment shall allow the platform to remain within 10 degrees of level, regardless of boom angle.",False,False
+16,T,4.0,d,,,d. All welding of the work platform and its components shall be performed by an AWS D-1 Certified Welder.,False,False
+16,T,5.0,,,,16.T.05  LHE-supported work platforms shall meet the following requirements:,True,False
+16,T,5.0,a,,,a. The scaffold shall be of metal or metal frame construction with a standard guardrail system and shall be enclosed at least from the toeboard to mid-rail with either solid construction material or expanded metal having openings no greater than ½ in (1.2 cm).,False,False
+16,T,5.0,b,,,b. A grab rail shall be installed inside the entire perimeter of the personnel platform.,False,False
+16,T,5.0,c,,,"c. Access gates, if installed, shall not swing outward and shall be equipped with a device to prevent accidental opening.",False,False
+16,T,5.0,d,,,d. Headroom shall be provided which allows employees to stand upright in the platform.,False,False
+16,T,5.0,e,,,e. Employees shall be protected by overhead protection on the personnel platform when the employee(s) are exposed to falling objects.,False,False
+16,T,5.0,f,,,f. The platform shall be conspicuously posted with a plate or other permanent marking that indicates the weight of the platform and its rated load capacity or maximum intended load.,False,False
+16,T,6.0,,,,16.T.06  Rigging.,True,False
+16,T,6.0,a,,,"a. When a wire rope bridle is used to connect the work platform to the load line, each bridle leg shall be connected to a master link or shackle in such a manner to ensure that the load is evenly distributed among the bridle legs.",False,False
+16,T,6.0,b,,,"b. The hook connection to the platform rigging shall be of a type that can be closed and locked to eliminate the hook throat opening and shall be closed and locked when attached. Alternately, an alloy anchor type shackle with a bolt, nut, and retaining pin, in place OR of the screw type, with the screw pin secured from accidental removal may be used.",False,False
+16,T,6.0,c,,,"c. Wire rope, rigging hardware and hooks shall be capable of supporting, without failure, at least five times the maximum intended load.",False,False
+16,T,6.0,d,,,d. Where rotation-resistant rope is used the slings shall be capable of supporting without failure at least ten times the maximum intended load.,False,False
+16,T,6.0,e,,,"e. Rope sling suspension systems with mechanically spliced flemish eyes, if used, shall be designed with thimbles in all eyes.",False,False
+16,T,6.0,f,,,"f. Bridles and associated rigging for attaching the platform to the hoist line shall be used only for the platform and the employees, their tools and the materials necessary to do the work and shall not be used for any other purpose when not hoisting personnel.",False,False
+16,T,7.0,,,,16.T.07  Work Practices.,True,False
+16,T,7.0,a,,,"a. Before employees enter or exit a hoisted personnel platform that is not landed, the platform shall be secured to the structure, unless securing to the structure creates an unsafe condition.",False,False
+16,T,7.0,b,,,b. The rated load capacity of the platform shall not be exceeded.,False,False
+16,T,7.0,c,,,c. The number of employees occupying the work platform shall not exceed the number required for the work to be performed.,False,False
+16,T,7.0,d,,,"d. Work platforms shall be used only for employees, their tools and the materials necessary to do their work. Work platforms shall not be used to hoist only materials or tools when not hoisting personnel.",False,False
+16,T,7.0,e,,,e. Materials and tools for use during a personnel lift shall be secured to prevent displacement. They shall be evenly distributed within the confines of the platform while it is suspended.,False,False
+16,T,7.0,f,,,f. No lifts shall be made on another of the crane’s load lines while personnel are suspended on a platform.,False,False
+16,T,7.0,g,,,"g. Employees (except a designated signal personal) shall keep all parts of the body inside the platform during raising, lowering, and positioning.",False,False
+16,T,7.0,h,,,h. A CP shall observe the operations while personnel are working from the crane supported work platform.,False,False
+16,T,7.0,i,,,i. Environmental conditions.,False,False
+16,T,7.0,i,1.0,,"(1) Wind. When wind speed (sustained or gusts) exceeds 20 mph (9 m/s) at the work platform, a QP shall determine if, in light of the wind conditions, if it is safe to lift personnel. If not, the lifting operation shall be terminated.",False,False
+16,T,7.0,i,2.0,,"(2) Other weather and environmental conditions. A QP shall determine if, in light of indications of dangerous weather conditions, or other impending or existing danger, it is safe to lift personnel. If not, the lifting operation shall be terminated.",False,False
+16,T,7.0,j,,,"j. Employees being hoisted shall remain in the continuous sight of, and in direct communication with, the LHE operator or signal person. In situations where direct visual contact with the operator is not possible and the use of a signal person would create a greater hazard for that person, direct communication by radio shall be maintained at all times. The equipment operator shall bring all operations to an immediate stop if radio communications are lost.",False,False
+16,T,7.0,k,,,k. Taglines shall be used to help control the work platform unless the CP determines that their use creates an unsafe condition.,False,False
+16,T,7.0,l,,,l. The LHE operator shall remain at the controls at all times with the crane engine running whenever the platform is occupied.,False,False
+16,T,7.0,m,,,"m. Hoisting personnel within 20 ft (6 m) of a power line that is up to 350 kV and hoisting personnel within 50 ft (15.2 m) of a power line that is over 350 kV is prohibited, except for Power Transmission and Distribution Work.",False,False
+16,T,8.0,,,,16.T.08  Operational Criteria,True,False
+16,T,8.0,a,,,"a. Hoisting of the personnel platform shall be in a slow, controlled, cautious manner with no sudden movements.",False,False
+16,T,8.0,b,,,"b. Load lines shall be capable of supporting, without failure, at least 7 times the maximum intended load, except where rotation resistant rope is used the lines shall be capable of supporting, without failure, at least 10 times the maximum intended load. The required design factor is achieved by taking the current safety factor of 3.5 and applying the 50% de-rating of the crane capacity.",False,False
+16,T,8.0,c,,,"c. A Qualified Person must determine if the footing is sufficiently firm and stable for the operation. The crane shall be uniformly level within 1 degree of level grade and located on firm footing. LHE equipped with outriggers shall have them all equally deployed to load chart criteria following manufacturer’s specifications, as applicable, when hoisting personnel.",False,False
+16,T,8.0,d,,,d. The total weight of the loaded personnel platform and related rigging shall not exceed 50% of the rated capacity for the radius and configuration of the crane.,False,False
+16,T,8.0,e,,,"e. Only LHE with an A2B device that prevents contact between the load block or overhaul ball and the boom tip, or a system that deactivates the hoisting action before damage occurs shall be used.",False,False
+16,T,8.0,f,,,f. LHE with variable angle booms shall be equipped with a boom angle indicator readily visible to the operator.,False,False
+16,T,8.0,g,,,"g. LHE with telescoping booms shall be equipped with a device to indicate clearly to the operator, at all times, the boom’s extended length, or an accurate determination of the load radius to be used during the lift shall be made prior to hoisting personnel.",False,False
+16,T,8.0,h,,,"h. The load line hoist drum shall have a system or device on the power train, other than the load hoist brake, that regulates the lowering rate of speed of the hoist mechanism (controlled lowering). Free-fall is prohibited.",False,False
+16,T,9.0,,,,"16.T.09  Trial Meeting, Trial Lift and Inspection.",True,False
+16,T,9.0,a,,,"a. Prior to every trial lift, the LHE operator, signal person, employees to be lifted, and the CP shall attend a pre-lift meeting to review the applicable parts of this manual, the AHA, and the details of this particular lift.",False,False
+16,T,9.0,b,,,"b. A trial lift with the unoccupied work platform loaded at least to the anticipated lift weight shall be made from the ground level, or any other location where employees will enter the platform, to each location at which the work platform is to be hoisted and positioned.",False,False
+16,T,9.0,c,,,"c. The trial lift shall be made immediately prior to each shift in which personnel will be hoisted and must be repeated prior to hoisting employees after the LHE is moved and set up at new location or returned to a previously used location, and when the lift route is changed unless the CP determines that the route change is not significant.",False,False
+16,T,9.0,d,,,"d. The operator shall determine that all systems, controls, and safety devices are activated and functioning properly; that no interferences exist; and that all configurations necessary to reach those work locations will allow the operator to remain under the 50% limit of the equipment’s rated capacity.",False,False
+16,T,9.0,e,,,e. Materials and tools to be used during the actual lift may be loaded in the platform (evenly distributed and secured) for the trial lift.,False,False
+16,T,9.0,f,,,"f. After the trial lift and just prior to hoisting employees, the platform shall be hoisted a few inches and inspected to ensure that it is secure and properly balanced.",False,False
+16,T,9.0,g,,,"g. A visual inspection of the LHE, rigging, work platform, and the crane support base shall be conducted by a CP immediately after the trial lift to determine whether the testing has exposed any defect or produced any adverse effect upon any component or structure.",False,False
+16,T,9.0,h,,,h. Any defects found during inspection which create a safety hazard shall be corrected before hoisting personnel.,False,False
+16,T,9.0,i,,,"i. If the load rope goes slack, the hoisting system shall be re-inspected to ensure that all ropes are properly seated on drums and sheaves.",False,False
+16,T,10.0,,,,16.T.10  Proof Testing,True,False
+16,T,10.0,a,,,"a. At each job site, prior to hoisting employees on the work platform, and after any report or modification, the platform and rigging shall be proof tested to 125% of the platform’s rated capacity by holding it in a suspended position for 5 minutes with the proof test load evenly distributed on the platform (this may be done concurrently with the trial lift).",False,False
+16,T,10.0,b,,,"b. After proof testing, a CP shall inspect the platform and rigging. Personnel hoisting shall not be conducted until the CP determines that the platform and rigging have successfully passed the proof test.",False,False
+16,T,11.0,,,,16.T.11  Personal Fall Protection.,True,False
+16,T,11.0,a,,,"a. For work over water, see Section 21.O for fall protection versus PFD requirements. Lifesaving equipment and safety skiffs meeting the requirements of this manual shall be available.",True,False
+16,T,11.0,b,,,"b. When NOT working over water, all employees occupying the work platform shall use a properly anchored personal fall protection (arrest or restraint) system. The system shall be attached to an allowed anchorage point/structural member within the platform.",False,False
+16,T,11.0,b,1.0,,(1) The attachment points to which personal fall arrest or restraint systems are attached on the platform must meet the anchorage requirements in Section 21.,False,False
+16,T,11.0,b,2.0,,"(2) Depending on the type of work to be done and the height of the work platform above a lower surface, all workers shall wear a fullbody harness as part of a fall arrest or fall restraint system. The CP for fall protection on-site will assess each situation and determine which system would best fit the current work requirement and be in accordance with the crane manufacturer’s instructions and recommendations. Particular attention should be paid to anchor points and capacities.",False,False
+16,T,11.0,b,3.0,,(3) Workers working from the platform suspended from LHE are permitted to be tied off to the lower load block or overhaul ball. An AHA shall be developed to details on how work will be safely performed. AHA shall be submitted to the GDA for acceptance.,False,False
+16,T,11.0,b,4.0,,"(4) Anchoring to the load line. A personal fall arrest system is permitted to be anchored to the crane’s hook (or other part of the load line). This activity requires a critical lift plan to be developed and implemented, per Section 16.H.01. In addition, the following requirements must be met:",True,False
+16,T,11.0,b,4.0,a,(a) There is no other load on the load line;,False,False
+16,T,11.0,b,4.0,b,"(b) A QP has determined that the set-up and rated capacity of the LHE (including the hook, load line and rigging) meets or exceeds the requirements in Section 21. This information shall be placed in/attached to the AHA developed for the activity;",False,False
+16,T,11.0,b,4.0,c,"(c) The equipment operator shall be located in or adjacent to the cab, has been informed that the equipment is being used for this purpose, shall remain in contact (verbal, radio, hand signals) with the signal person for the operation and shall remain in direct control of any intended movement of the load line. If the operator is not in the cab, the controls shall be locked/tagged out so that no movement of the load line can occur without his knowledge.",False,False
+16,T,12.0,,,,16.T.12  Employees shall not be hoisted unless the following conditions are determined to exist:,True,False
+16,T,12.0,a,,,a. The load test and proof test requirements are satisfied;,False,False
+16,T,12.0,b,,,b. Hoist ropes are free of kinks;,False,False
+16,T,12.0,c,,,"c. Multiple part lines are not twisted around one another,",False,False
+16,T,12.0,d,,,"d. The primary attachment is centered over the platform, and",False,False
+16,T,12.0,e,,,e. The hoisting system is inspected if the load rope is slack to ensure all ropes are properly seated on drums and in sheaves.,False,False
+16,T,13.0,,,,16.T.13  Traveling – equipment other than derricks.,True,False
+16,T,13.0,a,,,"a. Hoisting of personnel while the crane is traveling is prohibited, except for equipment that travels on fixed rails or it is demonstrated that there is no less hazardous way to perform the work. This does not apply to rubber-tired equipment.",False,False
+16,T,13.0,b,,,"b. Where employees are hoisted while the equipment is traveling, all of the following criteria must be met:",False,False
+16,T,13.0,b,1.0,,(1) Crane travel shall be restricted to a fixed track or runway;,False,False
+16,T,13.0,b,2.0,,(2) Travel shall be limited to the load radius of the boom used during the lift;,False,False
+16,T,13.0,b,3.0,,"(3) The boom must be parallel to the direction of travel, except where it is safer to do otherwise;",False,False
+16,T,13.0,b,4.0,,(4) A complete trial run shall be performed to test the route of travel before employees are allowed to occupy the platform (this trial run may be performed when the trial lift required in Section 16.T.08 is performed).,True,False
+16,U,,,,,"16.U Base-Mounted Drum Hoists Used to Hoist Personnel, Guided and Non-Guided Worker’s Hoists (Air Tuggers). (Whether Powered by Internal Combustion Engine, Electric Motor or Other Prime Mover).",True,False
+16,U,1.0,,,,"16.U.01 The use of this equipment to hoist personnel requires the development of a written Standard Operating Procedure (SOP). All personnel involved with the use of this equipment shall assist in the development of this SOP. The SOP shall be maintained for a period of no more than12 months, at which time it shall be reviewed and changed as necessary. All operators that will be hoisting personnel shall have a physical examination per 16.B.05 and shall be trained at a minimum, in the requirements listed in 16.U. and 16.T. >  USACE operators shall also be trained as Class II operators per Section 16.C.05.",True,False
+16,U,2.0,,,,"16.U.02 This equipment shall meet the applicable requirements for design, construction, installation, testing, inspection, maintenance and operations as required by the manufacturer, to include an 8:1 safety factor for the hoist rope. > See ASSE A10.22.",True,False
+16,U,3.0,,,,"16.U.03 For operations within the scope of the ASSE A10.22 standard, a base mounted drum hoist (rope-guided) or non-rope guided hoists shall be used when hoisting personnel. The hoist shall be used in accordance with the manufacturer’s recommendations for these applications.",True,False
+16,U,4.0,,,,"16.U.04 The hoist machine shall meet all criteria set forth in ASSE A10.22, Chapter 4.",True,False
+16,U,5.0,,,,"16.U.05 The operator of the hoist shall be qualified and instructed in the proper operation of the hoisting system, in accordance with manufacturer’s recommendations.",True,False
+16,U,6.0,,,,"16.U.06 The hoist may be used to hoist materials or personnel, but not both simultaneously.",True,False
+16,U,7.0,,,,16.U.07 An independent lifeline and a full body harness shall be provided and used by any person being transported. Personal fall protection is not required when fully enclosed baskets are used.,True,False
+16,U,8.0,,,,16.U.08 Voice communications shall be maintained between the hoist operator and each landing.,True,False
+16,U,9.0,,,,16.U.09 A minimum of two guide ropes (for rope-guided hoists) shall be used when transporting personnel in the cage. Splicing of the hoisting and guide ropes shall not be spliced except for the formation of end terminations.,True,False
+16,U,10.0,,,,16.U.10 A sign stating capacity in number of persons and rated loading in pounds shall be posted on the cage.,True,False
+16,U,11.0,,,,16.U.11 Inspection and Testing.,True,False
+16,U,11.0,a,,,a. Visual checks shall be conducted daily prior to use (during use).,False,False
+16,U,11.0,b,,,b. Inspections (no drop test) shall be conducted weekly when hoist is in continuous operation and before reuse following periods of idleness in excess of one week.,False,False
+16,U,11.0,c,,,c. Documentation at each job location shall be maintained and kept on file for at least 2 years.,False,False
+16,U,12.0,,,,"16.U.12 Non-Guided Hoist for Personnel/Air tugger hoist. This equipment may be substituted for a base mounted drum hoist and in addition to the requirements above, must meet the following:",True,False
+16,U,12.0,a,,,"a. Hoist shall be secured in position to prevent moving, shifting or dislodgement;",False,False
+16,U,12.0,b,,,b. Hoist machine may be operated at cable speeds not to exceed 110 ft/min when transporting personnel on a non-guided worker’s hoist;,False,False
+16,U,12.0,c,,,c. An independent lifeline and a full body harness shall be provided and used by any person being transported by a non-guided hoist. Personal fall protection is not required when fully enclosed baskets are used.,False,False
+16,U,12.0,d,,,d. Rope grabs (fall prevention devices) for connecting a safety harness to the lifeline shall be of a type that can be attached to or detached from the independent lifeline. They shall be compatible with the lifeline size and type of material being used. Attachment to the lifeline shall be maintained at a point above waist height of the person. Other devices that provide equivalent safety may be used;,False,False
+16,U,12.0,e,,,e. Minimum wire rope diameter shall be 5/16 inch (7.9mm);,False,False
+16,U,12.0,f,,,f. Non-guided hoist line shall be weighted as necessary to prevent line run of the hoisting rope under the basket,False,False

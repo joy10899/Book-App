@@ -1,0 +1,162 @@
+chapter,section,topic,refOne,refTwo,refThree,content,highlight,bookmark
+27,A,,,,,"27.A General. The fall protection threshold height requirement is 6 ft (1.8 m) for ALL work covered by this Section, unless specified differently below, whether performed by Government or Contractor work forces, to include residential (wood) construction and scaffolding work. > See Section 21.",True,False
+27,A,1.0,,,,"27.A.01 Construction loads shall not be placed on a structure or portion of a structure unless the employer determines, based on information from a person who is qualified in structural design, that the structure or portion of the structure is capable of supporting the loads.",True,False
+27,A,2.0,,,,"27.A.02 Employees shall not be permitted to work above or in positions exposed to protruding reinforcing steel, fasteners, or other impalement hazards unless provisions have been made to control the hazard.",True,False
+27,A,3.0,,,,27.A.03 Working under loads.,True,False
+27,A,3.0,a,,,"a. No employee shall be permitted to work under concrete buckets, bundled material loads, or other suspended loads.",False,False
+27,A,3.0,b,,,"b. Elevated concrete buckets and loads shall be routed, to the extent practical, to minimize the exposure of workers to hazards associated with falling loads or materials from the loads. Vibrator crews shall be kept out from under concrete buckets suspended from cranes of cableways.",False,False
+27,A,3.0,c,,,c. Riding on concrete buckets or other suspended loads shall be prohibited.,False,False
+27,A,4.0,,,,"27.A.04 Based on hazard evaluations conducted by supervisors, employers shall identify and select, and each affected employee shall use, personal protective equipment (PPE) and safety equipment that will provide appropriate protection for the work being performed. All PPE (i.e., for eyes, face, head and extremities, protective clothing, respiratory devices and protective shields and barriers) shall be provided, used, and maintained in a sanitary and reliable condition whenever the hazard dictates. > See 29 CFR 1910.132.",True,False
+27,B,,,,,27.B Concrete.,True,False
+27,B,1.0,,,,27.B.01 Equipment.,True,False
+27,B,1.0,a,,,"a. Bulk storage bins, containers, or silos shall have conical or tapered bottoms with mechanical or pneumatic means of starting the flow of material.",False,False
+27,B,1.0,b,,,b. Concrete mixers equipped with 1 yd3 (0.8 m3) or larger loading skip shall be equipped with a mechanical device to clear the skip of material and shall have guardrails installed on each side of the skip.,False,False
+27,B,1.0,c,,,c. Handles on bull floats used where they may contact energized electrical conductors shall be constructed of nonconductive material or insulated with a nonconductive sheath whose electrical and mechanical characteristics provide equivalent protection.,False,False
+27,B,1.0,d,,,d. Powered and rotating concrete troweling machines that are manually guided shall be equipped with a control switch that will automatically shut off the power whenever the operator removes his/her hands from the equipment handles.,False,False
+27,B,1.0,e,,,e. Concrete pumping systems using discharge pipes shall be provided with pipe supports designed for 100% overload.,False,False
+27,B,1.0,f,,,f. Handles of concrete buggies shall not extend beyond the wheels on either side of the buggy.,False,False
+27,B,1.0,g,,,g. Concrete buckets equipped with hydraulic or pneumatically operated gates shall have positive safety latches or similar safety devices installed to prevent premature or accidental dumping. The buckets shall be designed to prevent material from accumulating on the top and sides of the bucket.,False,False
+27,B,1.0,h,,,h. Sections of tremies and similar concrete conveyances shall be secured with wire rope (or equivalent material) in addition to the regular couplings or connections.,False,False
+27,B,2.0,,,,"27.B.02 Structural and reinforcing steel for walls, piers, columns, and similar vertical structures shall be supported and/or guyed to prevent overturning or collapse. Support systems for reinforcing steel that are independent of other form or shoring support systems shall be designed by a Registered Professional Engineer (RPE).",True,False
+27,B,2.0,a,,,a. Connections of equipment used in plumbing-up shall be secured.,False,False
+27,B,2.0,b,,,b. The turnbuckles shall be secured to prevent unwinding while under stress.,False,False
+27,B,2.0,c,,,c. Plumbing-up guys and related equipment shall be placed so that employees can get at the connection points.,False,False
+27,B,2.0,d,,,d. Plumbing-up guys shall be removed only under the supervision of a Competent Person (CP).,False,False
+27,B,2.0,e,,,e. Measures shall be taken to prevent unrolled wire mesh from recoiling.,False,False
+27,B,3.0,,,,27.B.03 Post-tensioning operations.,True,False
+27,B,3.0,a,,,a. No employee (except those essential to the post-tensioning operations) shall be permitted to be behind jacks or end anchorages during post-tensioning operations.,False,False
+27,B,3.0,b,,,b. Signs and barriers shall be erected to limit employee access to the post-tensioning area during tensioning operations.,False,False
+27,C,,,,,27.C Formwork and Shoring.,True,False
+27,C,1.0,,,,"27.C.01 Formwork, shoring, and bracing shall be designed, fabricated, erected, supported, braced, and maintained so that it will safely support all vertical and lateral loads that might be applied until such loads can be supported by the structure.",True,False
+27,C,2.0,,,,27.C.02   Planning and design.,True,False
+27,C,2.0,a,,,a. The planning and design of formwork and shoring shall be in accordance with provisions of American Concrete Institute (ACI) Publication 347.,False,False
+27,C,2.0,b,,,b. The design of the shoring shall be prepared by a QP (designer) and the Erection and Removal Plan for Formwork and Shoring shall be submitted for review to the GDA. The erected shoring shall be inspected by an engineer qualified in structural design.,False,False
+27,C,2.0,c,,,c. The manufacturer's specifications for fabricated shoring systems shall be available at the job site during job planning and execution.,False,False
+27,C,3.0,,,,27.C.03 Base support.,True,False
+27,C,3.0,a,,,a. Supporting ground or completed construction upon which formwork and shoring is to be placed shall be of adequate strength to carry the vertical and lateral loads to be imposed.,False,False
+27,C,3.0,b,,,"b. Sills for shoring shall be sound, rigid, and capable of carrying the maximum intended load.",False,False
+27,C,3.0,c,,,"c. Base plates, shore heads, extension devices, or adjustment screws shall be in firm contact with the footing sill and form material and when necessary, shall be secured to them.",False,False
+27,C,4.0,,,,27.C.04 Splices shall be designed and constructed to prevent buckling and bending.,True,False
+27,C,5.0,,,,27.C.05 Diagonal bracing shall be provided in vertical and horizontal planes to provide stiffness and to prevent buckling of individual members.,True,False
+27,C,6.0,,,,27.C.06 Inspection.,True,False
+27,C,6.0,a,,,a. Shoring equipment shall be inspected prior to erection to determine that it is as specified in the shoring design. Any equipment found to be damaged shall not be used.,False,False
+27,C,6.0,b,,,"b. Erected shoring equipment shall be inspected immediately prior to, during, and immediately after the placement of concrete. Any shoring equipment that is found to be damaged, displaced, or weakened shall be immediately reinforced or re-shored.",False,False
+27,C,7.0,,,,27.C.07 Re-shoring shall be provided to safely support slabs and beams after stripping or where such members are subjected to superimposed loads due to construction.,True,False
+27,C,8.0,,,,27.C.08 Fabricated shoring shall not be loaded beyond the safe working load recommended by the manufacturer.,True,False
+27,C,9.0,,,,27.C.09 Single post shores.,True,False
+27,C,9.0,a,,,"a. Wherever single post shores are used in more than one tier, the layout shall be designed and inspected by an RPE qualified in structural design.",False,False
+27,C,9.0,b,,,b. Single post shores shall be vertically aligned and spliced to prevent misalignment.,False,False
+27,C,9.0,c,,,"c. When shoring is at an angle, sloping, or when the surface shored is sloping, the shoring shall be designed for such loading.",False,False
+27,C,9.0,d,,,d. Adjustment of single post shores to raise formwork shall not be made after concrete is in place.,False,False
+27,C,9.0,e,,,"e. Fabricated single post shores and adjusting devices shall not be used if heavily rusted, bent, dented, re-welded, or have broken welds or other defects; if they contain timber, they shall not be used if timber is split, cut, has sections removed, is rotted, or otherwise structurally damaged.",False,False
+27,C,9.0,f,,,f. All timber and adjusting devices to be used for adjustable timber single post shores shall be inspected before erection.,False,False
+27,C,9.0,g,,,g. All nails used to secure bracing or adjustable timber single post shores shall be driven home and the point of the nail bent over if possible.,False,False
+27,C,9.0,h,,,"h. For stability, single post shores shall be horizontally braced in both the longitudinal and transverse directions.",False,False
+27,C,9.0,h,1.0,,(1) Single-post shores shall be adequately braced in two mutually perpendicular directions at the splice level.,False,False
+27,C,9.0,h,2.0,,(2) Each tier shall also be diagonally braced in the same two directions.,False,False
+27,C,9.0,h,3.0,,(3) Bracing shall be installed as the shores are erected.,False,False
+27,C,9.0,h,4.0,,(4) Each post (near the slab perimeter) shall be secured during assembly and dismantling/re-shoring to prevent the post from “fall out”.,False,False
+27,C,10.0,,,,27.C.10 Tube and coupler shoring.,True,False
+27,C,10.0,a,,,"a. The material used for the couplers shall be of a structural type such as drop-forged steel, malleable iron, or structural grade aluminum. Gray cast iron shall not be used. No dissimilar metals shall be used together.",False,False
+27,C,10.0,b,,,"b. Couplers shall not be used if they are deformed, broken, or have defective or missing threads on bolts, or other defects.",False,False
+27,C,10.0,c,,,"c. When checking the erected shoring towers with the shoring design, the spacing between posts shall not exceed that shown on the layout and all interlocking of tubular members and tightness of couplings shall be checked.",False,False
+27,C,11.0,,,,27.C.11 Tubular welded-frame shoring.,True,False
+27,C,11.0,a,,,"a. All locking devices on frames and braces shall be in good working order, coupling pins shall align the frame or panel legs, pivoted cross braces shall have their center pivot in place, and all components shall be in a condition similar to that of original manufacture.",False,False
+27,C,11.0,b,,,"b. When checking the erected shoring frames with the shoring design, the spacing between towers and cross brace spacing shall not exceed that shown in the design and all locking devices shall be closed.",False,False
+27,C,11.0,c,,,c. Devices for attaching external lateral stability bracing shall be fastened to the legs of the shoring frames.,False,False
+27,C,12.0,,,,27.C.12 Vertical slip forms.,True,False
+27,C,12.0,a,,,a. Vertical slip forms shall be planned and designed by an RPE.,False,False
+27,C,12.0,b,,,b. The steel rods or pipe on which the jacks climb or by which the forms are lifted shall be designed specifically for that purpose. Such rods shall be braced where not encased in concrete.,False,False
+27,C,12.0,c,,,c. Jacks and vertical supports shall be positioned in such a manner that the vertical loads are distributed equally and do not exceed the capacity of the jacks.,False,False
+27,C,12.0,d,,,d. The jacks or other lifting devices shall be provided with mechanical dogs or other automatic holding devices to provide protection in case of failure of the power supply or the lifting mechanism.,False,False
+27,C,12.0,e,,,e. Lifting shall proceed steadily and uniformly and shall not exceed the predetermined safe rate of lift.,False,False
+27,C,12.0,f,,,f. Lateral and diagonal bracing of the forms shall be provided to prevent excessive distortion of the structure during the jacking operation.,False,False
+27,C,12.0,g,,,"g. During jacking operations, the form structure shall be maintained in line and plumb.",False,False
+27,C,12.0,h,,,h. All vertical lift forms shall be provided with scaffolding or work platforms completely encircling the area of placement.,False,False
+27,C,13.0,,,,27.C.13 Removal of formwork.,True,False
+27,C,13.0,a,,,a. Forms and shores (except those on slab or grade and slip forms) shall not be removed until the individual responsible for forming and/or shoring determines that the concrete has gained sufficient strength to support its weight and all superimposed loads. Such determination shall be based on one of the following:,False,False
+27,C,13.0,a,1.0,,"(1) Satisfaction of conditions stipulated in the plans and specifications for removal of forms and shores, or",False,False
+27,C,13.0,a,2.0,,(2) Concrete testing (in accordance with ASTM standard test methods) indicates that the concrete has achieved sufficient strength to support its weight and superimposed loads.,False,False
+27,C,13.0,b,,,b. Re-shoring shall not be removed until the concrete being supported has attained adequate strength to support its weight and all loads placed on it.,False,False
+27,D,,,,,27.D Precast Concrete Operations.,True,False
+27,D,1.0,,,,27.D.01 Precast Concrete operations shall be planned and designed by a RPE.  Precast Concrete Plans and designs shall include detailed instructions and sketches indicating the prescribed method of erection and shall be submitted to the GDA for review.,True,False
+27,D,2.0,,,,27.D.02 Precast concrete members shall be adequately supported to prevent overturning or collapse until permanent connections are complete.,True,False
+27,D,3.0,,,,27.D.03 Lifting inserts and hardware.,True,False
+27,D,3.0,a,,,a. Lifting inserts which are embedded or otherwise attached to tilt-up precast concrete members shall be capable of supporting at least two times the maximum intended load applied or transmitted to them.,False,False
+27,D,3.0,b,,,"b. Lifting inserts which are embedded or otherwise attached to precast concrete members, other than tilt-up members, shall be capable of supporting at least four times the maximum intended load applied or transmitted to them.",False,False
+27,D,3.0,c,,,c. Lifting hardware shall be capable of supporting at least five times the maximum intended load applied or transmitted to the lifting device.,False,False
+27,D,4.0,,,,27.D.04 No employee shall be permitted under precast concrete members being lifted or tilted into position except employees required for the erection of those members.,True,False
+27,E,,,,,27.E Lift-Slab Operations.,True,False
+27,E,1.0,,,,27.E.01  Lift-slab operations shall be planned and designed by an RPE.  Lift-Slab Plans and designs shall include detailed instructions and sketches indicating the prescribed method of erection and shall be submitted to the GDA for review.,True,False
+27,E,2.0,,,,27.E.02 Jacking equipment.,True,False
+27,E,2.0,a,,,a. The manufacturer's rated capacity shall be legibly marked on all jacks and shall not be exceeded.,False,False
+27,E,2.0,b,,,"b. All jacking equipment such as threaded rods, lifting attachments, lifting nuts, columns and other members that transmit loads to the jacks shall be capable of supporting at least two and one-half times the load being lifted.",False,False
+27,E,2.0,c,,,c. Jacks shall be designed and installed so that they will not continue to lift when overloaded.,False,False
+27,E,2.0,d,,,d. All jacks shall have a positive stop to prevent over-travel.,False,False
+27,E,2.0,e,,,e. Hydraulic jacks used in lift-slab construction shall have a safety device that will cause the jacks to support the load in any position if the jack malfunctions.,False,False
+27,E,3.0,,,,27.E.03 Jacking operations.,True,False
+27,E,3.0,a,,,"a. When it is necessary to provide a firm foundation, the base of the jack shall be blocked or cribbed. Where there is a possibility of slippage of the metal cap of the jack, a wood block shall be placed between the cap and the load.",False,False
+27,E,3.0,b,,,"b. The maximum number of manually-controlled jacks on one slab shall be limited to 14, and in no event shall the number be too great to permit the operator to maintain the slab level within specific tolerances.",False,False
+27,E,3.0,c,,,c. Jacking operations shall be synchronized to ensure even and uniform lifting of the slab.,False,False
+27,E,3.0,d,,,"d. During lifting, all points of the slab support shall be kept within ½ in (1.2 cm) of that needed to maintain the slab in a level position.",False,False
+27,E,3.0,d,1.0,,"(1) If leveling is automatically controlled, a device shall be installed which will stop the operation when the ½ in (1.2 cm) leveling tolerance is exceeded.",False,False
+27,E,3.0,d,2.0,,"(2) If leveling is manually controlled, such controls shall be located in a central location and attended by a trained operator while lifting is in progress.",False,False
+27,E,3.0,e,,,e. No one shall be permitted under the slab during jacking operations.,False,False
+27,F,,,,,"27.F Masonry Construction. > See also Standard Practice for Bracing Masonry Walls under Construction, by the Council for Masonry Wall Bracing.",True,False
+27,F,,,,,"27 F.01 Prior to the beginning of the erection of any structural masonry, a Masonry Bracing Plan shall be submitted to the GDA for review and acceptance. The plan will include the identification of the site and project and will be signed and dated by the Qualified Person(QP) responsible for its preparation and modifications. The plan shall include the following information, as applicable to the particular project:",False,False
+27,F,,a,,,"a. The sequence of erection activity, developed in coordination with the controlling contractor that includes the following:",False,False
+27,F,,a,1.0,,(1) Material deliveries;,False,False
+27,F,,a,2.0,,(2) Material staging and storage; and,False,False
+27,F,,a,3.0,,(3) Coordination with other trades and construction activities.,False,False
+27,F,,b,,,"b. A description of the bracing selection and placement procedures, including the following:",False,False
+27,F,,b,1.0,,(1) Site preparation;,False,False
+27,F,,b,2.0,,(2) Restricted Zone perimeters;,False,False
+27,F,,b,3.0,,(3) Supportive calculations;,False,False
+27,F,,b,4.0,,(4) Stability considerations requiring temporary bracing;,False,False
+27,F,,b,5.0,,(5) Terminus point; and,False,False
+27,F,,b,6.0,,(6) Connections.,False,False
+27,F,,c,,,c. Activity Hazard Analysis (AHA) in accordance with Section 1 of this manual;,False,False
+27,F,,d,,,d. A list of the QPs and CPs; and,False,False
+27,F,,e,,,e. A description of the procedures that will be utilized in the event of rescue or emergency response.,False,False
+27,F,2.0,,,,27.F.02 A restricted zone shall be established whenever a masonry wall is being constructed. The restricted zone is created to keep masons and other tradesmen away from a wall under construction when winds exceed critical velocities until the wall is completely tied into the rest of the structure. The restricted zone shall:,True,False
+27,F,2.0,a,,,a. Be established prior to the start of construction on the wall;,False,False
+27,F,2.0,b,,,"b. Be equal to the height of the wall being constructed plus 4 ft (1.2 m), and shall run the entire length of the wall;",False,False
+27,F,2.0,c,,,c. Be established on the side of the wall that will be not be scaffolded;,False,False
+27,F,2.0,d,,,d. Be restricted to entry only by employees actively engaged in constructing the wall; no other employees shall be permitted to enter the zone;,False,False
+27,F,2.0,e,,,e. Be evacuated during the initial period of construction when wind speeds exceed 20 mph;,False,False
+27,F,2.0,f,,,f. Be evacuated during the intermediate period of construction when wind speeds exceed 35 mph;,False,False
+27,F,2.0,g,,,"g. Remain in place until the wall is adequately supported to prevent overturning and to prevent collapse unless the height of the wall is over 8 ft (2.4 m), in which case the restricted zone shall remain in place until the requirements of this Section 27.F.02 have been met.",True,False
+27,F,2.0,h,,,"h. For multi-story structures, the restricted zone shall be determined by a QP.",False,False
+27,F,3.0,,,,27.F.03 All masonry walls over 8 ft (2.4 m) in height shall be adequately braced to prevent overturning and to prevent collapse unless the wall is adequately supported so that it will not overturn or collapse. The bracing shall remain in place until permanent supporting elements of the structure are in place.,True,False
+27,F,4.0,,,,27.F.04 Each employer having workers in the restricted zone shall monitor the wind speed continuously while the work is in progress and evacuate employees as required above.,True,False
+27,F,4.0,a,,,a. Wind speeds shall be 3-second gust speeds.,False,False
+27,F,4.0,b,,,b. Instrument methods shall accurately measure wind speed to +/- 2 mph and instruments shall be properly maintained.,False,False
+27,F,5.0,,,,"27.F.05 The CP shall inspect unsupported masonry walls, including the wall bracing system, for visible defects at the beginning of each shift and after any occurrence that could affect the structural integrity of the wall or wall bracing system.",True,False
+27,F,6.0,,,,27.F.06 Any damaged or weakened brace element shall be repaired or replaced before work is permitted in the restricted zone in the vicinity of the damaged brace or weakened brace element. A CP shall supervise the repairs.,True,False
+27,F,7.0,,,,"27.F.07 A structural engineer, familiar with the work being performed, shall design the repairs to the wall. Repairs shall not be performed without the approval of the project structural designer of record.",True,False
+27,F,8.0,,,,27.F.08 Scaffolds for masonry construction workers shall not be used to provide temporary lateral support of masonry walls.,True,False
+27,F,9.0,,,,27.F.09 Cleanouts shall be on the side of the masonry wall opposite to the scaffolding.,True,False
+27,F,10.0,,,,27.F.10 Fall protection shall be provided to masonry workers exposed to falls of 6 ft (1.8 m) or more. > See Section 21.,True,False
+27,G,,,,,27.G Roofing.,True,False
+27,G,1.0,,,,"27.G.01 Before work begins, a CP for Fall Protection shall complete a daily inspection of each job site. The CP for Fall Protection, designated by management, shall be capable of identifying existing predictable fall hazards and has the authority to take prompt corrective action to eliminate them. Hazards shall be eliminated by engineering methods and if this cannot be accomplished, guarding to isolate the hazard from the exposed employees shall be implemented. In no case shall warnings or instructions be used as a substitute for elimination of hazards by engineering means or guarding.",True,False
+27,G,2.0,,,,"27.G.02 Prior to the start of work, a structural analysis of the roof shall be conducted by a QP to assure that the load capacity of the roof deck will not be exceeded.",True,False
+27,G,3.0,,,,"27.G.03 Where the work presents a potential hazard to the public, the Contractor shall set up and maintain barricades with proper postings to alert public to the hazards in accordance with ANSI D6.1. Applicable statutes and local regulations shall be examined and the more restrictive requirements shall be followed.",True,False
+27,G,4.0,,,,"27.G.04 Work on the roof shall be halted during severe weather such as strong winds, electrical storms, icing conditions, heavy rain, or snow as soon as practical.",True,False
+27,G,5.0,,,,27.G.05 The employer shall establish emergency plans and fire prevention plans. All employees shall be trained in accordance with these plans.,True,False
+27,G,6.0,,,,27.G.06 Roof openings and holes shall be protected in accordance with Section 24.,True,False
+27,G,7.0,,,,"27.G.07 In the construction, maintenance, repair, and demolition, of roofs, fall protection systems shall be provided which will prevent personnel from slipping and falling from the roof and prevent personnel on lower levels from being struck by falling objects in accordance with Section 21.",True,False
+27,G,8.0,,,,"27.G.08 On all roofs greater than 16 ft (4.8 m) in height, a hoisting device, stairways, or progressive platforms shall be furnished for supplying materials and equipment.",True,False
+27,G,9.0,,,,"27.G.09 Roofing materials and accessories that could be moved by the wind, including metal roofing panels, which are on the roof and unattached, shall be secured when wind speeds are greater than, or are anticipated to exceed, 10 mph (16.1 km/h).",True,False
+27,G,10.0,,,,27.G.10 Access to roofs and sections of roofs shall comply with Sections 22 and 24.,True,False
+27,G,11.0,,,,"27.G.11 Materials may not be stored within 6 ft (1.8 m) of the roof edge unless guardrails are erected at the roof edge. Materials that are to be piled, stacked, or grouped shall be stable and self-supporting.",True,False
+27,G,12.0,,,,27.G.12 Proper PPE shall be worn by all personnel working with hot materials during roofing work.  > See also 06.D.02.d.,True,False
+27,H,,,,,27.H Residential Construction.,True,False
+27,H,1.0,,,,"27.H.01 All wood used for residential construction shall meet applicable building codes and design criteria. Wood used for temporary work platforms and/ or fall protection must be inspected for compliance with Sections 21 and 22, as structural lumber from the site may not meet the requirements for protective systems.",True,False
+27,H,2.0,,,,27.H.02 Hand and power tools shall be equipped and used in accordance with the requirements of Section 13.,True,False
+27,H,3.0,,,,27.H.03 Raising Walls.,True,False
+27,H,3.0,a,,,"a. Before manually raising framed walls that are 10 ft (3 m) or more in height, temporary restraints such as cleats on the foundation/floor system or straps on the wall bottom plate shall be installed to prevent inadvertent horizontal sliding or uplift of the framed wall bottom plate.",False,False
+27,H,3.0,b,,,b. Anchor bolts alone shall not be used for blocking or bracing when raising framed walls 10 ft (3 m) or more in height.,False,False
+27,H,4.0,,,,"27.H.04 Employees shall not work from or walk on top plates, joists, rafters, trusses, beams or other structural members until they are securely braced and supported.",True,False
+27,H,5.0,,,,"27.H.05 Truss Support Plate. Where a truss support plate is used during the installation of trusses, it shall be constructed of a 2-in x 6-in (5 cm x 15.2 cm) plank laid flat, secured linearly to a 2-in x 6-in plank laid on edge, supported with 2-in x 4-in (5.4 x 10.2 cm) wood members (legs) spaced no more than 6 ft (1.8 m) on center and attached to diagonal bracing adequately secured to support its intended load. All material dimensions are minimum and nominal.",True,False
+27,H,6.0,,,,27.H.06 Trusses installed without a ridge beam or other horizontal structural connection shall be connected temporarily to each other and to a secured end gable by a minimum of one 1-in x 4-in (2.5 cm x 10.2 cm) plank face-nailed to every rafter on each slope of the truss. The number of planks shall be sufficient to protect against wind-related collapse of the truss rows.,True,False
+27,H,7.0,,,,"27.H.07 During construction, proper work platforms such as scaffolds and decks, in accordance with Section 22 shall be used. Walking on plates, beams, joists, and other members more than 6 ft (1.8 m) above the ground or floor is prohibited unless workers meet the fall protection practices outlined in Section 21.",True,False

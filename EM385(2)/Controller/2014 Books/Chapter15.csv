@@ -1,0 +1,211 @@
+chapter,section,topic,refOne,refTwo,refThree,content,highlight,bookmark
+15,A,,,,,15.A General.,True,False
+15,A,1.0,,,,15.A.01 Inspection and use.,True,False
+15,A,1.0,a,,,"a. Rigging equipment shall be inspected as specified by the manufacturer, by a Competent Person (CP), before use on each shift as necessary during its use to ensure that it is safe. The CP must have training and experience equivalent to, or be under the supervision of a Qualified Rigger (QR) as defined in Appendix Q.",False,False
+15,A,1.0,b,,,b. Defective rigging shall be removed from service.,False,False
+15,A,1.0,c,,,"c. The use, inspection and maintenance of rigging equipment shall be in accordance with the rigging equipment manufacturer. Rigging equipment shall not be loaded in excess of its working load limit (WLL).",False,False
+15,A,1.0,d,,,"d. Rigging equipment, when not in use, shall be removed from the immediate work area and properly stored and maintained in a safe condition.",False,False
+15,A,2.0,,,,15.A.02 Hoist rope shall not be wrapped around the load.,True,False
+15,A,3.0,,,,15.A.03 All eye splices shall be made in an approved manner per ASME B30.9.,True,False
+15,A,4.0,,,,"15.A.04 When hoisting loads, a positive latching device shall be used to secure the load and rigging (e.g., self-closing or self-locking hooks, an alloy anchor type shackle with a bolt, nut and retaining pin, screw-pin shackle, etc). > See Section 15.E.07.",True,False
+15,A,5.0,,,,"15.A.05 Custom fabricated grabs, hooks, clamps, or other lifting accessories (e.g., equalizing beams, lifting or spreader beams, etc.) for such units as modular panels, prefabricated structures, and similar materials shall be designed by an Registered Professional Engineer (RPE), marked to indicate the WLL and shall be proof-tested before initial use, to 125% of their WLL.",True,False
+15,A,6.0,,,,"15.A.06 Structural and mechanical lifting devices shall be designed, tested and used in accordance with ASME B30.20, Below the Hook Lifting Devices.",True,False
+15,B,,,,,15.B Personnel Qualifications.,True,False
+15,B,1.0,,,,"15.B.01 Any worker engaged in the duties and performance of rigging shall be a Qualified Rigger (QR). Employers must determine and designate in writing the QRs and the specific rigging tasks for which they are qualified and provide to the GDA for acceptance. > Note: The term “rigger” or “Qualified Rigger (QR)” in this manual refers to the function performed, and in no way relates to the worker’s job classification or position.",True,False
+15,B,1.0,a,,,a. Each QR may have different credentials or experience. A QR is a person that  :,False,False
+15,B,1.0,a,1.0,,"(1) Has extensive knowledge, training and experience sufficient to calculate loads, load weights, safe capacities and apply other safe rigging principles and procedures;",False,False
+15,B,1.0,a,2.0,,"(2)  Demonstrates the ability to utilize rigging materials and principles, and;",False,False
+15,B,1.0,a,3.0,,(3) Is capable of safely inspecting and performing rigging operations.,False,False
+15,B,1.0,b,,,"b. In addition, a QR must:",False,False
+15,B,1.0,b,1.0,,(1) Be at least 18 years of age;,False,False
+15,B,1.0,b,2.0,,"(2) Be able to communicate effectively with the crane operator, the lift supervisor, signal person and affected personnel on site;",False,False
+15,B,1.0,b,3.0,,"(3) Have basic knowledge and understanding of equipment-operating characteristics, capabilities, and limitations and one whose competence in this skill has been demonstrated through training and experience satisfactory to management personnel.",False,False
+15,B,2.0,,,,15.B.02  A QR shall also be able to demonstrate knowledge and proficiency to appropriate management personnel in the following:,True,False
+15,B,2.0,a,,,a. Personnel roles and responsibilities;,False,False
+15,B,2.0,b,,,"b. Site preparation (terrain, environment);",False,False
+15,B,2.0,c,,,c. Rigging equipment and materials;,False,False
+15,B,2.0,d,,,d. Safe Hoisting Equipment operating procedures;,False,False
+15,B,2.0,e,,,e. Principles of safe rigging;,False,False
+15,B,2.0,f,,,f. Environmental hazards (includes overhead interferences);,False,False
+15,B,2.0,g,,,g. Rigging and handling the load;,False,False
+15,B,2.0,h,,,h. Identification of hoisting-related hazards;,False,False
+15,B,2.0,i,,,i. The associated hazards when employee is required to be in the fall zone to handle a load.,False,False
+15,C,,,,,15.C Multiple Lift Rigging (MLR) (“Christmas Tree Rigging”). USACE allows multiple lift rigging practices for the purpose of erecting/placing structural steel ONLY.,True,False
+15,C,1.0,,,,15.C.01 Strict compliance with this section and 29 CFR 1926.753 Subpart R shall be mandated.,True,False
+15,C,2.0,,,,"15.C.02  A lift using a MLR Assembly is considered a critical lift. It requires a carefully detailed, written critical lift plan per Section 16.H. In addition, all details and requirements of this section are required to be addressed:",True,False
+15,C,2.0,a,,,a. Identifying all multi-lift hazards on the job site;,False,False
+15,C,2.0,b,,,b. Beam list;,False,False
+15,C,2.0,c,,,c. Determining load capacity;,False,False
+15,C,2.0,d,,,d. Determining weight of a member;,False,False
+15,C,2.0,e,,,e. Proper crane hand signals;,False,False
+15,C,2.0,f,,,f. Safety rules for MLR;,False,False
+15,C,2.0,g,,,g. Seven-foot rule;,False,False
+15,C,2.0,h,,,h. Safe route/path of load and crane;,False,False
+15,C,2.0,i,,,i. Power line issues;,False,False
+15,C,2.0,j,,,j. Crane requirements;,False,False
+15,C,2.0,k,,,k. Marking centerlines;,False,False
+15,C,2.0,l,,,l. Use of tag line;,False,False
+15,C,2.0,m,,,m. Qualifications and/or certifications of the operator(s) and rigger(s) to be performing these operations;,False,False
+15,C,2.0,n,,,"n. Rigging equipment: wire rope slings, hooks & shackles;",False,False
+15,C,2.0,o,,,o. Clean lay-down area;,False,False
+15,C,2.0,p,,,p. Cribbing;,False,False
+15,C,2.0,q,,,q. Storage/staging;,False,False
+15,C,2.0,r,,,r. Wind/environmental limits; and,False,False
+15,C,2.0,s,,,s. Personal protective equipment.,False,False
+15,C,3.0,,,,15.C.03 A lift using a MLR Assembly may only be performed if the following criteria are met:,True,False
+15,C,3.0,a,,,a. A MLR assembly is used;,False,False
+15,C,3.0,b,,,b. A maximum of five members are hoisted per lift;,False,False
+15,C,3.0,c,,,c. Only beams and similar structural members are lifted;,False,False
+15,C,3.0,d,,,d. All employees engaged in MLR shall be trained in the following:,False,False
+15,C,3.0,d,1.0,,(1) The nature of the hazards associated with multiple lifts;,False,False
+15,C,3.0,d,2.0,,(2) The proper procedures and equipment to perform multiple lifts required in this section and as per 29 CFR 1926.753(e).,False,False
+15,C,3.0,e,,,e. All loads shall be rigged by a QR per Section 15.B;,True,False
+15,C,3.0,f,,,f. No crane is permitted to be used for multiple lift where such use is contrary to the manufacturer’s specifications and limitations;,False,False
+15,C,3.0,g,,,"g. Components of the MLR assembly shall be specifically designed and assembled with a maximum capacity for total assembly and for each individual attachment point. This capacity, certified by the manufacturer or a QR, shall be based on the manufacturer’s specifications with a 5:1 safety factor for all components.",False,False
+15,C,3.0,h,,,h. The total load shall not exceed:,False,False
+15,C,3.0,h,1.0,,(1) The working load limit (WLL) of the hoisting equipment specified in the hoisting equipment load charts;,False,False
+15,C,3.0,h,2.0,,(2) The rigging capacity specified in the rigging rating chart.,False,False
+15,C,3.0,i,,,i. The MLR assembly shall be rigged with members:,False,False
+15,C,3.0,i,1.0,,(1) Attached at their center of gravity and maintained reasonably level;,False,False
+15,C,3.0,i,2.0,,(2) Rigged from the top down; and (3) Rigged at least 7 ft (2.1 m) apart.,False,False
+15,C,3.0,j,,,j. The members on the MLR assembly shall be set from the bottom up.,False,False
+15,C,3.0,k,,,k. Controlled load-lowering shall be used whenever the load is over the connectors.,False,False
+15,D,,,,,15.D Slings.,True,False
+15,D,1.0,,,,"15.D.01 General. This section applies to slings used in conjunction with load handling equipment (LHE) for hoisting and horizontally moving loads. All slings shall be manufactured, used, inspected and maintained according to ASME B30.9.",True,False
+15,D,1.0,a,,,a.  Inspections.,False,False
+15,D,1.0,a,1.0,,"(1) Slings, all fastenings and attachments shall be visually inspected by a CP each day or shift when in use.",False,False
+15,D,1.0,a,2.0,,(2) Annual inspections shall be performed by a CP and must be documented. Documentation must be available on site and available to the GDA upon request.,False,False
+15,D,1.0,a,3.0,,"(3) Additional inspections shall be performed during sling use, where service conditions warrant. Damaged or defective slings shall be immediately removed from service.",False,False
+15,D,1.0,b,,,b. Rigging practices.,False,False
+15,D,1.0,b,1.0,,(1) All slings shall be hitched in a manner providing control of the load;,False,False
+15,D,1.0,b,2.0,,(2) Softeners. Sharp edges in contact with slings shall be padded with material of sufficient strength to protect the sling;,False,False
+15,D,1.0,b,3.0,,(3) Slings shall be shortened or adjusted only by methods approved by the sling manufacturer or a qualified person;,False,False
+15,D,1.0,b,4.0,,(4) The use of slings will be such that the entire load is positively secured;,False,False
+15,D,1.0,b,5.0,,"(5) In a basket hitch, the load shall be balanced to prevent slippage;",False,False
+15,D,1.0,b,6.0,,"(6) When using a basket hitch, legs of the sling shall contain or support the load from the sides, above the center of gravity, so that the load remains under control;",False,False
+15,D,1.0,b,7.0,,"(7) In a choker hitch, the choke point shall only be on the sling body, never on a splice or fitting;",False,False
+15,D,1.0,b,8.0,,"(8) In a choker hitch, an angle of choke less than 120 degrees shall not be used without reducing the rated load;",False,False
+15,D,1.0,b,9.0,,"(9) Slings shall not be constricted, bunched, or pinched by the load, hook or any fitting;",False,False
+15,D,1.0,b,10.0,,"(10) The load applied to the hook shall be centered in the base (bowl) of the hook to prevent point loading on the hook, unless the hook is designed for point loading;",False,False
+15,D,1.0,b,11.0,,(11) An object in the eye of a sling is not wider than one-third the length of the eye;,False,False
+15,D,1.0,b,12.0,,(12) The load shall not be landed on the sling;,False,False
+15,D,1.0,b,13.0,,(13) A sling shall not be pulled from under the load when load is resting on the sling;,False,False
+15,D,1.0,b,14.0,,(14) Slings shall not be dragged over abrasive surfaces;,False,False
+15,D,1.0,b,15.0,,(15) Shock loading is not allowed;,False,False
+15,D,1.0,b,16.0,,(16) Slings shall not be twisted or kinked.,False,False
+15,D,1.0,c,,,c. All slings shall be manufactured under ASME B30.9 guidelines and must have an affixed durable permanent identification tag that includes the following as a minimum:,False,False
+15,D,1.0,c,1.0,,(1) Name or trademark of the manufacturer (country identification only is not acceptable);,False,False
+15,D,1.0,c,2.0,,"(2) Type of material used (synthetic web slings, synthetic round slings or synthetic rope slings only);",False,False
+15,D,1.0,c,3.0,,(3) WLL for a given type of hitch and configuration;,False,False
+15,D,1.0,c,4.0,,(4) Number of legs if more than one.,False,False
+15,D,1.0,d,,,d. Natural fiber rope shall not be used to fabricate slings.,False,False
+15,D,1.0,e,,,e. Fabricated eye slings or endless loop slings using alloy steel wire rope clips or clamps for hoisting material or lifting are prohibited except where the application precludes the use of prefabricated slings. All slings fabricated using alloy steel wire rope clips or clamps shall be designed by a RPE for the specific application. > See Figures 15-1 and 15-2.,False,False
+15,D,2.0,,,,15.D.02 Alloy Steel Chain Slings.,True,False
+15,D,2.0,a,,,a. Only alloy chain Grade 80 or higher shall be used in rigging.,False,False
+15,D,2.0,b,,,"b. Chain shall be visually inspected each day or shift when in use. Inspect chains on an individual link basis. Chains shall be cleaned before they are inspected, as dirt and grease can hide nicks and cracks.",False,False
+15,D,2.0,c,,,c. Chains shall be removed from service if the following conditions exist:,False,False
+15,D,2.0,c,1.0,,(1) missing or illegible sling identification;,False,False
+15,D,2.0,c,2.0,,(2) cracks or breaks;,False,False
+15,D,2.0,c,3.0,,"(3) excessive wear, nicks, or gouges. Minimum thickness of chain links shall not be below the values listed in Table 15-1;",False,False
+15,D,2.0,c,4.0,,(4) stretched chain links or components;,False,False
+15,D,2.0,c,5.0,,"(5) bent, twisted, or deformed chain links or components;",False,False
+15,D,2.0,c,6.0,,(6) evidence of heat damage or weld splatter;,False,False
+15,D,2.0,c,7.0,,(7) excessive pitting or corrosion;,False,False
+15,D,2.0,c,8.0,,(8) lack of ability of chain or components to hinge (articulate) freely;,False,False
+15,D,2.0,c,9.0,,(9) other conditions including visible damage that cause doubt as to the continued use of the chain.,False,False
+15,D,2.0,d,,,"d. When used with multiple leg slings, alloy steel chains, hooks, rings, oblong links, pear-shaped links, welded or mechanical coupling links, or other attachments shall have a WLL at least equal to that of the assembly chain.",False,False
+15,D,2.0,e,,,e. Multiple leg slings shall have the number of legs and lengths identified on the tag. > See Section 15.D.01.c.,True,False
+15,D,3.0,,,,15.D.03 Wire Rope Slings. Wire rope slings shall be inspected by a CP for the following:,True,False
+15,D,3.0,a,,,a. Broken wires;,False,False
+15,D,3.0,b,,,b. Severe localized abrasion or scraping;,False,False
+15,D,3.0,c,,,"c. Kinking, crushing, bird caging or any other damage to the rope structure;",False,False
+15,D,3.0,d,,,d. Evidence of heat damage;,False,False
+15,D,3.0,e,,,"e. Crushed, deformed, or worn end attachments;",False,False
+15,D,3.0,f,,,"f. Severe corrosion of the rope, and attachments or fittings;",False,False
+15,D,3.0,g,,,g. Missing or illegible sling identification;,False,False
+15,D,3.0,h,,,h. Other conditions that cause doubt as to safe use of sling.,False,False
+15,D,4.0,,,,15.D.04 Metal Mesh Slings. Metal mesh slings shall be inspected by a CP for the following:,True,False
+15,D,4.0,a,,,a. Broken weld or brazed joint along the sling edge;,False,False
+15,D,4.0,b,,,b. Broken wire in any part of the mesh;,False,False
+15,D,4.0,c,,,c. Reduction in wire diameter of 25% due to abrasion or 15% due to corrosion;,False,False
+15,D,4.0,d,,,d. Lack of flexibility due to distortion of the mesh;,False,False
+15,D,4.0,e,,,e. Distortion of the choker fitting so that the depth of the slot is increased by more than 10%;,False,False
+15,D,4.0,f,,,f. Distortion of either end fitting so the width of the eye opening is decreased by more than 10%;,False,False
+15,D,4.0,g,,,g. A 15% reduction of the original cross-sectional area of metal at any point around the hook opening of end fitting;,False,False
+15,D,4.0,h,,,h. Excessive pitting or corrosion of fittings; broken or cracked fittings; distortion of either end fitting out of its plane;,False,False
+15,D,4.0,i,,,i. A sling in which the spirals are locked or without free articulation;,False,False
+15,D,4.0,j,,,j. Other visible damage that causes doubt as to the strength of the sling.,False,False
+15,D,5.0,,,,15.D.05 Synthetic Fiber Rope Slings.,True,False
+15,D,5.0,a,,,a. Synthetic rope slings shall be inspected by a CP for the following:,False,False
+15,D,5.0,a,1.0,,"(1) Broken or cut fibers, either internally or externally;",False,False
+15,D,5.0,a,2.0,,"(2) Cuts, gouges, abrasions; seriously or abnormally worn fibers;",False,False
+15,D,5.0,a,3.0,,(3) Powdered fiber or particles of broken fiber inside the rope between the strands;,False,False
+15,D,5.0,a,4.0,,(4) Variations in size or roundness of strands;,False,False
+15,D,5.0,a,5.0,,(5) Discoloration or rotting; weakened or brittle fibers;,False,False
+15,D,5.0,a,6.0,,"(6) Excessive pitting or corrosion, or cracked, distorted, or broken fittings;",False,False
+15,D,5.0,a,7.0,,(7) Kinks;,False,False
+15,D,5.0,a,8.0,,(8) Melting or charring of the rope;,False,False
+15,D,5.0,a,9.0,,(9) Other visible damage that causes doubt as to the strength of the rope.,False,False
+15,D,5.0,b,,,"b. Synthetic rope slings shall not be used while frozen. When using synthetic rope slings in chemically active or excessively hot environments, consult with the sling manufacturer or Qualified Person (QP).",False,False
+15,D,5.0,c,,,c. Synthetic rope slings shall be protected from abrasion by padding where it is fastened or drawn over square corners or sharp or rough surfaces.,False,False
+15,D,5.0,d,,,d. Do not allow synthetic rope slings to be used in contact with objects or at temperature in excess of 194oF (90oC) or below -40oF (40oC). >Note: Some synthetic yarns do not retain their breaking strength during long term exposure above 140oF (60oC).,False,False
+15,D,5.0,e,,,e. Eye Splices. All splices shall be made per the rope manufacturer or a QP and in accordance with  ASME B30.9.,False,False
+15,D,5.0,f,,,f. Knots shall not be used in lieu of eye splices.,False,False
+15,D,6.0,,,,15.D.06 Synthetic Web Slings.,True,False
+15,D,6.0,a,,,a. Synthetic Web Slings shall be inspected for the following:,False,False
+15,D,6.0,a,1.0,,(1) Acid or caustic burns;,False,False
+15,D,6.0,a,2.0,,(2) Melting or charring of any part of the sling;,False,False
+15,D,6.0,a,3.0,,"(3) Snags, holes, tears, or cuts;",False,False
+15,D,6.0,a,4.0,,(4) Broken or worn stitches;,False,False
+15,D,6.0,a,5.0,,(5) Excessive abrasive wear;,False,False
+15,D,6.0,a,6.0,,(6) Knots in any part of the sling;,False,False
+15,D,6.0,a,7.0,,(7) Wear or elongation exceeding the amount recommended by the manufacturer;,False,False
+15,D,6.0,a,8.0,,"(8) Excessive pitting or corrosion, or cracked, distorted, or broken fittings;",False,False
+15,D,6.0,a,9.0,,(9) Other visible damage that causes doubt as to the strength of the sling.,False,False
+15,D,6.0,b,,,b. Synthetic web slings shall not be allowed to be used in contact with objects or at temperature in excess of 194oF (90oC) or below -40oF (40oC). >Note: Some synthetic yarns do not retain their breaking strength during long term exposure above 140oF (60oC).,False,False
+15,D,7.0,,,,15.D.07 Synthetic Round Slings.,True,False
+15,D,7.0,a,,,"a. New slings (before initial use) shall be marked by the manufacturer to show the following, in addition to items required in Section 15.D.01.c:",True,False
+15,D,7.0,a,1.0,,(1) The core material;,False,False
+15,D,7.0,a,2.0,,(2) The cover material if different from the core material.,False,False
+15,D,7.0,b,,,"b. Synthetic Round Slings shall be inspected for the following and where any such damage or deterioration is present, remove the sling or attachment from service immediately:",False,False
+15,D,7.0,b,1.0,,(1) Missing or illegible sling identification;,False,False
+15,D,7.0,b,2.0,,(2) Acid or Caustic burns;,False,False
+15,D,7.0,b,3.0,,(3) Evidence of heat damage;,False,False
+15,D,7.0,b,4.0,,"(4) Holes, tears, cuts, abrasive wear, or snags, that expose the core yarn;",False,False
+15,D,7.0,b,5.0,,(5) Broken or damaged core yarns;,False,False
+15,D,7.0,b,6.0,,(6) Welding spatter that exposes the core yarns;,False,False
+15,D,7.0,b,7.0,,"(7) Knots in the round sling body, except for core yarn knots inside the cover;",False,False
+15,D,7.0,b,8.0,,(8) Discoloration and brittle or stiff areas on any part of the sling;,False,False
+15,D,7.0,b,9.0,,"(9) Pitted, corroded, cracked, bent, twisted, gouged, or broken fittings;",False,False
+15,D,7.0,b,10.0,,(10) Other conditions that cause doubt as to the continued use of the sling.,False,False
+15,D,7.0,c,,,c. Synthetic round slings shall not be allowed to be used in contact with objects or at temperature in excess of 194oF (90oC) or below -40oF (40oC). >Note: Some synthetic yarns do not retain their breaking strength during long term exposure above 140oF (60oC).,False,False
+15,E,,,,,"15.E Rigging Hardware (Excludes Reeving Hardware).  (Includes all detachable rigging hardware used for load-handling activities). >  See also “Rigging Hardware” in Appendix Q.  All rigging hardware shall be constructed, installed, used, inspected and maintained in accordance with ASME B30.26.",True,False
+15,E,1.0,,,,"15.E.01 All rigging hardware shall be inspected for defects prior to use on each shift and periodically as necessary during use to ensure that it is safe.    >Note: Periodic inspections shall be documented and shall not exceed 1 year. The frequency shall be based on frequency of shackle use, severity of service conditions and nature of load-handling activities. Guidelines: for normal service is yearly; for severe   service is monthly to quarterly; and for special service is as recommended by a qualified person. Defective rigging equipment shall be removed from service. Inspections shall be in accordance with the manufacturer's recommendations and at a minimum shall address:",True,False
+15,E,1.0,,,,a. Wear greater than 10%;,False,False
+15,E,1.0,b,,,"b. Deformations (straightness, nominal opening tolerances);",False,False
+15,E,1.0,c,,,"c. That manufacturer appropriate connectors are used (i.e., never replace a shackle pin with a bolt).",False,False
+15,E,2.0,,,,"15.E.02 Rigging hardware shall not be painted once purchased. While the painting of rigging gear for identification is common, USACE considers this an unacceptable practice that constitutes a dangerous condition. Painting of hardware can potentially cover defects creating an unsafe condition.",True,False
+15,E,3.0,,,,"15.E.03 Drums, sheaves, and pulleys shall be smooth and free of surface defects that may damage rigging. In addition, drums, sheaves, or pulleys having eccentric bores, cracked hubs, spokes, or flanges shall be removed from service.",True,False
+15,E,4.0,,,,"15.E.04 Connections, fittings, fastenings, and attachments used with rigging shall be of good quality, of proper size and strength, and shall be installed in accordance with recommendations of the manufacturer.",True,False
+15,E,5.0,,,,"15.E.05 Job hooks, shop hooks and links, makeshift fasteners formed from bolts and rods, and other similar attachments shall not be used.",True,False
+15,E,6.0,,,,15.E.06 Shackles. All shackles shall be manufactured according to ASME B30.26.,True,False
+15,E,6.0,a,,,"a. Only shackles marked by manufacturer with name or trademark of manufacturer (country only is not acceptable), WLL and size shall be used. Shackles shall be maintained by the user so as to be legible throughout the life of the shackle.",False,False
+15,E,6.0,b,,,"b. Each new shackle pin shall be marked by manufacturer to show name or trademark of manufacturer and grade, material type or load rating.",False,False
+15,E,6.0,c,,,c. Shackles shall be inspected visually by the user (or other designated person) prior to each use and periodically.,False,False
+15,E,6.0,d,,,"d. Repairs and/or modifications may only be as specified by the manufacturer. Replacement parts, like pins, shall meet or exceed the original manufacturer’s specifications.",False,False
+15,E,6.0,e,,,e. Shackles shall not be eccentrically (side) loaded or shock loaded.,False,False
+15,E,6.0,f,,,f. Multiple sling legs shall not be applied to the shackle pin.,False,False
+15,E,7.0,,,,15.E.07 Hooks. All hooks used for lifting or load handling purposes shall be manufactured according to  ASME B30.10. > See Figure 15-3.,True,False
+15,E,7.0,a,,,a. All hooks used for lifting or load handling purposes shall not be used in any other manner.,False,False
+15,E,7.0,b,,,"b. Hooks that show wear exceeding 10% or an increase in the throat opening of 5% (maximum of ¼ in (6mm)), or as recommended by the manufacturer, or any visibly apparent bend or twist from the plane of the hook shall be removed from service.",False,False
+15,E,7.0,c,,,c. The manufacturer's recommendations shall be followed in determining the WLL of the various sizes and types of specific and identifiable hooks. Any hook for which the manufacturer's recommendations are not available shall be tested to twice the intended safe working load before it is put into use. The employer shall maintain a record of the dates and results of such tests.,False,False
+15,E,7.0,d,,,"d. Open hooks are prohibited in rigging used to hoist loads except for miscellaneous-type hooks (i.e., grab hooks, foundry hooks, sorting hooks, choker hooks, etc). These hooks may be used as long as they are inspected and maintained in accordance with manufacturer’s recommendations. The use of these specialty-type hooks shall be identified in the applicable AHA and submitted to the GDA for acceptance. > See Figure 15-4.",False,False
+15,E,7.0,e,,,"e. Manufacturer’s identification (country only is not acceptable) and WLL shall be forged, cast, or die stamped on a low stress and non-wearing area of the hook.",False,False
+15,E,7.0,f,,,f. Duplex (sister) hooks shall be loaded equally on both sides unless the hook is specifically designed for single-point loading.,False,False
+15,E,7.0,g,,,"g. If the duplex (sister) hook is loaded at the pinhole instead of at the two saddles, the load applied shall not exceed the WLL that would normally be shared by the two saddles or the WLL of the supporting equipment.",False,False
+15,E,8.0,,,,"15.E.08 Eyebolts, Eye Nuts, Swivel Hoist Rings and Turnbuckles. All eyebolts, eye nuts, swivel hoist rings and turnbuckles shall be manufactured according to ASME B30.26.",True,False
+15,E,8.0,a,,,a. WLLs shall be in accordance with the manufacturer’s recommendation.,False,False
+15,E,8.0,b,,,"b. Each turnbuckle, eye nut and eyebolt shall be marked with name or trademark of the manufacturer (country is not acceptable), size or WLL and grade (for alloy eyebolts). In addition, each swivel hoist ring must also be marked to show torque value (excluding trench cover hoist rings). Markings shall remain legible.",False,False
+15,E,8.0,c,,,c. This equipment shall be inspected visually before each use by the user (or other designated person) and at least annually to determine condition is safe for use.,False,False
+15,E,8.0,d,,,"d. Turnbuckles shall not be side loaded and shall be rigged and secured to prevent unscrewing during the lift. In addition, end-fittings threads shall be fully engaged in the body threads.",False,False
+15,E,8.0,e,,,e. Shoulderless eyebolts shall not be loaded at an angle.,False,False

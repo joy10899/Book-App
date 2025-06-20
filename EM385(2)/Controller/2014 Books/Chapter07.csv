@@ -1,0 +1,19 @@
+chapter,section,topic,refOne,refTwo,refThree,content,highlight,bookmark
+7,A,,,,,"07.A General.   Proper illumination of work spaces, project sites, roadways and vessels is imperative to a safe working environment. It is of significant importance in safe vehicular operation and the prevention of slips and falls. The lighting standards provided in this section are minimal standards. This section is applicable to both contractor and government operations.",True,False
+7,A,1.0,,,,07.A.01 A review of the lighting requirements for specific tasks or operations shall be evaluated as part of the activity hazard analysis (AHA).,True,False
+7,A,2.0,,,,"07.A.02  Lamps and fixtures will be guarded and secured to preclude injury to personnel.  Open fluorescent fixtures will be provided with wire guards, lenses, tube guards and locks, or safety sockets that require force in the horizontal axis to remove the lamp.",True,False
+7,A,3.0,,,,07.A.03  Lamps for general illumination shall be protected from accidental contact or breakage.,True,False
+7,A,3.0,a,,,"a. Protection shall be provided by elevation of at least 7 ft (2.1 m) from normal working surface, suitable fixture or lamp holder with a guard.",False,False
+7,A,3.0,b,,,"b. Fixtures may be no closer than 18 in (0.5 m) to overhead sprinkler systems, if the building is so equipped, per NFPA Standards.",False,False
+7,A,3.0,c,,,"c.	Open fluorescent fixtures will be provided with wire guards, lenses, tube guards or other means to prevent damage to the bulb.",False,False
+7,A,4.0,,,,"07.A.04  Generator-powered portable lighting units shall be grounded in accordance with manufacturer’s instructions. In addition, a survey of the area to be lighted will be conducted and documented to ensure overhead power lines do not pose a hazard.",True,False
+7,A,5.0,,,,"07.A.05  For temporary lighting, see Section 11.E.06.",True,False
+7,B,,,,,07.B  Lighting Levels.,True,False
+7,B,1.0,,,,"07.B.01  While work is in progress, offices, facilities, accessways, working areas, construction roads, etc., shall be lighted by at least the minimum light intensities specified in Table 7-1. Illumination readings shall be taken and recorded whenever proper lighting of an area is in question. A calibrated light meter shall be provided, maintained and used as necessary to provide illumination readings.",True,False
+7,B,2.0,,,,"07.B.02  Office lighting shall be a minimum of  50 foot -candles (lm/ft2) or 540 luminance (lx) at the working surface, in accordance with the Illuminating Engineering Society of North America (IESNA) Handbook, RP-1. In office areas, attention shall be paid to the control of glare.",True,False
+7,B,3.0,,,,07.B.03  Roadway lighting shall be in accordance with IESNA RP-8.,True,False
+7,B,4.0,,,,"07.B.04  Marine lighting shall be in accordance with American Bureau of Shipping, Guide for Crew Habitability on Ships.",True,False
+7,B,5.0,,,,07.B.05  Means of egress.,True,False
+7,B,5.0,a,,,"a. Means of egress shall be illuminated, with emergency and non-emergency lighting, to provide a minimum of 5 lm/ft2, (55 lx), measured at the floor. > Reference IESNA Handbook.",False,False
+7,B,5.0,b,,,"b. The illumination shall be arranged so that the failure of any single lighting unit, including the burning out of an electric bulb, will not leave any area darkened to the point of impeding the means of egress.",False,False
+7,B,6.0,,,,"07.B.06  If work is to be performed at night, a night operations lighting plan shall be developed to ensure that all activities, areas and operations are adequately illuminated to perform work safely. On-task lighting shall be in conformance with Table 7-1. Lighting near roadways and other public transportation areas shall be positioned as to avoid creating a glare hazard.",True,False

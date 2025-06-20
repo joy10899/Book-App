@@ -1,0 +1,188 @@
+chapter,section,topic,refOne,refTwo,refThree,content,highlight,bookmark
+24,A,,,,,24.A  General.,True,False
+24,A,1.0,,,,"24.A.01 Safe access shall be provided to work areas and where danger exists of workers falling through floor, roof, or wall openings, or from platforms, runways, ramps, fixed stairs,  ladders, or for rope access.",True,False
+24,A,1.0,a,,,"a.vA stairway, ladder, ramp, or personnel hoist shall be provided where there is a break of 19 in (48.2 cm) or more in a route of access.",False,False
+24,A,1.0,b,,,b.vMeans of access constructed of metal shall not be used for electrical work or where the potential exists to contact electrical conductors.,False,False
+24,A,1.0,c,,,"c.vMeans of access between levels shall be kept clear to allow free passage of workers. If work is performed in an area that restricts free passage, a second means of access shall be provided.",False,False
+24,A,1.0,d,,,"d.vFor all government-owned/operated facilities, every open-sided floor or platform 4 ft (1.2 m) or more above adjacent floor or ground level shall be guarded by a guardrail system (or equivalent) along all open sides (except where there is an entrance to a ramp, stairway or fixed ladder). The guardrail system shall be provided with a toeboard when necessary.  > See Section 21.F.01.",True,False
+24,A,2.0,,,,"24.A.02 An AHA, accepted by the GDA for the activity in which means of access are to be used, shall delineate the following:",True,False
+24,A,2.0,a,,,"a.vThe design, construction, and maintenance of the means of access, and",False,False
+24,A,2.0,b,,,"b.vErection and dismantling procedures of scaffolds, including provisions for providing fall protection (FP) during the erection or dismantling when the erection or dismantling involves work at heights. > See Sections 21.K.02 and 22.A.03.",True,False
+24,A,3.0,,,,"24.A.03 Job-made means of access shall be designed to support, without failure, at least four times the maximum intended load and shall be constructed according to Section 22 of this manual.",True,False
+24,A,4.0,,,,"24.A.04 Means of access shall not be loaded beyond the maximum intended load for which it was designed or beyond its manufacturer’s rated capacity. When loaded, planking and decking shall not deflect more than 1/60 the span length.",True,False
+24,A,5.0,,,,"24.A.05 The width of accessways shall be determined by the purpose for which they are built, shall be sufficient to provide safe passage for materials and movement of personnel and (except for ladders) shall not be less than 18 in (45.7 cm).",True,False
+24,A,6.0,,,,24.A.06 Accessways shall have overhead protection equal to 2 in (5 cm) solid planking whenever work is performed over them or if personnel are exposed to hazards from falling objects.,True,False
+24,A,7.0,,,,24.A.07 Accessways shall be inspected daily.,True,False
+24,A,7.0,a,,,"a.vThe walkway must be free of tripping hazards, obstructions and cannot impede or restrict the travel of personnel. In addition, accessways shall be kept free of ice, snow, grease and mud or any other environmental hazards.",False,False
+24,A,7.0,b,,,"b.vWhere accessways are slippery, abrasive material shall be used to assure safe footing.",False,False
+24,A,7.0,c,,,"c.vAll obstructions or projections into an access way shall be removed or conspicuously marked. Obstructions or projections that are sharp, pointed or that may cause lacerations, contusions, or abrasions shall be covered with protective material.",False,False
+24,A,7.0,d,,,"d.vAccessways, including their accessories that become damaged or weakened shall not be used. These defective items shall be repaired or replaced.",False,False
+24,A,8.0,,,,"24.A.08 When moving platforms to the next level, the old platform shall be left undisturbed until the new bearers have been set to receive the platform planks.",True,False
+24,A,9.0,,,,24.A.09 Safe Roof Access.,True,False
+24,A,9.0,a,,,"a.vPlatforms, level and guarded shall be provided at the landing area on the roof.",False,False
+24,A,9.0,b,,,b.vCrawling boards.,False,False
+24,A,9.0,b,1.0,,"(1)vCrawling boards shall be not less than 10 in (25 cm) wide and 1 in (2.5 cm) thick, having cleats 1 in x 1.5 in (2.5 cm x 3.75 cm).",False,False
+24,A,9.0,b,2.0,,(2)vCleats shall be equal in length to the width of the board and spaced at equal intervals not to exceed 24 in (60 cm).,False,False
+24,A,9.0,b,3.0,,(3)vNails shall be driven through and clinched on the underside. Screws may be used in lieu of nails.,False,False
+24,A,9.0,b,4.0,,"(4)vCrawling boards shall be secured and extend from the ridge pole to the eaves when used with roof construction, repairs, or maintenance.",False,False
+24,A,9.0,b,5.0,,"(5)vA firmly fastened lifeline of at least ¾ in (2 cm) diameter rope, or equivalent, shall be strung beside each crawling board for a handhold.",False,False
+24,A,9.0,c,,,c. Access paths shall be erected as follows:,False,False
+24,A,9.0,c,1.0,,"(1)vPoints of access, material handling areas and storage areas shall be connected to the work area by a clear access path formed by two warning lines.",False,False
+24,A,9.0,c,2.0,,"(2)vWhen the path to a point of access is not being used, one of the following shall be used:",False,False
+24,A,9.0,c,2.0,a,"(a)vA rope, wire, or chain, equal in strength and height to the warning line, shall be placed across the path at the point where the path intersects the warning line erected around the work area, or",False,False
+24,A,9.0,c,2.0,b,(b)vThe path shall be offset such that a person cannot walk directly into the work area.,False,False
+24,B,,,,,"24.B Ladders.  > See also Sections 22.S, Work Stands (Portable Work Platforms) and 22.T, Trestle Ladder Scaffolds.",True,False
+24,B,1.0,,,,"24.B.01vThe construction, installation, and use of ladders shall conform to ANSI/American Ladder Institute (ALI) A14 series standards as applicable. The load rating shall be clearly and legibly marked on all ladders.",True,False
+24,B,2.0,,,,"24.B.02v Every ladderway, floor opening or platform shall be guarded by a standard railing with standard toe-board (when exposure exists to falling materials), on all exposed sides (except at entrance to opening). The passage through the railing shall be provided with either a guardrail or shall be offset so that a person cannot walk directly into the opening. The guarding shall meet the strength requirements of Section 21.F.01. Swing gates are preferred over chain gates.",True,False
+24,B,3.0,,,,24.B.03vLength of ladders.,True,False
+24,B,3.0,a,,,a.vAll portable ladders shall be of sufficient length and shall be placed so that workers will not stretch or assume a hazardous position.,False,False
+24,B,3.0,b,,,"b.vPortable ladders, used as temporary access, shall extend at least 3 ft (0.9 m) above the upper landing surface.",False,False
+24,B,3.0,b,1.0,,"(1)vWhen a 3 ft (0.9 m) extension is not possible, a grasping device (such as a grab rail) shall be provided to assist workers in mounting and dismounting the ladder.",False,False
+24,B,3.0,b,2.0,,"(2)vIn no case shall the length of the ladder be such that ladder deflection under a load would, by itself, cause the ladder to slip from its support.",False,False
+24,B,3.0,c,,,c.vThe length of stepladders shall not exceed 20 ft (6 m).,False,False
+24,B,3.0,d,,,d.vFor portable ladders:,False,False
+24,B,3.0,d,1.0,,(1)vThe length of single ladders or individual sections of ladders shall not exceed 30 ft (9 m).,False,False
+24,B,3.0,d,2.0,,(2)vTwo-section extension ladders shall not exceed 48 ft (14.6 m).,False,False
+24,B,3.0,d,3.0,,(3)vMulti-section extension ladders (over two-sections) shall not exceed 60 ft (18 m) in length.,False,False
+24,B,3.0,e,,,"e. When splicing of side rails is required to obtain the required length, the resulting side rail must be at least equal in strength to a one-piece side rail made of the same material.",False,False
+24,B,4.0,,,,24.B.04 Width of ladders.,True,False
+24,B,4.0,a,,,a.vThe minimum clear distance between the sides of individual-rung/step ladders shall be 16 in (40.6 cm).,False,False
+24,B,4.0,b,,,b.vThe minimum clear distance between side rails for all portable ladders shall be 12 in (30.4 cm).,False,False
+24,B,5.0,,,,"24.B.05 Spacing of rungs, cleats, and steps on ladders.",True,False
+24,B,5.0,a,,,"a.vOn portable ladders, spacing of rungs shall be 12 in (30.4 cm) on center and uniform, except for job-made ladders where the spacing shall be 10 in (25.4 cm) to 14 in (35.5 cm).",False,False
+24,B,5.0,b,,,"b.vOn step stools, spacing shall be not less than 8 in (20.3 cm) or more than 12 in (30.4 cm) apart, as measured from their centerlines.",False,False
+24,B,6.0,,,,24.B.06v Ladders shall be surfaced so as to prevent injury to an worker from punctures or lacerations and to prevent snagging of clothing.,True,False
+24,B,7.0,,,,"24.B.07v Wooden ladders shall not be coated with any opaque covering, except for identification or warning labels that may be placed on only one face of a side rail.",True,False
+24,B,8.0,,,,24.B.08v Portable ladders shall have slip-resistant feet.,True,False
+24,B,9.0,,,,"24.B.09 The rungs and steps of portable metal ladders shall be corrugated, knurled, dimpled, coated with skid-resistant materials, or otherwise treated to minimize slipping.",True,False
+24,B,10.0,,,,24.B.10v A metal spreader bar or locking device shall be provided on each stepladder to hold the front and back sections in an open position.,True,False
+24,B,11.0,,,,24.B.11 Set-up of ladders.,True,False
+24,B,11.0,a,,,"a.vLadders shall not be placed in passageways, doorways, drives, or any locations where they may be displaced by any other work unless protected by barricades or guards.",False,False
+24,B,11.0,b,,,b.vPortable ladders shall be used at such a pitch that the horizontal distance from the top support to the foot of the ladder will not be greater than ¼ the vertical distance between these points.,False,False
+24,B,11.0,c,,,"c.vWooden job-made ladders, with spliced rails, shall be used at an angle such that the horizontal distance is 1/8 the length of the ladder.",False,False
+24,B,11.0,d,,,"d.v Ladders shall be secured by top, bottom, and intermediate fastenings, as necessary, to hold them rigidly in place and to support the loads that will be imposed upon them.",False,False
+24,B,11.0,e,,,e.vThe steps or rungs of all ladders shall be set to provide at least 7 in (17.7 cm) toe space from the inside edge of the rung to the nearest interference.,False,False
+24,B,11.0,f,,,"f.vThe top of a non-self supporting ladder shall be placed with the two rails supported equally, unless the ladder is equipped with a single support attachment.",False,False
+24,B,11.0,g,,,g.vStep-across distance. The step-across distance from the nearest edge of ladder to the nearest edge of equipment or structure shall be not more than 12 in (30.5 cm) or less than 2-1/2 in (6.4 cm).,False,False
+24,B,12.0,,,,24.B.12 Use of ladders.,True,False
+24,B,12.0,a,,,a.vLadders shall be restricted to their intended use. Three points-of-contact (see Appendix Q) shall be maintained at all times when ascending or descending ladders.,False,False
+24,B,12.0,b,,,b.vLadders shall be inspected for visible defects on a daily basis and after any occurrence that could affect their safe use. Broken or damaged ladders shall be immediately tagged DO NOT USE”,False,False
+24,B,12.0,c,,,"c.vLadders shall not be moved, shifted, or extended while occupied.",False,False
+24,B,12.0,d,,,"d.vLadders shall not be loaded beyond the maximum intended load for which they were designed and tested, or beyond the manufacturer’s rated capacity (includes the worker and all the tools and supplies carried).",False,False
+24,B,12.0,e,,,e.vLadders shall not be climbed by more than one person at a time between the same set of rails.,False,False
+24,B,12.0,f,,,"f.vPortable ladders used as means of access to ascend and descend to a work location do not require fall protection, however only light work for short periods of time shall be performed on portable ladders. No work requiring lifting of heavy materials or substantial exertion shall be done from ladders.",False,False
+24,B,12.0,g,,,"g.vWhen ladders are the only means of access to or from a working area for 25 or more workers, or when a ladder is to serve simultaneous two-way traffic, double-cleated ladders shall be used.",False,False
+24,B,12.0,h,,,"h.vThe top or top step of a stepladder, shall not be used, as a step unless it has been designed to be so used by the manufacturer (e.g., platform ladders).",False,False
+24,B,12.0,i,,,i.vEnsure latches are in place before climbing an extension ladder.,False,False
+24,B,12.0,j,,,j.vKeep loose tools off the steps and top platform.,False,False
+24,B,12.0,k,,,k.vModifications to manufactured ladders in order to adapt the ladder to specific or special use shall only be performed using a design approved by a RPE. These ladders shall meet the applicable ANSI A14 series standard.,False,False
+24,B,13.0,,,,24.B.13v Job made wooden ladders will be made in accordance with ANSI A14.4.,True,False
+24,B,14.0,,,,"24.B.14v Single-rail ladders shall not be used. Three-legged ladders may be used for specific tasks, if accepted by the GDA.",True,False
+24,B,15.0,,,,24.B.15v The use of ladder climbing devices shall be in accordance with Section 21.J.,True,False
+24,B,16.0,,,,24.B.16v Articulated ladders are allowed if they meet ANSI A14.2 standard.,True,False
+24,B,17.0,,,,"24.B.17v Any ladder accessory, including but not limited to, ladder levelers, ladder stabilizers or stand-off devices, or ladder straps or hooks, that may be installed or used in conjunction with ladders must be installed and used per manufacturer’s instructions.",True,False
+24,C,,,,,24.C Handrails.,True,False
+24,C,1.0,,,,24.C.01v A standard handrail shall be of construction similar to a standard guardrail (see Section 21.E.01) except that it is mounted on a wall or partition and does not include a midair.,True,False
+24,C,2.0,,,,24.C.02v Handrails shall have smooth surfaces along the top and both sides.,True,False
+24,C,3.0,,,,24.C.03  Handrails shall have an adequate handhold for anyone grasping it to avoid falling.,True,False
+24,C,4.0,,,,24.C.04v Ends of handrails shall be turned into the supporting wall or partition or otherwise arranged so as to not constitute a projection hazard.,True,False
+24,C,5.0,,,,"24.C.05v The height of handrails shall be not more than 38 in (86.3 cm) nor less than 34 in (76.2 cm) from upper surface of handrail to surface of tread, in line with face of riser or to surface of ramp. Existing installations need not be modified if they meet the building code that was in effect at the time the facility was built.",True,False
+24,C,6.0,,,,24.C.06v All handrails and railings shall be provided with a clearance of approximately 3 in (7.6 cm) between the handrail or railing and any other object.,True,False
+24,D,,,,,"24.D Floor, Wall, and Roof Holes and Openings.",True,False
+24,D,1.0,,,,24.D.01 Floor and roof holes/openings are any that measure over 2 in (51 mm) in any direction of a walking/working surface which persons may trip or fall into or where objects may fall to the level below. > See Section 21.G.,True,False
+24,D,1.0,,,,Note: Skylights located in floors or roofs are considered floor or roof hole/openings.,False,False
+24,D,2.0,,,,"24.D.02v All floor, roof openings or hole into which a person can accidentally walk or fall through shall be guarded either by a railing system with toeboards along all exposed sides or a load-bearing cover. When the cover is not in place, the opening or hole shall be protected by a removable guardrail system or other fall protection system, or shall be attended when the guarding system has been removed. > See Sections 21.F and 21.G.",True,False
+24,D,3.0,,,,"24.D.03v All floor and roof holes through which equipment, materials, or debris can fall shall be covered.",True,False
+24,D,4.0,,,,"24.D.04v Conduits, trenches, and manhole covers and their supports, when exposed to vehicles or equipment, shall be designed to carry a truck rear axle load of 2 times the maximum anticipated load.",True,False
+24,D,5.0,,,,"24.D.05v Every hatchway and chute floor opening shall be guarded by a hinged floor-opening cover. The opening shall be barricaded with railings so as to leave only one exposed side. The exposed side shall be provided either with a swinging gate or offset so that a person cannot walk into the opening. When operating conditions require the feeding of material into a hatchway or chute opening, protection shall be provided to prevent a person from falling through the opening.",True,False
+24,D,6.0,,,,"24.D.06 Wall openings 30 in (76 cm) or more in height and 18 in (48 cm) or more in width from which a fall could occur shall be protected with a standard guardrail or equivalent. A toeboard shall be provided where the bottom of the wall opening, regardless of width, is less than 4 in (10.1 cm) above the working surface.  > See Section 21.F.01.",True,False
+24,D,7.0,,,,"24.D.07 An extension platform outside a wall opening onto which materials can be hoisted for handling shall have a standard railing that meets criteria in Section 21.F.01 of this manual. However, one side of an extension platform may have removable railings to facilitate handling materials, if appropriate fall protection is used.",True,False
+24,D,8.0,,,,"24.D.08v Roof openings and holes shall be provided with covers, guardrail systems or warning lines systems on all exposed sides.",True,False
+24,D,8.0,a,,,"a.vRoofing material, such as roofing membrane, insulation or felts, covering or partly covering openings or holes, shall be immediately cut out. No hole or opening shall be left unattended unless covered according to Section 21.G.",True,False
+24,D,8.0,b,,,b.vAll covers for openings shall be identified in accordance with Section 21.G.,True,False
+24,D,8.0,c,,,"c.vNon-load-bearing skylights shall be guarded by a load-bearing skylight screen, cover, or railing system along all exposed sides.",False,False
+24,D,8.0,d,,,d.vWorkers are prohibited from standing/walking on skylights.,False,False
+24,E,,,,,24.E Stairways.,True,False
+24,E,1.0,,,,"24.E.01 On all structures 20 ft (6 m) or more in height, stairways shall be provided during construction.",True,False
+24,E,1.0,a,,,"a.vWhere permanent stairways are not installed concurrently with the construction of each floor, a temporary stairway shall be provided to the work level.",False,False
+24,E,1.0,b,,,b.vAlternatives to the use of stairways shall be addressed in the AHA and shall be acceptable to the GDA.,False,False
+24,E,2.0,,,,24.E.02 Requirements for stairways.,True,False
+24,E,2.0,a,,,a.vTemporary stairways shall have landings not less than 30 in (76.2 cm) in the direction of travel and extend at least 22 in (55.8 cm) in width at every 12 ft (3.6 m) or less of vertical rise.,False,False
+24,E,2.0,b,,,b.vStairs shall be installed between 30° and 50° from horizontal.,False,False
+24,E,2.0,c,,,c.vRisers shall be of uniform height and treads of uniform width.,False,False
+24,E,3.0,,,,"24.E.03vMetal pan landings and metal pan treads, when used, shall be secured in place and filled with concrete, wood, or other material at least to the top of each pan.",True,False
+24,E,4.0,,,,24.E.04 Wooden treads shall be nailed in place.,True,False
+24,E,5.0,,,,"24.E.05 Every flight of stairs with four or more risers or rising more than 30 in (76.2 cm) shall have standard stair railings (defined below) or standard handrails, unless omitted by design.",True,False
+24,E,5.0,a,,,"a.vOn stairways less than 44 in (111.7 cm) wide having both sides enclosed, at least one standard handrail shall be installed, preferably on the right descending side.",False,False
+24,E,5.0,b,,,"b.vOn stairways less than 44 in (111.7 cm) wide having one side open, at least one standard stair railing shall be installed on the open side.",False,False
+24,E,5.0,c,,,"c.vOn stairways less than 44 in (111.7 cm) wide having both sides open, one standard stair railing shall be installed on each side.",False,False
+24,E,5.0,d,,,"d.vOn stairways more than 44 in (111.7 cm) wide, but less than 88 in (223.5 cm) wide, one standard handrail shall be installed on each enclosed side, and one standard stair railing installed on each open side.",False,False
+24,E,5.0,e,,,"e.vOn stairways more than 88 in (223.5 cm) wide, one standard handrail shall be installed on each enclosed side, one standard stair railing on each exposed side, and a standard handrail in the middle of the stairway.",False,False
+24,E,6.0,,,,24.E.06 Standard stair railing shall be installed around all stairwells.,True,False
+24,E,6.0,a,,,a.vThe height of stair rails shall be 42+/- 3 in ( 1 m +/- 8 cm) from the upper surface of the top rail to surface of tread in line with face of riser at forward edge of tread. Existing installations need not be modified. Existing installations need not be modified.,False,False
+24,E,6.0,b,,,"b.vMidrails, screens, mesh, intermediate vertical members, or equivalent intermediate structural members shall be provided between the toprail and the stairway steps.",False,False
+24,E,6.0,b,1.0,,(1)vMidrails shall be located at a height midway between the top edge of the stairway system and the stairway steps.,False,False
+24,E,6.0,b,2.0,,"(2)vScreens or mesh, when used, shall extend from the toprail to the stairway steps and along the entire opening between rail supports.",False,False
+24,E,6.0,b,3.0,,"(3)vIntermediate vertical members, when used, shall be not more than 19 in (48.2 cm) apart.",False,False
+24,E,6.0,b,4.0,,"(4)vOther structural members, when used, shall be installed in such a manner that there are no openings in the stair rail system that are more than 19 in (48.2 cm) wide.",False,False
+24,E,7.0,,,,24.E.07v Doors or gates opening onto a stairway shall have a platform; and swinging of the door shall not reduce the width of the platform to less than 20 in (50.8 cm).,True,False
+24,E,8.0,,,,"24.E.08v Spiral stairways shall not be permitted, except for special limited usage and secondary access where it is not practical to provide a conventional stairway.",True,False
+24,E,9.0,,,,"24.E.09v Three points of contact shall be maintained at all times when ascending or descending spiral stairs, ship stairs, or alternating tread stairs. Three point contact means that either both hands and one foot, or both feet and one hand are in contact with the climbing device at all times.",True,False
+24,F,,,,,"24.F Ramps, Runways and Trestles.",True,False
+24,F,1.0,,,,"24.F.01vRamps, runways, and platforms shall be as flat as conditions will permit. Where the slope exceeds 1 ft:5 ft (0.3 m:1.5 m), traverse cleats shall be applied to the working surface.",True,False
+24,F,2.0,,,,"24.F.02v Vehicle ramps, trestles, and bridges on which foot traffic is permitted shall be provided with a walkway and guardrail outside the roadway. The roadway structures shall be provided with wheel guards, fender logs, or curbs not less than 8 in (20.3 cm) high placed parallel and secured to the sides of the runway.",True,False
+24,F,3.0,,,,"24.F.03vAll locomotive and gantry crane trestles that extend into or pass over a work area, except where a crane is hoisting between rails, shall be decked solid with not less than 2 in (5 cm) planking, or the equivalent, for the full length of the extension into the working area.",True,False
+24,F,4.0,,,,"24.F.04vWhen used in lieu of steps, ramps shall be provided with cleats to ensure safe access.",True,False
+24,G,,,,,24.G Personnel Hoists and Elevators.,True,False
+24,G,1.0,,,,"24.G.01 Design, construction, installation or erection, operation, inspection, testing, and maintenance of personnel hoists and elevators shall be in accordance with the manufacturer's recommendations and the applicable ANSI standard.",True,False
+24,G,1.0,a,,,"a.vTrack-guided personnel hoist systems and structures that are temporarily installed inside or outside buildings during construction, alteration, or demolition shall be in compliance with ANSI A10.4;",False,False
+24,G,1.0,b,,,"b.vRope-guided personnel hoist systems that are temporarily erected during construction, alteration, or demolition shall be in compliance with ANSI A10.22;",False,False
+24,G,1.0,c,,,"c.vNon-guided personnel hoist systems that are temporarily erected during construction, alteration, or demolition shall be in compliance with ANSI A10.8 and ANSI A10.22. (An air-tugger hoist, or the equivalent meeting the criteria in section 4.2 of ANSI A10.22, may by substituted for a base-mounted hoist).",False,False
+24,G,1.0,d,,,d.vElevators operating in permanent hoistways on the permanent guide rails for handling personnel during construction shall be in compliance with ANSI/ASME A17.1,False,False
+24,G,1.0,e,,,"e.vA copy of the manufacturer's manual covering construction, installation or erection, operation, inspection, testing, and maintenance and a copy of the applicable ANSI standard shall be available on site.",False,False
+24,G,1.0,f,,,f.vPersonnel hoists and elevators shall comply with applicable requirements from section 16 of this manual.,False,False
+24,G,2.0,,,,24.G.02 Personnel hoists used in bridge tower construction shall be approved by a registered engineer and erected under the supervision of a RPE competent in this field.,True,False
+24,H,,,,,"24.H Safe Practices for Rope Access Work.   If rope access work is to be performed, a Rope Access Work Plan and accompanying procedures must be developed and submitted to the GDA for acceptance.",True,False
+24,H,1.0,,,,24.H.01 Climbing equipment.,True,False
+24,H,1.0,a,,,"a.vRopes: Used as working line and safety line shall be made of synthetic fiber with a nominal breaking strength of at least 5400 lbs (24 kN) when new. The working lines and safety lines shall be specifically designed and intended for life safety use. Additionally, elasticity (elongation) of both lines shall be limited to 7% with a load of 540 lbs applied.",False,False
+24,H,1.0,b,,,"b.vCarabiners and snap hooks: Used for climbing (life support) shall have at least two consecutive, deliberate actions to prepare the gate for opening and shall be rated at 5,000 lbs (22.2kN) and shall meet the ANSI/ASSE Z359 Fall Protection Code. Gates shall be rated at 3600 lbs (16kN). Rope snaps and snap hooks shall be self-closing and self-locking. The use of rope thimbles when attaching rope snaps is recommended to prevent rope fraying.",False,False
+24,H,1.0,c,,,c.vPulleys/Rope Sleeves: Anti-friction devices are also recommended to prevent rope damage.,False,False
+24,H,1.0,d,,,"d.vRope Blocks/Brakes: Used to make the work safer and requires less hands to control heavy loads. When handling limb removal ropes, ground personnel should not wrap the rope around their hands or waist and keep the rope away from their feet to prevent entanglement.",False,False
+24,H,1.0,e,,,"e.vClimbers PPE: Appropriate footwear, long pants, work shirt with a minimum 4 in (10.2 cm) sleeve length, eye protection, face shield, hearing protection during chainsaw usage, hard hat with chin strap or ANSI Z89.1 approved climbers helmet (vented or non-vented), and fingerless gloves such as mechanics gloves. When the air temperature exceeds 85 oF  (29 oC), climbers should carry a water supply with them.",False,False
+24,H,1.0,f,,,f.vAll equipment shall be inspected prior to each use and maintained and used in accordance with manufacturer instructions.,False,False
+24,H,1.0,g,,,g.vEmployees shall be properly trained in the use of all equipment.,False,False
+24,H,1.0,h,,,h.vRopes shall not be used to lower limbs or raise equipment.,False,False
+24,H,1.0,i,,,i.vSharp tools such as hand saws shall be sheathed when not in use.,False,False
+24,H,1.0,j,,,"j.vTools used for de-barking, cavity work, cabling, bark tracing, shall be carried in a bag or belt designed for such use, and not carried in pockets or placed in boots.",False,False
+24,H,1.0,k,,,k.vClimbers Saddle: Climbers belts/saddles are only meant to be used as a suspension scaffold/equipment. In addition to the saddle a fall arrest system is required. Belts shall be equipped with leg straps or seats to take pressure off of the climbers back.,False,False
+24,H,1.0,l,,,l.vClimbing ropes shall not be spliced to effect repair.,False,False
+24,H,1.0,m,,,"m. Ropes  shall  be  coiled  and  piled,   or   shall   be suspended, so that air can circulate through the coils to aid in drying.",False,False
+24,H,1.0,n,,,n.vWet ropes shall not be used for electrical work.,False,False
+24,H,1.0,o,,,o.vRopes shall be inspected before and after each use.,False,False
+24,H,1.0,p,,,"p.vHarnesses and other personal fall protection equipment used in rope access shall meet the ANSI Z359/ASSE Z359, Fall protection Code.",False,False
+24,H,1.0,q,,,"q. If descender devices are used, they shall allow a controlled descent taking into consideration the weight of the worker, the length of the descent, considerations for safety and the need for stopping along the working line for the purpose of hands free work.",False,False
+24,H,2.0,,,,24.H.02 General Practices.,True,False
+24,H,2.0,a,,,"a. Safety, Secondary, Belay or Backup Line(s).",False,False
+24,H,2.0,a,1.0,,"(1)vSafety, Secondary, Belay or Backup line(s) or other appropriate fall arrest devices shall be used in addition to the main line (working line) unless the employer can demonstrate that the second line or other fall arrest devices would create a greater hazard or otherwise would not be feasible. > See paragraph 24.H.02.a(2).",True,False
+24,H,2.0,a,2.0,,"(2)vSafety, Secondary, Belay or Backup line(s) shall not be used alone for tree climbing. The use of a secondary line (safety line) may pose additional risks and increased difficulties. Careful consideration to the impact of secondary line use should be considered before making a decision on use in tree climbing operations.",False,False
+24,H,2.0,a,3.0,,"(3)vWhere a safety line is used in conjunction with the working line, each line shall have its own separate anchor and shall be separately fixed to the worker’s harness. This does not preclude both lines being attached to a single harness attachment point.",False,False
+24,H,2.0,a,4.0,,(4)vThe safety line shall be connected to the sternal or dorsal D-ring of the full body harness.,False,False
+24,H,2.0,a,5.0,,"(5)vWhen using safety line, the maximum free fall distance shall not exceed 6 ft (1.8 m) and the maximum arrest force shall not exceed 1,800 lbs (8 kN).",False,False
+24,H,2.0,b,,,b. Employer shall insure that anchors have been evaluated in order to ensure that overall system safety factors can be met.,False,False
+24,H,2.0,c,,,"c. Before adopting rope access techniques for a particular job, the Competent Person (CP) for Rope Access shall perform risk assessment and develop a written safety analysis report and submit it as part of the Rope Access Work Plan to GDA for acceptance. The safety analysis report shall include consideration of the various rope access alternatives available and their respective access advantages and hazards. In particular, attention shall be given to the following aspects:",False,False
+24,H,2.0,c,1.0,,"(1)vAbility of the suspended person to safely use materials, equipment or tools necessary for the work and whether the reaction from any tool may place the person at risk;",False,False
+24,H,2.0,c,2.0,,(2)vWhether the work may loosen material which could become a hazard to the worker or others;,False,False
+24,H,2.0,c,3.0,,(3)vWhether the time required for the work at any one location will be such that there may be unacceptable levels of risk;,False,False
+24,H,2.0,c,4.0,,(4)vWhether it would be possible to quickly rescue workers that are using rope access techniques from any position they could be expected to enter.,False,False
+24,H,2.0,d,,,d.vThe contractor shall make provision for prompt rescue or self rescue and for emergency services.,False,False
+24,H,2.0,e,,,e.vThe Rope Access Worker shall:,False,False
+24,H,2.0,e,1.0,,(1)vHave a working understanding of the employer’s Rope Access Work Plan and all applicable policy and procedures;,False,False
+24,H,2.0,e,2.0,,"(2)vAdjust, inspect, maintain, care for, and properly store rope access equipment;",False,False
+24,H,2.0,e,3.0,,(3)vInspect and verify the integrity of anchor systems and components;,False,False
+24,H,2.0,e,4.0,,(4)vRecognize worksite hazards and notify the Rope Access Supervisor of any such hazard;,False,False
+24,H,2.0,e,5.0,,(5)vBe capable of identifying work zones and job hazard analyses;,False,False
+24,H,2.0,e,6.0,,(6)vUnderstand and communicate any written or verbal warnings;,False,False
+24,H,2.0,e,7.0,,"(7)vBe familiar with rescue procedures and systems used by the employer, and assist in the performance of rescue from rope access systems;",False,False
+24,H,2.0,e,8.0,,(8)vUtilize appropriate personal protective equipment as designated by the Rope Access Supervisor;,False,False
+24,H,2.0,e,9.0,,"(9)vFollow the Competent Person (CP) for Rope Access directions or, where appropriate pursuant to the requirements of the Safe Practices Document, the Rope Access Lead Technician’s directions regarding the work to be performed;",False,False
+24,H,2.0,e,10.0,,(10) Notify the CP for Rope Access if assigned.,False,False

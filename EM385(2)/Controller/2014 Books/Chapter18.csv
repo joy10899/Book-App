@@ -1,0 +1,378 @@
+chapter,section,topic,refOne,refTwo,refThree,content,highlight,bookmark
+18,A,,,,,"18.A General. The requirements in this Section apply to the operation of all motor vehicles, machinery and mechanized equipment, All-Terrain Vehicles (ATVs), Utility Vehicles (UVs), and other specialty vehicles. Operators must also comply with state and host nation regulations as applicable to the above listed equipment.",True,False
+18,A,1.0,,,,"18.A.01 Every person operating machinery and mechanized equipment, ATVs, UVs or other specialty vehicles, shall be properly trained (as described in this Section), qualified (license/certificate/permit) and designated by the employer in writing to operate such equipment.",True,False
+18,A,2.0,,,,"18.A.02 Every person operating a motor vehicle, machinery and mechanized equipment, ATV, UV, or other specialty vehicles, shall possess, at all times while operating such vehicle/equipment, a license/permit (proof of qualification) valid for the equipment being operated. Licensing requirements will be as per Service regulation for military personnel and State regulations for civilian personnel, to include contractors. The operator must present the license/permit to the GDA upon request. Failure to do so will result in the immediate prohibition of the operator to operate motor vehicles. >Note 1: USACE vehicle/equipment operators: In lieu of a license/permit for each piece of equipment, an Operator Equipment Qualification Record (OF Form 348 or similar type of documentation) may be maintained on file at the employee’s project office for all USACE vehicle/equipment operators. >Note 2: Government personnel may be required to carry the OF 346, Motor Vehicle Operator’s License and Driving Record on military bases in addition or in lieu of a state driver’s license (check local bases for requirements).",True,False
+18,A,3.0,,,,"18.A.03 Inspections, tests, maintenance, and repairs.",True,False
+18,A,3.0,a,,,"a. Inspections, tests, maintenance and repairs shall be conducted by a qualified person in accordance with the manufacturer's recommendations.",False,False
+18,A,3.0,b,,,"b. Before initial use, vehicles not otherwise inspected by State or local authorities, shall be inspected by a qualified mechanic and found in safe operating condition and in compliance with all required published vehicle safety standards. This one-time inspection shall be documented and available for inspection on the work site.",False,False
+18,A,3.0,c,,,"c. When dump trucks are brought onto a USACE job site, they shall be inspected and found in compliance with the requirements of this Section before they are placed in service. This inspection shall be documented on a checklist.",False,False
+18,A,3.0,d,,,d. All vehicles/equipment shall be inspected on a scheduled maintenance program.,False,False
+18,A,3.0,e,,,"e. Prior to each use, but not more often than daily, vehicles/equipment shall be checked by the operator to assure that the following parts, equipment, and accessories (as applicable) are in safe operating condition and free of apparent damage that could cause failure while in use:",False,False
+18,A,3.0,e,1.0,,"(1) Service brakes, including trailer brake connections;",False,False
+18,A,3.0,e,2.0,,(2) Parking system (hand brake);,False,False
+18,A,3.0,e,3.0,,(3) Emergency stopping system (brakes);,False,False
+18,A,3.0,e,4.0,,(4) Tires;,False,False
+18,A,3.0,e,5.0,,(5) Horns;,False,False
+18,A,3.0,e,6.0,,(6) Steering mechanism;,False,False
+18,A,3.0,e,7.0,,(7) Coupling devices;,False,False
+18,A,3.0,e,8.0,,(8) Seat belts;,False,False
+18,A,3.0,e,9.0,,(9) Operating controls;,False,False
+18,A,3.0,e,10.0,,"(10) Safety devices (e.g., back-up alarms and lights, fire extinguishers, first-aid kits, etc.), and",False,False
+18,A,3.0,e,11.0,,"(11)  Accessories including lights, reflectors, windshield wipers and defrosters where such equipment is necessary.",False,False
+18,A,3.0,f,,,"f. Inspection, test, repair, and maintenance records shall be maintained at the site available on request to the GDA.",False,False
+18,A,4.0,,,,"18.A.04 Vehicles/equipment not meeting safe operating conditions shall be immediately removed from service, its use prohibited until unsafe conditions have been corrected, and re-inspected before being placed in service again.",True,False
+18,A,5.0,,,,"18.A.05 Whenever visibility conditions warrant additional light, all vehicles or combinations of vehicles, in use shall be equipped with:",True,False
+18,A,5.0,a,,,"a. Two headlights, one on each side in the front;",False,False
+18,A,5.0,b,,,b. At least two red taillights and one red or amber stoplight on each side of the rear;,False,False
+18,A,5.0,c,,,c. Directional signal lights (both front and back); and,False,False
+18,A,5.0,d,,,"d. Three emergency flares, reflective markers, or equivalent portable warning device.",False,False
+18,B,,,,,18.B Guarding and Safety Devices.,True,False
+18,B,1.0,,,,18.B.01 Reverse signal (back-up) alarm.,True,False
+18,B,1.0,a,,,"a. All self-propelled construction and industrial equipment, dump trucks and cargo trucks, whose trailer/body permanently block the view to the rear, whether moving alone or in combination, shall be equipped with a back-up alarm. >Note: Equipment designed and operated so that the operator is always facing the direction of motion does not require a back-up alarm.",False,False
+18,B,1.0,b,,,b. Back-up alarms shall be audible and sufficiently distinct to be heard above the surrounding noise level.,False,False
+18,B,1.0,c,,,c. Alarms shall operate automatically upon commencement of backward motion. Alarms may be continuous or intermittent (not to exceed 3-second intervals) and shall operate during the entire backward movement.,False,False
+18,B,1.0,d,,,"d. Commercial cargo vehicles such as pick-up trucks, utility cargo/tool trucks, and flat­bed cargo trucks intended for use on public highways with a normally clear view through the rear window are not required to have back-up alarms. If the view to the rear is temporarily obstructed by a load or permanently blocked by a utility/tool box or other modification, then a signal person may be used, if the value outweighs the risk as determined by an AHA. In lieu of a signal person, a back-up alarm must be installed.",False,False
+18,B,1.0,e,,,e. The removal or disabling of any back-up alarm is strictly prohibited.,False,False
+18,B,2.0,,,,"18.B.02 A warning device shall be provided where there is danger to persons from moving equipment, swinging loads, buckets, booms or similar. A signal person may be used in lieu of a warning device if the value outweighs the risk, as determined by an AHA.",True,False
+18,B,3.0,,,,18.B.03 Guarding.,True,False
+18,B,3.0,a,,,"a. All belts, gears, shafts, pulleys, sprockets, spindles, drums, flywheels, chains, or other reciprocating, rotating, or moving parts of equipment shall be guarded when exposed to contact by persons or when they otherwise create a hazard.",False,False
+18,B,3.0,b,,,"b. All hot surfaces of equipment, including exhaust pipes or other lines, shall be guarded or insulated to prevent injury and fire.",False,False
+18,B,3.0,c,,,c. All equipment having a charging skip shall be provided with guards on both sides and open end of the skip area to prevent persons from walking under the skip while it is elevated.,False,False
+18,B,3.0,d,,,"d. Platforms, foot walks, steps, handholds, guardrails, and toe boards shall be designed, constructed, and installed on machinery and equipment to provide safe footing and access ways.",False,False
+18,B,3.0,e,,,"e. Equipment shall be provided with suitable working surfaces of platforms, guardrails, and hand grabs when attendants or other employees are required to ride for operating purposes outside the operator's cab or compartment. Platforms and steps shall be of nonskid material.",False,False
+18,B,3.0,f,,,f. Substantial overhead protection shall be provided for the operators of forklifts and similar material handling equipment. > See also Section 18.G.29.,True,False
+18,B,4.0,,,,18.B.04 Brake systems.,True,False
+18,B,4.0,a,,,"a. All vehicles, except trailers having a gross weight of 5,000 lb (2,268 kg) or less, shall be equipped with service brakes and manually-operated parking brakes.",False,False
+18,B,4.0,b,,,"b. Service and parking brakes shall be adequate to control the movement of, to stop, and to hold the vehicle under all conditions of service.",False,False
+18,B,4.0,c,,,c. Service brakes on trailers and semi-trailers shall be controlled from the driver's seat of the prime mover.,False,False
+18,B,4.0,d,,,d. Braking systems on every combination of vehicles shall be so designed as to be in approximate synchronization on all wheels and develop the required braking effort on the rear-most wheels first. The design shall also provide for application of the brakes by the driver of the prime mover from the cab. Exceptions to this are vehicles in tow by an approved tow bar hitch.,False,False
+18,B,5.0,,,,"18.B.05 Fuel tanks shall be located in a manner that will not allow spills or overflows to run onto engine, exhaust, or electrical equipment.",True,False
+18,B,6.0,,,,18.B.06 Exhaust or discharges from equipment shall be so directed that they do not endanger persons or obstruct the view of the operator.,True,False
+18,B,7.0,,,,"18.B.07 A safety tire rack, cage, or equivalent protection shall be provided and used when inflating, mounting, or dismounting tires installed on split rims, or rims equipped with locking rings of similar devices. > See Section 18.G.22.",True,False
+18,B,8.0,,,,"18.B.08 No guard, safety appliance, or device shall be removed from machinery or equipment, or made ineffective, except for making immediate repairs, lubrications, or adjustments, and then only after the equipment has been de-energized and Hazardous Energy Control Program (lockout/tagout procedures) implemented. All guards and devices shall be replaced immediately after completion of repairs and adjustments and before power is turned on. > See Section 12.",True,False
+18,B,9.0,,,,18.B.09  Seat belts and anchorages meeting the requirements of 49 CFR 571 shall be installed and worn in all motor vehicles (installation and usage on buses is optional).,True,False
+18,B,9.0,a,,,a. Two-piece seat belts and anchorages for construction equipment shall comply with applicable Federal specifications or Society of Automotive Engineers (SAE) Standard J386.,False,False
+18,B,9.0,b,,,"b. All construction equipment equipped with seat belts must have the seat belts worn by the operator, unless specified otherwise in the manufacturer’s operating manual and justified in an AHA and accepted in writing by the GDA.",False,False
+18,B,10.0,,,,18.B.10 All high-lift PITs shall be equipped with overhead guards that meet the structural requirements defined in ANSI/ASME B56.1.,True,False
+18,B,11.0,,,,"18.B.11 Suitable protection against the elements, falling or flying objects, swinging loads, and similar hazards shall be provided for operators of all machinery or equipment. Glass used in windshields or cabs shall be safety glass.",True,False
+18,B,12.0,,,,18.B.12 Falling object protective structures (FOPS).,True,False
+18,B,12.0,a,,,"a. All bulldozers, tractors, or similar equipment used in clearing operations shall be provided with guards, canopies, or grills to protect the operator from falling and flying objects as appropriate to the nature of the clearing operations.",False,False
+18,B,12.0,b,,,"b. FOPS for other construction, industrial, and grounds-keeping equipment will be furnished when the operator is exposed to falling object hazards.",False,False
+18,B,12.0,c,,,c. FOPS will be certified by the manufacturer or a licensed engineer as complying with the applicable recommended practices of SAE Standards J231 and J1043.,False,False
+18,B,13.0,,,,18.B.13 Rollover Protective Structures (ROPS).,True,False
+18,B,13.0,a,,,"a. In addition to the requirements of Sections 18.B.09 and 18.B.11, seat belts and ROPS shall be installed on:",True,False
+18,B,13.0,a,1.0,,"(1) Crawler and rubber-tire tractors including dozers, push and pull tractors, winch tractors, and mowers;",False,False
+18,B,13.0,a,2.0,,"(2) Off-the-highway self-propelled pneumatic-tire earth movers (i.e., trucks, pans, scrapers, bottom dumps, and end dumps);",False,False
+18,B,13.0,a,3.0,,(3) Motor graders;,False,False
+18,B,13.0,a,4.0,,(4) Water tank trucks having a tank height less than the cab; and,False,False
+18,B,13.0,a,5.0,,"(5) Other self-propelled construction equipment such as front-end loaders, backhoes, rollers, and compactors.",False,False
+18,B,13.0,b,,,b. ROPS are not required on:,False,False
+18,B,13.0,b,1.0,,(1) Trucks designed for hauling on public highways;,False,False
+18,B,13.0,b,2.0,,(2) Crane-mounted dragline backhoes;,False,False
+18,B,13.0,b,3.0,,(3) Sections of rollers and compactors of the tandem steel-wheeled and self-propelled pneumatic-tired type that do not have an operator's station;,False,False
+18,B,13.0,b,4.0,,"(4) Self-propelled, rubber-tired lawn and garden tractors and side-boom pipe laying tractors operated solely on flat terrain (maximum 10° slope; 20° slope permitted when offloading from a truck) not exposed to rollover hazards; and",False,False
+18,B,13.0,b,5.0,,"(5) Cranes, draglines, or equipment on which the operator's cab and boom rotate as a unit.",False,False
+18,B,13.0,c,,,c. ROPS may be removed from certain types of equipment when the work cannot be performed with the ROPS in place and when ROPS removal is justified and delineated in an AHA and accepted in writing by the GDA.,False,False
+18,B,13.0,d,,,"d. The operating authority shall furnish proof from the manufacturer or certification from a licensed engineer that the ROPS complies with applicable SAE Standards (i.e., J167, J1040, J1042, J1084, and J1194).",False,False
+18,B,13.0,e,,,e. ROPS shall also be acceptable if they meet the criteria of any State that has a Department of Labor-approved OSHA program or meets Water and Power Resources Service requirements.,False,False
+18,B,13.0,f,,,f. The following information permanently affixed to the ROPS is acceptable in lieu of a written certification:,False,False
+18,B,13.0,f,1.0,,(1) Manufacturer’s or fabricator's name and address;,False,False
+18,B,13.0,f,2.0,,"(2) ROPS model number, if any; and",False,False
+18,B,13.0,f,3.0,,"(3) Machine make, model, or series number that the structure is designed to fit.",False,False
+18,B,13.0,g,,,"g. Field welding on ROPS shall be performed by welders who are certified, per Section 10.A.07.",True,False
+18,B,14.0,,,,18.B.14 All points requiring lubrication during operation shall have fittings so located or guarded to be accessible without hazardous exposure. > See also Section 12.,True,False
+18,B,15.0,,,,"18.B.15 All machinery or equipment and material hoists operating on rails, tracks, or trolleys shall have positive stops or limiting devices either on the equipment, rails, tracks, or trolleys to prevent overrunning safe limits.",True,False
+18,B,16.0,,,,"18.B.16 Under the following circumstances, long-bed end-dump trailers used in off-road hauling should be equipped with a rollover warning device. The device should have a continuous monitoring display at the operator station to give the operator a quick and easily read indicator and audible warning of an unsafe condition:",True,False
+18,B,16.0,a,,,"a. The material being dumped is subject to being stuck or caught in the trailer rather than exiting the bed freely, and",False,False
+18,B,16.0,b,,,b. The dumpsite cannot be maintained in a nominally level condition (lateral slope less than 1° - 2°).,False,False
+18,C,,,,,18.C Operating Rules.,True,False
+18,C,1.0,,,,"18.C.01 General. For the purpose of this paragraph, a government-owned motor vehicle is any vehicle (government-owned; POV or Rental Car if being used while on-duty in lieu of government-owned vehicle) used to transport Government employees.",True,False
+18,C,1.0,a,,,a. Operators of Government and Contractor motor vehicles being used on USACE projects may only use cellular telephones with hands-free devices while the vehicle is in motion.,False,False
+18,C,1.0,a,1.0,,"(1) Prior to using a hand-held cellular phone, drivers shall find a safe place to bring their vehicle to a stop.",False,False
+18,C,1.0,a,2.0,,(2) Text messaging by the operator is strictly prohibited while operating motor vehicles.,False,False
+18,C,1.0,b,,,"b. The use of any other portable headphones, earphones, or other listening devices (except for hands–free cellular phones) while operating Government or contractor motor vehicles on USACE projects is prohibited. > See AR 190-5.",False,False
+18,C,1.0,c,,,"c. Operators of government-owned motor vehicles (whether government- or contractor- operated, GOGO or GOCO) shall not eat, drink alcohol, or smoke while the vehicle is in motion.",False,False
+18,C,1.0,d,,,d. GPS Systems.,False,False
+18,C,1.0,d,1.0,,(1) GPS systems shall be mounted within the vehicle so that they do not create sight hazards for the operator.,False,False
+18,C,1.0,d,2.0,,(2) Programming of GPS systems while driving is prohibited.,False,False
+18,C,1.0,d,3.0,,(3) The use of non-mounted GPS systems may only be used by the vehicle operator while the vehicle is in a stopped position.,False,False
+18,C,2.0,,,,18.C.02 Defensive Driving. The principles of defensive driving shall be practiced. Operators (government and contractor) of government-owned vehicles shall complete Defensive Driver Training initially and every four years thereafter. Contractor operators of government-owned vehicles shall provide documentation of completion of a suitable Defensive Driving Course to the GDA initially and upon request.,True,False
+18,C,3.0,,,,18.C.03 Seat belts shall be installed and worn per Section 18.B.09. Buses are exempt from this requirement.,True,False
+18,C,4.0,,,,"18.C.04 At all times, the operator must have the vehicle under control and be able to bring it to a complete stop within a safe stopping distance.",True,False
+18,C,5.0,,,,"18.C.05 Vehicles may not be driven at speeds greater than the posted speed limit, with due regard for weather, traffic, intersections, width and character of the roadway, type of motor vehicle, and any other existing condition.",True,False
+18,C,6.0,,,,"18.C.06 Headlights shall be on from sunset to sunrise, during fog, smoke, rain, or other unfavorable atmospheric conditions, and at any other time when there is not sufficient light for the vehicle to be seen or the operator to see on the highway at a distance of 500 ft (150.4 m), unless local regulations prohibit.",True,False
+18,C,7.0,,,,18.C.07 Vehicles shall not be driven on a downgrade with gears in neutral or clutch disengaged.,True,False
+18,C,8.0,,,,18.C.08 Railroad crossings and drawbridges.,True,False
+18,C,8.0,a,,,"a. Upon approaching a railroad crossing or drawbridge, vehicles shall be driven at such a speed as to permit stopping before reaching the nearest track or the edge of the draw bridge and shall proceed only if the course is clear.",False,False
+18,C,8.0,b,,,"b. Vehicles transporting 15 or more persons, explosives, or flammable or toxic substances shall stop at railroad crossings and drawbridges and shall not proceed until the course is clear, except at a railroad crossing or drawbridge protected by a traffic officer or a traffic signal giving a positive indication for approaching vehicles to proceed.",False,False
+18,C,9.0,,,,"18.C.09 Vehicles shall not be stopped, parked, or left standing on any road, or adjacent thereto, or in any area in a manner as to endanger the vehicle, other vehicles, or personnel using or passing that road or area. Operator will ascertain safest exit path before exiting vehicle.",True,False
+18,C,10.0,,,,"18.C.10 Vehicles shall not be left unattended until the motor has been shut off, the key removed (unless local regulations prohibit), parking brake set, and gear engaged in low, reverse, or park.",True,False
+18,C,11.0,,,,"18.C.11 Vehicles carrying loads that project beyond the sides or rear of the vehicle shall carry a red flag, not less than 144 in2 (929 cm2), at or near the end of the projection. At night or when atmospheric conditions restrict visibility, a warning light shall be used in lieu of the red flag. Drivers will assure the load does not obscure vehicle lights and/or reflectors.",True,False
+18,C,12.0,,,,18.C.12 Employees shall not be permitted to get between a towed vehicle and towing vehicle except when hooking or unhooking.,True,False
+18,C,13.0,,,,"18.C.13 No vehicle or combination of vehicles hauling unusually heavy loads or equipment shall be moved until the driver has been provided with the required permits, the correct weights of the vehicles and load, and a designated route to be followed.",True,False
+18,C,14.0,,,,"18.C.14 When maneuvering or performing back-up operations, operators will take the applicable precautions outlined in Section 08.B.04. If a signal person or spotter is not used, operators will walk behind their vehicle to view the area for possible hazards before performing back-up operations with their vehicle.",True,False
+18,C,15.0,,,,"18.C.15 When a bus, truck, or truck-trailer combination is parked or disabled on a highway or the adjacent shoulder, yellow flashing lights and other traffic warning devices (e.g., cones, flags, signs, etc.) per 49 CFR 571.5 shall be used during the daytime and reflectors, flares, electric lights or other effective means of identification shall be displayed at night.",True,False
+18,C,16.0,,,,18.C.16  Loading vehicles.,True,False
+18,C,16.0,a,,,"a. Drivers of trucks and similar vehicles shall leave the cab while the vehicle is being loaded when they are exposed to danger from suspended loads or overhead loading equipment, unless the cab is adequately protected.",False,False
+18,C,16.0,b,,,b. Vehicles shall not be loaded in a manner that obscures the driver’s view ahead or to either side or which interferes with the safe operation of the vehicle.,False,False
+18,C,16.0,c,,,"c. The load on every vehicle shall be distributed, chocked, tied down, or secured. Loads shall be covered when there is a hazard of flying/falling dirt, rock, debris, or material. Tail gates shall not be removed without implementing a positive means to prevent material from falling out of the back of the vehicle and may be done only with the acceptance of the GDA.",False,False
+18,C,17.0,,,,"18.C.17 Maintenance Vehicles. All maintenance vehicles that are used at USACE recreational areas (or projects) shall be provided with two 28 in (0.7 m) day glow/highvisibility orange traffic cones. Vehicle operators that operate maintenance vehicles in USACE recreational areas shall place a cone in front and behind the vehicle when parked, remove and place in vehicle prior to departure.",True,False
+18,D,,,,,18.D Transportation Of Personnel.,True,False
+18,D,1.0,,,,18.D.01 The number of passengers in passenger-type vehicles shall not exceed the number that can be seated.,True,False
+18,D,2.0,,,,"18.D.02  Trucks used to transport personnel shall be equipped with a securely anchored seating arrangement, a rear end gate, and guardrail. Steps or ladders, for mounting and dismounting, shall be provided.",True,False
+18,D,3.0,,,,"18.D.03  All tools and equipment shall be guarded, stowed, and secured when transported with personnel.",True,False
+18,D,4.0,,,,"18.D.04  No person will be permitted to ride with arms or legs outside of a vehicle body, in a standing position on the body, on running boards, seated on side fenders, cabs, cab shields, bed of the truck, or on the load.",True,False
+18,D,5.0,,,,18.D.05  All vehicles transporting personnel during cold or inclement weather shall be enclosed. Passengers shall be protected from inclement weather elements.,True,False
+18,D,6.0,,,,"18.D.06  Explosives, flammable materials (excepting normal fuel supply), or toxic substances may not be transported in vehicles carrying personnel.",True,False
+18,D,7.0,,,,18.D.07 Vehicles transporting personnel shall not be moved until the driver has ascertained that all persons are seated and the guardrails and rear end gates are in place or doors closed.,True,False
+18,D,8.0,,,,18.D.08  Getting on or off any vehicle while it is in motion is prohibited.,True,False
+18,D,9.0,,,,18.D.09 All motor vehicles shall be shut down prior to and during fueling operations. > See Section 18.G.10.,True,False
+18,E,,,,,18.E Motor Vehicles (for Public Roadway Use).,True,False
+18,E,1.0,,,,"18.E.01 For the purposes of the Section, a motor vehicle is defined as a sedan, van, SUV, truck, motorcycle, or other mode of conveyance intended for use on public roadways. This includes construction equipment that is driven on public highways. Other types of equipment such as machinery and mechanized equipment, ATVs, UVs and other specialty vehicles are addressed later in this Section.",True,False
+18,E,2.0,,,,18.E.02 Every motor vehicle shall have:,True,False
+18,E,2.0,a,,,a. An operable speedometer;,False,False
+18,E,2.0,b,,,b. An operable fuel gage;,False,False
+18,E,2.0,c,,,c. An operable audible warning device (horn);,False,False
+18,E,2.0,d,,,d. An adequate rearview mirror or mirrors;,False,False
+18,E,2.0,e,,,e. A power-operated starting device;,False,False
+18,E,2.0,f,,,f. A windshield equipped with an adequate windshield wiper;,False,False
+18,E,2.0,g,,,g. An operable defrosting and defogging device;,False,False
+18,E,2.0,h,,,h. Non-slip surfaces on steps; and,False,False
+18,E,2.0,i,,,"i. Cabs, cab shields, and other protection to protect the driver from the elements and falling or shifting materials; > Note: Items f through i do not apply to motorcycles. Gloves, a DOT-approved motorcycle helmet with full faceshield or goggles, sturdy footwear, long sleeved shirt or jacket, long trousers, full fingered gloves, and high-visibility garments (bright color for day and retroreflective for night), shall be worn at all times while operating or riding as a passenger on motorcycles.",False,False
+18,E,3.0,,,,"18.E.03 Glass in windshields, windows, and doors shall be safety glass. Any cracked or broken glass shall be replaced.",True,False
+18,E,4.0,,,,"18.E.04 All buses, trucks, and combinations of vehicles with a carrying capacity of 1.5 tons (1,360.8 kg) or over, when operated on public highways, shall be equipped with emergency equipment required by State laws but not less than:",True,False
+18,E,4.0,a,,,a. One red flag not less than 12 in2 (77.4 cm2) with standard and three reflective markers that shall be available for immediate use in case of emergency stops;,False,False
+18,E,4.0,b,,,b. Two wheel chocks for each vehicle or each unit of a combination of vehicles;,False,False
+18,E,4.0,c,,,c. At least one 2A:10B:C fire extinguisher (at least two properly rated fire extinguishers are required for flammable cargo).,False,False
+18,E,5.0,,,,"18.E.05 All rubber-tired motor vehicles shall be equipped with fenders, and tires shall not extend beyond fenders. Mud flaps may be used in lieu of fenders whenever motor vehicle equipment is not designed for fenders.",True,False
+18,F,,,,,18.F Trailers.,True,False
+18,F,1.0,,,,18.F.01 All towing devices used on any combinations of vehicles shall be structurally adequate for the weight drawn and shall be properly mounted.,True,False
+18,F,2.0,,,,18.F.02 A locking device or double safety system shall be provided on every fifth-wheel mechanism and tow bar arrangement to prevent the accidental separation of towed and towing vehicles.,True,False
+18,F,3.0,,,,18.F.03 Every trailer shall be coupled with safety chains or cables to the towing vehicle. Such chain or cable shall prevent the separation of the vehicles in case of tow bar failure.,True,False
+18,F,4.0,,,,18.F.04 Trailers equipped with power brakes shall be equipped with a breakaway device that effectively locks the brakes in the event the trailer separates from the towing vehicle.,True,False
+18,F,5.0,,,,"18.F.05 All vehicle/equipment operators required to pull a trailer must be properly trained, evaluated, qualified and designated to perform this operation.",True,False
+18,G,,,,,18.G Machinery And Mechanized Equipment.,True,False
+18,G,1.0,,,,"18.G.01 For the purposes of the Section, machinery and mechanized equipment is defined as mobile, stationary, self-propelled or towed equipment intended for use on construction sites or industrial sites. This equipment is NOT intended for operation on public highways. Equipment such as dump trucks, cargo trucks, and other vehicles that may also travel on public roadways must also meet the requirements of Section 18.E.",True,False
+18,G,2.0,,,,"18.G.02 Before any machinery or mechanized equipment is placed in use, it shall be inspected and tested in accordance with the manufacturer’s recommendations and requirements of this manual.",True,False
+18,G,2.0,a,,,"a. Inspections will be documented on either a manufacturer-, government-supplied or contractor-generated checklist. The Competent Person (CP) is required to sign the checklist designating that it meets the manufacturer’s recommendations and requirements of this manual.",False,False
+18,G,2.0,b,,,b. All checklists will be submitted to the GDA upon completion of the inspection and will become a part of the project file.,False,False
+18,G,2.0,c,,,c. All safety deficiencies noted during the inspection shall be corrected prior to the equipment being placed in service at the project.,False,False
+18,G,2.0,d,,,"d. Re-inspection. Subsequent re-inspections will be conducted at least annually thereafter. Any time the machinery or mechanized equipment is removed and subsequently returned to the project (other than equipment removed for routine off-site operations as part of the project), it shall be re-inspected and recertified prior to use.",False,False
+18,G,2.0,e,,,e. The Contractor shall provide the GDA ample notice in advance of any equipment entering the site so that the Contractor’s inspection process may be observed and so that spot checks may be conducted.,False,False
+18,G,3.0,,,,18.G.03 No modifications or additions that affect the capacity or safe operation of machinery or equipment shall be made without the manufacturer's written approval.,True,False
+18,G,3.0,a,,,"a. If such modifications or changes are made, the capacity, operation, and maintenance instruction plates, tags, or decals shall be changed accordingly.",False,False
+18,G,3.0,b,,,b. In no case shall the original safety factor of the equipment be reduced. > See Section 18.G.30.,True,False
+18,G,4.0,,,,18.G.04 Daily/shift inspections and tests.,True,False
+18,G,4.0,a,,,"a. All machinery and equipment shall be inspected daily (when in use) to ensure safe operating conditions. The employer shall designate CPs to conduct daily inspections and tests. These inspections and tests shall be documented by the CP to include as a minimum, the date, name of the inspector; specific items inspected, and “PASS/FAIL” indication. Copies of the inspections will be provided to the GDA upon request.",False,False
+18,G,4.0,b,,,b. Tests shall be made at the beginning of each shift during which the equipment is to be used to determine that the brakes and operating systems are in proper working condition and that all required safety devices are in place and functional.,False,False
+18,G,5.0,,,,"18.G.05 Whenever any machinery or equipment is found to be unsafe, or whenever a deficiency that affects the safe operation is observed, the equipment shall be immediately taken out of service and its use prohibited until unsafe conditions have been corrected.",True,False
+18,G,5.0,a,,,"a. A tag indicating that the equipment shall not be operated, and that the tag shall not be removed, shall be placed in a conspicuous location on the equipment. Where required, lockout procedures shall be used. > See Section 12.",False,False
+18,G,5.0,b,,,b. The tag shall remain in its attached location until it is demonstrated to the individual dead-lining the equipment that it is safe to operate.,False,False
+18,G,5.0,c,,,"c. When corrections are complete, the machinery or equipment shall be retested and re-inspected before being returned to service.",False,False
+18,G,6.0,,,,"18.G.06 Machinery and mechanized equipment shall be operated only by designated, qualified personnel.",True,False
+18,G,6.0,a,,,a. Machinery or equipment shall not be operated in a manner that will endanger persons or property nor shall the safe operating speeds or loads be exceeded.,False,False
+18,G,6.0,b,,,b. Getting off or on any equipment while it is in motion is prohibited.,False,False
+18,G,6.0,c,,,c. Machinery and equipment shall be operated in accordance with the manufacturer's instructions and recommendations.,False,False
+18,G,6.0,d,,,"d. The use of headphones for entertainment purposes (e.g., radio, CD, music, books, etc.,) while operating equipment is prohibited except for communication directly related to operating the machinery or equipment.",False,False
+18,G,6.0,e,,,e. The use of cell phones or any other electronic device that may cause distraction is prohibited while operating equipment.,False,False
+18,G,6.0,f,,,"f. All operator training and evaluation shall be conducted by persons who have the knowledge, training, and experience to train the equipment operators and evaluate their competence.",False,False
+18,G,6.0,f,1.0,,"(1) These examiners may not license themselves, but instead, must be licensed by another qualified examiner.",False,False
+18,G,6.0,f,2.0,,"(2) All qualification/licensing of equipment operators by examiners must include, at a minimum, requirements of this Section, the manufacturer’s instructions and recommendations as well as observation of a practical operating examination on the equipment.",False,False
+18,G,7.0,,,,"18.G.07 When the manufacturer's instructions or recommendations are more stringent than the requirements of this manual, the manufacturer's instructions or recommendations shall apply.",True,False
+18,G,8.0,,,,18.G.08 Inspections or determinations of road and shoulder conditions and structures shall be made in advance to assure that clearances and load capacities are safe for the passage or placing of any machinery or equipment.,True,False
+18,G,9.0,,,,18.G.09 Equipment requirements.,True,False
+18,G,9.0,a,,,a. An operable fuel gage;,False,False
+18,G,9.0,b,,,b. An operable audible warning device (horn);,False,False
+18,G,9.0,c,,,c. Adequate rearview mirror or mirrors;,False,False
+18,G,9.0,d,,,d. Non-slip surfaces on steps;,False,False
+18,G,9.0,e,,,e. A power-operated starting device;,False,False
+18,G,9.0,f,,,f. Seats or equal protection must be provided for each person required to ride on equipment (unless standing is permitted by the equipment manufacturer);,False,False
+18,G,9.0,g,,,"g. Whenever visibility conditions warrant additional light, all vehicles, or combinations of vehicles, in use shall be equipped with at least two headlights and two taillights in operable condition;",False,False
+18,G,9.0,h,,,"h. All equipment with windshields shall be equipped with powered wipers. Vehicles that operate under conditions that cause fogging or frosting of windshields shall be equipped with operable defogging or defrosting devices. Glass in windshields, windows, and doors shall be safety glass. Cracked or broken glass shall be replaced;",False,False
+18,G,9.0,i,,,"i. Mobile equipment, operating within an off-highway job site not open to public traffic, shall have a service brake system and a parking brake system capable of stopping and holding the equipment while fully loaded on the grade of operation.",False,False
+18,G,9.0,j,,,j. It is recommended that heavy-duty hauling equipment have an emergency brake system that will automatically stop the equipment upon failure of the service brake system. This emergency brake system should be manually operable from the driver's position.,False,False
+18,G,10.0,,,,"18.G.10 Mechanized equipment shall be shut down before and during fueling operations. Closed systems, with an automatic shut-off that will prevent spillage if connections are broken, may be used to fuel diesel powered equipment left running.",True,False
+18,G,11.0,,,,"18.G.11 Bulldozer and scraper blades, end-loader buckets, dump bodies, and similar equipment shall be either fully lowered or blocked when being repaired or when not in use. All controls shall be in a neutral position, with the engines stopped and brakes set, unless work being performed on the machine requires otherwise.",True,False
+18,G,12.0,,,,18.G.12 Stationary machinery and equipment shall be placed on a firm foundation and secured before being operated.,True,False
+18,G,13.0,,,,18.G.13 All mobile equipment and the areas in which they are operated shall be adequately illuminated while work is in progress.,True,False
+18,G,14.0,,,,18.G.14 Equipment powered by an internal combustion engine will not be operated in or near an enclosed area unless adequate ventilation is provided to ensure the equipment does not generate a hazardous atmosphere.,True,False
+18,G,15.0,,,,18.G.15 All vehicles that will be parked or are moving slower than normal traffic on haul roads shall have a yellow flashing light or four-way flashers visible from all directions.,True,False
+18,G,16.0,,,,"18.G.16 No one shall be permitted in the truck cab during loading operations except the driver, and then only if the truck has a cab protector. > See also Section 18.C.16.a.",True,False
+18,G,17.0,,,,"18.G.17 All machinery or equipment operating on rails, tracks, or trolleys (except railroad equipment) shall be provided with substantial track scrapers or track clearers (effective in both directions) on each wheel or set of wheels.",True,False
+18,G,18.0,,,,"18.G.18 Steering or spinner knobs shall not be attached to the steering wheel unless the steering mechanism prevents road reactions from causing the steering handwheel to spin. When permitted, the steering knob shall be mounted within the periphery of the wheel.",True,False
+18,G,19.0,,,,"18.G.19 Safeguards (i.e., bumpers, railings, tracks, etc.,) shall be provided to prevent machinery and equipment operating on a floating plant from going into the water.",True,False
+18,G,20.0,,,,"18.G.20 The controls of loaders, excavators, or similar equipment with folding booms or lift arms shall not be operated from a ground position unless so designed.",True,False
+18,G,21.0,,,,"18.G.21 Personnel shall not work in, pass under, or ride in the buckets or booms of loaders in operation.",True,False
+18,G,22.0,,,,18.G.22 Tire service vehicles shall be operated so that the operator will be clear of tires and rims when hoisting operations are being performed. Tires large enough to require hoisting equipment will be secured from movement by continued support of the hoisting equipment unless bolted to the vehicle hub or otherwise restrained. > See also Section 18.B.07.,True,False
+18,G,23.0,,,,"18.G.23 Each bulldozer, scraper, dragline, crane, motor grader, front-end loader, mechanical shovel, backhoe, and other similar equipment shall be equipped with at least one dry chemical or CO2 fire extinguisher with a minimum rating of 10-B:C.",True,False
+18,G,24.0,,,,18.G.24 Fill hatches on water haul vehicles shall be secured or the opening reduced to a maximum of 8 in (20.3 cm).,True,False
+18,G,25.0,,,,18.G.25 Maintenance and repairs.,True,False
+18,G,25.0,a,,,"a. Maintenance, including preventive maintenance, and repairs shall be in accordance with the manufacturer's recommendations and shall be documented. Records of maintenance and repairs conducted during the life of a contract shall be made available upon request of the GDA.",False,False
+18,G,25.0,b,,,b. All machinery or equipment shall be shut down and positive means taken to prevent its operation while repairs or manual lubrications are being done. Equipment designed to be serviced while running are exempt from this requirement.,False,False
+18,G,25.0,c,,,c. All repairs on machinery or equipment shall be made at a location that will protect repair personnel from traffic.,False,False
+18,G,25.0,d,,,"d. Heavy machinery, equipment, or parts thereof that are suspended or held apart by slings, hoist, or jacks also shall be substantially blocked or cribbed before personnel are permitted to work underneath or between them.",False,False
+18,G,26.0,,,,18.G.26 Dump trucks.,True,False
+18,G,26.0,a,,,a. All dump trucks shall be equipped with a physical holding device to prevent accidental lowering of the body while maintenance or inspection work is being done.,False,False
+18,G,26.0,b,,,b. All hoist levers shall be secured to prevent accidental starting or tripping of the mechanism.,False,False
+18,G,26.0,c,,,c. All off-highway end-dump trucks shall be equipped with a means (plainly visible from the operator's position while looking ahead) to determine whether the dump box is lowered.,False,False
+18,G,26.0,d,,,d. Trip handles for tailgates on all dump trucks shall be arranged to keep the operator in the clear.,False,False
+18,G,27.0,,,,18.G.27 Parking.,True,False
+18,G,27.0,a,,,"a. Whenever equipment is parked, the parking brake shall be set.",False,False
+18,G,27.0,b,,,b. Equipment parked on an incline shall have the wheels chocked or track mechanisms blocked and the parking brake set.,False,False
+18,G,27.0,c,,,"c. All equipment left unattended at night, adjacent to a highway in normal use or adjacent to construction areas where work is in progress, shall have lights or reflectors, or barricades equipped with lights or reflectors, to identify the location of the equipment.",False,False
+18,G,28.0,,,,18.G.28 Towing.,True,False
+18,G,28.0,a,,,a. All towing devices used on any combination of equipment shall be structurally adequate for the weight drawn and securely mounted.,False,False
+18,G,28.0,b,,,b. Persons shall not be permitted to get between a towing vehicle and the piece of towed equipment until both have been completely stopped with all brakes set and wheels chocked on both vehicle and equipment.,False,False
+18,G,29.0,,,,"18.G.29 Powered Industrial Trucks (PITs)/Forklifts and Telehandlers. All PITs and telehandlers shall meet the requirements of design, construction, stability, inspection, testing, maintenance, and operation (as defined in ANSI/ASME B56.1). > Note: When PITs or Telehandlers are configured to hoist and lower (by means of a winch or hook and/or with rigging) and horizontally move a suspended load, refer to Sections 16.A.01 and 16.Q.",True,False
+18,G,29.0,a,,,"a. All PITs, lift trucks, stackers, and similar equipment shall have the rated capacity posted on the vehicle so as to be clearly visible to the operator. When the manufacturer provides auxiliary removable counterweights, corresponding alternate rated capacities also shall be clearly shown on the vehicle. The ratings shall not be exceeded.",False,False
+18,G,29.0,b,,,"b. Only trained, qualified/certified and designated operators shall be permitted to operate a PIT. Qualification shall be in writing via a license, permit or other documentation.",False,False
+18,G,29.0,b,1.0,,(1) Training must be both classroom and practical operation and in accordance with OSHA Standard 29 CFR 1910.178. It must be on the same type of truck the operator uses on the job.,False,False
+18,G,29.0,b,2.0,,"(2) The employer must certify that the operator has been trained and evaluated as required by the standard. The certification shall include the name of the operator, the date of the training, the date of the evaluation, and the identity of the person(s) performing the training or evaluation.",False,False
+18,G,29.0,b,3.0,,"(3) Refresher training in relevant topics shall be conducted at least once every three (3) years including an evaluation of each powered industrial truck operator's performance. In addition, refresher training shall be provided to the operator when the operator:",False,False
+18,G,29.0,b,3.0,a,(a) has been observed to operate the vehicle in an unsafe manner;,False,False
+18,G,29.0,b,3.0,b,(b) has been involved in a mishap;,False,False
+18,G,29.0,b,3.0,c,(c) has received an evaluation that reveals that the operator is not operating the truck safely;,False,False
+18,G,29.0,b,3.0,d,(d) is assigned to drive a different type of truck; or,False,False
+18,G,29.0,b,3.0,e,(e) a condition in the workplace changes in a manner that could affect safe operation of the truck.,False,False
+18,G,29.0,c,,,"c. When a PIT is left unattended, load engaging means shall be fully lowered, controls shall be neutralized, power shall be shut off, and brakes shall be set. Wheels shall be blocked if the truck is parked on an incline.",False,False
+18,G,29.0,d,,,"d. An overhead guard shall be used as protection against falling objects. It should be noted that an overhead guard is intended to offer protection from the impact of small packages, boxes, bagged material, etc., representative of the job application, but not to withstand the impact of a falling capacity load.",False,False
+18,G,29.0,e,,,e. Dock board or bridge plates shall be properly secured before they are driven over. Dock board or bridge plates shall be driven over carefully and slowly and their rated capacity shall never be exceeded.,False,False
+18,G,29.0,f,,,f. Under all travel conditions the PIT shall be operated at a speed that will permit it to be brought to a stop in a safe manner.,False,False
+18,G,29.0,g,,,"g. On all grades the load and load engaging means shall be tilted back if applicable, and raised only as far as necessary to clear the road surface.",False,False
+18,G,29.0,h,,,"h. When ascending or descending grades in excess of 10%, loaded PITs shall be driven with the load upgrade.",False,False
+18,G,29.0,i,,,"i. Multi-purpose machines, material handling equipment (i.e. Rough-Terrain Forklifts, Lulls, etc.), and construction equipment used to lift loads suspended by rigging equipment shall:",False,False
+18,G,29.0,i,1.0,,(1) Have proof or authorization from the manufacturer that the machine is capable of making lifts of loads suspended by rigging equipment;,False,False
+18,G,29.0,i,2.0,,"(2) Demonstrate that the equipment is properly configured to make such lifts, and",False,False
+18,G,29.0,i,3.0,,(3) The machine/equipment must be equipped with a load chart.,False,False
+18,G,29.0,j,,,"j. Contractor must provide certification that the operator is trained, qualified and designated for the operation of the machine (multi-purpose, material handling and construction equipment) being utilized to lift loads suspended by rigging equipment.",False,False
+18,G,30.0,,,,"18.G.30 Floating Equipment. All equipment placed or operating on barges, pontoons, vessels or other means of flotation must be evaluated by a Qualified Person (QP) for safe placement, transport and operating conditions. At a minimum, the evaluation shall include: proper operating procedures per the manufacturer; stability and structural assessment of equipment and barge/pontoon; if required, where and how the equipment will be secured to address positively secured positioning of the equipment (no movement/tipping), and environmental restrictions.",True,False
+18,G,30.0,,1.0,,"(1) If the QP determines that the equipment can safely operate under the anticipated conditions, within the manufacturer’s operating procedures, the evaluation shall be documented in writing by the QP in the AHA and provided to GDA prior to work beginning.",False,False
+18,G,30.0,,2.0,,"(2) If the equipment cannot safely operate under the anticipated conditions, within the manufacturer’s operating procedures, or the QP determines that it is not safe to do so, then the use of this equipment in this capacity is not allowed.",False,False
+18,G,30.0,,3.0,,"(3) If there are no manufacturer’s operating procedures, an RPE with knowledge and experience with this type of equipment must develop the safe operating procedures. The QP can then perform the evaluation of the equipment and barge/pontoon. This evaluation shall be documented in writing by the QP in the AHA and provided to GDA prior to work beginning. > Note: If this equipment is mechanized equipment used in conjunction with rigging to lift a load, it is considered Load Handling Equipment. > See Section 16.L.",True,False
+18,H,,,,,18.H Drilling Equipment.,True,False
+18,H,1.0,,,,"18.H.01 Applicability. The requirements of this Section are in addition to other requirements identified in Section 18 and are applicable to rock, soil, and concrete drilling operations.",True,False
+18,H,2.0,,,,"18.H.02 Drilling equipment shall be operated only by qualified (training, evaluation and experience) personnel who are designated by their respective employer to operate subject equipment.",True,False
+18,H,2.0,a,,,"a. The drilling equipment shall be operated, inspected, and maintained as specified in the manufacturer's operating manual.",False,False
+18,H,2.0,b,,,b. A copy of the manual will be available at the job site.,False,False
+18,H,3.0,,,,"18.H.03 AHA Development. Prior to initiating rock, soil, and/or concrete drilling operations, the contractor shall develop an AHA for the intended operations. AHA shall include, as a minimum:",True,False
+18,H,3.0,a,,,a. Location of all overhead electrical lines/hazards;,False,False
+18,H,3.0,b,,,b. Location of any possible unexploded ordnance or hazardous agents in the soil;,False,False
+18,H,3.0,c,,,c. Location of utilities both above and below grade;,False,False
+18,H,3.0,d,,,d. Designated areas for equipment operations and material storage;,False,False
+18,H,3.0,e,,,"e. Assembly and disassembly sequences for rock, soil, and concrete drilling equipment;",False,False
+18,H,3.0,f,,,"f. Operation of rock, soil, and concrete drilling equipment and handling of associated materials;",False,False
+18,H,3.0,g,,,g. A geotechnical survey report identifying subsurface and surface ground conditions. The findings of this survey and the controls for all potential hazards shall become a part of the AHA;,False,False
+18,H,3.0,h,,,"h. A hard copy of the Safety Data Sheet (SDS) for the drilling fluids, if required;",False,False
+18,H,3.0,i,,,"i. The AHA meets the requirements of Section 01.A.14 or 01.A.15, and",True,False
+18,H,3.0,j,,,"j. AHA shall be reviewed at the preparatory meeting, when the plan has been completed.",False,False
+18,H,4.0,,,,"18.H.04 Training. Members of drilling crews shall be provided training based on the equipment operating manual and the AHA. This training shall include, at a minimum:",True,False
+18,H,4.0,a,,,"a. The operation, inspection, and maintenance of the equipment;",False,False
+18,H,4.0,b,,,"b. The safety features and procedures to be used during operation, inspection, and maintenance of the equipment; and",False,False
+18,H,4.0,c,,,c. Overhead electrical line and underground hazards.,False,False
+18,H,5.0,,,,"18.H.05 Drilling equipment shall be equipped with two easily accessible emergency shutdown devices, one for the operator and one for the helper.",True,False
+18,H,5.0,a,,,a. Only one emergency shutdown switch is required on a pier -hole rig.,False,False
+18,H,5.0,b,,,b. Rigs must be shut down before any helpers enter a barricaded area.,False,False
+18,H,5.0,c,,,"c. Auger heads must be in the hole or a cover placed over the hole before workers enter the barricaded area. >Note: If infeasible due to type of drill equipment being used, a risk assessment shall be performed by a Competent Person (CP), and documented in the AHA as to why this requirement is not practical. Identification of additional precautions and/or controls shall be identified to insure an equal level of safety is being accomplished.",False,False
+18,H,6.0,,,,18.H.06 Clearance from electrical sources shall be as specified in Table 11-1.,True,False
+18,H,6.0,a,,,a. Drilling equipment shall be posted with signs warning the operator of electrical hazards.,False,False
+18,H,6.0,b,,,b. The equipment operator shall assure proper clearance before moving equipment. Clearance shall be monitored by a spotter or by an electrical proximity warning device.,False,False
+18,H,7.0,,,,18.H.07 Moving equipment.,True,False
+18,H,7.0,a,,,"a. Before drilling equipment is moved, the travel route shall be surveyed for overhead and terrain hazards, particularly overhead electrical hazards.",False,False
+18,H,7.0,b,,,"b. Earth drilling equipment shall not be transported with the mast up. The exception is movement of the equipment required in drilling a series of holes, such as in blasting, if the following conditions are satisfied:",False,False
+18,H,7.0,b,1.0,,"(1) Movement is over level, smooth terrain;",False,False
+18,H,7.0,b,2.0,,"(2) The path of travel has been inspected for stability and the absence of holes, other ground hazards, and electrical hazards;",False,False
+18,H,7.0,b,3.0,,"(3) The travel distance is limited to short, safe distances; and",False,False
+18,H,7.0,b,4.0,,(4) Travel with mast up may only be performed according to manufacturer’s recommendations and/or specification.,False,False
+18,H,8.0,,,,18.H.08 Equipment set-up.,True,False
+18,H,8.0,a,,,a. Equipment shall be set-up on stable ground and maintained level. Cribbing shall be used when necessary.,False,False
+18,H,8.0,b,,,b. Outriggers shall be extended per the manufacturer's specifications.,False,False
+18,H,8.0,c,,,"c. When drilling equipment is operated in areas with the potential for classification as a confined space, the requirements of Section 34 shall be followed.",False,False
+18,H,9.0,,,,"18.H.09 When drilling equipment is parked or disabled on a highway or the adjacent shoulder, yellow flashing lights and other traffic warning devices (cones, flags, signs, etc) per 49 CFR 571.5 shall be used during the daytime and reflector, flares, electric lights or other effective means of identification shall be displayed at night.",True,False
+18,H,10.0,,,,18.H.10 Equipment operation.,True,False
+18,H,10.0,a,,,a. Weather conditions shall be monitored. Operations shall cease during electrical storms or when electrical storms are imminent. > See Sections 01.E.,True,False
+18,H,10.0,b,,,"b. Drill crewmembers shall not wear loose clothing, jewelry, or equipment that might become caught in moving machinery. High visibility vests used on drilling rigs, if required, must be of the break-away type.",False,False
+18,H,10.0,c,,,"c. Auger guides shall be used on hard surfaces. If infeasible due to type of drill rig being used, a risk assessment shall be performed by a CP, and documented in the AHA as to why this requirement is not feasible. Identification of additional precautions and/or controls shall be identified to insure an equal level of safety is being accomplished).",False,False
+18,H,10.0,d,,,d. The operator shall verbally alert employees and visually ensure employees are clear from dangerous parts of equipment before starting or engaging equipment.,False,False
+18,H,10.0,e,,,e. The discharge of drilling fluids shall be channeled away from the work area to prevent the ponding of water.,False,False
+18,H,10.0,f,,,f. Hoists shall be used only for their designed intent and shall not be loaded beyond their rated capacity. Steps shall be taken to prevent two-blocking of hoists.,False,False
+18,H,10.0,g,,,"g. The equipment manufacturer's procedures shall be followed if rope becomes caught in, or objects get pulled into, a cathead.",False,False
+18,H,10.0,h,,,"h. Drill rods shall not be run or rotated through rod slipping devices. No more than 1 ft (0.3 m) of drill rod column shall be hoisted above the top of the drill mast. Drill rod tool joints shall not be made up, tightened, or loosened while the rod column is supported by a rod-slipping device.",False,False
+18,H,10.0,i,,,"i. Dust shall be controlled. When there is potential for silica exposure, the requirements contained in Section 06.N shall be implemented.",True,False
+18,H,10.0,j,,,j. Augers shall be cleaned only when the rotating mechanism is in neutral and the auger stopped. Long-handled shovels shall be used to move cutting from the auger.,False,False
+18,H,10.0,k,,,k. Open boreholes shall be capped and flagged. Open excavations shall be barricaded.,False,False
+18,H,10.0,l,,,"l. Means shall be provided to guard against employee contact with the auger (e.g. guard around the auger; barricade around the perimeter of the auger; electronic brake activated by a presence-sensing device). >Note: If infeasible due to type of drill equipment being used, employees must maintain a safe, clear distance while the drilling equipment is operating. Only when the drill has stopped rotating, the controls returned to the neutral position, and a clear signal has been given by the operator and understood by the helper that it is safe, shall the employee proceed to approach the drill. A risk assessment shall be performed by the CP, and documented in the AHA as to why this requirement is not practical. Identification of additional precautions and/or controls shall be identified to insure an equal level of safety is being accomplished.",False,False
+18,H,10.0,m,,,m. The use of side-feed swivel collars on drill rods are restricted to those collars that are retained by either a manufacturer-designed stabilizer or a stabilizer approved by a professional engineer.,False,False
+18,I,,,,,18.I All Terrain Vehicles (ATVs). ATVs are vehicles intended for off-road use that travel on four low pressure tires with a seat designed to be straddled by the operator and should not be confused with utility vehicles. > See Section 18.J.,True,False
+18,I,1.0,,,,18.I.01 Every ATV operator shall have completed a nationally-recognized accredited ATV training course (such as provided by the Specialty Vehicles Institute of America or by inhouse resources that have been certified as trainers by an accredited organization) prior to operation of the vehicle.,True,False
+18,I,1.0,a,,,a. The operator must pass an operating skills test prior to being allowed to operate an ATV. Proof of completion of this training shall be made available to the GDA upon request.,False,False
+18,I,1.0,b,,,"b. The in-house trainer, certified by an accredited organization, must perform at least 1 training session every 3 years to maintain certification. If the accrediting agency requires the trainer to return for refresher training to maintain certification, this shall be in addition to the 1 training session taught every 3 years.",False,False
+18,I,2.0,,,,18.I.02 All ATVs shall be equipped with:,True,False
+18,I,2.0,a,,,a. An adequate audible warning device (horn) at the operator's station in operable condition (if determined necessary for the work being performed); and,False,False
+18,I,2.0,b,,,b. Brake lights in operable condition (regardless of light conditions).,False,False
+18,I,2.0,c,,,c. Operable rear view mirror(s).,False,False
+18,I,3.0,,,,"18.I.03 Whenever visibility conditions warrant the need for additional light, all vehicles or combinations of vehicles in use, shall be equipped with at least two headlights and two taillights in operable condition.",True,False
+18,I,4.0,,,,18.I.04 The manufacturer's recommended payload/passenger limitations shall not be exceeded at any time.,True,False
+18,I,5.0,,,,"18.I.05 Gloves and a DOT-approved motorcycle helmet with full-face shield or goggles shall be worn at all times while operating ATVs. When required for operators, passengers shall wear an approved motorcycle helmet with full faceshield or goggles.",True,False
+18,I,6.0,,,,"18.I.06 ATVs will not be driven on public roadways except to cross the roadway, and may only be driven on public roadways at designated crossing points or with a road guard (no paved road use unless allowed by the manufacturer).",True,False
+18,I,7.0,,,,18.I.07 Only ATVs with four or more wheels may be used.,True,False
+18,I,8.0,,,,18.I.08 A copy of the operator’s manual will be kept on the vehicle and protected from the elements (if practicable).,True,False
+18,I,9.0,,,,18.I.09 Tires shall be inflated to the pressures recommended by the manufacturer.,True,False
+18,I,10.0,,,,18.I.10 ATVs shall be equipped with mufflers.,True,False
+18,I,11.0,,,,18.I.11 All ATVs shall be equipped with spark arresters.,True,False
+18,J,,,,,"18.J Utility Vehicles. For the purposes of the Section, utility vehicles are defined as specialty vehicles designed to perform off-road utility tasks such as passenger and cargo transportation (e.g., rangers, rhino, m-gators, gators, mules, etc.) and shall not be confused with ATVs. > See Section 18.I.",True,False
+18,J,1.0,,,,18.J.01 Utility vehicle operators shall be trained.,True,False
+18,J,1.0,a,,,"a. They must be familiar with the use of all controls and understand proper moving, stopping, turning and other operating characteristics of the vehicle.",False,False
+18,J,1.0,b,,,"b. Operators must review all training materials provided by the manufacturer for the specific vehicles, and training should be in accordance with appropriate manufacturer recommendations. At a minimum, training shall be documented and shall address:",False,False
+18,J,1.0,b,1.0,,(1) Basic riding tips from the manufacturer’s published literature for each vehicle;,False,False
+18,J,1.0,b,2.0,,(2) Reading terrain;,False,False
+18,J,1.0,b,3.0,,(3) Climbing hilly terrain;,False,False
+18,J,1.0,b,4.0,,(4) Descending a hill;,False,False
+18,J,1.0,b,5.0,,(5) Traversing a slope;,False,False
+18,J,1.0,b,6.0,,(6) Riding through water;,False,False
+18,J,1.0,b,7.0,,(7) Cargo carriers and accessories;,False,False
+18,J,1.0,b,8.0,,(8) Loading and unloading;,False,False
+18,J,1.0,b,9.0,,(9) Troubleshooting;,False,False
+18,J,1.0,b,10.0,,"(10) Proper preventative maintenance (i.e., oil levels, tire pressure requirements and scheduled maintenance requirements according to the manufacturer’s guidelines).",False,False
+18,J,2.0,,,,18.J.02 A copy of the operator’s manual shall be kept on the vehicle at all times and protected from the elements.,True,False
+18,J,3.0,,,,18.J.03 Utility vehicles shall be equipped with:,True,False
+18,J,3.0,a,,,"a. An adequate audible warning device (horn), in operable condition, at the operator's station; and",False,False
+18,J,3.0,b,,,b. Brake lights in operable condition regardless of light conditions.,False,False
+18,J,3.0,c,,,c. Operable rear view mirror(s).,False,False
+18,J,4.0,,,,"18.J.04 Whenever visibility conditions warrant additional light, all vehicles, or combinations of vehicles, in use shall be equipped with at least two headlights and two taillights in operable condition, a yellow flashing light or equivalent.",True,False
+18,J,5.0,,,,"18.J.05 Occupancy in utility vehicles is limited to manufacturer designated seating that has built-in seat belts.  Passengers may not ride in the vehicles back cargo area unless the vehicle is otherwise equipped. >Note: When used for emergency response, medical litters may be placed in the back cargo area but must be secured as described in Section 18.J.07.",True,False
+18,J,6.0,,,,"18.J.06 The manufacturer's recommended load carrying capacity, personnel capacity, or maximum safe vehicle speed shall not be exceeded at any time.",True,False
+18,J,7.0,,,,18.J.07 Cargo items will be secured as necessary to prevent movement/tipping. All loads over 50 lbs (22.7 kg) - to include medical litters - must be securely strapped to cargo tiedowns in the rear and to the cargo shelf in the front.,True,False
+18,J,8.0,,,,18.J.08 Manufacturer-installed safety equipment will be maintained in working order and used in compliance with the requirement of this regulation and in accordance with manufacturer’s recommendations.,True,False
+18,J,9.0,,,,"18.J.09 Seat belts and anchorages meeting the requirements of 49 CFR Part 571 (DOT, Federal Motor Vehicle Safety Standards) shall be installed in all utility vehicles and will be worn by operators and passengers.",True,False
+18,J,10.0,,,,"18.J.10 Operators and passengers shall wear goggles at all times when a utility vehicle, not equipped with a windshield, is in motion.",True,False
+18,J,11.0,,,,"18.J.11 Utility vehicles will not normally be driven on public roadways except to cross the roadway, and will only be driven on a public roadway at designated crossing points or with a road guard.",True,False
+18,J,12.0,,,,"18.J.12 Utility vehicles that are allowed to operate outside a controlled work area and/or on public roads will meet the minimum vehicle safety standards in accordance with 49 CFR 571.5, to include ROPs, seat belts, and placement of “Slow Moving Vehicle” emblems where required.",True,False
+18,J,13.0,,,,"18.J.13 When not equipped with ROPS, operators and passengers of utility vehicles will wear approved head protection (helmet) that at a minimum conforms to DOT 218 standards or equivalent and protective goggles or face shield.",True,False
+18,K,,,,,"18.K Specialty Vehicles. For the purposes of the Section, specialty vehicles are defined as all other vehicles not meeting any of the definitions above and may include cargo or personnel carriers or custom vehicles (i.e., Taylor-Dunn/Cushman, golf carts, Segway-type vehicles, snow machines, etc.).",True,False
+18,K,1.0,,,,18.K.01 A driver qualification and training program specific to the specialty vehicle shall be established.,True,False
+18,K,2.0,,,,"18.K.02 An AHA/SOP that includes at a minimum, the safe operations, limits of operational work areas, required PPE and vehicle safety equipment requirements shall be established for the use of all specialty vehicles.",True,False
+18,K,3.0,,,,"18.K.03 Whenever visibility conditions warrant additional light, all vehicles, or combinations of vehicles, in use shall be equipped with at least one headlight and one taillight in operable condition.",True,False
+18,K,4.0,,,,"18.K.04 The manufacturer's recommended load carrying capacity, personnel capacity, and maximum safe vehicle speed shall not be exceeded at any time.",True,False
+18,K,5.0,,,,18.K.05 Specialty vehicles shall not be used for other than their manufactured purpose. Manufacturer-installed safety equipment will be maintained in working order and used in compliance with the requirement of this regulation and in accordance with manufacturer’s recommendations.,True,False
+18,K,6.0,,,,18.K.06 Cargo items will be secured as necessary to prevent movement/tipping.,True,False
+18,K,7.0,,,,18.K.07 Specialty vehicles shall not be operated on unimproved surfaces.,True,False
+18,K,8.0,,,,"18.K.08 For Segway HT, the minimum head protection standard is an approved bicycle helmet.",True,False
+18,K,9.0,,,,"18.K.09 A snow machine is any vehicle designed to travel over ice and snow using mechanical propulsion in conjunction with skis, belts, cleats, or low-pressure tires.",True,False
+18,K,9.0,a,,,a. All state and local laws and regulations shall be observed. Snow machines may be used on public roadways only where authorized by state and local regulations or in an emergency.,False,False
+18,K,9.0,b,,,b. Operator training for snow machines will include:,False,False
+18,K,9.0,b,1.0,,(1) Hand signals;,False,False
+18,K,9.0,b,2.0,,(2) Riding positions;,False,False
+18,K,9.0,b,3.0,,(3) Towing of a sled;,False,False
+18,K,9.0,b,4.0,,"(4) Surface conditions and types (e.g. snow, ice, tundra, etc.);",False,False
+18,K,9.0,b,5.0,,(5) Proper apparel while riding;,False,False
+18,K,9.0,b,6.0,,(6) Dangers to avoid.,False,False
+18,K,9.0,c,,,c. The following minimum equipment is required on all snow machines:,False,False
+18,K,9.0,c,1.0,,(1) Brakes that will work under normal driving conditions and when loading;,False,False
+18,K,9.0,c,2.0,,"(2) A throttle in which, when released by hand, will return engine speed to idle, close the carburetor, and disengage the clutch;",False,False
+18,K,9.0,c,3.0,,(3) A rear snow flap to deflect material or objects thrown by the track;,False,False
+18,K,9.0,c,4.0,,(4) A protective shield over all moving parts;,False,False
+18,K,9.0,c,5.0,,(5) Reflectors on the sides or side cowling (must meet Society of Automotive Engineers Standards);,False,False
+18,K,9.0,c,6.0,,(6) A rigid drawbar that is no longer than 10 ft  (30 m) when towing;,False,False
+18,K,9.0,c,7.0,,(7) Operable rear view mirror(s).,False,False
+18,K,9.0,d,,,"d. When working from snow machines, two machines are the minimum (the buddy system). When working more than five miles from support base, a track vehicle for support will be used to support the operation.",False,False
+18,K,9.0,e,,,"e. Passengers are not authorized on personal snow machines (snowmobiles) except in case of an emergency (i.e., a broken-down machine).",False,False

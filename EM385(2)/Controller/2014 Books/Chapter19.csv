@@ -1,0 +1,295 @@
+chapter,section,topic,refOne,refTwo,refThree,content,highlight,bookmark
+19,A,,,,,19.A General.,True,False
+19,A,1.0,,,,19.A.01 Floating plant inspection and certification.,True,False
+19,A,1.0,a,,,a. All floating plant regulated by the USCG shall have required USCG documentation that is current before being placed in service. A copy shall be posted in a public area on board the vessel. A copy of any USCG Form 835 issued to the vessel in the preceding year shall be available to the GDA and a copy shall be on board the vessel.,False,False
+19,A,1.0,b,,,b. All dredges and quarter boats not subject to USCG inspection and certification or not having a current ABS classification shall be inspected in the working mode annually by a marine surveyor accredited by the National Association of Marine Surveyors (NAMS) or the Society of Accredited Marine Surveyors (SAMS) and having at least 5 years experience in commercial marine plant and equipment.,False,False
+19,A,1.0,b,1.0,,(1) All other plant shall be inspected before being placed in use and at least annually by a qualified person.,False,False
+19,A,1.0,b,2.0,,"(2) The inspection shall be documented, a copy of the most recent inspection report shall be posted in a public area on board the vessel, and a copy shall be furnished to the GDA upon request.",False,False
+19,A,1.0,b,3.0,,"(3) The inspection shall be appropriate for the intended use of the plant and shall, as a minimum, evaluate structural condition and compliance with NFPA 302.",False,False
+19,A,1.0,c,,,c. Periodic inspections and tests shall assure that a safe operating condition is maintained.,False,False
+19,A,1.0,d,,,d. Records of inspections shall be maintained at the site and shall be available to the GDA.,False,False
+19,A,1.0,e,,,e. Floating plant found in an unsafe condition shall be taken out of service and its use prohibited until unsafe conditions have been corrected.,False,False
+19,A,2.0,,,,19.A.02 Personnel qualifications.,True,False
+19,A,2.0,a,,,"a. Officers and crew shall be in possession of a current, valid USCG license, which shall be posted in a public area on board the vessel, or correctly endorsed document as required by the USCG.",False,False
+19,A,2.0,b,,,b. Government operators shall be licensed or certified in accordance with the requirements outlined in ER 385-1-91. A qualified individual designated as the USACE Command’s marine licensing official will perform licensing and certification in accordance with the requirements of ER 385-1-91.,False,False
+19,A,2.0,c,,,c. Officers and crew of government floating plant shall be licensed and/or documented by the USCG when the plant is subject to one or more of the following criteria:,False,False
+19,A,2.0,c,1.0,,"(1) The vessel is inspected and certified by USCG in accordance with EP 1130-2-500, Appendix L;",False,False
+19,A,2.0,c,2.0,,(2) The vessel is normally engaged in or near a channel or fairway in operations that restrict or affect navigation of other vessels and is required by law to be equipped with radio-telephones of the 156-162 band frequency; or,False,False
+19,A,2.0,c,3.0,,(3) Floating plant is engaged in the transfer of oil or hazardous material in bulk.,False,False
+19,A,2.0,d,,,d. A USCG Radar Observers endorsement on licenses is required for Operators of Uninspected Towing Vessels and Masters and Pilots on radar-equipped vessels 26 ft (7.9 m) or more in length. Endorsements must be issued from a USCG-approved training facility.,False,False
+19,A,3.0,,,,19.A.03 Severe weather precautions.,True,False
+19,A,3.0,a,,,"a. Where floating plant, boats or other marine activities may be endangered by severe weather (including sudden and locally severe weather, storms, high winds, hurricanes, and floods) plans shall be made for removing or securing plant and evacuation of personnel in emergencies. > See Section 01.E. This plan shall be part of the APP and shall include at least the following:",True,False
+19,A,3.0,a,1.0,,(1) A description of the types of severe weather hazards the plant may potentially be exposed to and the steps that will be taken to guard against the hazards;,False,False
+19,A,3.0,a,2.0,,"(2) The time frame for implementing the plan (using as a reference the number of hours remaining for the storm to reach the work site if it continues at the predicted speed and direction), including the estimated time to move the plant to safe harbor after movement is started;",False,False
+19,A,3.0,a,3.0,,(3) The name and location of the safe location(s);,False,False
+19,A,3.0,a,4.0,,"(4) The name of the vessel(s), type, capacity, speed, and availability that will be used to move any non-self-propelled plant;",False,False
+19,A,3.0,a,5.0,,"(5) River/tide gage readings at which floating plant must be moved away from dams, river structures, etc., to safe areas;",False,False
+19,A,3.0,a,6.0,,(6) Method for securing equipment if not moved.,False,False
+19,A,3.0,b,,,b. Extended movement of floating plant and tows shall be preceded by an evaluation of weather reports and conditions by a responsible person to ascertain that safe movement of the plant and tow can be accomplished.,False,False
+19,A,3.0,c,,,c. Work or task orders shall be preceded by an evaluation of weather reports and conditions by a responsible person to ascertain that safe working conditions exist and safe refuge of personnel is assured.,False,False
+19,A,3.0,d,,,"d. USCG approved personal flotation devices (PFDs) - Types I, II, III, or V - shall be worn by all personnel on decks exposed to severe weather, regardless of other safety devices used. USCG-approved Type V automatic inflatable PFDs rated for commercial use may be worn by workers on USACE sites per Section 05.J.02.",True,False
+19,A,3.0,e,,,"e. A sufficient number of vessels of adequate size and horsepower, each designed, outfitted, and equipped for towing service, shall be available at all times to move both self- and non-self-propelled plant against tides, current, and winds during severe weather conditions.",False,False
+19,A,3.0,f,,,f. Contractors working in an exposed marine location shall monitor the National Oceanic and Atmospheric Administration (NOAA) marine weather broadcasts and use other commercial weather forecasting services as may be available.,False,False
+19,A,3.0,g,,,"g. The floating plant shall be capable of withstanding whatever sea conditions may be experienced in the work area during the time period the work is being performed (i.e., seaworthiness, or good “sea keeping” qualities).",False,False
+19,A,4.0,,,,19.A.04 Emergency planning.,True,False
+19,A,4.0,a,,,"a. Plans shall be prepared for response to marine emergencies such as fire, sinking, flooding, severe weather, man overboard, hazardous material incidents, etc. (Fire: USCG-approved fire plans meet this requirement). > See Section 01.E.",True,False
+19,A,4.0,b,,,"b. A station bill, setting forth the special duties and the duty station of each crewmember for various emergencies, shall be prepared and posted in conspicuous locations throughout the vessel.",False,False
+19,A,4.0,c,,,"c. Each crewmember shall be given a written description of, and shall become familiar with, his/her emergency duties and shall become familiar with the vessel's emergency signals.",False,False
+19,A,4.0,d,,,"d. Abandon ship/boat"" and ""person overboard"" procedures shall include instructions for mustering personnel.""",False,False
+19,A,4.0,e,,,"e. On all floating plant that have a regular crew or on which people are quartered, the following drills shall be held at least monthly during each shift (unless the vessel is required, under USCG regulations, to be drilled more frequently): abandon ship/boat drills, fire drills, and person overboard or rescue drills.",False,False
+19,A,4.0,e,1.0,,(1) The first set of drills shall be conducted within 24 hours of the vessel's occupancy or commencement of work.,False,False
+19,A,4.0,e,2.0,,"(2) Where crews are employed or quartered at night, every fourth set of drills shall be at night; the first set of night drills shall be conducted within the first 2 weeks of the vessel's occupancy.",False,False
+19,A,4.0,e,3.0,,"(3) Drills shall include, where appropriate, how to handle a pump shell or pipe rupture or failure within the hull (proper shutdown procedures, system containment, etc.) and how to handle leaks or failures of the hull or portions of it (what compartments to secure, how to handle power losses, pulling spuds to move to shallow water, etc.).",False,False
+19,A,4.0,f,,,"f. Person overboard or rescue drills shall be held at least monthly at boat yards, locks, dams, and other locations where marine rescue equipment is required.",False,False
+19,A,4.0,g,,,g. Emergency lighting and power systems shall be operated and inspected at least monthly to ensure proper operation.,False,False
+19,A,4.0,g,1.0,,(1) Internal combustion engine driven emergency generators shall be operated under load for at least 2 hours each month.,False,False
+19,A,4.0,g,2.0,,(2) Storage batteries for emergency lighting and power systems shall be tested at least once every 2 months.,False,False
+19,A,4.0,h,,,"h. A record of all drills and emergency system checks, including any deficiencies noted in equipment and corrective action taken, shall be made in the station log.",False,False
+19,A,5.0,,,,19.A.05 Equipment requirements.,True,False
+19,A,5.0,a,,,a. Fenders shall be provided to prevent damage and sparking and to provide safe areas for workers exposed to pinching situations caused by floating equipment.,False,False
+19,A,5.0,b,,,"b. Axes or other emergency cutting equipment shall be sharp and provided in accessible positions on all towing vessels for use such as freeing lines. On other floating plant (i.e., work barges, and floating cranes) emergency cutting equipment shall be provided in accessible positions.",False,False
+19,A,5.0,c,,,c. Signal devices shall be provided on all vessels to give signals required by the navigation rules applicable to the waters on which the vessel is operated.,False,False
+19,A,5.0,d,,,"d. All controls requiring operation in cases of emergency (i.e., boiler stops, safety valves, power switches, fuel valves, alarms, and fire extinguishing systems) shall be located so that they are protected against accidental operation but are readily accessible in an emergency.",False,False
+19,A,5.0,e,,,e. Electric lights used on or around gasoline and oil barges or other marine locations where a fire or explosion hazard exists shall be explosion-proof or approved as intrinsically safe.,False,False
+19,A,5.0,f,,,f. General alarm systems shall be installed and maintained on all floating plant where it is possible for either a passenger or crewman to be out of sight or hearing from any other person.,False,False
+19,A,5.0,f,1.0,,(1) Where general alarm systems are used they shall be operated from the primary electrical system with standby batteries on trickle charge that will automatically furnish the required energy during an electrical-system failure.,False,False
+19,A,5.0,f,2.0,,(2) A sufficient number of signaling devices shall be placed on each deck so that they can be distinctly heard/seen above the normal background noise at any point on the deck.,False,False
+19,A,5.0,f,3.0,,(3) All signaling devices shall be so interconnected that actuation can occur from at least one strategic point on each deck.,False,False
+19,A,5.0,g,,,"g. Smoke alarms are required for all living quarters on floating plant; smoke alarms, if wired, should use the same electrical system as that of the electrical alarms.",False,False
+19,A,5.0,h,,,"h. For floating plant with internal combustion engines, marine quality listed CO monitors shall be installed and maintained in all enclosed occupied spaces (crew quarters, pilot houses, etc.).",False,False
+19,A,5.0,i,,,i. All doors shall be capable of being opened from either side and provided with positive means to secure them in both the open and closed position.,False,False
+19,A,5.0,j,,,"j. Escape hatches and emergency exits shall be marked on both sides with letters, at least 1 in (2.5 cm) high, stating EMERGENCY EXIT - KEEP CLEAR.""""",False,False
+19,A,5.0,k,,,"k. Each prime mover (engine, turbine, motor) driving a dredge pump shall be capable of being stopped by controls remote from the prime mover locations.",False,False
+19,A,5.0,l,,,l. Shore power receptacles shall have a grounding conductor to prevent potential difference between the shore and the vessel.,False,False
+19,A,5.0,m,,,"m. All 120-, 208-, and 240-volt systems in toilet/shower spaces, galley, machinery spaces, weather deck, exterior, or within 3 ft (0.9 m) of any sink shall be grounded and fitted with Ground Fault Circuit Interrupter (GFCI) protection.",False,False
+19,A,5.0,m,1.0,,(1) Cord connected equipment used in any of the above areas shall be connected to an outlet with GFCI protection.,False,False
+19,A,5.0,m,2.0,,(2) Ground-fault protected receptacles shall be conspicuously marked “GFCI PROTECTED”.,False,False
+19,A,5.0,n,,,"n. Where appropriate, vessels should have watertight compartments readily identified and properly maintained in a watertight condition (i.e., sealable doors in place and fully functional). Penetrations shall be maintained in a watertight condition.",False,False
+19,A,5.0,o,,,"o. All reciprocating, rotating and moving parts of winch gears and other equipment shall be properly guarded.",False,False
+19,A,6.0,,,,"19.A.06 Fuel systems and fuel transfers. The provisions of the Oil Pollution Act of 1990, as amended, shall apply to floating plant operations as applicable.",True,False
+19,A,6.0,a,,,a. Gauge glasses or try cocks shall not be installed on fuel tanks or lines unless they meet the requirements of 46 CFR 58.50-10.,False,False
+19,A,6.0,b,,,b. A shutoff valve shall be installed at the fuel tank connection: arrangement shall be made for operating this valve from outside the compartment in which the tank is located and from outside the engine compartment and outside the house bulkheads at or above the weather deck of the vessel.,False,False
+19,A,6.0,c,,,c. A shutoff valve shall be installed at the engine end of the fuel line unless the length of the supply pipe is 6 ft (1.8 m) or less.,False,False
+19,A,6.0,d,,,d. All carburetors on gasoline engines shall be equipped with a backfire trap or flame arrestor.,False,False
+19,A,6.0,e,,,"e. All carburetors, except down-draft type, shall be provided with a drip pan, with flame screen, that is continuously emptied by suction from the intake manifold or by a waste tank.",False,False
+19,A,6.0,f,,,"f. Fuel and lubricant containers and tanks shall be diked, curbed or controlled by other means complying with USCG requirements to contain the tank contents in case of leakage in accordance with 46 CFR 98.30-15, and 33 CFR 155.320.",False,False
+19,A,6.0,g,,,"g. Fuel oil transfers for floating plant shall be in accordance with the provisions of USCG regulations, 33 CFR 155, and/or 33 CFR 156. For uninspected vessels, USCG regulations in 33 CFR 156.120 and 33 CFR 155.320 for fuel coupling devices and fuel oil discharge containment apply.",False,False
+19,A,6.0,h,,,"h. All decks, overheads, and bulkheads, serving as fuel oil tank boundaries shall indicate the tank boundary with contrasting paint and be labeled “FUEL OIL TANK - NO HOT WORK”.",False,False
+19,A,7.0,,,,19.A.07 Safe practices.,True,False
+19,A,7.0,a,,,a. Obstructing cables/lines that cross waterways between floating plant or between plant and mooring shall be clearly marked.,False,False
+19,A,7.0,b,,,"b. On floating plant where people are quartered, one person shall be on watch at all times to guard against fire and provide watch person service. In lieu of a watch person, an automatic fire detection and fire and emergency warning system(s) may be used.",False,False
+19,A,7.0,c,,,c. Provisions shall be made to prevent accumulation of fuel and grease on floors and decks and in bilges.,False,False
+19,A,7.0,d,,,"d. Swimming and/or diving shall be prohibited for all personnel, except certified divers in the performance of their duties, unless necessary to prevent injury or loss of life.",False,False
+19,A,7.0,e,,,"e. Wading is permitted only when there are no severe underwater hazards such as sudden drop-offs, heavy surf above 3 ft (1 m), dangerous aquatic life, etc. Personnel wading shall wear an approved PFD and shall be monitored by personnel who are nearby and equipped to conduct a rescue if needed. Wading shall be discontinued when the person’s feet cannot easily touch bottom, regardless of depth.",False,False
+19,A,7.0,f,,,f. A person in the water shall be considered as a person overboard and appropriate action shall be taken.,False,False
+19,A,7.0,g,,,"g. When barriers or blanks are installed in piping systems as a lock-out procedure, positive means (such as protruding handles) shall be used to easily recognize their presence. Barriers shall be marked (including name of installer, name of inspector, and date of installation) and accounted for prior to installation and subsequent to removal.",False,False
+19,A,7.0,h,,,h. Deck loading will be limited to safe capacity. Loads will be secured and holdbacks or rings will be provided to secure loose equipment during rough weather.,False,False
+19,A,7.0,i,,,i. Deck openings and other fall hazards not addressed by Section 19.C shall be protected in accordance with Section 21.,True,False
+19,A,7.0,j,,,"j. Safeguards such as barriers, curbs, or other structures shall be provided to prevent front-end loaders, bulldozers, trucks, backhoes, track hoes, and similar operating equipment on floating equipment from falling into the water. Whenever this equipment is operating on deck, deck surfaces of floating plant shall remain above water and the entire bottom area of a floating plant shall remain submerged",False,False
+19,A,7.0,k,,,"k. Projection and tripping hazards shall be removed, identified with warning signs, or distinctly marked with safety yellow.",False,False
+19,A,7.0,l,,,l. Deck cargo carried on fuel barges shall be placed on dunnage.,False,False
+19,A,7.0,m,,,"m. When two or more pieces of floating plant are being used as one unit, they shall be securely fastened together to prevent openings between them or the openings shall be covered or guarded.",False,False
+19,A,7.0,n,,,"n. When three or more floating plant are configured for stationary work, a competent person shall identify any openings between decks of stationary vessels or vessels and other structures that create fully enclosed water areas (duck ponds) into which personnel can fall. If such openings are detected, means shall be taken to protect personnel from the hazard.",False,False
+19,A,7.0,n,1.0,,"(1) When practical, duck pond protection will consist of guardrails, nets or other physical barriers to prevent employees from falling into the openings.",False,False
+19,A,7.0,n,2.0,,"(2) When physical barriers are not practical, ladders and life rings shall be installed in each enclosed water area to allow personnel to self-rescue. Ladders may be a rigid type or Jacob’s ladder, and must be securely anchored to the vessel or structure. Life rings shall have a sufficient length of rope to allow them to float on the water surface and the rope shall be securely anchored to the vessel. The number and placement of ladders and life rings shall be sufficient so that the maximum swimming distance to them is no more than 25 ft (7.9 m). Ladders and life rings may be retracted during reconfiguration or movement  of plant.",False,False
+19,A,7.0,o,,,"o. Anchor points shall be clearly identified and shall be inspected prior to applying a load or putting cables under tension. Anchor points not structurally sound shall be cut out, removed, and/or welded over to preclude usage. Visual checks and all clear"" warnings shall be made prior to tensioning cables.""",False,False
+19,A,7.0,p,,,p. Provisions shall be made to protect persons being transported by water from the elements.,False,False
+19,A,7.0,q,,,"q. Plant fleeting areas will be designated in which all idle plant shall be moored. Such areas shall have warning buoys, signs, and lights in prominent locations.",False,False
+19,A,7.0,r,,,"r. The Contractor or, for Government-conducted operations, the GDA, shall provide information to the local USCG Office identifying the marine activity and hazards.",False,False
+19,A,7.0,s,,,s. Open or pelican hooks may be used for lifting anchor buoys.,False,False
+19,A,7.0,t,,,t. Mechanical means such as securing pins shall be used to hold spuds safely in place before transiting from one site to another.,False,False
+19,A,8.0,,,,19.A.08 Work Inside Confined and Enclosed Spaces in Ships and Vessels. > See Section 34.B.,True,False
+19,A,9.0,,,,"19.A.09 When there is a potential for marine activities to interfere with or damage utilities or other structures, including those underwater, a survey shall be conducted to identify the utilities or structures in the work area, analyze the potential for interference or damage, and recommend steps to be taken to prevent the interference or damage.",True,False
+19,A,10.0,,,,19.A.10 Ventilation.,True,False
+19,A,10.0,a,,,"a. Motor vessels or boats powered by internal combustion engines having electric spark ignition systems or having auxiliary engines of this type in cabins, compartments, or confined spaces shall be equipped with an exhaust fan(s) for ventilating engine space and bilges.",False,False
+19,A,10.0,b,,,"b. At least two ventilators fitted with fans capable of ventilating each machinery space and fuel tank compartment, including bilges, shall be provided to remove any flammable or explosive gases, except those vessels constructed with the greater portions of the bilges open or exposed to the natural atmosphere at all times.    >Note: this requirement does not apply to diesel engines.",False,False
+19,A,10.0,c,,,"c. Other compartment spaces within a vessel, not covered in this Section, may be naturally vented.",False,False
+19,A,10.0,d,,,"d. Living spaces, including the galley, shall be adequately ventilated in a manner suitable to the purpose of the space.",False,False
+19,A,10.0,e,,,"e. For launches and motorboats having diesel power plants not equipped with fans, ventilating shall be by natural draft through permanently open inlet and outlet ducts extending into the bilges. Inlet and exhaust ducts shall be equipped with cowls or exhaust heads.",False,False
+19,A,10.0,f,,,"f. For launches, motorboats (survey boats), and skiffs having deck-mounted internal combustion engines (such as generators, jigger pumps) and not equipped with fans, exhaust piping shall be located away from personnel spaces to minimize CO infiltration in the work space.",False,False
+19,A,10.0,g,,,g. Vent and ventilator requirements.,False,False
+19,A,10.0,g,1.0,,(1) Fans shall be rated for Class I hazardous locations and located as remotely from potential explosive areas as practical. > See Section 11.H.,True,False
+19,A,10.0,g,2.0,,(2) The vent intake shall extend to within 1 ft (0.3 m) of the bottom of the compartment.,False,False
+19,A,10.0,g,3.0,,"(3) Means shall be provided for stopping fans in ventilation systems serving machinery components and for closing doorways, ventilators, chases, and annular spaces around tunnels and other openings from outside these spaces in case of fire.",False,False
+19,A,10.0,h,,,h. Engines shall not be started until the engine space and bilges have been ventilated to remove fuel vapor.,False,False
+19,A,11.0,,,,"19.A.11 The most current, pertinent information published by the USCG regarding aids to navigation shall be maintained aboard self-propelled vessels 26 ft (7.9 m) or more in length.",True,False
+19,B,,,,,19.B Access.,True,False
+19,B,1.0,,,,19.B.01 General.,True,False
+19,B,1.0,a,,,"a. Means of access shall be properly secured, guarded, and maintained free of slipping and tripping hazards. > See Section 24.",False,False
+19,B,1.0,b,,,"b. Non-slip surfaces shall be provided on working decks, stair treads, ship ladders, platforms, catwalks, and walkways, particularly on the weather side of doorways opening on deck.",False,False
+19,B,1.0,c,,,"c. Double rung or flat tread type Jacob's ladders shall be used only when no safer form of access is practical. When in use, they shall hang without slack and be properly secured.",False,False
+19,B,1.0,d,,,d. Vertical ladders shall comply with ASTM F1166-95a.,False,False
+19,B,1.0,e,,,e. Ladders shall not be climbed by more than one person at a time between the same set of rails.,False,False
+19,B,2.0,,,,19.B.02 Access to/from vessels.,True,False
+19,B,2.0,a,,,a. Safe means for boarding or leaving a floating plant shall be provided and guarded to prevent persons from falling or slipping thereon. Walking on rip-rap should be avoided where practical.,False,False
+19,B,2.0,b,,,"b. A stairway, ladder, ramp, gangway, personnel hoist or other safe means of access shall be provided at personnel points of access with breaks of 19 in (48.2 cm) or more in elevation.",False,False
+19,B,2.0,c,,,"c. Ramps for access of equipment and vehicles to or between vessels shall be of adequate strength, be provided with sideboards, and be well maintained.",False,False
+19,B,2.0,d,,,d. Gangways and ramps shall be:,False,False
+19,B,2.0,d,1.0,,(1) Secured at one end by at least one point on each side with lines or chains to prevent overturning;,False,False
+19,B,2.0,d,2.0,,(2) Supported at the other end in such a manner to carry them and their normal load during use in the event they slide off their supports;,False,False
+19,B,2.0,d,3.0,,(3) Placed at an angle no greater than that recommended by the manufacturer; and,False,False
+19,B,2.0,d,4.0,,(4) Provided with a standard guardrail (toe boards are optional depending on their usefulness and the hazard involved).,False,False
+19,B,3.0,,,,19.B.03 Access on vessels.,True,False
+19,B,3.0,a,,,"a. Vertical access shall be provided between various decks by means of stairs, ramps, or vertical ladders installed in accordance with ASTM F1166.",False,False
+19,B,3.0,b,,,"b. Employees shall not be permitted to pass fore and aft, over, or around deck loads unless there is a safe passage.",False,False
+19,B,3.0,c,,,"c. If cargo or materials are stored on deck of barges, scows, floats, etc., the outboard edge shall not be used as a passageway unless at least 2 ft (0.6 m) of clearance is maintained.",False,False
+19,B,3.0,d,,,"d. Vessel loads shall be limited so that access and passageways in use will remain above the waterline. Decks and passageways shall not be used for access if submerged or subject to constant breaking waves, except in an emergency.",False,False
+19,B,4.0,,,,19.B.04 Emergency access.,True,False
+19,B,4.0,a,,,"a. Vessels, except those easily boarded from the water, shall be equipped with:",False,False
+19,B,4.0,a,1.0,,"(1) At least one portable or permanent ladder of sufficient length to allow a person to self-rescue by boarding the ladder from the water, and",False,False
+19,B,4.0,a,2.0,,(2) Other methods or means designed to assist in the rescue of an incapacitated person overboard.,False,False
+19,B,4.0,b,,,"b. Two means of escape shall be provided for normal work, assembly, sleeping, and messing areas on floating plants.",False,False
+19,B,4.0,c,,,c. Means of access shall be maintained as safe and functional.,False,False
+19,B,5.0,,,,19.B.05 Access on floating pipelines.,True,False
+19,B,5.0,a,,,a. Floating pipelines used as access ways shall be equipped with a walkway and handrail on at least one side.,False,False
+19,B,5.0,b,,,b. Walkways shall be at least 20 in (50.8 cm) wide and anchored to the pipeline.,False,False
+19,B,5.0,c,,,c. PFDs must be worn at all times by anyone on pipelines. > See Section 05.J.,True,False
+19,B,5.0,d,,,"d. When walkways and handrails are not provided (i.e., the pipeline is not intended for access), the pipeline shall be barricaded at both ends to prevent access by any person.",False,False
+19,C,,,,,19.C Marine Fall Protection Systems.,True,False
+19,C,1.0,,,,"19.C.01 On decks or work surfaces 6 ft (1.8 m) or more above the main deck or 6 ft or more above adjacent vessel decks, docks, or other hard surfaces, Railing Type A or Type B, as described in Section 19.E., or bulwarks, coamings, or other structures meeting the height and strength requirements of these railing systems shall be provided except as excluded in Sections 19.C.03 and 19.C.04.",True,False
+19,C,2.0,,,,19.C.02 Deck edge toe boards not less than 3.5 in (8.8 cm) high for Type A and 2 in (5 cm) high for Type B railings shall be provided when the railings are used for fall protection. Toe boards shall meet the strength requirements in Section 21.F.01.f. Scuppers and/ or drainage holes may be installed as needed as long as the top edge of the toeboard is intact and the strength requirements are retained.,True,False
+19,C,3.0,,,,19.C.03 Personal fall protection systems meeting the requirements of Section 21.I may be used when railing systems are not installed.,True,False
+19,C,4.0,,,,"19.C.04 Railing systems and personal fall protection systems are not considered feasible on the main deck of vessels that perform duty cycle material loading and unloading operations from barges, scows or other vessels alongside.",True,False
+19,D,,,,,19.D Main Deck Perimeter Protection. New vessels built or purchased for USACE use shall meet these requirements upon delivery or prior to first use.,True,False
+19,D,1.0,,,,"19.D.01 Main deck perimeter protection systems are intended to provide protection against falling overboard. Main deck perimeter protection is required on all manned vessels, except where excluded in Section 19.D.05. Unmanned vessels do not require perimeter protection, however, fall protection shall be provided where the vessel configuration and operation exposes personnel to falls onto a hard surface from vertical distances greater than 6 ft (1.8 m). The design parameters for the different types of main deck railing systems listed in this Section are in Section 19.E unless otherwise noted.",True,False
+19,D,1.0,a,,,"a. Manned vessels are vessels that operate with crews, or quartered personnel, or that have work areas that are occupied by assigned personnel during normal work activities.",False,False
+19,D,1.0,b,,,"b. Unmanned vessels are typically those that carry cargo such as materials, supplies, equipment, or liquids, and do not have personnel on board except during loading and unloading and during short term operations such as tie-down, inspections, etc.",False,False
+19,D,2.0,,,,"19.D.02 Manned vessels over 26 ft (7.9 m) in length operating in unprotected or partially protected waters (as defined in 46 CFR) shall have Type B Railings provided around the deck edge, except where excluded in Section 19.D.05.",True,False
+19,D,3.0,,,,"19.D.03 Manned vessels over 26 ft (7.9 m) in length operating in rivers or protected waters shall have Type B or Type C Railings provided around the deck edge, except where excluded in Section 19.D.05.",True,False
+19,D,4.0,,,,19.D.04 Type D Grab rails shall be provided on all manned vessels in the following instances:,True,False
+19,D,4.0,a,,,a. On deckhouses or other similar permanent structures more than 48 in (1.2 m) from deck edge rail systems;,False,False
+19,D,4.0,b,,,b. On deck houses or similar permanent structures that are within 8 ft (2.5 m) of the deck edge in areas where the deck edge rail has been omitted or may be temporarily removed in accordance with Section 19.D.05.,True,False
+19,D,5.0,,,,19.D.05 The following are main deck areas where perimeter protection may be omitted or temporarily removed:,True,False
+19,D,5.0,a,,,"a. Deck perimeter rails may be omitted from deck work areas specifically intended for line handling, working over the side of the vessel, load handling operations and designated boarding areas. Railings in these areas may obstruct work or access and present additional hazards such as pinch points against railings. Such deck edge areas may include those for line handling, fleeting scows, mooring vessels, towing, pile driving activities, and handling or placing of construction materials and equipment pipelines, and anchors.",False,False
+19,D,5.0,b,,,b. Deck  Perimeter  rails  may  be  omitted from main deck  areas where  the overall walkway  width is less than 2 ft (0.6 m) between deck structures/permanent equipment and the deck edge.,False,False
+19,D,5.0,c,,,c. Removable perimeter rail sections may be installed in areas where activities such as working over the side of the vessel or loading operations are not normally performed. These rails shall be maintained in place when vessel operations do not include activity in these areas or during periods of tie-up or inactivity.,False,False
+19,D,6.0,,,,"19.D.06 When deck-edge perimeter protection is not present, standard operating procedures, AHAs, or other documents shall be developed to address the hazards involved. These documents shall be reviewed by all crew during initial orientation and at regular intervals afterward. The following operational procedures shall be followed:",True,False
+19,D,6.0,a,,,"a. PFD’s must be worn by personnel in areas where deck perimeter protection is not present. Such areas may be used by crew to transit or access areas of the boat, but when doing so, all other requirements of this Section must be met. Areas where railings are removed shall be blocked off from access by a suitable barrier, or shall be clearly marked as PFD- required areas by signage, deck markings, or other means;",False,False
+19,D,6.0,b,,,"b. Continuous sight and verbal/radio contact shall be maintained between personnel in the non-protected deck perimeter areas and the vessel operator or a designated crew member who is in sight and verbal/radio contact with the operator, and who will monitor the workers in the area;",False,False
+19,D,6.0,c,,,c. A safety skiff or equivalent rescue vessel shall be readily available throughout the duration of these activities in accordance with Section 05.K.,True,False
+19,D,7.0,,,,"19.D.07 Boats with length 26 ft (7.9 m) or less shall be provided with integrated combinations of two or more of the below listed items to provide continuous perimeter protection around the vessel: Cockpits; Coamings; Handholds; Toe Rails; Life Rails; Deck Rails; Stern Rails and Bow Rails. The installations shall be in accordance with either ABYC Standards or ISO Standard 15085, as demonstrated by a manufacturer’s certificate, label or other documentation.",True,False
+19,E,,,,,19.E Marine Railing Types.,True,False
+19,E,1.0,,,,"19.E.01 Allowable types of railings on vessels (A, B, C, & D) are identified below. Specific requirements for the vessel types and areas where each may be used are delineated in Sections 19.G and 19.H. > See Appendix F.",True,False
+19,E,2.0,,,,19.E.02 Railing Type A: Two-Tier Rigid Fall Protection Rail. This railing is comprised of rigid vertical stanchions and two rigid horizontal tiers in accordance with Section 21.F.01. Minimum top rail height is 42 in +/- 3 in (106.6 cm +/- 7.6 cm) and the lower horizontal tier is at half height.,True,False
+19,E,3.0,,,,19.E.03 Railing Type B: Three-Tier Marine Rigid or Tensioned Railing. This railing is comprised of rigid vertical stanchions and three rigid or tensioned horizontal tiers. The following parameters apply:,True,False
+19,E,3.0,a,,,"a. Clear spacing between tiers shall be no greater than 9 in (22.8 cm), 15 in (38 cm) and 15-in respectively. The 9-in space is closest to the deck surface. Minimum height from deck to the top tier may not be less than 39 in (99 cm).",False,False
+19,E,3.0,b,,,"b. The 9-in, 15-in and 15-in tier spacing above may not be exceeded.",False,False
+19,E,3.0,c,,,c. The bottom tier may be omitted in way of deck fittings or in order to facilitate line handling. The space resulting from the removed lower tier may not extend more than 2 ft (0.6 m) beyond either side of the deck fitting.,False,False
+19,E,3.0,d,,,"d. Vertical stanchions may be pipe or structural sections. Horizontal tiers may be constructed from rigid (pipe or structural sections) or non-rigid (wire rope or chain) components, or from combinations of these components. Non-rigid tiers must be tensioned with turnbuckles or similar components.",False,False
+19,E,3.0,e,,,e. Railings may be either fixed or removable in sections. All vertical stanchions must be adequate to withstand a 200 lbs (60.9 kg) load applied horizontally at the top of the stanchion. Stanchion spacing may not exceed 8 ft (2.4 m).,False,False
+19,E,3.0,f,,,f. Pipe or structural section rail components shall be sized appropriately to meet the performance criteria of Section 21.F.01.,True,False
+19,E,3.0,g,,,"g. Chain or wire rope together with all connecting fittings shall have minimum breaking strength of 4,000 lbs (1814.3 kg).",False,False
+19,E,3.0,h,,,h. Chain or wire rope horizontal tiers shall be tensioned so that:,False,False
+19,E,3.0,h,1.0,,(1) There is no slack;,False,False
+19,E,3.0,h,2.0,,"(2) Sag does not exceed 1/4 in (.62 cm) at any point between stanchions, and",False,False
+19,E,3.0,h,3.0,,(3) The lowest point from deck to the top of the upper rail may not be less than 39 in (1 m) at any point between the stanchions. Tensioned railing tiers shall not deflect more than 1 in (2.5 cm) under a load of 200 lbs (60.9 kg).,False,False
+19,E,3.0,i,,,i. Solid bulwarks or coamings providing equal perimeter protection to a height of 39 in (1 m) may also be provided. Bulwarks may be constructed of structural plate and shapes. Bulwarks must meet all strength/deflection/open spacing requirements presented above for railings.,False,False
+19,E,4.0,,,,"19.E.04 Railing Type C: Non-Tensioned Railings and Flexible or Swing-Away Railings shall consist of rigid vertical stanchions with horizontal non-tensioned chain, wire rope or rigid tiers that clip to the verticals.",True,False
+19,E,4.0,a,,,"a. Non-Tensioned Railings shall consist of horizontal tiers constructed from chain, wire rope, pipe or structural sections or combinations of these components. Vertical stanchions shall be pipe or structural sections. Vertical support spacing shall not exceed 8 ft (2.4 m).",False,False
+19,E,4.0,b,,,"b. Flexible or Swing-Away Rails shall consist of chain or wire rope tensioned vertical support lines with non-tensioned chain, wire rope or clip-on rigid horizontal tiers. Vertical support line spacing shall not exceed 6 ft (1.8 m).",False,False
+19,E,4.0,c,,,"c. Pipe or structural section rail components shall be sized appropriately to meet the performance criteria of Section 21.F.01. Chain or wire rope together with all connecting fittings shall have minimum breaking strength of 4,000 lbs (1800 kg).",True,False
+19,E,4.0,d,,,"d. For Non-Tensioned Railings and Flexible or Swing-Away Railings, sag of horizontal tiers shall not exceed 3 in (10 cm) between vertical supports.",False,False
+19,E,4.0,e,,,e. Non-Tensioned Railings and Flexible or Swing-Away Railings shall be configured with four or more horizontal tiers. The number of horizontal tiers shall be sufficient to meet the following requirements:,False,False
+19,E,4.0,e,1.0,,(1) Effective clear spacing between the deck and bottom tier shall be no greater than 9 in (22.8 cm).,False,False
+19,E,4.0,e,2.0,,(2) Effective clear spacing between all tiers above the bottom tier shall be no greater than 15 in (38.1 cm).,False,False
+19,E,4.0,e,3.0,,(3) Effective minimum height from deck to the top tier may not be less than 39 in (1 m).,False,False
+19,E,4.0,f,,,"f. The effective tier spacing identified above includes the effect of the increased spacing associated with sag in the tiers, applied either up or down. Clear spacing measurements shall be made with the railing tiers spread to form the largest opening.",False,False
+19,E,4.0,g,,,g. Railing height is reduced by the amount of sag in the tiers. Railing minimum height shall be measured at the lowest point in the rail.,False,False
+19,E,4.0,h,,,h. The bottom tier may be omitted in way of deck fittings or in order to facilitate line handling. The space caused by the removed lower tier may not extend more than 2 ft (0.6 m) beyond either side of the deck fitting.,False,False
+19,E,4.0,i,,,"i. The top tier may not deflect to a height less than 39 in (1 m) above the deck under a force of 200 lbs (60.9 kg), applied vertically. In addition, the top tier may not deflect more than 12 in (30.4 cm) horizontally under a force of 200 lbs applied horizontally.",False,False
+19,E,4.0,j,,,"j. Tensioning springs in the vertical support lines, if provided, must be of the compression with drawbar type.",False,False
+19,E,5.0,,,,19.E.05 Railing Type D: Grab Rails are railing sections mounted to deckhouse sides or to the sides of other permanent structures.,True,False
+19,E,5.0,a,,,"a. Grab rail height shall match the height of the deck top rail/tier. Where there is no top rail near the grab rail, grab rail height shall be 39 in (1 m).",False,False
+19,E,5.0,b,,,b. Grab rail strength shall be adequate to withstand a 200 lb (60.9 kg) load applied in any direction.,False,False
+19,E,5.0,c,,,c. Grab rails shall be sized dimensionally comparable to 1.5 in (3.8 cm) pipe. Clear distance between the rail and house side may not be less than 3 in (7.6 cm).,False,False
+19,F,,,,,"19.F Launches, Motorboats and Skiffs.",True,False
+19,F,1.0,,,,19.F.01 Crew requirements.,True,False
+19,F,1.0,a,,,a. In the following circumstances a qualified employee shall be assigned to assist with deck duties:,False,False
+19,F,1.0,a,1.0,,(1) When extended trips including overnight trips are made from the work site;,False,False
+19,F,1.0,a,2.0,,(2) When conditions of navigation make it hazardous for an operator to leave the wheel while underway;,False,False
+19,F,1.0,a,3.0,,"(3) When operations being performed, other than tying-in, require the handling of lines;",False,False
+19,F,1.0,a,4.0,,(4) When operating at night or during inclement weather;,False,False
+19,F,1.0,a,5.0,,(5) When towing; or,False,False
+19,F,1.0,a,6.0,,(6) While a vessel is transporting crew or passengers.,False,False
+19,F,1.0,b,,,"b. A qualified employee is any individual who has established, to the satisfaction of the operator of the vessel that he/she is physically and mentally capable of adequately performing the deck duties to which he/she may be assigned.",False,False
+19,F,2.0,,,,19.F.02 Personnel and cargo requirements.,True,False
+19,F,2.0,a,,,"a. The maximum number of personnel and weight that can safely be transported shall be posted on all launches, motorboats, and skiffs. The number of personnel (including crew) shall not exceed the number of PFDs aboard.",False,False
+19,F,2.0,b,,,"b. Each boat shall have sufficient room, freeboard, and stability to safely carry the cargo and number of persons allowed with consideration given to the weather and water conditions in which it will be operated.",False,False
+19,F,2.0,c,,,"c. Launches, motorboats and skiffs less than 20 ft (6 m) in length shall meet 33 CFR 183 requiring level floatation after flooding or swamping.",False,False
+19,F,2.0,d,,,d. All open cabin launches or motorboats shall be equipped with “kill (dead man) switches”.,False,False
+19,F,3.0,,,,19.F.03 Fire protection.,True,False
+19,F,3.0,a,,,"a. The minimum number and rating of fire extinguishers that shall be carried on all launches and motorboats, including outboards, are shown in Table 19-1:",False,False
+19,F,3.0,b,,,"b. All launches and motorboats having gasoline or liquid petroleum gas power plants or equipment in cabins, compartments, or confined spaces shall be equipped with a built-in automatic CO2 fire extinguishing system meeting the requirements of 46 CFR 25.30-15.",False,False
+19,F,4.0,,,,"19.F.04 Float Plans. Float plans shall be prepared by the operator of a launch or motorboat when engaged in surveying, patrolling, or inspection activities that are remote and are expected to take longer than 4 hours or when the operator is traveling alone. The plan shall be filed with the boat operator’s supervisor and shall contain the following, as a minimum:",True,False
+19,F,4.0,a,,,a. Vessel information (make/model or local identifier);,False,False
+19,F,4.0,b,,,b. Personnel on-board;,False,False
+19,F,4.0,c,,,c. Activity to be performed;,False,False
+19,F,4.0,d,,,"d. Expected time of departure, route, and time of return;",False,False
+19,F,4.0,e,,,e. Means of communication (adequate means of communication shall be provided).,False,False
+19,F,5.0,,,,19.F.05 All motorboat operators shall complete and document the following training:,True,False
+19,F,5.0,a,,,"a. A boating safety course meeting the criteria of the USCG Auxiliary, National Association of Safe Boating Law Administrators (NASBLA), or equivalent;",False,False
+19,F,5.0,b,,,"b. Motorboat handling training, based on the type of boats they will operate, provided by qualified instructors (in-house or other). Operators must pass a written and operational test;",False,False
+19,F,5.0,c,,,"c. Current USCG licensed personnel are exempt from the boating safety training, but they shall complete the written exam and operational test;",False,False
+19,F,5.0,d,,,d. Government employees shall complete a USACE-approved 24-hour initial boating safety course and refresher as prescribed in ER 385-1-91.,False,False
+19,F,6.0,,,,"19.F.06 USACE launches, motorboats, skiffs and boat trailers shall be inspected, tested, repaired and maintained in accordance with ER 385-1-91 and the manufacturer’s recommendations.",True,False
+19,F,6.0,a,,,"a. Inspection shall be conducted by a qualified person (QP), documented and retained for a period of 5 years.",False,False
+19,F,6.0,b,,,b. Boats and boat trailers shall be inspected:,False,False
+19,F,6.0,b,1.0,,"(1) Prior to each use, and",False,False
+19,F,6.0,b,2.0,,"(2) Periodically, in accordance with manufacturer’s recommendations and USACE requirements.",False,False
+19,G,,,,,19.G Dredging.,True,False
+19,G,1.0,,,,"19.G.01 Prior to repair or maintenance on the pump, suction or discharge lines below the water line, or within the hull, the ladder (or drag arm) shall be raised (above the waterline) and positively secured. This provision is in addition to the normal securing of hoisting machinery. Blank or block plates shall also be set in suction or discharge lines as appropriate.",True,False
+19,G,2.0,,,,19.G.02 Dredge pipelines that are floating or supported on trestles shall display appropriate lights at night and in periods of restricted visibility in accordance with USCG regulations and 33 CFR 88.15.,True,False
+19,G,3.0,,,,19.G.03 Submerged and floating dredge pipeline.,True,False
+19,G,3.0,a,,,a. Submerged pipeline and any anchor securing the pipeline shall rest on the channel bottom where a pipeline crosses a navigation channel. The depth of the submerged pipeline will be provided to the USCG for publication.,False,False
+19,G,3.0,a,1.0,,"(1) Whenever buoyant or semi-buoyant pipeline is used, the dredge operator will assure that the pipeline remains fully submerged and on the bottom. Whenever it is necessary to raise the pipeline, proper clearances shall be made and maintained and the entire length of the pipeline will be adequately marked.",False,False
+19,G,3.0,a,2.0,,(2) Submerged pipelines shall be marked in accordance with local USCG requirements and as approved by the GDA.,False,False
+19,G,3.0,a,2.0,a,"(a) Unless otherwise specified by the USCG, submerged pipelines are considered to require special marks and shall have a USCG-approved flashing yellow light.",False,False
+19,G,3.0,a,2.0,b,"(b) Indicators, such as signs or buoys that state “DANGER SUBMERGED PIPELINE” will be placed at the beginning and end of the pipeline. In addition, indicators are required",False,False
+19,G,3.0,a,2.0,c,"(c) Beginning in areas which reduce the charted depth by more than 10%, and, as a minimum, every 1000 ft (304.8 m) to clearly warn of the pipeline length and course.",False,False
+19,G,3.0,a,2.0,d,"(d) If barges or other vessels are used to anchor the beginning and/or end of the submerged pipeline, they shall be lighted in accordance with 33 CFR 88.13.",False,False
+19,G,3.0,a,2.0,e,"(e) Within a navigation channel, each end of the pipeline shall be identified with a regulatory marker buoy.",False,False
+19,G,3.0,a,2.0,f,"(f) Lengths of submerged pipeline located outside of the navigation channel, which reduce the charted depth by more than 10 percent, will be identified with high visibility buoys marked with 360 degree visibility retro-reflective tape, such as orange neoprene buoys, placed at an interval not to exceed 500 ft (152.4 m) to clearly show the pipeline length and course.",False,False
+19,G,3.0,a,3.0,,(3) Routine inspections of the submerged pipe shall be conducted to ensure anchorage.,False,False
+19,G,3.0,a,4.0,,(4) All anchors and related material shall be removed when the submerged pipe is removed.,False,False
+19,G,3.0,b,,,b. Floating pipeline is any pipeline that is not anchored on the channel bottom. Pipelines shall not be permitted to fluctuate between the water surface and the channel bottom.,False,False
+19,G,3.0,c,,,c. Pipelines shall be marked with the owner’s name for positive identification in the event of loss (adrift) or damage to vessels operating in the area.,False,False
+19,G,4.0,,,,"19.G.04 Dredges shall be designed so that a failure or rupture of any of the dredge pump components, including dredge pipe, shall not cause the dredge to sink. Data or plans supporting this capability must be available to the GDA upon request.",True,False
+19,G,5.0,,,,"19.G.05 Mobilization, demobilization, and relocation of dredges, support barges, support tenders, tugs, and heavy equipment shall be by qualified persons under the direct supervision of a responsible individual.",True,False
+19,G,6.0,,,,19.G.06 Hopper dredges shall offer a safe means and process to load and unload personnel.,True,False
+19,G,7.0,,,,19.G.07 Any dredge that has a dredge pump below the waterline shall have a bilge alarm or shutdown interface.,True,False
+19,G,8.0,,,,"19.G.08 Covers of stone boxes"" shall be secured with at least two positive means when the boxes are working under positive pressure.""",True,False
+19,G,9.0,,,,19.G.09 Dredge disposal sites.,True,False
+19,G,9.0,a,,,a. Drinking water. An adequate supply of drinking water shall be provided at all dredge disposal sites. Cool water shall be provided during hot weather. Portable drinking dispensers shall comply with Section 2 of this manual.,False,False
+19,G,9.0,b,,,b. Toilet facilities. Toilet facilities shall be provided in accordance with and meet the requirements of Section 2 of this manual.,False,False
+19,G,9.0,c,,,c. Medical and first-aid requirements. All disposal area watchmen shall be certified in first aid and CPR in accordance with Section 03. At least one 16-unit first-aid kit complying with ANSI Z308.1 shall be provided onsite at all times. The first-aid kit shall be protected from the environment.,False,False
+19,G,9.0,d,,,d. Amphibious excavators will only be operated in accordance with the manufacturer’s operating instructions. A copy of the operator’s manual will be readily available on the equipment.,False,False
+19,G,9.0,e,,,e. Lighting. Lighting shall be provided as required by Section 7 of this manual. The minimum lighting level in the vicinity of the disposal site shelter (dump shack) shall be 5 foot-candles.,False,False
+19,G,9.0,f,,,f. Disposal site shelters (Dump Shacks).,False,False
+19,G,9.0,f,1.0,,"(1) Disposal site shelters (dump shacks) shall be provided as a means of protecting personnel from inclement weather and environmental hazards. The shelter shall be of a size to accommodate a minimum of four workers. The shelter shall have adequate seating for the workers, heating equipment, water cooler, and space to store all hands tools and personal protective equipment. The shelter shall be weather tight with operable windows and screens for ventilation.",False,False
+19,G,9.0,f,2.0,,"(2) All electrical systems shall comply with the NEC. All flexible electrical cords shall be hard usage or extra-hard usage. All frayed, patched, oil-soaked or worn shall be taken out of service.",False,False
+19,G,9.0,f,3.0,,(3) Portable generators used for lighting shall comply with the requirements of Section 11 of this manual and shall be located downwind of shelters.,False,False
+19,G,9.0,f,4.0,,(4) Fossil fuel heating is prohibited.,False,False
+19,G,9.0,f,5.0,,(5) All rigid insulation shall be covered with a non-combustible material to prevent accidental ignition.,False,False
+19,G,9.0,f,6.0,,(6) All shelters shall be equipped with a minimum of one multi-purpose fire extinguisher.,False,False
+19,H,,,,,19.H Scows and Barges.,True,False
+19,H,1.0,,,,19.H.01 Scows dumping in open ocean waters should be equipped with remote opening devices to preclude the transfer of personnel between the vessels.,True,False
+19,H,2.0,,,,19.H.02 A safe means for transferring personnel between the towing vessels and scow shall be provided in accordance with Section 19.B.02.,True,False
+19,H,3.0,,,,"19.H.03  The Contractor shall identify general and site-specific adverse weather and sea conditions (e.g., currents) under which the towing of scows or cargo barges is prohibited.",True,False
+19,H,4.0,,,,19.H.04 All barges and scows that are used as deck cargo barges shall comply with 46 CFR 174.010 through 174.020 for intact stability of deck cargo barges.,True,False
+19,H,5.0,,,,"19.H.05  Personal fall protection devices or other fall protection as listed in Sections 21 and 19.C shall be used on all scows and open barges to prevent personnel transiting between the stern and bow of the vessel from falling into the hopper or falling off the side of the vessel to structures (e.g. dock, vessels) located 6 ft (1.8 m) or more below.",True,False
+19,I,,,,,19.I Navigation Locks and Vessel Locking.,True,False
+19,I,1.0,,,,"19.I.01 Smoking, open flames, or other ignition sources shall be prohibited on lock structures within 50 ft (15.2 m) of vessels containing hazardous cargos of flammable or other hazardous materials (“Red Flag” vessels) during approach and lockage.",True,False
+19,I,1.0,a,,,"a. When construction, maintenance, and other non-navigational related activities are taking place on or adjacent to the lock structure, the Lock Master will relay information to supervisory personnel in these activities regarding the approach and passage of Red Flag vessels.",False,False
+19,I,1.0,b,,,b. The Lock Master or Work Crew supervisor may suspend hot work at their discretion during the approach and passage of Red Flag vessels.,False,False
+19,I,1.0,c,,,"c. Prior to the start of work on these activities, the Work Crew Supervisor will establish safe zones that maintain at least the minimum 50 ft (15.2 m) required distance between Red Flag vessels and sources of ignition such as hot work and smoking areas.",False,False
+19,I,1.0,c,1.0,,(1) The minimum distance shall be calculated vertically and horizontally throughout a lock chamber when the chamber is pumped out for maintenance.,False,False
+19,I,1.0,c,2.0,,"(2) These zones shall be marked, barricaded, or otherwise designated so personnel can easily distinguish them.",False,False
+19,I,1.0,c,3.0,,(3) The location of and restricted activities within these zones shall be included in the activity AHA and discussed with workers prior to start of work.,False,False
+19,I,2.0,,,,19.I.02 Pleasure and commercial recreational craft shall not be locked through a lock chamber with Red Flag vessels.,True,False
+19,I,3.0,,,,19.I.03 Lockage Of Red Flag Vessels.,True,False
+19,I,3.0,a,,,"a. Simultaneous lockage of two Red Flag Vessels or tows or simultaneous lockage of another vessel or tow carrying non-dangerous cargoes and vessel or tow carrying dangerous cargoes, shall not be permitted when river traffic in the approach to a lock is light.",False,False
+19,I,3.0,b,,,"b. When the river approach to a lock is congested, simultaneous lockage of the aforementioned vessels or tows, other than pleasure craft, shall be permitted provided:",False,False
+19,I,3.0,b,1.0,,(1) The first vessel or tow entering and the last vessel or tow exiting are secured before the other enters or leaves;,False,False
+19,I,3.0,b,2.0,,(2) Any vessel or tow carrying dangerous cargoes is not leaking; and,False,False
+19,I,3.0,b,3.0,,(3) All masters involved have agreed to the joint use of the lock chamber.,False,False
+19,I,4.0,,,,19.I.04 Vessels with flammable or highly hazardous cargo will be passed separately from all other vessels. Hazardous materials are described in 49 CFR 171; flammable materials are defined in the National Fire Code of the NFPA.,True,False

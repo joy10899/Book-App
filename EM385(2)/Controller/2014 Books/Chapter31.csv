@@ -1,0 +1,194 @@
+chapter,section,topic,refOne,refTwo,refThree,content,highlight,bookmark
+31,A,,,,,"31.A General. The references used in this section are: ANSI Z133, American National Standard for Arboricultural Operations – Safety Requirements; 29 CFR Part 1910 OSHA General Industry; 29 CFR 1910.269, Electrical Power Generation, Transmission, and Distribution; ANSI A300, American National Standard for Tree Care Operations – Tree, Shrub, and Other Woody Plant Management – Standard Practices; ANSI/SIA A92.2, American National Standard for Vehicle-Mounted Elevating and Rotating Aerial Devices.",True,False
+31,A,1.0,,,,31.A.01 Tree felling and maintenance shall be performed IAW a Tree Felling and Maintenance Program that has been developed by/under the direction of a qualified tree worker and in accordance with references above and this Section.  This Program shall be submitted to the GDA for acceptance prior to work being performed.,True,False
+31,A,1.0,a,,,a. The services of other licensed or credentialed professionals may be necessary to properly address the required maintenance to be performed and/or hazards that may be encountered.,False,False
+31,A,1.0,b,,,"b. Examples of credentialed professionals include but are not limited to: TCIA-accredited Tree Care Company, Certified Arborist, Licensed Tree Expert, Certified Tree Care Safety Professional (CTSP), Certified Crane Operator, Rigger or Signalperson, or Certified Utility Safety Professional (CUSP).",False,False
+31,A,2.0,,,,"31.A.02 Personal protective equipment (PPE), as outlined in this section, shall be required when there is a reasonable probability of injury or illness that can be prevented by such protection.",True,False
+31,A,2.0,a,,,a. A hardhat and eye protection should be worn for all tree maintenance and removal operations.,False,False
+31,A,2.0,b,,,"b. Training shall be provided in the use, care, maintenance, and proper fitting of PPE. > See also Section 05.",False,False
+31,A,3.0,,,,31.A.03 Working near electrical equipment and systems. > See Section 11 and 29 CFR 1910.269.,True,False
+31,A,3.0,a,,,a. Employees working in the proximity of electrical equipment or conductors shall consider them to be energized.,False,False
+31,A,3.0,b,,,b. A qualified tree worker shall make a visual inspection to determine whether an electrical hazard exists before climbing or performing any work in or on a tree.,False,False
+31,A,3.0,b,1.0,,"(1) If electrical lines or equipment cannot be safely avoided, arrangements shall be made with the power company to mitigate the electrical hazard. Mitigation options should include de-energizing, testing, isolating and grounding the electrical conductors by the power company as well as all safe OSHA-compliant and practical work methods.",False,False
+31,A,3.0,b,2.0,,(2) The qualified tree worker and designated power company representative shall confirm that protective ground(s) have been installed as close to the work to be performed to prevent hazardous differences in electric potential.,False,False
+31,A,3.0,c,,,c. Only a qualified line-clearance tree trimmer or line-clearance trainee under the direct supervision of a qualified person (QP) for electrical hazards shall be assigned to work in close proximity to electrical hazards.,False,False
+31,A,3.0,c,,,Note: Qualified line-clearance tree trimmers should be certified by the employer according to OSHA in 29 CFR 1910.269.,False,False
+31,A,3.0,d,,,d. There shall be a second qualified line-clearance tree trimmer or line-clearance tree trimmer trainee within normal voice communication during the clearing operations aloft under the following conditions:,False,False
+31,A,3.0,d,1.0,,(1) When the line-clearance tree trimmer or line-clearance tree trimmer trainee must approach any closer than 10 ft (3 m) to any conductor or electrical apparatus energized in excess of 750 volts;,False,False
+31,A,3.0,d,2.0,,(2) When branches or limbs being removed cannot first be cut (with a pole pruner/pole saw) sufficiently clear of the equipment or conductors so as to avoid contact; or,False,False
+31,A,3.0,d,3.0,,(3) When roping is required to remove branches or limbs from such equipment or conductors.,False,False
+31,A,3.0,e,,,e. Line-clearance tree trimmers and trainees shall maintain the distances from energized conductors as specified in Table 11-3. All other tree workers shall maintain a minimum separation distance of 10 ft (3 m) or greater according to Table 11-1.,False,False
+31,A,3.0,f,,,"f. Aerial devices that are electrically rated above the electrical voltages of adjacent power lines are exempt from the 10 ft (3 m) rule, and can follow Table 11-3 if operators have been electrically qualified. Operators shall be instructed that insulated aerial devices do not protect them from other potentially fatal electric paths to the ground, such as paths through trees, guy wires, or from phase-to- phase contact.",False,False
+31,A,3.0,g,,,"g. Electrically rated aerial devices shall be tested yearly with approved test methods and equipment, in accordance with ANSI/SIA A92.2.",False,False
+31,A,4.0,,,,31.A.04 Equipment.,True,False
+31,A,4.0,a,,,"a. Equipment shall be inspected, maintained, repaired, and used in accordance with manufacturers’ instructions.",False,False
+31,A,4.0,b,,,b. Employees shall be instructed in the safe and proper use of all equipment provided to them.,False,False
+31,A,4.0,c,,,c. See Section 21 for Climbing Equipment Requirements.,False,False
+31,A,5.0,,,,"31.A.05 Climbing lines shall not be used to lower limbs or other parts of trees or to raise or lower equipment, with the exception of hand tools.",True,False
+31,A,6.0,,,,31.A.06 Tool handles shall be used when raising and lowering tools.,True,False
+31,A,7.0,,,,"31.A.07 Tools used for cabling, bark tracing, cavity work, etc., shall be carried in a bag, belt, or sheath designed to hold tools and not put in the pockets or stuck in the top of a boot.",True,False
+31,A,8.0,,,,31.A.08 Elevating Aerial Work Platforms (AWPs).,True,False
+31,A,8.0,a,,,"a. AWPs shall be provided with fall protection anchor(s) meeting design requirements of the ANSI/SIA A92.2 on which to secure an approved system of personal fall protection (e.g., full body harness with an energy-absorbing lanyard), which shall be worn by the operator(s) whenever aloft.",False,False
+31,A,8.0,b,,,b. The operator may use a climber’s belt and lanyard in place of a full body harness if he/she intends to transfer from the AWP to the tree. The employee shall be secured to the tree prior to removing the lanyard attached to the basket. Under no circumstances shall the employee perform any work while secured to both the tree and the basket.,False,False
+31,A,8.0,c,,,c. See Section 21.H for all other fall protection requirements.,True,False
+31,B,,,,,31.B Tree Climbing.,True,False
+31,B,1.0,,,,31.B.01 Tree Climbing Techniques.,True,False
+31,B,1.0,a,,,"a. All tree work operations above a height of 12 ft (3.6 m), whether there are electrical hazards or not, shall require a second worker in the area. If climbing is being performed, the second worker shall also be a qualified climber, capable and knowledgeable of rescue techniques, including self rescue.",False,False
+31,B,1.0,b,,,"b. Use of Rope Access techniques should only be used where other means of accessing the tree or undertaking the work, such as aerial devices or pole saws, are not practical. > See Section 24 for recommended rope climbing equipment, techniques, and safety practices.",False,False
+31,B,2.0,,,,"31.B.02 The climber shall inspect the tree and surrounding area for hazards and perform a risk assessment of the tree and work site. Some issues to be considered are: power lines, tree hangers or broken and dead branches, entanglement with adjacent or downed trees, shape and lean of the tree, tree damage from wind, lightning, disease, location of septic lines and tanks and other potential at-grade or below-grade utilities that could be impacted.",True,False
+31,B,2.0,a,,,a. Debris and other objects shall be removed from beneath the climber whenever possible.,False,False
+31,B,2.0,b,,,b. Weather conditions shall be assessed as well as location of adjacent structures. Adverse weather conditions may include lightning and thunderstorms in the area.,False,False
+31,B,3.0,,,,"31.B.03 Where climbing is required, tree crews shall have a secondary climber who could assist in a rescue if necessary OR the crew shall be working in proximity to nearby crews with a climber who could assist in a rescue.",True,False
+31,B,4.0,,,,"31.B.04 A climber shall have available a climbing line and at least one other means of being secured, on their person at all times (e.g., climbing line and a work positioning lanyard, etc.).",True,False
+31,B,4.0,a,,,"a. The climber shall be tied in with an approved type of climbing line and safety saddle while ascending the tree, including when using climbing spurs/gaffs.",False,False
+31,B,4.0,b,,,b. The climber shall be tied in once the work begins and shall remain tied in until the work is completed and he or she has returned to the ground.,False,False
+31,B,4.0,c,,,c. The climber shall be secured when repositioning the climbing line.,False,False
+31,B,4.0,d,,,d. Work may be performed while standing on a ladder only when the worker is tied in or secured as required.,False,False
+31,B,5.0,,,,"31.B.05 The climbing line shall be passed around the trunk of the tree as high above the ground as possible using branches with a wide crotch to prevent any binding of the safety line.  The crotch selected for tying should be directly above the work area, or as close to such a position as possible, but located in such a way that a slip or fall would swing the climber away from any electrical conductor. The line shall be passed around the main leader or an upright branch, using the limb as a stop. Feet, hands, and ropes shall be kept out of tight V-shaped crotches.",True,False
+31,B,5.0,,,,Exception: Palms and other trees with similar growth characteristics that will not allow a climbing line to move freely.,False,False
+31,B,6.0,,,,"31.B.06 The climber shall tie a stopper knot (e.g., figure-eight knot) in the end of the line, particularly when the climber will be working at heights greater than half the length of the climbing line, to prevent pulling the climbing line accidentally through the climbing hitch and possibly falling.",True,False
+31,B,7.0,,,,"31.B.07 If it is necessary to re-crotch the climbing line in the tree, the climber shall re-tie in or use the safety strap before releasing the previous tie.",True,False
+31,B,8.0,,,,"31.B.08 The climber working from a stem or spar without a suitable natural crotch shall select tie-in points or a tie-in method that positively prevent the climbing line from sliding down or up, or off the stem during climbing operations.",True,False
+31,B,8.0,a,,,"a. Placing a climbing line around a stem in an area without a lateral limb is not acceptable unless the climbing line is cinched or choked around the stem or runs through a double-wrapped or adjustable false crotch, which is secured/cinched around the stem.",False,False
+31,B,8.0,b,,,b. The tie-in point selected shall be able to withstand the forces being applied during the pruning/removal operation.,False,False
+31,B,9.0,,,,"31.B.09 Climbers shall not carry tools in their hands while climbing. Chainsaws and tools shall be raised and lowered one at a time by means of a line, except when working from an aerial-lift device or during topping or removing operations.",True,False
+31,B,10.0,,,,31.B.10 Chainsaws used aloft shall be secured against falling. Climbers may attach chainsaws weighing less than 15 lbs (6.8 kg) to themselves by means of a saw lanyard.,True,False
+31,B,11.0,,,,"31.B.11 Climbers shall carry a hand saw. When carried aloft, the hand saw shall be carried in a scabbard attached to the safety saddle.",True,False
+31,B,12.0,,,,"31.B.12 Climbing of dead and dying trees shall only be performed where no other safe and feasible alternative exists for removal of the tree. Climbers shall not trust the capability of a dead branch to support his/her weight. If possible, dead branches should be broken off on the way up and hands and feet should be placed on separate limbs.",True,False
+31,B,13.0,,,,"31.B.13 Climbing with tree spurs on live trees that are being pruned or otherwise maintained is generally not allowed, in accordance with tree care management standards found in ANSI A300.",True,False
+31,B,13.0,a,,,"a. Tree spurs used for thick bark trees shall have longer gaffs, such as 2 ¾ in (7 cm). Gaff lengths of 1 ¾ in (4.5 cm) are intended only for pole climbing. b. Gaff lengths shall be suitable for the tree being climbed.",False,False
+31,B,14.0,,,,"31.B.14 Climbing techniques. The climber may apply a variety of climbing techniques, but they must be approved by the GDA.",True,False
+31,B,14.0,a,,,a. Climbing without the use of tree spurs may be required.,False,False
+31,B,14.0,b,,,b. The most commonly used arborist rope climbing technique is the “Advancing the Rope and Body Thrusting/Alternate Lanyard Technique”.,False,False
+31,B,14.0,c,,,"c. If the climber can remain near the trunk of the tree, he may use both the belt lanyard/flip line and the Rope Advance (lifeline) technique. Otherwise, a single line access is permitted. If a lifeline (Access Line) cannot be set in the tree, then the use of two flip lines may be used.",False,False
+31,B,14.0,d,,,d. The use of auto-locking belay devices or tree climber’s hitches is both permitted.,False,False
+31,B,14.0,e,,,e. Climbers shall not ascend above their tie in point. Tie-in points shall be well above the climber to prevent an uncontrolled pendulum swing in the event of a slip.,False,False
+31,B,14.0,f,,,"f. Once in the tree, climbers shall be tied off at two points while working or using the chainsaw, (this includes the primary support of the access line or climbing line, and secondary support with a second climbing line or the flip line/lanyard/buck strap).",False,False
+31,B,14.0,f,1.0,,(1) Climbers may ascend or descend from the tree using only the access line by using approved single rope techniques.,False,False
+31,B,14.0,f,2.0,,"(2) Once the worker is at the tie-in point, a secure climbing system shall be installed.",False,False
+31,B,14.0,f,3.0,,(3) The climber shall disconnect from the access line only when a new tie in point has been established.,False,False
+31,B,14.0,g,,,g. Use of the three-point contact climbing is recommended if possible. Climbers may use ground personnel to help pull them up the tree.,False,False
+31,B,14.0,h,,,"h. Tree climbers shall be medically cleared every 2 years by a licensed healthcare provider for unlimited tree climbing. The examination will have an emphasis on identifying and providing mitigating factors for prior heat/cold injuries, the ability to work at heights on uneven surfaces, and any environmental allergens. Additionally it will ensure that there are no medical conditions or medications which could affect balance, the ability to communicate with others, level of consciousness, extremity sensation, fine motor movement, gross motor movement, or the ability to physically lift or lower oneself.",False,False
+31,C,,,,,31.C Felling.,True,False
+31,C,1.0,,,,"31.C.01 Prior to felling operations, the employee shall consider the associated hazards that may include, but are not limited to:",True,False
+31,C,1.0,a,,,"a. Tree size (e.g., able to fit in landing zone);",False,False
+31,C,1.0,b,,,b. Selected direction of fall;,False,False
+31,C,1.0,c,,,c. Felling path obstacles to avoid or clear;,False,False
+31,C,1.0,d,,,d. Vines or interlocking limbs;,False,False
+31,C,1.0,e,,,e. Species and shape of tree;,False,False
+31,C,1.0,f,,,f. Lean of tree;,False,False
+31,C,1.0,g,,,"g. Loose limbs, hangers, broken tops, chunks, or other overhead material;",False,False
+31,C,1.0,h,,,h. Wind force and direction;,False,False
+31,C,1.0,i,,,"i. Decay, cavities, or weak spots throughout the tree;",False,False
+31,C,1.0,j,,,j. Location of any electrical conductors or other wires;,False,False
+31,C,1.0,k,,,"k. Tree cables, bracing, lightning protection, or other tree hardware;",False,False
+31,C,1.0,l,,,l. Size and terrain characteristics or limitations of work area;,False,False
+31,C,1.0,m,,,m. Potential for flying debris from tree impact;,False,False
+31,C,1.0,n,,,n. Adequate retreat path;,False,False
+31,C,1.0,o,,,o. Evidence of bees or wildlife habitation in tree;,False,False
+31,C,1.0,p,,,"p. Poisonous plants, water hazards;",False,False
+31,C,1.0,q,,,q. Ability to control access to work site;,False,False
+31,C,1.0,r,,,r. Authority to remove tree;,False,False
+31,C,1.0,s,,,s. Quality of wood fiber in hinge area;,False,False
+31,C,1.0,t,,,t. Root mass stability;,False,False
+31,C,1.0,u,,,u. Ice or snow load;,False,False
+31,C,1.0,v,,,v. Throw-back or bounce-back potential;,False,False
+31,C,1.0,w,,,w. Potential for spring poles;,False,False
+31,C,1.0,x,,,x. Lodged trees or dead snags in area;,False,False
+31,C,1.0,y,,,y. Access to tools or resources required for task;,False,False
+31,C,1.0,z,,,z. Lightning damage;,False,False
+31,C,1.0,aa,,,aa. Barber chair potential;,False,False
+31,C,1.0,bb,,,"bb. Foreign objects, nails, wire fence, concrete, etc. in the tree.",False,False
+31,C,2.0,,,,"31.C.02 Prior to felling operations, the work area shall be cleared to permit safe working conditions and an escape route shall be planned. Workers shall ensure that homes and structures are evacuated where trimming and felling operations are in close proximity.",True,False
+31,C,3.0,,,,"31.C.03 Felling paths shall be at least twice the distance as the height of the tree (due to limbs and debris being thrown after hitting the ground. Where this distance cannot be maintained, limbing may be required. Power lines may also need to be dropped or de-energized.",True,False
+31,C,4.0,,,,31.C.04 Each worker shall be instructed as to exactly what he is to do. All workers not directly involved in the operation shall be kept clear of the work area.,True,False
+31,C,5.0,,,,"31.C.05 Before starting to cut, the chainsaw operator shall be sure of his footing and must clear away brush, fallen trees, and other materials that might interfere with cutting operations.",True,False
+31,C,6.0,,,,31.C.06 A notch and backcut shall be used in felling trees over 5 in (12.7 cm) in diameter (measured at breast height). No tree shall be felled by “slicing” or “ripping” cuts.,True,False
+31,C,6.0,a,,,"a. The two cuts that form the notch shall meet at a point called the apex, and shall not cross that point or go beyond the point where they meet.",False,False
+31,C,6.0,b,,,"b. The notch cut used shall be a conventional notch, an open-face notch, or a Humboldt notch.",False,False
+31,C,6.0,c,,,c. Notches shall be 45 degrees or greater and large enough to guide the fall of the tree or trunk.,False,False
+31,C,6.0,d,,,"d. Notch depth should not exceed one-third the diameter of the tree. The hinge width should be 80 percent of the tree’s diameter, as measured at the hinge.",False,False
+31,C,6.0,e,,,e. Saw cuts made to form the notch and back cut shall leave suitable amounts of hinge wood to adequately control the directional fall of the tree.,False,False
+31,C,6.0,f,,,"f. With a conventional notch or Humboldt notch, the back cut shall be 1 to 2 in (2.5 to 5 cm) above the apex of the notch to provide an adequate platform to prevent kickback of the tree or trunk. With an open-face notch (greater than 70 degrees), the back cut should be at the same level as the apex of the notch.",False,False
+31,C,7.0,,,,"31.C.07 If sections of the tree are to be removed, sections shall be limited in lengths to one-third of the distance to the nearest structure [e.g. If the tree is 30 ft (9 m) from the structure, sections shall be no more than 10 ft (3m)].  >Note: The discretion of the chainsaw operator must be used. In some instances it may be safer to fell a large trunk away from the structure rather than to remove it in small sections, especially where the tree has grown very close to the house or structure. If this is done, a tag line shall be used to help guide the direction of the fall along with the use of proper notch and backcut.",True,False
+31,C,8.0,,,,"31.C.08 The chainsaw operator shall work from the uphill side whenever possible. Tag lines may be used to help guide the direction of the fall provided the workers on the tag line are well clear of the fall path, such as twice the distance of the fall area.",True,False
+31,C,9.0,,,,"31.C.09 Just before the tree of limb is ready to fall, an audible warning shall be given to all those in the area. All persons shall be safely out of range when the tree falls.",True,False
+31,C,10.0,,,,"31.C.10 If there is danger that the trees being felled may fall in the wrong direction or damage property, wedges, block and tackle, rope, or wire cable (except when an electrical hazard exists) shall be used. All limbs shall be removed from trees to a height and width sufficient to allow the tree to fall clear of any wires and other objects in the vicinity.",True,False
+31,C,11.0,,,,31.C.11 Special precautions shall be taken when roping rotten or split trees due to the potential for falling in an unexpected direction even though the cut is made on the proper side.,True,False
+31,C,12.0,,,,31.C.12 Persons shall be kept back from the butt of a tree that is starting to fall.,True,False
+31,D,,,,,31.D Brush Removal and Chipping.,True,False
+31,D,1.0,,,,31.D.01 Brush and logs shall not be allowed to create a hazard at the work site.,True,False
+31,D,2.0,,,,31.D.02 Employees working with a brush chipper shall be trained in its safe operation. The chipper shall be operated in accordance with the manufacturer’s recommendations.,True,False
+31,D,3.0,,,,31.D.03 Brush chippers.,True,False
+31,D,3.0,a,,,a. Rotary drum and disk-type tree or brush chippers not equipped with a mechanical in-feed system shall be equipped with an in-feed hopper not less than 85 in (2.2 m) (the sum of the horizontal distance from the chipper blade out along the center of the chute to the end of the chute and the vertical distance from the chute down to the ground).,False,False
+31,D,3.0,b,,,b. Rotary drum and disk-type tree or brush chippers not equipped with a mechanical in-feed system shall have a flexible anti-kickback device installed in the in-feed hopper for the purpose of protecting the operator and other persons in the machine area from the hazards of flying chips and debris.,False,False
+31,D,3.0,c,,,"c. Disk-type tree or brush chippers equipped with a mechanical in-feed system shall have a quick stop and reversing device on the in-feed. The activating mechanism for the quick stop and reversing device shall be located across from the top, along each side of, and as close as possible to the feed end of the in-feed hopper and within easy reach of the operator.",False,False
+31,D,3.0,d,,,d. The feed chute or feed table of a chipper shall have sufficient height on its side members to prevent operator contact with the blades or knives during normal operation.,False,False
+31,D,3.0,e,,,e. Bush chippers shall be equipped with a discharge chute of sufficient length or design to prevent contact with the blade.,False,False
+31,D,3.0,f,,,f. Brush chippers shall be equipped with a locking device on the ignition system to prevent unauthorized starting of the equipment.,False,False
+31,D,3.0,g,,,"g. Brush chipper cutting bars and blades shall be kept sharp, properly adjusted, and otherwise maintained in accordance with the manufacturer's recomm-endations.",False,False
+31,D,3.0,h,,,h. Trailer brush chippers detached from trucks shall be chocked or otherwise secured.,False,False
+31,D,3.0,i,,,"i. All workers feeding brush into chippers shall wear eye protection. Loose clothing, gauntlet-type gloves, rings, and watches shall not be worn by workers feeding the chipper.",False,False
+31,D,3.0,j,,,"j. Employees shall never place hands, arms, feet, legs, or any other part of the body on the feed table when the chipper is in operation or the rotor is turning. Push -sticks (of material that can be consumed by brush chipper) or long branches shall be used to feed shorter material into the chipper.",False,False
+31,D,3.0,k,,,"k. Brush chippers shall be fed from the side of the centerline, and the operator shall immediately turn away from the feed table when the brush is taken into the rotor. Chippers shall be fed from the curbside whenever possible.",False,False
+31,D,3.0,l,,,"l. Material such as stones, nails, sweepings, etc. shall not be fed into brush chippers.",False,False
+31,D,3.0,m,,,m. The brush chipper discharge chute or cutter housing cover shall not be raised or removed while any part of the chipper is turning or moving.,False,False
+31,E,,,,,31.E Other Operations and Equipment.,True,False
+31,E,1.0,,,,31.E.01 Pruning and trimming.,True,False
+31,E,1.0,a,,,"a. Pole pruners, pole saws, and similar tools shall be equipped with wood or nonmetallic poles. Actuating cords shall be of a non-conducting material.",False,False
+31,E,1.0,b,,,b. Pole pruners and pole saws shall be hung securely in a vertical position with the sharp edges away from employees. They shall not be hung on utility wires or cables or left overnight in trees.,False,False
+31,E,1.0,c,,,"c. When necessary, warning shall be given by the worker in the tree before a limb is dropped.",False,False
+31,E,1.0,d,,,d. A scabbard or sheath shall be hooked to the climbing belt to carry a handsaw when not in use.,False,False
+31,E,1.0,e,,,e. A separate lowering/rigging line shall be attached to limbs that cannot be dropped safely or are too heavy to be controlled by hand. The lowering/rigging line should be held by workers on the ground end of the rope. Use of the same crotch for both the climbing line and the lowering/rigging line shall be avoided.,False,False
+31,E,1.0,f,,,f. Cut branches shall not be left in trees overnight.,False,False
+31,E,1.0,g,,,g. A service line shall be installed for operations lasting overnight or longer and shall be used to bring the climbing line back into position at the start of the next day’s work.,False,False
+31,E,2.0,,,,31.E.02 Limbing and bucking.,True,False
+31,E,2.0,a,,,a. Chainsaw cut-resistant leg protection shall be worn by the chainsaw operator for all chainsaw operations on the ground.,False,False
+31,E,2.0,b,,,"b. When more than one worker is limbing or bucking a tree, each shall be positioned and their duties organized so that the actions of one worker will not create a hazard for any other worker.",False,False
+31,E,2.0,c,,,c. Branches bent under tension shall be considered hazardous.,False,False
+31,E,2.0,d,,,"d. Chainsaws should be operated away from the vicinity of the legs and feet. Natural barriers, such as limbs between the saw and the body, should be employed where possible, while ensuring proper balance. While operating a chainsaw, the preferred working position is on the uphill side of the work.",False,False
+31,E,2.0,e,,,"e. The tree worker shall block the log to prevent rolling when necessary. Before bucking or limbing wind-thrown trees, precautions shall be taken to prevent the root ball or butt log from striking a worker.",False,False
+31,E,2.0,f,,,"f. When bucking, wedges shall be used as necessary to prevent binding of the guide bar or chain.",False,False
+31,E,2.0,g,,,g. The worker shall make sure of firm footing before and during limbing and bucking. The worker shall not stand on loose chunks or logs that will roll when the cut is complete.,False,False
+31,E,3.0,,,,31.E.03 Stump removal.,True,False
+31,E,3.0,a,,,a. Stump cutters shall be equipped with enclosures or guards that effectively protect the operator.,False,False
+31,E,3.0,b,,,"b. When flush cutting stumps with a chainsaw, all persons assisting the chainsaw operator shall wear the same level of PPE that is required of the chainsaw operator.",False,False
+31,E,4.0,,,,31.E.04 Cabling.,True,False
+31,E,4.0,a,,,"a. Branches that are to be cabled shall be brought together to the proper distance by means of a block and tackle, a hand winch, a rope, or a rope with a come-along.",False,False
+31,E,4.0,b,,,b. No more than two persons shall be in a tree working at opposite ends during cabling installation.,False,False
+31,E,4.0,c,,,"c. In general, if an old cable system is being replaced, the old system should not be removed until after the new system is installed.",False,False
+31,E,4.0,d,,,"d. When the block and tackle is released, workers in trees shall be positioned off to one side in order to avoid injury in case the lag hooks pull out under the strain.",False,False
+31,E,4.0,e,,,e. Ground persons shall not stand under the tree when cable is being installed.,False,False
+31,E,5.0,,,,31.E.05 Topping/Lowering Limbs.,True,False
+31,E,5.0,a,,,"a. Workers performing topping operations shall ensure the trees can stand the strain of topping procedures; if not, some other means of lowering the branches shall be used.",False,False
+31,E,5.0,b,,,"b. If large limbs are lowered in sections, the worker in the tree shall be above the limb being lowered.",False,False
+31,E,6.0,,,,31.E.06 Trucks.,True,False
+31,E,6.0,a,,,a. A steel bulkhead or equivalent protection shall be provided to protect the occupants of vehicles from load shifts.,False,False
+31,E,6.0,b,,,"b. Logs or brush shall be securely loaded onto trucks in such a manner as not to obscure taillights or brake lights and vision, or to overhang the side.",False,False
+31,E,6.0,c,,,"c. In order to avoid the hazard of spontaneous combustion or the production of undesirable products, wood chips shall not be left in trucks for extended periods.",False,False
+31,E,,,,,31.E 07 Power saws.,True,False
+31,E,,a,,,"a. When used by a climber aloft, chainsaws weighing more than 15 lbs (6.8 kg) shall be supported by a separate line crotched in the tree. Where there are no lateral branches on which to crotch a separate support line, a false crotch shall be used.",False,False
+31,E,,b,,,b. Use of hydraulic or electric power saws is permissible. Corded electrical power saws or other corded electric tools shall not be used in the vicinity of overhead power lines.,False,False
+31,E,,c,,,c. The engine shall be started and operated only when all co-workers are clear of the saw and then in accordance with the manufacturer’s recommendations and instructions.,False,False
+31,E,,d,,,"d. The operator will shut off the saw when carrying it over slippery surfaces, through heavy brush, and when adjacent to personnel. The saw may be carried running (idle speed with the brake set) for short distances (less than 50 ft (15.2 m)) as long as it is carried to prevent contact with the chain or muffler.",False,False
+31,E,,e,,,"e. All saws shall be equipped with a clutch, chain brake (gas only), throttle trigger latch, stop switch, rear hand guard, chain catcher, vibration damper, spark arrestor, and muffler.",False,False
+31,E,,f,,,f. Chainsaw chains shall be kept sharp and properly adjusted.,False,False
+31,E,,g,,,g. Chainsaws shall be operated per Section 13.F.,True,False
+31,E,,h,,,"h. Additional PPE for chainsaw use includes chaps, safety boots, and hearing protection. Hearing protection may not be needed on hydraulic saws.",False,False
+31,E,,i,,,i. Gas-powered chainsaws shall be equipped with a control that will return the saw to idling speed when released.,False,False
+31,E,,j,,,"j. A chainsaw shall not be left running while a climber is ascending, descending or moving any considerable lateral distance in the tree.",False,False
+31,E,8.0,,,,31.E.08 Chopping tools.,True,False
+31,E,8.0,a,,,a. Chopping tools that have loose or cracked heads or splintered handles shall not be used.,False,False
+31,E,8.0,b,,,b. Chopping tools shall never be used while working aloft.,False,False
+31,E,8.0,c,,,"c. Chopping tools shall be swung away from the feet, legs, and body, using the minimum power practical for control.",False,False
+31,E,8.0,d,,,d. Chopping tools shall not be driven as wedges or used to drive metal wedges.,False,False
+31,E,8.0,e,,,e. All edged tools and blades shall be properly sheathed when not in use.,False,False
+31,E,9.0,,,,"31.E.09 Cant hooks, tongs, and carrying bars.",True,False
+31,E,9.0,a,,,a. Hooks shall be firmly set before applying pressure.,False,False
+31,E,9.0,b,,,b. Workers shall be warned and shall be in the clear before logs are moved.,False,False
+31,E,9.0,c,,,c. The points of hooks shall be at least 2 in (5 cm) long and shall be kept sharp.,False,False
+31,E,9.0,d,,,d. Workers shall stand to the rear and uphill when rolling logs.,False,False
+31,E,10.0,,,,31.E.10 Wedges and chisels.,True,False
+31,E,10.0,a,,,a. Wedges and chisels shall be properly pointed and tempered.,False,False
+31,E,10.0,b,,,"b. Only wood, plastic, or soft metal wedges shall be used with power saws.",False,False
+31,E,10.0,c,,,c. Wood-handled chisels should be protected with a ferrule on the striking end.,False,False

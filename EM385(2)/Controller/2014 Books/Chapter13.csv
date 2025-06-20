@@ -1,0 +1,118 @@
+chapter,section,topic,refOne,refTwo,refThree,content,highlight,bookmark
+13,A,,,,,13.A General.,True,False
+13,A,1.0,,,,13.A.01 Power tools shall be of a manufacturer listed by a nationally recognized testing laboratory for the specific application for which they are to be used.,True,False
+13,A,2.0,,,,"13.A.02 Use, inspection, and maintenance.",True,False
+13,A,2.0,a,,,"a. Hand and power tools shall be used, inspected, and maintained in accordance with the manufacturer's instructions and recommendations and shall be used only for the purpose for which designed. A copy of the manufacturer's instructions and recommendations shall be maintained with the tools.",False,False
+13,A,2.0,b,,,"b. Hand and power tools shall be inspected, tested, and determined to be in safe operating condition before use. Continued daily inspections shall be made to assure safe operating condition and proper maintenance.",False,False
+13,A,2.0,c,,,c. Hand and power tools shall be in good repair and with all required safety devices installed and properly adjusted. Tools having defects that will impair their strength or render them unsafe shall be removed from service.,False,False
+13,A,3.0,,,,13.A.03 Guarding.,True,False
+13,A,3.0,a,,,a. Power tools designed to accommodate guards shall be equipped with such guards. All guards must be functional.,False,False
+13,A,3.0,b,,,"b. Reciprocating, rotating, and moving parts of equipment shall be guarded if exposed to contact by employees or otherwise create a hazard.",False,False
+13,A,4.0,,,,"13.A.04 When work is being performed overhead, tools not in use shall be secured or placed in holders.",True,False
+13,A,5.0,,,,"13.A.05 Throwing tools or materials from one location to another or from one person to another, or dropping them to lower levels, shall not be permitted.",True,False
+13,A,6.0,,,,13.A.06 Only non-sparking tools shall be used in locations where sources of ignition may cause a fire or explosion.,True,False
+13,A,7.0,,,,"13.A.07 Tools requiring heat treating or redressing shall be tempered, formed, dressed, and sharpened by personnel who are experienced in these operations.",True,False
+13,A,8.0,,,,"13.A.08 The use of cranks on hand-powered winches or hoists is prohibited unless the hoists or winches are provided with positive self-locking dogs. Hand wheels with exposed spokes, projecting pins, or knobs shall not be used.",True,False
+13,A,9.0,,,,"13.A.09 Hydraulic fluid used in powered tools shall retain its operating characteristics at the most extreme temperatures to which it will be exposed. > For underground use, see Section 26.D.07.",True,False
+13,A,10.0,,,,"13.A.10 Manufacturers' safe operating pressures for hydraulic hoses, valves, pipes, filters and other fittings shall not be exceeded.",True,False
+13,A,11.0,,,,13.A.11 All hydraulic or pneumatic tools that are used on or around energized lines or equipment shall have non-conducting hoses of adequate strength for the normal operating pressures.,True,False
+13,A,12.0,,,,"13.A.12 When fuel-powered tools are used in confined or enclosed spaces, the requirements for concentrations of toxic gases as outlined in Sections 5 and 34 of this manual, shall apply.",True,False
+13,A,13.0,,,,13.A.13 Clothing.,True,False
+13,A,13.0,a,,,a. PPE shall be used as outlined in Section 5 of this manual.,False,False
+13,A,13.0,b,,,"b. Loose and frayed clothing, loose long hair, dangling jewelry (including dangling earrings, chains, and wrist watches) shall not be worn while working with any power tool.",False,False
+13,A,14.0,,,,"13.A.14 For grounding requirements, see Section 11.",True,False
+13,A,15.0,,,,13.A.15 An electrical power control shall be provided on each machine/power tool to make it possible for the operator to cut off the power for the machine/power tool without leaving the point of operation.,True,False
+13,A,16.0,,,,"13.A.16 On applications where injury to the operator might result if motors were to restart after power failure, provisions shall be made to prevent machines from automatically restarting upon restoration of power.",True,False
+13,A,17.0,,,,13.A.17 Floor- and bench-mounted power tools shall be anchored or securely clamped to a firm foundation. Anchoring or securing shall be sufficient to withstand lateral or vertical movement.,True,False
+13,B,,,,,13.B Grinding and Abrasive Machinery.,True,False
+13,B,1.0,,,,"13.B.01 With the exception of the following, abrasive wheels shall be used only on machines provided with safety guards. > See ANSI B74.2 for descriptions of abrasive wheel types.",True,False
+13,B,1.0,a,,,a. Wheels used for internal work while within the work being ground;,False,False
+13,B,1.0,b,,,"b. Mounted wheels, 2 in (5 cm) and smaller in diameter, used in portable operations;",False,False
+13,B,1.0,c,,,"c. Types 16, 17, 18, 18R, and 19 cones and plugs and threaded hole pot balls where the work offers protection or where the size does not exceed 3 in (7.6 cm) in diameter by 5 in (12.7 cm) long;",False,False
+13,B,1.0,d,,,"d. Type 1 wheels not larger than 2 in (5 cm) in diameter and not more than ½ in (1.2 cm) thick, operated at peripheral speeds less than 1800 surface-feet per minute (ft/min) (9.1 surface-m/s) when mounted in mandrels driven by portable drills;",False,False
+13,B,1.0,e,,,"e. Type 1 reinforced wheels not more than 3 in (7.6 mm) in diameter and ¼ in (6 mm) in thickness, operating at peripheral speeds not exceeding 9500 surface-ft/min (48.3 surface-m/s), if safety glasses and face shield protection are worn.",False,False
+13,B,2.0,,,,13.B.02 Tongue guards on bench/stand grinders shall be adjustable to within ¼ in (6 mm) of the constantly decreasing diameter of the wheel at the upper opening.,True,False
+13,B,3.0,,,,13.B.03 Grinders shall be supplied with power sufficient to maintain the spindle speed at safe levels under all conditions of normal operation.,True,False
+13,B,4.0,,,,13.B.04 Work or tool rests shall not be adjusted while the grinding wheel is in motion.,True,False
+13,B,5.0,,,,13.B.05 Work/tool rests on power grinders shall not be more than 1/8 in (3 mm) distance from the wheel.,True,False
+13,B,6.0,,,,13.B.06 Abrasive wheels shall be closely inspected and ring-tested before mounting. Cracked or damaged grinding wheels shall be destroyed.,True,False
+13,B,7.0,,,,13.B.07 Grinding wheels shall not be operated in excess of their rated safe speed.,True,False
+13,B,8.0,,,,13.B.08 Floor stand and bench-mounted abrasive wheels used for external grinding shall be provided with safety guards (protective hoods).,True,False
+13,B,8.0,a,,,"a. The maximum angular exposure of the grinding wheel periphery and sides shall be not more than 90°, except that when work requires contact with the wheel below the horizontal plane of the spindle the angular exposure shall not exceed 125°; in either case, the exposure shall begin not more than 65° above the horizontal plane of the spindle.",False,False
+13,B,8.0,b,,,b. Safety guards shall be strong enough to withstand the effect of a bursting wheel.,False,False
+13,C,,,,,13.C Power Saws and Woodworking Machinery.,True,False
+13,C,1.0,,,,13.C.01 Woodworking machinery shall be operated and maintained in accordance with ANSI 01.1.,True,False
+13,C,2.0,,,,13.C.02 Guarding.,True,False
+13,C,2.0,a,,,"a. Circular saws shall be equipped with guards that automatically and completely enclose the cutting edges, splitters, and anti kickback devices.",False,False
+13,C,2.0,b,,,b. Portable power-driven circular saws shall be equipped with guards above and below the base plate or shoe.,False,False
+13,C,2.0,b,1.0,,"(1) The upper and lower guards shall cover the saw to the depth of the teeth, except for the minimum arc required to permit the base to be tilted for bevel cuts and for the minimum arc required to allow proper retraction and contact with the work, respectively.",False,False
+13,C,2.0,b,2.0,,"(2) When the tool is withdrawn from the work, the lower guard shall automatically and instantly return to the covering position.",False,False
+13,C,2.0,c,,,c. Blades of planers and jointers shall be fully guarded and have cylindrical heads with throats in the cylinder.,False,False
+13,C,2.0,d,,,d. Band saw blades shall be fully enclosed except at the point of operation.,False,False
+13,C,3.0,,,,13.C.03 Automatic feeding devices shall be installed on machines whenever possible. Feeder attachments shall have the feed rolls or other moving parts covered or guarded so as to protect the operator from hazardous points.,True,False
+13,C,4.0,,,,"13.C.04 The operating speed shall be permanently marked on circular saws more than 20 in (50.8 cm) in diameter or operating at over 10,000 peripheral ft/minute (min) (50.8 peripheral m/s).",True,False
+13,C,4.0,a,,,a. Saws shall not be operated at a speed other than that marked on the blade.,False,False
+13,C,4.0,b,,,"b. When a marked saw is re-tensioned for a different speed, the marking shall be corrected to show the new speed.",False,False
+13,C,5.0,,,,13.C.05 Radial arm power saws shall be equipped with an automatic brake.,True,False
+13,C,6.0,,,,13.C.06 The table of radial arm or swing saws shall extend beyond the leading edge of the saw blade.,True,False
+13,C,7.0,,,,13.C.07 Radial arm power saws shall be installed in such a manner that the cutting head will return to the starting position when released by the operator. All swing cutoff and radial saws or similar machines that are drawn across a table shall be equipped with limit stops to prevent the leading edge of the tool from traveling beyond the edge of the table.,True,False
+13,C,8.0,,,,13.C.08 Each hand-fed crosscut table saw and each hand-fed circular ripsaw shall have a spreader to prevent the material from squeezing the saw or being thrown back on the operator.,True,False
+13,C,9.0,,,,13.C.09 Operating procedures.,True,False
+13,C,9.0,a,,,a. Band saws and other machinery requiring warm-up for safe operation shall be permitted to warm up before being put into operation whenever the temperature is below 45°F (7°C).,False,False
+13,C,9.0,b,,,"b. A push-stick, block, or other safe means shall be used on all operations close to high-speed cutting edges.",False,False
+13,C,9.0,c,,,"c. The use of cracked, bent, or otherwise defective parts such as saw blades, cutters, or knives is prohibited.",False,False
+13,C,9.0,d,,,"d. A brush shall be provided for the removal of sawdust, chips, and shavings on all woodworking machinery.",False,False
+13,C,9.0,e,,,e. Power saws shall not be left running unattended.,False,False
+13,D,,,,,13.D Pneumatic Power Tools.,True,False
+13,D,1.0,,,,13.D.01 Safety clips or retainers shall be installed and maintained on pneumatic impact (percussion) tools to prevent attachments from being accidentally expelled.,True,False
+13,D,1.0,a,,,a. All hoses exceeding ½-in (1.3 cm) inside diameter shall have a safety device at the source of supply or branch line to reduce pressure in case of hose failure.,False,False
+13,D,1.0,b,,,b. Compressed air pressure and volume shall be regulated according to manufacturer’s rating for the tool.,False,False
+13,D,2.0,,,,13.D.02 Pressure shall be shut off and exhausted from the line before disconnecting the line from any tool or connection.,True,False
+13,D,3.0,,,,13.D.03 A safety lashing shall be provided at connections between tool and hose and at all quick makeup type connections.,True,False
+13,D,4.0,,,,13.D.04 Hoses shall not be used for hoisting or lowering tools.,True,False
+13,D,5.0,,,,"13.D.05 Airless spray guns of the type which atomize paints and fluids at high pressures [1,000 lb (453.5 kg) or more, per square inch] shall be equipped with automatic or visible manual safety devices which will prevent pulling of the trigger to prevent release of the paint or fluid until the safety device is manually released. In lieu of the above, a diffuser nut that will prevent high-pressure velocity release while the nozzle tip is removed plus a nozzle tip guard that will prevent the tip from coming into contact with the operator, or other equivalent protection may be provided.",True,False
+13,D,6.0,,,,13.D.06 Impact wrenches shall be provided with a locking device for retaining the socket.,True,False
+13,E,,,,,13.E Explosive-Actuated Tools.,True,False
+13,E,1.0,,,,13.E.01 Explosive-actuated (powder-actuated) tools shall meet the design requirements of ANSI A10.3.,True,False
+13,E,2.0,,,,13.E.02 Only qualified operators shall operate explosive-actuated tools. A qualified operator is one who has:,True,False
+13,E,2.0,a,,,"a. Been trained by an authorized instructor (one who has been trained, authorized, and provided an authorized instructor's card by the tool manufacturer or by an authorized representative of the tool manufacturer);",False,False
+13,E,2.0,b,,,b. Passed a written examination provided by the manufacturer of the tool; and,False,False
+13,E,2.0,c,,,c. Possesses a qualified operator's card supplied by the manufacturer and issued and signed by both the instructor and the operator.,False,False
+13,E,3.0,,,,13.E.03 Each tool shall be provided with the following:,True,False
+13,E,3.0,a,,,"a. A lockable container with the words POWDER- ACTUATED TOOL"" in plain sight on the outside and a notice reading ""WARNING - POWDER-ACTUATED TOOL TO BE USED ONLY BY A QUALIFIED OPERATOR AND KEPT UNDER LOCK AND KEY WHEN NOT IN USE"" on the inside;""",False,False
+13,E,3.0,b,,,b. Operator’s instruction and service manual;,False,False
+13,E,3.0,c,,,c. Power load and fastener charts;,False,False
+13,E,3.0,d,,,d. Tool inspection record; and,False,False
+13,E,3.0,e,,,e. Service tools and accessories.,False,False
+13,E,4.0,,,,13.E.04 Inspection and testing.,True,False
+13,E,4.0,a,,,"a. Daily inspection, cleaning, and testing shall be performed as recommended by the manufacturer.",False,False
+13,E,4.0,b,,,"b. Explosive-actuated tools shall be tested, in accordance with the manufacturer's recommended procedure, each day before loading to see that safety devices are in proper working condition.",False,False
+13,E,4.0,c,,,"c. Explosive-actuated tools shall be inspected, thoroughly cleaned, and tested after each 1,000 fastenings.",False,False
+13,E,5.0,,,,13.E.05 Explosive-actuated tools and the charges shall be secured at all times to prevent unauthorized possession or use.,True,False
+13,E,6.0,,,,13.E.06 Explosive-actuated tools shall not be loaded until just before the intended firing time. Neither loaded nor empty tools are to be pointed at any employees. Hands shall be kept clear of the open barrel end.,True,False
+13,E,7.0,,,,13.E.07 The use of explosive-actuated tools is prohibited in explosive or flammable atmospheres.,True,False
+13,E,8.0,,,,13.E.08 Fasteners shall not be driven:,True,False
+13,E,8.0,a,,,a. Into soft or easily penetrable materials unless they are backed by a material that will prevent the fastener from passing through to the other side;,False,False
+13,E,8.0,b,,,"b. Into very hard or brittle material, such as cast iron, hardened steel, glazed or hollow tile, glass block, brick, or rock;",False,False
+13,E,8.0,c,,,c. Into concrete unless the material thickness is at least three times the penetration of the fastener shank; or,False,False
+13,E,8.0,d,,,d. Into spalled concrete.,False,False
+13,E,9.0,,,,"13.E.09 The tool operator shall wear appropriate PPE, to include eye protection, hard hats, safety shoes and hearing protection as required. > See Section 5.",True,False
+13,E,10.0,,,,"13.E.10 If the powder-actuated tool misfires, the employee shall wait at least 30 seconds, then try firing again. If the tool will not fire after a second attempt, the employee shall wait at least another 30 seconds before removing the faulty cartridge. The faulty cartridge shall be placed in water until disposal. Disposal shall follow manufacturer’s instructions. 13.F  Chainsaws.",True,False
+13,F,1.0,,,,13.F.01  Chainsaws shall have an automatic chain brake or kickback device.,True,False
+13,F,2.0,,,,13.F.02 The idle speed shall be adjusted so that the chain does not move when the engine is idling.,True,False
+13,F,3.0,,,,13.F.03 See Section 5 for proper PPE.,True,False
+13,F,4.0,,,,"13.F.04  Chainsaws will not be fueled while running, while hot, or near an open flame. Saws will not be started within 10 ft (3 m) of a fuel container.",True,False
+13,F,5.0,,,,13.F.05 The operator will hold the saw with both hands during all cutting operations.,True,False
+13,F,6.0,,,,13.F.06 A chainsaw must never be used to cut above the operators' shoulder height.,True,False
+13,F,7.0,,,,13.F.07 See Section 31 for tree maintenance and removal requirements. 13.G Abrasive Blasting Equipment.,True,False
+13,G,1.0,,,,13.G.01 Hose and hose connections shall be designed to prevent build up of static electricity.,True,False
+13,G,2.0,,,,13.G.02  Connections and nozzles shall be designed to prevent accidental disengagement. All connections shall be equipped with safety lashings. > See Sections 20.A.16 and 20.A.17.,True,False
+13,G,3.0,,,,13.G.03  Nozzle attachments shall be of metal and fit on the outside of the hose. A deadman-type control device shall be provided at the nozzle to cut off the flow if the operator loses control of hose. A support shall be provided on which the nozzle may be mounted when it is not in use.,True,False
+13,G,4.0,,,,13.G.04  Additional requirements on abrasive blasting are in Sections 5 and 6. 13.H Power-Driven Nailers and Staplers.,True,False
+13,H,1.0,,,,"13.H.01 This section applies to hand-held electric, combustion or pneumatically-driven nailers, staplers, and other similar equipment (referred to as “nailers” in this section) which operate by ejecting a fastener into the material to be fastened when a trigger, lever, or other manual device is actuated. This does not apply to common spring-loaded “staple guns”.",True,False
+13,H,2.0,,,,13.H.02 Nailers shall have a safety device on the muzzle to prevent the tool from ejecting fasteners unless the muzzle is in contact with the work surface. The contact trip device or trigger shall not be secured in an “on” position.,True,False
+13,H,3.0,,,,"13.H.03 Nailers shall be operated in a way to minimize the danger to others and the operator from ricochets, air-firing, and firing through materials being fastened.",True,False
+13,H,3.0,a,,,"a. Except when used for attaching sheet goods (sheathing, sub-flooring, plywood, etc.) or roofing products, nailers shall be operated with a sequential trigger system that requires the surface contact trip device to be depressed before the firing trigger can be activated and that limits ejection to one nail per trigger pull before resetting.",False,False
+13,H,3.0,b,,,"b. When used for sheet goods and roofing materials, nailers may be operated in the contact trip mode (bump or bounce-nailing) only as allowed by the manufacturer. This mode may only be used when the operator has secure footing, such as on a work platform, floor or deck, and shall not be used when the operator is on a ladder, beam, or similar situations where the operator’s balance and/ or reach may be unstable.",False,False
+13,H,4.0,,,,"13.H.04  Workers that use nailers shall wear appropriate PPE, to include eye protection, hard hats, safety shoes and hearing protection as required. > See Section 5.",True,False
+13,H,5.0,,,,"13.H.05 When clearing a nail jam or performing maintenance on the nailer, the air hose shall be disconnected. > Use proper Hazardous Energy Control procedures per Section 12.",True,False

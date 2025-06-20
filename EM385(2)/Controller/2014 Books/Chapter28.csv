@@ -1,0 +1,80 @@
+chapter,section,topic,refOne,refTwo,refThree,content,highlight,bookmark
+28,A,,,,,"28.A General. The fall protection threshold height requirement is 6 ft (1.8 m) for ALL work covered by this manual, unless specified differently below, whether performed by Government or Contractor work forces, to include steel erection activities and systems-engineered activities (prefabricated) metal buildings. > See Section 21.",True,False
+28,A,1.0,,,,"28.A.01 Construction loads shall not be placed on a structure or portion of a structure unless the employer determines, based on information from a person who is qualified in structural design, that the structure or portion of the structure is capable of supporting the loads.",True,False
+28,A,2.0,,,,"28.A.02 Employees shall not be permitted to work above or in positions exposed to protruding reinforcing steel, fasteners, or other impalement hazards unless provisions have been made to control the hazard.",True,False
+28,A,3.0,,,,"28.A.03 No employee shall be permitted to work under bundled material loads or other suspended loads. Riggers securing lower loads to multi-lift rigging assemblies and workers setting suspended structural components such as beams, trusses, and precast members are excluded from this requirement. In these cases, work controls should be used to minimize the time spent directly under loads.",True,False
+28,B,,,,,28.B Structural Steel Assembly.,True,False
+28,B,1.0,,,,"28.B.01 Prior to beginning the erection of any structural steel, a Steel Erection Plan shall be submitted to the GDA for review and acceptance. The plan will include the identification of the site and project; and will be signed and dated by the Qualified Person (QP) responsible for its preparation and modification. This plan shall include the following information, as applicable to the particular project.",True,False
+28,B,1.0,a,,,"a. The sequence of erection activity, developed in coordination with the Controlling contractor that includes the following:",False,False
+28,B,1.0,a,1.0,,(1) Material deliveries;,False,False
+28,B,1.0,a,2.0,,(2) Material staging and storage; and,False,False
+28,B,1.0,a,3.0,,(3) Coordination with other trades and construction activities.,False,False
+28,B,1.0,b,,,"b. A description of the crane and derrick selection and placement procedures, including the following:",False,False
+28,B,1.0,b,1.0,,(1) Site preparation;,False,False
+28,B,1.0,b,2.0,,(2) Path for overhead loads; and,False,False
+28,B,1.0,b,3.0,,"(3) Identification of any lifts classified as critical lifts, requiring separate plans.",False,False
+28,B,1.0,b,4.0,,"(4) If load handling equipment (LHE) other than crane or derrick (e.g., All-Terrain Forklifts, Powered Industrial Trucks, etc.) is used, it must be used in accordance with the manufacturer’s instructions. If LHE is used with rigging, see also Section 16.",False,False
+28,B,1.0,c,,,"c. A description of steel erection activities and procedures, including the following:",False,False
+28,B,1.0,c,1.0,,(1) Stability considerations requiring temporary bracing and guying;,False,False
+28,B,1.0,c,2.0,,(2) Erection bridging terminus point;,False,False
+28,B,1.0,c,3.0,,"(3) Anchor rod (anchor bolt) notifications regarding repair, replacement and modifications;",False,False
+28,B,1.0,c,4.0,,(4) Columns and beams (including joists and purlins);,False,False
+28,B,1.0,c,5.0,,(5) Connections;,False,False
+28,B,1.0,c,6.0,,(6) Decking; and,False,False
+28,B,1.0,c,7.0,,(7) Ornamental and miscellaneous iron.,False,False
+28,B,1.0,d,,,d. A description of the fall protection procedures that will be used;,False,False
+28,B,1.0,e,,,e. A description of the procedures that will be used to comply with this section including;,False,False
+28,B,1.0,e,1.0,,(1) Activity hazard analysis in accordance with Section 1 of this manual;,False,False
+28,B,1.0,e,2.0,,(2) A certification for each employee who has received training for performing steel erection operations as required by 29 CFR 1926.761;,False,False
+28,B,1.0,e,3.0,,(3) A list of the QPs and CPs; and,False,False
+28,B,1.0,e,4.0,,(4) A description of the procedures that will be utilized in the event of rescue or emergency response.,False,False
+28,B,2.0,,,,28.B.02 Steel erection activities include:,True,False
+28,B,2.0,a,,,"a. Hoisting, laying out, placing, connecting, welding, burning, guying, bracing, bolting, plumbing, and rigging structural steel, steel joists and metal buildings;",False,False
+28,B,2.0,b,,,"b. Installing metal decking, miscellaneous metals, ornamental iron, and similar materials; and",False,False
+28,B,2.0,c,,,c. Moving point-to-point while performing these activities.,False,False
+28,B,3.0,,,,28.B.03  Refer to 29 CFR 1926.750 (b)(2) for a list of activities that are covered (but may not normally be considered) and that occur during and are a part of steel erection activities.,True,False
+28,B,4.0,,,,"28.B.04  Written notifications. Before authorizing the commencement of steel erection, the Controlling contractor shall ensure that the steel erector is provided with the following written notifications:",True,False
+28,B,4.0,a,,,"a. The concrete in the footings, piers, and walls has attained, on the basis of an appropriate ASTM standard test method of field-cured samples, either 75% of the intended minimum compressive design strength or sufficient strength to support the loads imposed during steel erection.",False,False
+28,B,4.0,b,,,"b. Any repairs, replacements, and modifications to the anchor bolts were conducted in accordance with contract specifications and/or project structural engineer of record.",False,False
+28,B,4.0,c,,,"c. A steel erection contractor shall not erect steel unless it has received written notification that the concrete in the footings, piers and walls has attained, on the basis of an appropriate ASTM standard test method of field-cured samples, either 75% of the intended minimum compressive design strength or sufficient strength to support the loads imposed during steel erection.",False,False
+28,B,4.0,d,,,d. Both steel and concrete contractors will keep a copy of this written notification on-site.,False,False
+28,B,5.0,,,,28.B.05 Site layout. The Controlling contractor shall ensure that the following is provided and maintained:,True,False
+28,B,5.0,a,,,"a. Adequate access roads into and through the site for the safe delivery and movement of derricks, cranes, trucks, other necessary equipment, and the material to be erected; and means and methods for pedestrian and vehicular control.",False,False
+28,B,5.0,a,,,Exception: This requirement does not apply to roads outside of the construction site.,False,False
+28,B,5.0,b,,,"b. An adequately compacted, properly graded, drained area readily accessible to the work with adequate space for the safe storage of materials and the safe operation of the erector's equipment.",False,False
+28,B,5.0,c,,,c. Pre-planning of overhead hoisting operations. All hoisting operations in steel erection shall be pre-planned.,False,False
+28,B,6.0,,,,28.B.06 Load Handling Equipment (LHE) and rigging. All applicable requirements of Sections 15 and 16 apply to this Section.,True,False
+28,B,7.0,,,,"28.B.07 Inspection of LHE (cranes, hoists, etc). A CP shall visually inspect LHE being used in steel erection activities prior to each shift as per Section 16.D.",True,False
+28,B,8.0,,,,"28.B.08  Deficiencies. If any deficiency is identified on the LHE, an immediate determination shall be made by the CP as to whether the deficiency constitutes a hazard.",True,False
+28,B,8.0,a,,,"a. If the deficiency constitutes a hazard, the LHE shall be removed from service until the deficiency has been corrected.",False,False
+28,B,8.0,b,,,"b. The operator shall be responsible for the operations under his/her’s direct control. Whenever there is any doubt as to safety, the operator shall have the authority to stop and refuse to handle loads until safety has been assured.",False,False
+28,B,9.0,,,,28.B.09 A Qualified Rigger shall inspect the rigging prior to each shift.,True,False
+28,B,10.0,,,,"28.B.10 The headache ball, hook, or load shall not be used to transport personnel.",True,False
+28,B,11.0,,,,28.B.11 LHE may be used to hoist employees on a personnel platform when all applicable provisions of Section 16.T have been met.,True,False
+28,B,12.0,,,,28.B.12 Safety latches on hooks shall not be deactivated or made inoperable.,True,False
+28,B,13.0,,,,28.B.13 Structural steel assembly.,True,False
+28,B,13.0,a,,,a. Structural stability shall be maintained at all times during the erection process.,False,False
+28,B,13.0,b,,,b. The following additional requirements shall apply for multi-story structures:,False,False
+28,B,13.0,b,1.0,,"(1) The permanent floors shall be installed as the erection of structural members progresses, and there shall be not more than eight stories between the erection floor and the upper-most permanent floor, except where the structural integrity is maintained as a result of the design.",False,False
+28,B,13.0,b,2.0,,"(2) At no time shall there be more than four floors or 48 ft (14.6 m), whichever is less, of unfinished bolting or welding above the foundation or uppermost permanently secured floor, except where the structural integrity is maintained as a result of the design.",False,False
+28,B,14.0,,,,28.B.14 Walking/working surfaces.,True,False
+28,B,14.0,a,,,a. Shear connectors and other similar devices.,False,False
+28,B,14.0,a,1.0,,"(1) Tripping hazards. Shear connectors (such as headed steel studs, steel bars, or steel lugs), reinforcing bars, deformed anchors or threaded studs shall not be attached to the top flanges of beams, joists, or beam attachments so that they project vertically from or horizontally across the top flange of the member until after the metal decking, or other walking/working surface, has been installed.",False,False
+28,B,14.0,a,2.0,,"(2) Installation of shear connectors on composite floors, roofs, and bridge decks. When shear connectors are used in construction of composite floors, roofs, and bridge decks, employees shall lay out and install the shear connectors after the metal decking has been installed, using the metal decking as a working platform.",False,False
+28,B,14.0,b,,,b. Bracing.,False,False
+28,B,14.0,b,1.0,,"(1) When deemed necessary by a CP, temporary erection bracing equipment shall be installed in conjunction with the steel erection process to ensure the stability of the structure.",False,False
+28,B,14.0,b,2.0,,"(2) When used, bracing equipment shall be in place and properly installed before the structure is loaded with construction material such as loads of joists, bundles of decking, or bundles of bridging.",False,False
+28,B,14.0,b,3.0,,(3) Bracing equipment shall be removed only with the approval of a CP.,False,False
+28,B,14.0,c,,,"c. Metal decking - Hoisting, landing, and placing of metal decking bundles.",False,False
+28,B,14.0,c,1.0,,(1) Bundle packaging and strapping shall not be used for hoisting unless specifically designed for that purpose.,False,False
+28,B,14.0,c,2.0,,"(2) If loose items such as dunnage, flashing, or other materials are placed on the top of metal decking bundles to be hoisted, such items shall be secured to the bundles.",False,False
+28,B,14.0,c,3.0,,(3) Bundles of metal decking on joists shall be landed in accordance with Section 28.B.26.,True,False
+28,B,14.0,c,4.0,,(4) Metal decking bundles shall be landed on framing members so that enough support is provided to allow the bundles to be unbanded without dislodging the bundles from the supports.,False,False
+28,B,14.0,c,5.0,,"(5) At the end of the shift or when environmental or jobsite conditions require, metal decking shall be secured against displacement.",False,False
+28,B,14.0,c,6.0,,(6) Roof and floor holes and openings. Metal decking at roof and floor holes and openings shall be installed as follows:,False,False
+28,B,14.0,c,6.0,a,(a) Framed metal deck openings shall have structural members turned down to allow continuous deck installation except where not allowed by structural design constraints or constructability.,False,False
+28,B,14.0,c,6.0,b,(b) Roof and floor holes and openings shall be decked over or protected in accordance with Section 24.,False,False
+28,B,14.0,c,6.0,c,"(c) Metal decking holes and openings shall not be cut until immediately prior to being permanently filled with the equipment or structure needed or intended to fulfill its specific use and that meets the strength requirements of Section 24, or shall be immediately covered or guarded.",False,False
+28,B,15.0,,,,28.B.15 Installation of metal decking.,True,False
+28,B,15.0,a,,,"a. Metal decking shall be laid tightly and secured upon placement to prevent accidental movement or displacement. A maximum of 3,000 ft2 (278.7 m2) may be laid before securing.",False,False
+28,B,15.0,b,,,b. During initial placement metal-decking panels shall be placed to ensure full support by structural members.,False,False

@@ -25,7 +25,7 @@ class SettingsViewController: UIViewController {
     @IBAction func WaiverButtonPressed() {
     }
     
-    @IBOutlet weak var themeSwitch: UISwitch! // Connect this to your UISwitch in Storyboard
+    @IBOutlet weak var themeSwitch: UISwitch!
 
 
     @IBAction func switchTheme(_ sender: UISwitch) {
@@ -40,18 +40,9 @@ class SettingsViewController: UIViewController {
         }
     }
 
-    @IBAction func darkModePressed(_sender: UIButton) {
-//        guard let windowScene = view.window?.windowScene else { return }
-//           
-//           let currentStyle = windowScene.windows.first?.overrideUserInterfaceStyle
-//           
-//           if currentStyle == .light {
-//               windowScene.windows.forEach { $0.overrideUserInterfaceStyle = .dark }
-//               UserDefaults.standard.set("dark", forKey: "theme")
-//               darkModePressed(_sender: <#T##UIButton#>).label = "Light Mode"
-//           } else {
-//               windowScene.windows.forEach { $0.overrideUserInterfaceStyle = .light }
-//               UserDefaults.standard.set("light", forKey: "theme")
-//           }
+    @IBAction func tutorialPressed(_ sender: UIButton) {
+        
     }
+    
+    
 }

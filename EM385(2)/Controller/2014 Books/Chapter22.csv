@@ -1,0 +1,522 @@
+chapter,section,topic,refOne,refTwo,refThree,content,highlight,bookmark
+22,A,,,,,"22.A General. This Section establishes safety requirements for the construction, operation, maintenance and use of work platforms and scaffolding used in construction alteration, demolition, operations and maintenance of buildings and other structures. It does not apply to permanently installed scaffolds or platforms.",True,False
+22,A,1.0,,,,"22.A.01 Scaffolding and work platforms shall be erected, used, inspected, tested, maintained, and repaired in accordance with:",True,False
+22,A,1.0,a,,,"a. For non-mechanized equipment - ANSI A10.8, Scaffolding Safety Requirements, or the Scaffolding, Shoring, and Forming Institute’s Code of Safe Practices, and the manufacturer’s operating manual.",False,False
+22,A,1.0,b,,,"b. For mechanized equipment - the manufacturer’s operating manual, a copy of the manual shall be available at the work site.",False,False
+22,A,2.0,,,,22.A.02 Work platforms and scaffolding shall comply with fall protection (FP) and appropriate access requirements of Sections 21 and 24.,True,False
+22,A,2.0,a,,,a. All requirements of this Section shall be applied to work platforms and means of access.,False,False
+22,A,2.0,b,,,b. Standard railings and handrails for stairs shall be in compliance with the requirements of Sections 24.C and 24.E.,True,False
+22,A,2.0,c,,,c. Standard guardrails shall be in compliance with Section 21.F.01.,True,False
+22,A,2.0,c,1.0,,(1) Cross bracing is acceptable in place of a midrail when the crossing point of two braces is between 20 in (0.5 m) and 30 in (0.8 m) above the work platform.,False,False
+22,A,2.0,c,2.0,,(2) Cross bracing is acceptable as a toprail when the crossing point of two braces is between 38 in (0.97 m) and 48 in (1.3 m) above the work platform.,False,False
+22,A,2.0,c,3.0,,(3) The end points at each upright shall be no more than 48 in (1.3 m) apart.,False,False
+22,A,2.0,c,4.0,,(4) Cross bracing shall not be used for both a midrail and top rail.,False,False
+22,A,2.0,d,,,d. Personal FP devices shall be in compliance with Section 21.I;,True,False
+22,A,2.0,e,,,e. Safety (FP) nets shall be in compliance with the requirements of Section 21.H.,True,False
+22,A,2.0,f,,,f. Ladders used to access scaffolds and work platforms shall be in compliance with the requirements of this Section and Section 24.B.,True,False
+22,A,3.0,,,,"22.A.03 Prior to commencing any activity that requires work in elevated areas, all provisions for access and fall protection shall be delineated in the Site-Specific Fall Protection and Prevention Plan and Activity Hazard Analysis (AHA), per Section 21.D, and accepted by the GDA for the activity. For specific guidance related to erecting and disassembling scaffolds, see Section 21.K.",True,False
+22,A,4.0,,,,22.A.04 The following hierarchy and prohibitions shall be followed in selecting appropriate work platforms.,True,False
+22,A,4.0,a,,,"a. Scaffolds, platforms, or temporary floors shall be provided for all work except that which can be performed safely from the ground or similar footing.",False,False
+22,A,4.0,b,,,b. Ladders may be used as work platforms only when allowed by Section 24.B.,True,False
+22,A,4.0,c,,,"c. Ladder jacks, lean-to, and prop-scaffolds are prohibited.",False,False
+22,A,4.0,d,,,d. Emergency descent devices shall not be used as working platforms.,False,False
+22,A,5.0,,,,"22.A.05 Work platforms and scaffolds shall not be erected or used in the immediate vicinity of power lines or electrical conductors until such are insulated, de-energized, or otherwise rendered safe against accidental contact.  >See Section 11.F.",True,False
+22,B,,,,,22.B Scaffolds (excludes Elevating Aerial Work Platforms). >See Section 22.L.,True,False
+22,B,1.0,,,,"22.B.01 An AHA shall be prepared by the contractor performing the work and submitted to the GDA prior to erection. The AHA will address all of the following elements, if applicable. If not applicable, reasoning shall be provided.",True,False
+22,B,1.0,a,,,"a. Site conditions (ground conditions, overhead utilities, etc.);",False,False
+22,B,1.0,b,,,b. Identity of specific type of scaffolding to be used;,False,False
+22,B,1.0,c,,,"c. Scaffold dimensions to include height, width, depth and length;",False,False
+22,B,1.0,d,,,d. Load calculation for the anticipated work load and wind loading;,False,False
+22,B,1.0,e,,,"e. The name of the Competent Person (CP) for Scaffolding, and",False,False
+22,B,1.0,f,,,f. The method of marking or barricading to be used per 22.B.21.,True,False
+22,B,2.0,,,,"22.B.02 Erection, moving, dismantling, or altering of scaffolding shall be under the supervision of a CP for Scaffolding.",True,False
+22,B,2.0,a,,,"a. A CP for scaffolding must have a documented, minimum of 8-hours of scaffold training to include training on the specific type of scaffold being used (e.g. Mast-Climbing, Adjustable, Tubular Frame, etc.).",False,False
+22,B,2.0,b,,,b. The training must include:,False,False
+22,B,2.0,b,1.0,,(1) Assessment of the base material the scaffold will be erected upon;,False,False
+22,B,2.0,b,2.0,,(2) Load calculations for materials and personnel;,False,False
+22,B,2.0,b,3.0,,"(3) Erection and dismantling; or,",False,False
+22,B,2.0,b,4.0,,(4) Training must meet the training requirements in the applicable ANSI standard.   >See Section 21.B.04.,True,False
+22,B,3.0,,,,"22.B.03 When scaffolding is in use, they will be inspected daily by the CP, prior to each shift. The inspection will be recorded on the daily safety inspection required by Section 01.A.13 and on the scaffold tag.",True,False
+22,B,4.0,,,,22.B.04 Scaffolding that has been hoisted after configuration or assembly shall be re-inspected by a CP before initial use and again after each hoisting. This inspection will be documented on the scaffold inspection tag.,True,False
+22,B,5.0,,,,22.B.05 A scaffold tagging system shall be used. All scaffolds are tagged by the CP. Tags shall:,True,False
+22,B,5.0,a,,,a. Include name and signature of the CP;,False,False
+22,B,5.0,b,,,b. Include dates of initial and all daily inspections;,False,False
+22,B,5.0,c,,,"c. Be readily visible, legible, and made from materials that will withstand the elements;",False,False
+22,B,5.0,d,,,d. Include wording that states one of the following:,False,False
+22,B,5.0,d,1.0,,(1) Scaffold is complete and safe to use;,False,False
+22,B,5.0,d,2.0,,"(2) Scaffold is incomplete, not ready for use and reasoning, or",False,False
+22,B,5.0,d,3.0,,(3) Scaffold is incomplete and unsafe to use.,False,False
+22,B,6.0,,,,"22.B.06 Anyone involved in erecting, disassembling, moving, operating, using, repairing, maintaining or inspecting a scaffold shall be trained by a CP to recognize any hazards associated with the work in question. Proof of training shall be maintained on site and made available to the GDA upon request.",True,False
+22,B,7.0,,,,"22.B.07 Where persons are required to work or pass under a scaffold, a screen (consisting of No. 18 gauge US Standard wire ½ in (1.2 cm) mesh or the equivalent) shall be provided between the toeboard and the guardrail and extending over the entire opening; or access to the potential impact area below shall be restricted.",True,False
+22,B,8.0,,,,22.B.08 Capacities.,True,False
+22,B,8.0,a,,,a. Scaffolds and their components shall meet the requirements contained in ANSI A10.8 or other applicable ANSI standard and be capable of supporting without failure at least 4 times the maximum anticipated load.,False,False
+22,B,8.0,b,,,"b. Direct connections to roofs and floors, and counterweights used to balance adjustable suspension scaffolds, shall be capable of resisting at least 4 times the tipping moment imposed by the scaffold operating at the rated load of the hoist, or 1.5 times (minimum) the tipping moment imposed by the scaffold operating at the stall load of the hoist, whichever is greater.",False,False
+22,B,9.0,,,,22.B.09 Design.,True,False
+22,B,9.0,a,,,a. The dimensions of the members and materials used in the construction of various working platforms or scaffolds shall conform to the sizes shown in the ANSI A10.8 tables.,False,False
+22,B,9.0,b,,,"b. Factory-fabricated scaffolds and components shall be designed and fabricated in accordance with the applicable ANSI standard. When there is a conflict between the ANSI standard and this manual concerning the design or fabrication of factory-fabricated scaffolds, the ANSI standard shall prevail.",False,False
+22,B,9.0,c,,,"c. Load-carrying timber members shall be a minimum of 1,500 lb-f/in2 (10,342kPa) (stress grade) construction grade lumber.",False,False
+22,B,9.0,c,1.0,,"(1) All dimensions are nominal sizes (except where rough sizes are noted) as provided by Voluntary Product Standard DOC PS20, published by NIST of the US Department of Commerce.",False,False
+22,B,9.0,c,2.0,,"(2) Where rough sizes are noted, only rough or undressed lumber of the size specified will satisfy minimum requirements.",False,False
+22,B,9.0,c,3.0,,"(3) Lumber shall be reasonably straight-grained and free of shakes, checks, splits, cross grains, unsound knots or knots in groups, decay and growth characteristics, or any other condition that will decrease the strength of the material.  > For planking, see Section 22.B.15.",True,False
+22,B,9.0,d,,,"d. When scaffolds are wrapped with tarps, poly enclosures, or similar materials; wind calculations will be calculated by a Qualified Person (QP) to determine the strength and placement of the ties.",False,False
+22,B,10.0,,,,22.B.10 Supporting members and foundations shall be of sufficient size and strength to safely distribute loading.,True,False
+22,B,10.0,a,,,"a. Supporting members shall be placed on a firm, smooth foundation that will prevent lateral displacement.",False,False
+22,B,10.0,b,,,"b. Unstable objects such as barrels, boxes, loose bricks, or concrete blocks shall not be used as supports.",False,False
+22,B,10.0,c,,,"c. Vertical members (i.e., poles, legs, or uprights) shall be plumb and securely braced to prevent swaying or displacement.",False,False
+22,B,11.0,,,,"22.B.11 The design and construction or selection of solid wood planking and platform for means of access shall be based upon either the number of persons for which they are rated or the uniform load distribution to which they will be subjected, whichever is the more restrictive.",True,False
+22,B,12.0,,,,22.B.12 Scaffolds shall be plumb and level unless engineered and designed to contour as the structure does.,True,False
+22,B,13.0,,,,22.B.13 Scaffolds (other than suspended scaffolds) shall bear on base plates upon mudsills or other adequate firm foundation.,True,False
+22,B,14.0,,,,22.B.14 Working levels of work platforms shall be fully planked or decked.,True,False
+22,B,15.0,,,,22.B.15 Planking.,True,False
+22,B,15.0,a,,,a. All wood planking shall be selected for scaffold plank use as recognized by grading rules established by a recognized independent inspection agency for the species of wood used.,False,False
+22,B,15.0,b,,,"b. The maximum permissible spans for 2-in x 10-in  (5-cm x 25.4-cm) (nominal), shall be 8 ft (2.4 m) or  2-in x 9-in (5-cm x 22.8-cm) (rough) solid sawn wood planks shall be 10 ft (3 m).",False,False
+22,B,15.0,c,,,c. Fabricated planks and platforms may be used in lieu of solid sawn wood planks. Maximum spans for such units shall be as recommended by the manufacturer.,False,False
+22,B,15.0,d,,,"d. Planking shall be secured to prevent loosening, tipping, or displacement and supported or braced to prevent excessive spring or deflection. Intermediate beams shall be provided to prevent dislodgement of planks due to deflection. > See Section 24.A.04.",True,False
+22,B,15.0,e,,,e. Each platform on all working levels of scaffolds shall be fully planked or decked between the front uprights and the guardrail supports as follows:,False,False
+22,B,15.0,e,1.0,,"(1) Each platform unit (e.g. scaffold plank, fabricated plank, fabricated deck, or fabricated platform) shall be installed so that the space between adjacent units and the space between the platform and the uprights is no more than 1 in (2.5 cm) wide, except where the employer can demonstrate that a wider space is necessary (e.g., to fit around uprights when side brackets are used to extend the width of the platform).",False,False
+22,B,15.0,e,2.0,,"(2) Where the employer makes the demonstration as described in 22.B.15.e.(1), the platform shall be planked or decked as fully as possible and the remaining open space between the platform and the uprights shall not exceed 9 ½ in (24.1 cm).",True,False
+22,B,15.0,f,,,"f.  When planking is lapped in a long run, each plank shall lap its supports at least 12 in (30.4 cm). Scaffold planks shall extend over their end supports not less than 6 in (15.2 cm) (unless the planking is manufactured with restraining hooks or equivalent means of preventing movement) or more than 12 in (30.4 cm). Work surfaces shall be properly lapped or securely fastened to the scaffold.",False,False
+22,B,15.0,g,,,"g. Where the ends of planks abut each other to form a flush floor, the butt joint shall be at the centerline of a pole and abutted ends shall rest on separate bearers.",False,False
+22,B,15.0,h,,,"h. The front edge of all platforms shall not be more than 14 in (36 cm) from the face of the work, unless guardrail systems are erected along the front edge and/or personal fall arrest systems are used; the maximum distance from the face for plastering and lathing operations is 18 in (46 cm).",False,False
+22,B,15.0,i,,,"i. Planking shall be supported or braced to prevent excessive spring or deflection and secured and supported to prevent loosening, tipping, or displacement.",False,False
+22,B,15.0,j,,,"j. When a scaffold materially changes its direction, the platform planks shall be laid to prevent tipping.",False,False
+22,B,15.0,j,1.0,,"(1) The planks that meet the corner bearer at an angle shall be laid first (unless hook-on fabricated planks are used), and extend over the diagonally placed bearer far enough to have a good safe bearing, but not far enough to involve any danger from tipping, and;",False,False
+22,B,15.0,j,2.0,,(2) The planking running in the opposite direction at an angle shall be laid so as to extend over and rest on the first layer of planking.,False,False
+22,B,15.0,k,,,"k.  Planks shall be maintained in good condition. When cracks exceed 1.5 times the width of the board, the plank will not be used. Planks with notches deeper than 1/3 the width of the plank will not be used. Planks with saw kerfs shall not be used.",False,False
+22,B,16.0,,,,"22.B.16 When moving platforms to the next level, the existing platform shall be left undisturbed until the new bearers have been set to receive the platform planks.",True,False
+22,B,17.0,,,,22.B.17 Materials shall not be stored on scaffolds or runways in excess of supplies needed for that shift.,True,False
+22,B,18.0,,,,22.B.18 Access.,True,False
+22,B,18.0,a,,,a. An access ladder or equivalent safe access shall be provided.,False,False
+22,B,18.0,b,,,"b. Where a built-in ladder is part of a scaffold system, it shall conform to the requirements for ladders.  > See Section 24.B.",True,False
+22,B,18.0,c,,,c. Climbing of braces is prohibited.,False,False
+22,B,18.0,d,,,"d. When hook-on or attachable ladders are used on a supported scaffold more than 20 ft (6 m) in height, they shall have rest platforms every 20 ft or fall protection will be used. If scaffold platforms are used as rest platforms they will be arranged so the climber must exit to a platform before climbing the next section of ladder. When end frames are used for access they will conform to the ladder standard and not exceed 20 ft without FP.",False,False
+22,B,18.0,e,,,e. Hook-on or attachable ladders shall be specifically designed for use with the type of scaffold and they shall be positioned so as not to tip the scaffold.,False,False
+22,B,18.0,f,,,"f. When erecting or dismantling welded frame scaffolds, the end frames may be used as access provided the horizontal members are not more than 22 in (55.9 cm) apart.",False,False
+22,B,18.0,g,,,g. The minimum clear length of the rungs shall be 16 in (40.7 cm).,False,False
+22,B,18.0,h,,,"h. The distance from the supporting surface to the first step of a ladder, stair, or frame designed to be climbed shall not exceed 2 ft (61 cm).",False,False
+22,B,18.0,i,,,i. Ladder access points shall be protected by an inward swinging gate or chain guard.,False,False
+22,B,18.0,i,,,"22 B.19 Where the scaffold height exceeds four times the minimum scaffold base dimension (and including the width added by outriggers, if used), the scaffold shall be secured to the wall or structure.",False,False
+22,B,18.0,a,,,a. The first vertical and horizontal tie shall be placed at this point.,False,False
+22,B,18.0,b,,,b. Vertical ties shall be repeated at intervals not greater than 26 ft (7.9 m) with the top tie placed no lower than four times the base dimension from the top of the scaffold.,False,False
+22,B,18.0,c,,,c. Horizontal ties shall be placed at each end and at intervals not greater than 30 ft (9.1 m).,False,False
+22,B,18.0,d,,,"d. When more stringent means of securing the scaffold are recommended by the manufacturer or an RPE, the more stringent requirements shall be followed.",False,False
+22,B,20.0,,,,"22.B.20 When scaffolds are to be partially or fully enclosed, a QP shall verify the adequacy of the number, placement, and strength of ties attaching the scaffold to the structure, taking into consideration wind loads and weather.",True,False
+22,B,21.0,,,,"22.B.21 When vehicles or mobile equipment are used or allowed adjacent to scaffolding, substantial stop logs or barricades shall be installed.",True,False
+22,B,21.0,a,,,"a. The use of a ground guide is recommended for this equipment, however, if it is demonstrated that barricades are not feasible or are not required based on distance, a ground guide shall be used.",False,False
+22,B,21.0,b,,,b. Ground guides shall not be exposed to potential falling objects from the scaffold or the equipment.,False,False
+22,B,21.0,c,,,c. Hanging scaffolds are exempt unless the CP determines that vehicles or mobile equipment could pose a hazard to safe operation.,False,False
+22,B,22.0,,,,22.B.22 The use of brackets on scaffolds shall be prohibited unless the tipping effect is controlled.,True,False
+22,B,23.0,,,,22.B.23 Use of the following types of scaffolding is permitted if they are designed and constructed in accordance with ANSI A10.8:,True,False
+22,B,23.0,a,,,a. Outrigger scaffolds;,False,False
+22,B,23.0,b,,,b. Needle beam scaffolds;,False,False
+22,B,23.0,c,,,c. Interior hung scaffolds;,False,False
+22,B,23.0,d,,,d. Bricklayer’s square scaffolds;,False,False
+22,B,23.0,e,,,e. Float/ship scaffolds;,False,False
+22,B,23.0,f,,,f. Boatswain’s scaffolds;,False,False
+22,B,23.0,g,,,g. Window jack scaffolds;,False,False
+22,B,23.0,h,,,"h. Carpenter’s bracket scaffolds, and",False,False
+22,B,23.0,i,,,i. Form scaffolds.,False,False
+22,B,24.0,,,,22.B.24 Other types of scaffolding not included in ANSI A10.8 may be approved by the GDA provided the design is approved by a Registered Professional Engineer (RPE) or it meets a nationally recognized design standard.,True,False
+22,C,,,,,22.C Metal Scaffolds and Towers.,True,False
+22,C,1.0,,,,22.C.01 Scaffold components made of dissimilar metals shall not be used together unless a CP has determined that galvanic action will not reduce the strength of any component to a level below that required by Section 22.B.09.,True,False
+22,C,2.0,,,,22.C.02 The sections of metal scaffolds shall be securely connected and all braces shall be securely fastened.,True,False
+22,C,3.0,,,,"22.C.03 A ladder or stairway shall be provided for access and shall be affixed or built into all metal scaffolds and so located that, when in use, it will not have a tendency to tip the scaffold.",True,False
+22,C,4.0,,,,22.C.04 Tube and coupler scaffolds.,True,False
+22,C,4.0,a,,,"a. Tube and coupler scaffolds shall have posts, runners, and bracing of nominal 2 in (5­cm) (outside diameter) steel tubing or pipe: other structural metals, when used, must be designed to carry an equivalent load. The size of bearers (outside diameter) and the spacing of posts shall meet the requirements contained in ANSI A10.8.",False,False
+22,C,4.0,b,,,b. Tube and coupler scaffolds shall be limited in heights and working levels to those permitted in ANSI A10.8. Drawings and specifications for tube and coupler scaffolds that exceed the limitations in ANSI A10.8 shall be designed by a RPE.,False,False
+22,C,4.0,c,,,"c. All tube and coupler scaffolds shall be constructed to support four times the maximum intended loads, as set forth by ANSI A10.8 or as specified by a RPE (with knowledge in structural design).",False,False
+22,C,4.0,d,,,d. Runners shall be erected along the length of the scaffold and shall be located on both the inside and the outside posts at even heights.,False,False
+22,C,4.0,d,1.0,,"(1) When tube and coupler guardrails and midrails are used on outside posts, they may be used in lieu of outside runners. If guardrail systems are removed to other levels, extra runners shall be installed to compensate.",False,False
+22,C,4.0,d,2.0,,(2) Runners shall be interlocked to form continuous lengths and coupled to each post.,False,False
+22,C,4.0,d,3.0,,(3) The bottom runners shall be located as close to the base as possible.,False,False
+22,C,4.0,d,4.0,,(4) Runners shall be placed not more than 6 ft - 6 in (1.9 m) on center.,False,False
+22,C,4.0,e,,,e. Bearers.,False,False
+22,C,4.0,e,1.0,,(1) Bearers shall be installed transversely between posts.,False,False
+22,C,4.0,e,2.0,,"(2) When coupled to the post, the inboard coupler shall bear directly on the runner coupler. When coupled to the runners, the couplers shall be kept as close to the post as possible.",False,False
+22,C,4.0,e,3.0,,(3) Bearers shall extend beyond the posts and runners and shall provide full contact with the coupler.,False,False
+22,C,4.0,f,,,f. Bracing across the width of the scaffold shall be installed at the ends of the scaffold at least every fourth level vertically and repeated every third set of posts horizontally.,False,False
+22,C,4.0,f,1.0,,(1) Such bracing shall extend diagonally from the outer post or runner at this level upward to the inner post or runner at the next level.,False,False
+22,C,4.0,f,2.0,,(2) Building ties shall be installed adjacent to bracing.,False,False
+22,C,4.0,g,,,g. Longitudinal diagonal bracing across the inner and outer rows of poles shall be installed at approximately a 45° angle in both directions from the base of the end post upward to the extreme top of the scaffold.,False,False
+22,C,4.0,g,1.0,,"(1) Where the longitudinal length of the scaffold permits, such bracing shall be repeated beginning at every fifth post.",False,False
+22,C,4.0,g,2.0,,(2) On scaffolds where the length is shorter than the height the longitudinal bracing shall extend diagonally from the base of the end posts upward to the opposite end posts and then in alternating directions until reaching the top of the scaffold.,False,False
+22,C,4.0,g,3.0,,"(3) Where conditions preclude the attachment of bracing to the posts, it may be attached to the runners.",False,False
+22,C,5.0,,,,22.C.05 Metal frame scaffolds.,True,False
+22,C,5.0,a,,,a. Spacing of tubular welded panels or frames shall be consistent with the loads imposed.,False,False
+22,C,5.0,b,,,"b. Scaffolds shall be properly braced by cross, horizontal, or diagonal braces (or combination of these) to secure vertical members together laterally, and the cross braces shall be of such length as will automatically square and align vertical members so that the erected scaffold is always plumb, square, and rigid. All brace connections shall be made secure.",False,False
+22,C,5.0,c,,,c. Scaffold legs shall be set on adjustable bases or plain bases placed on mudsills or other foundations adequate to support the maximum rated loads.,False,False
+22,C,5.0,d,,,d. Frames shall be placed one on top the other with coupling or stacking pins to provide vertical alignment of the legs.,False,False
+22,C,5.0,e,,,"e. Where uplift may occur, panels shall be locked together vertically by pins or other equivalent suitable means.",False,False
+22,C,5.0,f,,,f. Drawings and specifications for all frame scaffolds over 125 ft (38.1 m) in height above the base plates shall be designed by a RPE.,False,False
+22,C,6.0,,,,"22.C.06 Manually propelled mobile scaffolds, including mobile work stands, such as “baker scaffolds”.",True,False
+22,C,6.0,a,,,"a. All wheels and casters on rolling scaffolds shall have a positive locking device, securely fastened to the scaffold, to prevent accidental movement.",False,False
+22,C,6.0,b,,,b. All casters or wheels shall be locked when a scaffold is occupied.,False,False
+22,C,6.0,c,,,c. The force necessary to move the mobile scaffold shall be applied as close to the base as practical and provision shall be made to stabilize the tower during movement from one location to another.,False,False
+22,C,6.0,d,,,"d. Rolling scaffolds shall be used only on firm, level, and clean surfaces.",False,False
+22,C,6.0,e,,,e. Free-standing mobile scaffold working platform heights shall not exceed three times the smallest base dimension.,False,False
+22,C,6.0,f,,,f. No person shall be allowed to ride on manually propelled scaffolds unless all of the following conditions exist:,False,False
+22,C,6.0,f,1.0,,"(1) The ground surface is within 3° of level and free from pits, holes, or obstructions;",False,False
+22,C,6.0,f,2.0,,"(2) The minimum dimension of the scaffold base (when ready for rolling) is at least one-half of the height and outriggers, if used, are installed on both sides of staging;",False,False
+22,C,6.0,f,3.0,,(3) The wheels are equipped with rubber or similar resilient tires; and,False,False
+22,C,6.0,f,4.0,,(4) All tools and materials are secured or removed from the platform before the scaffold is moved.,False,False
+22,D,,,,,22.D Wood Pole Scaffolds.  > See 29 CFR 1926.452(a).,True,False
+22,E,,,,,22.E Suspended Scaffolds.,True,False
+22,E,1.0,,,,"22.E.01 Suspended scaffolds are scaffolds that are suspended from anchorage points/hoists that allow the scaffold to move up and down as needed for work to be performed. Suspended scaffolds shall be designed, constructed, operated, inspected, tested, and maintained as specified in the operating manual for the device.",True,False
+22,E,2.0,,,,22.E.02 Inspections.,True,False
+22,E,2.0,a,,,a. Suspended scaffold systems shall be inspected prior to being placed in service to determine that the system conforms to this manual and the manufacturer's specifications.,False,False
+22,E,2.0,b,,,"b. Before the scaffold is used, direct connections shall be evaluated by a CP who shall confirm, based on the evaluation, that the supporting surfaces are capable of supporting the loads imposed.",False,False
+22,E,2.0,c,,,"c. Each hoist shall be inspected by a CP before use, after every installation and re-rigging in accordance with the manufacturer's specifications. A trial operation will be done by the operator alone after every installation.",False,False
+22,E,2.0,d,,,d. Connection and anchorage systems of suspended scaffold shall be inspected at the beginning of each shift.,False,False
+22,E,2.0,e,,,"e. All wire ropes, fiber and synthetic ropes, slings, hangers, hoists, rigging, fall protection equipment, platforms, anchorage points and their connections, and other supporting parts shall be inspected before every installation, daily thereafter, and periodic while the scaffold is in use.",False,False
+22,E,2.0,f,,,"f. Governors and secondary brakes for powered hoists shall be inspected and tested per the manufacturer's recommendations: at the minimum, inspections shall be made annually.",False,False
+22,E,2.0,f,1.0,,(1) Inspections and tests shall include a verification that the initiating device for the secondary braking operates as intended.,False,False
+22,E,2.0,f,2.0,,(2) A copy of the latest inspection and test report shall be maintained on the job site.,False,False
+22,E,2.0,g,,,g. Records of inspections conducted while the unit is at the work site shall be maintained at the work site.,False,False
+22,E,3.0,,,,"22.E.03 Only personnel trained in the use of the suspended work platform shall be authorized to operate it. Anyone involved in erecting, disassembling, moving, operating, using, repairing, maintaining or inspecting a suspended scaffold shall be trained by a CP to recognize any hazards associated with the work in question. Proof of training shall be maintained on site and made available to the GDA upon request. Training shall include:",True,False
+22,E,3.0,a,,,"a. Reading and understanding the manufacturer's operating manual and any associated rules and instructions, or training by a QP on the contents on these documents, and",False,False
+22,E,3.0,b,,,"b. Reading and understanding all decals, warnings, and instructions on the device.",False,False
+22,E,4.0,,,,22.E.04 All parts of all suspended scaffolds shall have a minimum safety factor of 4. A minimum safety factor of 6 is required for support ropes.,True,False
+22,E,5.0,,,,22.E.05 Support ropes.,True,False
+22,E,5.0,a,,,a. Support ropes shall be attached at the vertical centerline of the outrigger and the attachment shall be directly over the hoist machine.,False,False
+22,E,5.0,b,,,b. Support ropes shall be vertical for their entire length. The scaffold shall not be swayed nor the support ropes fixed to any intermediate points to change the original path of travel.,False,False
+22,E,5.0,c,,,c. Support ropes shall have the fixed end equipped with a proper size thimble and secured by eye splicing or equivalent means. Free ends shall be brazed or secured to prevent fraying.,False,False
+22,E,5.0,d,,,"d. The wire rope for traction hoists shall be of such length that the operator may descend to the lowest point of travel without the end of the wire rope entering the hoist. Where the wire rope is inadequate for the lowest descent, provision shall be made to prevent the hoist from running off the wire rope.",False,False
+22,E,5.0,e,,,"e. On winding drum type hoists, running ends of suspension ropes shall be attached by positive means to the hoisting drum and at least four wraps of the rope shall remain on the drum at all times.",False,False
+22,E,5.0,f,,,f. Support ropes shall be capable of resisting chemicals or conditions to which they are exposed.,False,False
+22,E,5.0,g,,,"g. No welding, burning, riveting, or open flame work shall be performed on any platform suspended by fiber or synthetic rope.",False,False
+22,E,5.0,h,,,h. Defective or damaged rope shall not be used as lifelines or suspension lines. The repairing of wire rope is prohibited.,False,False
+22,E,6.0,,,,"22.E.06 All suspension scaffold support devices such as outrigger beams, cornice hooks, parapet clamps, or similar devices shall:",True,False
+22,E,6.0,a,,,"a. Be made of mild steel, wrought iron, or materials of equivalent strength;",False,False
+22,E,6.0,b,,,b. Be supported by bearing blocks;,False,False
+22,E,6.0,c,,,c. Rest on surfaces capable of supporting the reaction forces imposed by the scaffold hoist operating at its maximum rated load; and,False,False
+22,E,6.0,d,,,d. Be secured against movement by tiebacks installed at right angles to the face of the building whenever possible and secured to a structurally sound portion of the building. Tiebacks shall be equivalent in strength to the hoisting rope.,False,False
+22,E,7.0,,,,22.E.07 Outrigger beams.,True,False
+22,E,7.0,a,,,a. Outrigger beams shall be made of structural metal and shall be restrained to prevent movement.,False,False
+22,E,7.0,b,,,"b. The inboard ends of outrigger beams shall be stabilized by bolts or other direct connections to the floor or roof deck, or they shall have their inboard ends stabilized by counterweights, except mason's multiple point adjustable suspension scaffold outrigger beams shall not be stabilized by counterweights.",False,False
+22,E,7.0,c,,,"c. Before use, direct connections shall be evaluated by a CP who shall affirm that the supporting surfaces are capable of supporting the loads to be imposed. Mason's multiple point adjustable suspension scaffold connections shall be designed by a RPE experienced in scaffold design.",False,False
+22,E,7.0,d,,,"d. Counterweights shall be made of non-flowable solid material, shall be secured to the outrigger beams by mechanical means, and shall not be removed until the scaffold is disassembled.",False,False
+22,E,7.0,e,,,e. Outrigger beams shall be secured by tiebacks equivalent in strength to the suspension ropes. Tiebacks shall be secured to a structurally sound portion of the building or structure and shall be installed parallel to the centerline of the beam.,False,False
+22,E,7.0,f,,,f. Outrigger beams shall be provided with stop bolts or shackles at both ends.,False,False
+22,E,7.0,g,,,"g. When channel iron beams are used in place of  I-beams, the channels shall be securely fastened together with the flanges turned outward.",False,False
+22,E,7.0,h,,,h. Outrigger beams shall be installed with all bearing supports perpendicular to the beam centerline.,False,False
+22,E,7.0,i,,,i. Outrigger beams shall be set and maintained with the web in a vertical position.,False,False
+22,E,7.0,j,,,"j. Where a single outrigger beam is used, the steel shackle or clevises with which the wire ropes are attached to the beam shall be placed directly over the hoisting machines.",False,False
+22,E,8.0,,,,22.E.08 Hoisting machines,True,False
+22,E,8.0,a,,,a. Hoisting machines shall be of a type tested and listed by a nationally recognized testing laboratory.,False,False
+22,E,8.0,b,,,b. Each hoist shall contain a name plate(s) containing:,False,False
+22,E,8.0,b,1.0,,(1) Manufacturer's name;,False,False
+22,E,8.0,b,2.0,,(2) Maximum load rating;,False,False
+22,E,8.0,b,3.0,,(3) Identification number; and,False,False
+22,E,8.0,b,4.0,,(4) Wire rope specifications.,False,False
+22,E,8.0,c,,,"c. Powered hoists shall be electric-, air-, hydraulic-, or propane-powered. Gasoline-powered hoists are prohibited.",False,False
+22,E,8.0,d,,,d. All powered hoists shall be equipped with speed reducers and shall be provided with a primary brake and a secondary brake.,False,False
+22,E,8.0,d,1.0,,(1) The primary brake shall automatically engage whenever power is interrupted or whenever the operator ceases to apply effort;,False,False
+22,E,8.0,d,2.0,,(2) The secondary brake shall stop and hold the hoist under over speed or abnormal conditions. All secondary brakes shall be periodically tested under simulated conditions in accordance with the manufacturer's recommendations.,False,False
+22,E,8.0,e,,,e. Each powered hoist shall have its own separate control.,False,False
+22,E,8.0,e,1.0,,"(1) If the control is of the push-button type, it shall be constant pressure;",False,False
+22,E,8.0,e,2.0,,"(2) If the control is of the fixed-position type, it shall have provision for automatic locking when in the off position, or shall be guarded against accidental actuation; and",False,False
+22,E,8.0,e,3.0,,"(3) If the control is of the lever type, it may be of the constant pressure type or of the fixed-position type.",False,False
+22,E,8.0,f,,,f. Manual operation of powered hoists may be provided if the hoist is designed so that not more than one person per hoist is required to perform this operation.,False,False
+22,E,8.0,f,1.0,,"(1) During manual operation, a means shall be provided to make the prime mover inoperative.",False,False
+22,E,8.0,f,2.0,,(2) Instruction shall be provided advising personnel to disconnect the power source before using a manual crank.,False,False
+22,E,8.0,g,,,g. Manually-operated hoists.,False,False
+22,E,8.0,g,1.0,,(1) Manual operation shall provide a means to prevent rapid handle movement or fast un-spooling. Mechanisms used to allow fast un-spooling during the erection process shall not be in place on the scaffold.,False,False
+22,E,8.0,g,2.0,,"(2) In the event a controlled descent device is used, it shall not bypass the secondary brake.",False,False
+22,E,8.0,g,3.0,,(3) All winding drum hoists shall be provided with a driving pawl and a locking pawl that automatically engages when the driving pawl is released.,False,False
+22,E,8.0,g,4.0,,"(4) Gripping-type hoists shall be designed so that the hoist is engaged on the suspension rope at all times, including all travel actuations of the operating lever.",False,False
+22,E,8.0,g,5.0,,(5) Each winding drum hoist shall be provided with a positive means of attachment of the suspension hoist. The drum attachment shall develop a minimum of four times the rated capacity of the hoist.,False,False
+22,E,8.0,g,6.0,,(6) Each hoist shall require a positive crank force to descend.,False,False
+22,E,9.0,,,,22.E.09 Working surfaces.,True,False
+22,E,9.0,a,,,"a. Light metal platforms, when used, shall be of a type tested and listed by a nationally recognized testing laboratory.",False,False
+22,E,9.0,b,,,b. Ladder-type platforms are prohibited.,False,False
+22,E,9.0,c,,,c. Planking.,False,False
+22,E,9.0,c,1.0,,"(1) Planking shall be composed of not less than nominal 2-in x 10-in (5-cm x 25.4-cm) unspliced planks, cleated together on the underside, starting 6 in (15.2 cm) from each end at intervals not to exceed 4 ft (1.2 m).",False,False
+22,E,9.0,c,2.0,,(2) The planking shall not extend beyond the hangers more than 12 in (30.4 cm). A bar or other effective means shall be securely fastened to the platform at each end to prevent its slipping off the hanger.,False,False
+22,E,9.0,c,3.0,,(3) The span between hangers for planked platforms shall not exceed 8 ft (2.4 m).,False,False
+22,E,9.0,d,,,d. Beam platforms are prohibited.,False,False
+22,E,10.0,,,,"22.E.10 Suspended scaffolds shall be guyed, braced, guided, or equipped with tag line to prevent swaying.",True,False
+22,E,11.0,,,,22.E.11 Two-point suspension scaffolds.,True,False
+22,E,11.0,a,,,a. Two-point suspension scaffold platforms shall not be less than 20 in (50.8 cm) or more than 36 in (91.4 cm) wide. The platform shall be securely fastened to the hangers by U-bolts or by other equivalent means.,False,False
+22,E,11.0,b,,,"b. The hangers of two-point suspension scaffolds shall be made of mild steel, or equivalent materials, having a cross sectional area capable of sustaining four times the maximum rated load and shall be designed with a support for a standard railing.",False,False
+22,E,11.0,c,,,c. Two-point suspension scaffolds shall be securely lashed to the structure. Window cleaner's anchors shall not be used.,False,False
+22,E,11.0,d,,,d. The platform on every two-point suspension scaffolds shall be of the light metal or planking.,False,False
+22,E,11.0,e,,,e. Two-point suspension scaffolds shall not be joined by bridging.,False,False
+22,E,11.0,f,,,"f. Two-point suspension scaffold platforms, when in use, shall be level within 1 in (2.5 cm) for every 1 ft (0.3 m) of platform length.",False,False
+22,E,12.0,,,,22.E.12 Mason's multiple-point adjustable suspension scaffolds.,True,False
+22,E,12.0,a,,,"a. When employees on the scaffold are exposed to overhead hazards, overhead protection equivalent in strength to 2 in (5-cm) planking shall be provided on the scaffold not more than 9 ft (2.7 m) above the platform, laid tight and extending the entire width of the scaffold.",False,False
+22,E,12.0,b,,,"b. The scaffold shall be capable of sustaining a load of 50 psf (2,394 Pa) and shall not be overloaded.",False,False
+22,E,12.0,c,,,c. The platform shall be suspended by wire ropes from overhead outrigger beams.,False,False
+22,E,13.0,,,,22.E.13 Stonesetters' multiple-point adjustable suspension scaffolds shall be designed and used in accordance with ANSI A10.8.,True,False
+22,E,14.0,,,,22.E.14 Working capacities.,True,False
+22,E,14.0,a,,,"a. On suspension scaffolds designed for a working load of 500 lb (226.8 kg), no more than two employees shall be permitted to work at one time.",False,False
+22,E,14.0,b,,,"b. On suspension scaffolds with a working load of 750 lb (340.2 kg), no more than three people shall be permitted to work at one time.",False,False
+22,F,,,,,22.F Hanging Scaffolds.,True,False
+22,F,1.0,,,,22.F.01 A hanging scaffold is a scaffold/work platform that is hung from a location (such as a lock gate) for work to be performed and that remains stationary until it is then repositioned with a crane/hoisting device. Hanging scaffolds shall be designed by a RPE competent in structural design. Scaffold performance and components shall meet or exceed those for general scaffolds and platforms found in ANSI A10.8-2001.  > See Figure 22-1.,True,False
+22,F,2.0,,,,22.F.02 Hanging scaffolds shall meet the following requirements:,True,False
+22,F,2.0,a,,,"a. The scaffold shall be securely fastened to a vertical structure (i.e. wall, lock gate, etc.) by hooks over a secured structural supporting member, bolt-on brackets, or other secure attachment. The maximum span between secure attachments is 8 ft (2.4 m). Fasteners shall be of adequate size to achieve design strength of scaffold.",False,False
+22,F,2.0,b,,,"b. The scaffold must be secured against an uplift force equal to two times the weight of the scaffold and its rated load by means of hooks, brackets, or other secure attachments designed and placed to counteract uplift.",False,False
+22,F,2.0,c,,,"c. The scaffold shall have a secondary attachment method to secure it against falling if the primary attachment fails. This should be a flexible attachment, such as wire rope or chain, designed to withstand a minimum of five (5) times the weight of the scaffold and its rated load. The secondary attachment shall be connected to an anchor point of the same load rating or greater.",False,False
+22,F,2.0,d,,,"d. The scaffold shall have only one working level. Working platform decks shall be slip resistant and securely attached to the scaffold frame. The maximum width, front to back, of decks is 42 in (106.6 cm). Grating used for deck surfaces shall have a maximum width opening between bars small enough to prevent the rigging components used (slings, chains) from entering.",False,False
+22,F,2.0,e,,,e. Standard guardrails systems meeting the requirements of Section 21.F.01 shall be installed on all open sides and ends of the platform.,True,False
+22,F,2.0,f,,,f. The scaffold shall be conspicuously posted with a plate or other permanent marking that indicates:,False,False
+22,F,2.0,f,1.0,,(1) Weight of the scaffold;,False,False
+22,F,2.0,f,2.0,,(2) Number of personnel it was designed for;,False,False
+22,F,2.0,f,3.0,,(3) Rated weight capacity;,False,False
+22,F,2.0,f,4.0,,(4) Specific structure(s) it was designed to be attached to – this may be a code or other form of identification when designed for a number of different structures with similar structural attachment points;,False,False
+22,F,2.0,f,5.0,,(5) Name of the RPE who designed the scaffold; and,False,False
+22,F,2.0,f,6.0,,(6) Date of manufacture.,False,False
+22,F,2.0,g,,,g. Hanging scaffolds designed to also function as crane- or other load handling equipment- (LHE-) supported personnel work platforms shall meet the requirements of Section 16.T. This includes scaffolds that require a person to stand/ride on the platform while the initial attachment to the structure is made.,True,False
+22,F,2.0,h,,,"h. The space between the platform deck edge and the face of the vertical structure shall not be more than 14 in (35.6 cm). Prior to use on each jobsite application, the CP shall determine if this space constitutes a hazard by being large enough to allow tools or objects to fall on workers below or, if LHE rigging may enter and entangle in the space. In these situations, the space shall be closed or blocked to remove the hazard.",False,False
+22,F,3.0,,,,22.F.03 Testing,True,False
+22,F,3.0,a,,,"a. Prior to initial use and after any modification of the structural members or secure attachment points, the platform shall be proof tested to 125% of its rated capacity. The test shall take place on a structure the scaffold was designed for or a test structure with similar support member characteristics.",False,False
+22,F,3.0,b,,,"b. Prior to use on each jobsite or placement location, hanging scaffolds shall be performance tested to 100% of the maximum intended load for the expected work. This test shall be performed with the scaffold attached to the structure in the work location.",False,False
+22,F,4.0,,,,22.F.04 Operations,True,False
+22,F,4.0,a,,,"a. Scaffolds and their attachments shall be inspected by a CP prior to initial use on a worksite, before use on each work shift, and regularly during use until they are removed.",False,False
+22,F,4.0,b,,,b. Workers shall use properly selected and anchored personal fall protection when accessing and working on hanging scaffolds. Personal FP system components shall meet the requirements of Section 21.I.05. No part of a hanging scaffold shall be used as an anchor point for personal FP.,True,False
+22,F,4.0,c,,,c. The number of workers on the platform shall not exceed the number listed on the scaffold.,False,False
+22,F,4.0,d,,,"d. Ladders may not be used on hanging scaffolds, except as a means of access from above the deck. Ladders used for access must meet the requirements of Section 24.B.",True,False
+22,F,4.0,e,,,e. Hanging scaffolds shall be coated or painted to minimize corrosion of the components. Storage between uses shall be designed to minimize damage to the scaffold.,False,False
+22,G,,,,,22.G Form and Carpenter's Bracket Scaffolding.,True,False
+22,G,1.0,,,,"22.G.01 Scaffolds shall be constructed of wood, steel, or aluminum members with known strength characteristics and be designed to support a minimum load of 25 lbs/ft2 (1.054 kg/m2).",True,False
+22,G,2.0,,,,22.G.02 No more than two persons shall occupy any given 8 ft (2.4 m) span of a bracket scaffold at any one time. Tools and materials shall not exceed 75 lbs (34 kg) in addition to person(s) occupying the area.,True,False
+22,G,3.0,,,,"22.G.03 A guardrail or other form of fall protection is required for all open edges when a fall of 6 ft or greater exists (1.8 m) or, when other hazards exist below the platform.",True,False
+22,G,4.0,,,,22.G.04  Figure-four scaffolds shall be constructed as follows:,True,False
+22,G,4.0,a,,,a. Spacing shall be not more than 8 ft (2.4 m) on centers and scaffold shall be constructed from sound lumber.,False,False
+22,G,4.0,b,,,b. The bracket ledger shall consist of two pieces of  1-in x 6-in (2.5-cm x 15.2-cm) or heavier material nailed on opposite sides of the vertical form support. Ledgers shall project not more than 3 ½ ft (1 m) from the outside of the form support and shall be braced and secured to prevent tipping or turning.,False,False
+22,G,4.0,c,,,"c. The knee or angle brace shall intersect the ledger at least 3 ft (.9 m) from the form at an angle of approximately 45 degrees, and the lower end shall be nailed to a vertical support.",False,False
+22,G,4.0,d,,,d. The platform shall consist of two or more scaffold planks that extend at least 6 in (15.2 cm) beyond the ledgers at each end unless secured to the ledgers. When planks are secured to the ledgers (nailed or bolted) a wood filler strip shall be used between the ledgers. Unsupported projecting ends of planks shall be limited to an overhang of 12 in (30 cm).,False,False
+22,G,4.0,e,,,e. The maximum permissible spans for planking shall be in conformance with ANSI A10.8 and be consistent with allowable bearer loads.,False,False
+22,G,5.0,,,,22.G.05  Metal brackets or scaffold jacks that are an integral part of the form shall be securely bolted or welded to the form. Folding-type brackets shall be either bolted or secured with a locking-type pin when extended for use.,True,False
+22,G,6.0,,,,"22.G.06  Clip-on or hook-over brackets may be used on form work provided the form walers are bolted to the form or secured by snap ties or tie-bolts extending through the form and securely anchored. In addition, carpenter bracket scaffolds may be attached by:",True,False
+22,G,6.0,a,,,a. A bolt extending through to the opposite side of the structural wall;,False,False
+22,G,6.0,b,,,b. A metal stud attachment device;,False,False
+22,G,6.0,c,,,c. Welding; or,False,False
+22,G,6.0,d,,,d. Hooking over a secured structural supporting member.,False,False
+22,G,7.0,,,,22.G.07  Metal brackets shall be spaced not more than 8 ft (2.4 m) on centers.,True,False
+22,G,8.0,,,,22.G.08 Scaffold planks shall be either bolted to the metal brackets or be of such length that they overlap the brackets at each end by at least 6 in (15.2 cm). Unsupported projecting ends of scaffold planks shall be limited to a maximum overhang of 12 in (30.4 cm).,True,False
+22,G,9.0,,,,22.G.09  The maximum permissible spans for planking shall be consistent with allowable bearer loads.,True,False
+22,G,10.0,,,,"22.G.10 Folding-type metal brackets, when extended for use, shall be either bolted or secured with a  locking-type pin.",True,False
+22,G,11.0,,,,22.G.11  Wooden bracket form scaffolds shall be designed in accordance with Table 22-1 and shall be an integral part of the form panel.,True,False
+22,G,12.0,,,,22.G.12  Brackets shall consist of a triangular shaped frame made of wood with a cross-section not less than 2-in x 3-in (5-cm x 7.6-cm) or of 1-1/4-in x 1-1/4-in x 1/8-in (3.1-cm x 3.1-cm x 0.3-cm) structural angle iron.,True,False
+22,G,13.0,,,,22.G.13  The minimum design for wooden scaffolds criteria shall be in accordance with Table 22-1.,True,False
+22,G,14.0,,,,22.G.14  Scaffold planks shall be either nailed or bolted to the runners or be of such length that they overlap the ledgers at each end by at least 6 in (15.2 cm). Unsupported projecting ends of scaffold planks shall be limited to a maximum overhang of 12 in (30.4 cm).,True,False
+22,G,15.0,,,,22.G.15  The maximum permissible spans for planking shall be consistent with allowable bearer loads.,True,False
+22,H,,,,,22.H Horse Scaffolds.,True,False
+22,H,1.0,,,,"22.H.01 Horses shall not be constructed or arranged more than two tiers or 10 ft (3 m) in height: scaffolds shall be 5 ft (1.5 m) or less in height and 5 ft (1.5 m) or more in width. When tiered heights exceed 6 ft (1.8 m), FP shall be used.",True,False
+22,H,2.0,,,,22.H.02 The members of horse scaffolds shall not be less than those specified in Table 22-2.22.H.03 Horse scaffolds shall be spaced not more than 5 ft (1.5 m) for medium duty and not more than 8 ft (2.4 m) for light duty.,True,False
+22,H,4.0,,,,"22.H.04 When arranged in tiers, each horse scaffold shall be placed directly over the horse scaffold in the tier below. The legs shall be nailed or otherwise secured to the planks to prevent displacement or thrust and each tier shall be cross braced.",True,False
+22,H,5.0,,,,22.H.05 Weakened or defective components shall not be used.,True,False
+22,I,,,,,22.I Pump Jack Scaffolds.,True,False
+22,I,1.0,,,,22.I.01 Pump jack scaffolds shall be designed for a minimum working load of 500 lbs (226.8 kg) and not more than two (2) workers shall be allowed on the scaffold at one time.,True,False
+22,I,2.0,,,,"22.I.02 Pump jack brackets, braces, and accessories shall be fabricated from metal plates and angles and installed in accordance with the manufacturer’s recommendations. Installation and operational manuals shall be maintained onsite and made available upon request of the GDA.",True,False
+22,I,3.0,,,,22.I.03 The standing platform shall be fully decked and the planking secured. Platforms thicker than 2 in (5.08 cm) shall not be overlapped.,True,False
+22,I,4.0,,,,22.I.04 The minimum width of a standing platform shall be 18 in (45.7 cm) and the work bench shall be 12 in (30.4 cm).,True,False
+22,I,5.0,,,,22.I.05 All materials on the work bench shall be secured from falling.,True,False
+22,I,6.0,,,,22.I.06 Pump jack scaffolds shall be provided with a guardrail system as specified by the manufacturer. Personal fall arrest systems may be used in lieu of guardrails.,True,False
+22,I,7.0,,,,"22.I.07 When a workbench is used at an approximate height of 42 in (1.06 m), the top rail may be eliminated if the workbench is fully decked, if the workbench is secured, and if it is capable of withstanding 200 lbs (90.7 kg) force in any direction.",True,False
+22,I,8.0,,,,22.I.08 Workbenches shall not be used as a standing platform.,True,False
+22,I,9.0,,,,22.I.09 A ladder shall be provided for access to the platform.,True,False
+22,I,10.0,,,,22.I.10 All poles shall be supported by sills or other foundations adequate to support the load.,True,False
+22,I,11.0,,,,22.I.11 Poles.,True,False
+22,I,11.0,a,,,"a. Pole lumber shall be 2-in x 4-in (5-cm x 10.1-cm) stock, of Douglas fir, or equivalent, straight-grained, clear, free of cross-grain, shakes, large loose or dead knots, and other defects that might impair strength.",False,False
+22,I,11.0,b,,,b. Wood poles shall not exceed 30 ft (9.1 m) in height; and spacing cannot exceed 7 ft (2.1 m).,False,False
+22,I,11.0,c,,,c. Metal poles shall not exceed 50 ft (15.2 m) in height unless the design is approved by an RPE. The spacing of metal poles in excess of 7 ft (2.1 m) must also be determined by an RPE.,False,False
+22,I,11.0,d,,,"d. When poles are constructed of two continuous lengths they shall be of 2-in x 4-in (5­cm x 10.1-cm) (kiln dried straight grain fir) or equivalent, spiked together with the seam parallel to the pump jack, and with 10d common nails, 12 in (30.4 cm) center-to-center, staggered uniformly from opposite outside edges.",False,False
+22,I,11.0,e,,,e. 4-in by 4-in (10.1 cm by 10.1 cm) wood poles may not be spliced to increase the length of any individual member.,False,False
+22,I,11.0,f,,,"f. Poles shall be secured to the wall by triangular bracing, or equivalent, at the bottom, top, and other points to provide a maximum vertical spacing of not more than 10 ft (3 m) between braces. Each brace shall be capable of supporting a minimum of 225 lbs (102 kg) tension or compression.",False,False
+22,I,11.0,g,,,"g. When wood scaffold planks are used as platforms, poles used for pump jacks shall not be spaced more than 10 ft (3 m) on center. When fabricated platforms are used that comply with all other provisions of this Section, pole spacing may exceed 10 ft on center if permitted by the manufacturer.",False,False
+22,I,11.0,h,,,"h. Poles shall not be placed closer than 10 ft (3.04 m) of power lines or electrical conductors until such are insulated, de-energized, or otherwise rendered safe against contact. > See Table 11-1.",False,False
+22,I,12.0,,,,22.I.12 Brackets.,True,False
+22,I,12.0,a,,,a. Each pump jack bracket shall have two positive gripping mechanisms to prevent any failure or slippage.,False,False
+22,I,12.0,b,,,"b. For the pump jack bracket to pass bracing already installed, an extra brace shall be used approximately 4 ft (1.2 m) above the one to be passed until the original brace is reinstalled.",False,False
+22,J,,,,,22.J Adjustable Scaffolds.,True,False
+22,J,1.0,,,,22.J.01 Adjustable scaffolds shall be designed and constructed in accordance with ANSI/SIA A10.8.,True,False
+22,J,2.0,,,,22.J.02 A copy of the user's manual shall be kept on site at all times.,True,False
+22,J,3.0,,,,22.J.03 Adjustable scaffolds will be secured to the structure in accordance with the manufacturer's user manual.,True,False
+22,J,4.0,,,,22.J.04 Safe access.,True,False
+22,J,4.0,a,,,"a. If portable ladders are used they will be removed every time the platform is raised or lowered, repositioned to ensure that the 4:1 ratio is maintained, and secured to prevent movement.",False,False
+22,J,4.0,b,,,b. When stair towers are used for access to adjustable scaffolds the difference between the two elevations will be 2 ft (.6 m) or less.,False,False
+22,J,4.0,c,,,"c. Self-retracting lanyard, if allowed by the manufacturer, can be used to provide FP when climbing the tower. > See also Section 21.",False,False
+22,J,4.0,d,,,"d. On towers over 20 ft (10.7 m), rest platforms will be provided at not more than 20 ft intervals.",False,False
+22,J,5.0,,,,22.J.05 The leveling of adjustable scaffold will be accomplished by using leveling jacks.,True,False
+22,J,6.0,,,,22.J.06 When bridges are used on a single tower it will be done in strict compliance with the manufacturer’s recommendations.,True,False
+22,J,7.0,,,,22.J.07 Ratchet driven winding drum hoist shall be equipped with a driving pawl and a locking pawl. The locking pawl must automatically engage when the driving pawl is released.,True,False
+22,J,8.0,,,,22.J.08 All crank-driven winding drum hoists shall employ a positively actuated locking pawl that engages the drive train of the hoist and is actuated by reverse descending movement of the crank handle. This mechanism shall not be rendered inoperative by outside contamination.,True,False
+22,J,9.0,,,,22.J.09 Every winding drum shall contain not less than three wraps of the suspension wire rope at the lowest point of hoist travel.,True,False
+22,J,10.0,,,,22.J.10 Each hoist shall be provided with positive wire rope attachments. Wire rope attachments shall develop a minimum of 80% of the wire rope breaking strength. Wire rope termination methods shall be according to the manufacturer’s recommendation.  U-type wire rope clips shall not be used as a wire rope termination method.,True,False
+22,J,11.0,,,,22.J.11 The wire rope shall be capable of supportable at least six (6) times the scaffold’s design load.,True,False
+22,J,12.0,,,,22.J.12 Employers shall instruct and supervise their employees in the safe use of the adjustable scaffolding provided and shall supply them with all of the manufacture’s instructional material.,True,False
+22,J,13.0,,,,"22.J.13 Personnel shall not work on scaffolds during storms, high winds or other adverse weather conditions.",True,False
+22,K,,,,,22.K Load Handling Equipment (LHE) – Supported Personnel Work Platforms.  > See Section 16.T.,True,False
+22,L,,,,,22.L Elevating Aerial Work Platforms (AWPs).,True,False
+22,L,1.0,,,,"22.L.01 All elevating aerial work platforms (AWPs) shall be designed and constructed in accordance with ANSI/SIA A92.3, ANSI/SIA A92.5, and ANSI/SIA A92.6, as appropriate.",True,False
+22,L,2.0,,,,"22.L.02 AWPs shall be operated, inspected, and maintained as specified in the operating manual for the equipment.",True,False
+22,L,2.0,a,,,a. AWPs shall comply with requirements of this Section and Section 18.G.,True,False
+22,L,2.0,b,,,b. Records of inspections conducted while the unit is at the work site shall be maintained at the work site.,False,False
+22,L,2.0,c,,,"c. Height-to-base width ratio of the scaffold during movement is 2:1 or less, or per manufacturer’s instructions.",False,False
+22,L,2.0,d,,,d. All elevating AWPs shall have the manufacturer's operating manual readily available on the equipment.,False,False
+22,L,2.0,e,,,e. AWPs will not be operated unless the access door or chains are in the closed position.,False,False
+22,L,2.0,f,,,f. Fall protection shall be used in accordance with Section 21.K of this manual.,True,False
+22,L,2.0,g,,,g. Climbing of the rails is prohibited.,False,False
+22,L,3.0,,,,"22.L.03 All boom-supported AWPs shall be equipped with an alarm, or other suitable warning device, at the platform. The alarm shall be in operable condition and shall automatically activate when the machine base is more than 5° out of level in any direction.",True,False
+22,L,4.0,,,,22.L.04 All AWP operators shall have training that includes both general as well as equipment specific familiarization before being allowed to operate this equipment. Training shall be documented.,True,False
+22,L,5.0,,,,22.L.05 Before operating the AWP the operator shall:,True,False
+22,L,5.0,a,,,"a. Survey the work area for loose or soft ground, ditches, drop-offs or holes, bumps and floor obstructions, debris, overhead obstructions, ground and elevated energy sources, and other possible hazards;",False,False
+22,L,5.0,b,,,"b. Ensure the AWP is on a firm, level surface;",False,False
+22,L,5.0,c,,,c. Ensure the AWP is loaded in accordance with the manufacturer's specifications;,False,False
+22,L,5.0,d,,,d. Ensure that outriggers and/or stabilizers are used if required by the manufacturer;,False,False
+22,L,5.0,e,,,"e. Ensure that, if the vehicle is on wheels, the wheels are locked or chocked; and",False,False
+22,L,5.0,f,,,f. Ensure that the fall restraint system is connected.,False,False
+22,L,6.0,,,,22.L.06 These AWPs shall not be used by persons working on energized electrical wiring and/or equipment.,True,False
+22,L,7.0,,,,"22.L.07 AWPs shall only be operated from the ground position in an emergency (rescue), for maintenance, or when unoccupied.",True,False
+22,L,8.0,,,,22.L.08 Lift controls will be located below the guardrail height. When lift controls are not located below the guardrail height an aftermarket guard will be installed.,True,False
+22,M,,,,,22.M Vehicle-Mounted Elevating and Rotating Work Platforms (Aerial Devices/Lifts).,True,False
+22,M,1.0,,,,"22.M.01 Vehicle-mounted elevating and rotating work platforms (aerial lifts, to include articulating boom platforms/lifts (knuckle boom lifts), trailer-mounted boom lifts) shall be designed and constructed per ANSI/SIA A92.2.",True,False
+22,M,2.0,,,,"22.M.02 Vehicle-mounted elevating and rotating work platforms shall be operated, inspected, tested, and maintained as specified in the operating manual for that piece of equipment.",True,False
+22,M,2.0,a,,,a. Vehicle-mounted elevating and rotating work platforms shall also comply with requirements in Sections 18.G and 21.,True,False
+22,M,2.0,b,,,b. Records of inspections conducted while the unit is at the work site shall be maintained at the work site.,False,False
+22,M,2.0,c,,,c. All aerial devices shall have manufacturer’s operating manual readily available in or on the vehicle.,False,False
+22,M,2.0,d,,,"d. If the unit is considered rated, and used as an insulating device, copies of the electrical insulating components and system tests conducted while the unit is at the work site shall be maintained at the work site.",False,False
+22,M,2.0,e,,,"e. All required safety decals, labels and signs shall be in place and readable.",False,False
+22,M,3.0,,,,22.M.03 Only personnel trained in the use of the vehicle-mounted elevating and rotating work platform shall be authorized to operate it. Training shall consist of:,True,False
+22,M,3.0,a,,,"a. Reading and understanding the manufacturer's operating manual and any associated rules and instructions, or training by a QP on the contents on these documents; and",False,False
+22,M,3.0,b,,,"b. Reading and understanding all decals, warnings, and instructions on the vehicle-mounted elevating and rotating work platform.",False,False
+22,M,4.0,,,,22.M.04 Transporting.,True,False
+22,M,4.0,a,,,"a. Aerial lift trucks, to include cherry pickers, shall not be moved when the boom is elevated in a working position with personnel in the basket except for equipment that is specifically designed for this type of operation. When manufacturers allow mobile operation, the worksite shall be inspected for:",False,False
+22,M,4.0,a,1.0,,(1) Untamped earth fills (soft ground);,False,False
+22,M,4.0,a,2.0,,(2) Ditches;,False,False
+22,M,4.0,a,3.0,,(3) Drop-offs and floor obstructions;,False,False
+22,M,4.0,a,4.0,,(4) Debris;,False,False
+22,M,4.0,a,5.0,,(5) Overhead obstructions and electrical conductors;,False,False
+22,M,4.0,a,6.0,,"(6) Weather conditions, and",False,False
+22,M,4.0,a,7.0,,(7) The presence of unauthorized persons.,False,False
+22,M,4.0,b,,,"b. Before moving an aerial lift, the boom(s) shall be inspected to see that it is properly cradled and outriggers are in stowed positions, except as provided in a, above.",False,False
+22,M,4.0,c,,,c. Aerial ladders shall be secured in the lower traveling position by the locking device on top of the truck cab and the manually operated device at the base of the ladder before the truck is moved for highway travel.,False,False
+22,M,5.0,,,,22.M.05 Operating practices. The manufacturer’s instruction for control station operation must be followed (e.g. primary versus secondary; upper versus lower).,True,False
+22,M,5.0,a,,,"a. Brakes shall be set and outriggers, when used, shall be positioned on pads or a solid surface.",False,False
+22,M,5.0,b,,,b. Wheel chocks shall be installed before using an aerial lift on an incline.,False,False
+22,M,5.0,c,,,c. Lift controls shall be tested each day prior to use to ensure safe working condition.,False,False
+22,M,5.0,d,,,"d. Lift controls will be located below the guardrail height. When lift controls are not located below the guardrail height, an after-market guard will be installed.",False,False
+22,M,5.0,e,,,e. Boom and basket load limits specified by manufacturer shall not be exceeded.,False,False
+22,M,5.0,f,,,"f. Articulating boom and extensible boom platforms, primarily designed as personnel carriers, shall have both platform (upper) and lower controls.",False,False
+22,M,5.0,f,1.0,,(1) Upper controls shall be in or beside the platform within easy reach of the operator.,False,False
+22,M,5.0,f,2.0,,(2) Lower controls shall provide for overriding the upper controls.,False,False
+22,M,5.0,f,3.0,,(3) Controls shall be plainly marked as to their function.,False,False
+22,M,5.0,f,4.0,,(4) Lower level controls shall not be operated unless permission has been obtained from the employee in the lift except in case of emergency. This practice shall be documented in the applicable AHA.,False,False
+22,M,5.0,g,,,g. Climbers (spikes) shall not be worn while performing work from an aerial lift.,False,False
+22,M,5.0,h,,,h. The insulated portion of an aerial lift shall not be altered in any manner that might reduce its insulating value.,False,False
+22,M,5.0,i,,,"i. Occupants shall always stand firmly on the floor of the basket and shall not sit or climb on the edge of the basket or use planks, ladders, or other devices for a work position.",False,False
+22,N,,,,,22.N Mast Climbing Work Platforms.,True,False
+22,N,1.0,,,,"22.N.01 Mast Climbing work platforms (MCWPs) shall be erected, used, inspected, tested, maintained, and repaired in accordance with ANSI A92.9, the IPAF/SAIA Safe Use Guidelines for Mast Climbing Work Platforms (henceforth referred to as ‘IPAF/SAIA’) and the manufacturer’s recommendations as outlined in the operating manual, henceforth referred to as ‘manual’.",True,False
+22,N,2.0,,,,"22.N.02 A pre-use inspection will be performed prior to erecting the work platform, according to requirements set out in IFPA/SAIA and the operator’s manual.",True,False
+22,N,2.0,a,,,"a. An overhead inspection will be done to ensure that the MCWP will not come in contact with any obstructions while moving up or down the mast. Special attention will be given to high voltage conductors. Once the voltage of the line(s) is established, the minimum safe approach distance in Table 11-1 will be used.",False,False
+22,N,2.0,b,,,"b. An inspection of the ground will be done to ensure that there are no obstacles around the MCWP and in the path of travel (if the unit is on a mobile chassis) such as holes, drop-offs, debris, ditches, or soft fill. For static and mobile units, compaction will be sufficient to support the static and live loads for the configuration. The perimeter around the base of the unit, matching the length and width of the platform area above, shall be identified as restricted access by use of danger signs, tape, fences, or other suitable means.",False,False
+22,N,2.0,c,,,c. Daily maintenance and inspections will be performed and documented by a CP per Section 22.B.03. Copies will be maintained on the job site.,True,False
+22,N,3.0,,,,22.N.03 Only designated and trained users shall operate the MCWP. Training records shall be maintained for at least 3 years and maintained on-site. All personnel on the MCWP shall be trained per Section 22.N.14 below.,True,False
+22,N,4.0,,,,22.N.04 The MCWP will not be raised on uneven or sloped surfaces unless outriggers are used to level the MCWP and the ground is suitable to support the load.,True,False
+22,N,5.0,,,,"22.N.05  MCWPs shall be raised only in accordance with manufacturer’s recommended free standing height and outrigger requirement, and loading recommendations. All outriggers shall be as per manufacturer’s recommendation. The unit shall be level before raising the platform (mast should be plumb and level before vertical movement of platform).",True,False
+22,N,5.0,,,,Note: Not all Mast Climbing Work Platforms are designed with freestanding capability. Check the machine and manual to see if the machine being operated has a freestanding height.,False,False
+22,N,6.0,,,,"22.N.06 If the unit is on a powered chassis, the MCWP must be lowered to its lowest position prior to being moved. Additionally, all material and tools must be removed from the platform, the outriggers must be fully extended and open and the jacks must be raised no more than 1 in (2.5 cm) from the ground. When moved into its new working position, the unit must be set up and leveled again before it is elevated. The work platform shall remain horizontal within 2 degrees during normal movement of the platform.",True,False
+22,N,7.0,,,,"22.N.07 A MCWP, with platform elevated or personnel on the platform, shall not be driven. The manufacturer’s instructions shall be followed when moving a MCWP to determine the safe mast height for ground conditions, ground slope, and overhead obstructions.",True,False
+22,N,8.0,,,,"22.N.08  MCWPs will be properly tied to the building (or structure) according to manufacturer’s guidelines unless it is designed to be freestanding. A QP shall demonstrate the correct anchoring method based on tensile, shear and torsion forces as advised by the manufacturer and with respect to the strength of the structure to be tied to, following all relevant requirements on installation from the anchor manufacturer’s data.",True,False
+22,N,9.0,,,,22.N.09 No ladders or structures of any kind will be used to increase the size or working height of platform unless specifically designed by the manufacturer for the intended use and all fall hazards have been controlled.,True,False
+22,N,10.0,,,,22.N.10 Access.,True,False
+22,N,10.0,a,,,"a. Climbing of braces and guardrails is prohibited. When access ladders, including masts designed as ladders, exceed 20 ft (6 m) in height, positive fall protection shall be used.",False,False
+22,N,10.0,b,,,b. All access gates shall either close automatically or be electronically interlocked to prevent operation of the MCWP unless they are closed. Chains or ropes shall not be used as access gates.,False,False
+22,N,10.0,c,,,"c. Prior to use at elevations of 20 ft (6 m) or more, an emergency egress plan will be developed to evacuate workers from a MCWP that gets caught in an elevated position 20 ft or more above the ground. If that plan includes descending the mast, all employees working on the MCWP will be provided fall arrest equipment and will be trained in its use.",False,False
+22,N,11.0,,,,22.N.11 The MCWP shall not be raised in windy or gusty conditions.,True,False
+22,N,11.0,a,,,a. The operation manual shall be followed to determine maximum in-service wind speed conditions. A copy of the operator’s manual shall be available on the job site.,False,False
+22,N,11.0,b,,,b. Loads and forces shall be accounted for and followed per manufacturer’s instructions.,False,False
+22,N,12.0,,,,"22.N.12  MCWPs shall not be altered or modified in any way, unless approved by the manufacturer, and performed by a QP.",True,False
+22,N,13.0,,,,22.N.13 Only authorized personnel (users and operators) shall use the MCWP.,True,False
+22,N,14.0,,,,"22.N.14 Training. Personnel will be trained and familiarized by a QP (Qualified by either a manufacturer or an Industry recognized training course) before using and/or operating MCWPs.  Anyone involved in erecting, disassembling, moving, operating, using, repairing, maintaining or inspecting a MCWP shall be trained by a QP to recognize any hazards associated with the work in question. Proof of training shall be made readily available on site. Operator training shall meet the following:",True,False
+22,N,14.0,a,,,a. All training must be per the ANSI 92.9 standard and IPAF/SAIA guidelines.,False,False
+22,N,14.0,b,,,"b. All non-user trained personnel (i.e., building inspectors, consultants, etc.) that may need to be on the MCWPs shall have as a minimum, safety/hazard awareness training, and be escorted by a trained user while on the scaffold.",False,False
+22,N,15.0,,,,22.N.15 A damaged or malfunctioning machine shall not be used. Operation of damaged equipment shall be discontinued until the unit is repaired.,True,False
+22,N,16.0,,,,22.N.16  MCWPs shall be equipped with a permanently installed device on the work platform to switch off the work platform and secure it from unauthorized use.,True,False
+22,N,17.0,,,,22.N.17 Planking and decking shall follow the guidelines set forth in Section 22.B.15 and 29 CFR 1926.451.,True,False
+22,N,18.0,,,,22.N.18 Guarding.,True,False
+22,N,18.0,a,,,"a. All open sides of the platform shall be equipped with a guardrail which can be securely fastened in place. Guardrails shall be secured per the manufacturer’s instructions and shall withstand, without failure, a force of 300 lbs, applied in any outward or downward direction.",False,False
+22,N,18.0,b,,,"b. If the MCWP is erected towards a wall and the distance is more than 14 in (0.36 m), a guardrail shall be required. The maximum distance between wall and platform may increase to 18 in (0.46 m) for plastering and lathing operations. When it is possible to have a horizontal distance between the wall and platform of not more than 14 in (.36 m), then a guardrail is not necessary.",False,False
+22,N,18.0,c,,,"c. Any MCWP with a travel speed of more than 15 fpm shall include a mast guard around at least 3 sides of the mast. The guard shall provide protection from not more than 1 in (2.5 cm) above the platform floor to a minimum height of 6 ½ ft (1.98 m) above the platform floor, and shall have no opening larger than 1 in2 (2.5 cm2).",False,False
+22,N,19.0,,,,22.N.19 Annual inspection. An annual inspection will be performed in accordance with the manufacturer’s guidelines but no later than 13 months from the date of the prior inspection. The inspection shall be performed by a QP on the specific make and model of MCWP.  A copy of the inspection shall be maintained on site with the owner’s manual.,True,False
+22,O,,,,,22.O Roofing Brackets.,True,False
+22,O,1.0,,,,22.O.01 Roofing brackets shall be secured by nailing in addition to the pointed metal projections. Nails will be driven into a rafter or beam; not just into the decking. Fasteners will be selected in accordance with the manufacturer’s recommendations.,True,False
+22,O,2.0,,,,"22.O.02 When it is impractical to nail brackets, rope supports shall be used. When rope supports are used, they shall consist of first-grade manila rope, ¾ in (1.9 cm) diameter or equivalent.",True,False
+22,P,,,,,22.P Stilts.,True,False
+22,P,1.0,,,,22.P.01 Stilts shall not be used on scaffolds.,True,False
+22,P,2.0,,,,"22.P.02 Surfaces on which stilts are used shall be flat and free of pits, holes, obstructions, debris and other tripping or slipping hazards.",True,False
+22,P,3.0,,,,22.P.03 Stilts shall be properly maintained. Any alteration of the equipment shall be approved by the manufacturer.,True,False
+22,P,4.0,,,,"22.P.04 Stilts shall not be used on stairs. When used adjacent to stairs or ramps where a fall to a different level could occur, guardrails (as defined in Section 21.F.01.b) or other fall protection shall be provided (increased in height by an amount equal to the height of the stilts).",True,False
+22,P,5.0,,,,22.P.05 Employees shall be trained in the proper use of stilts.,True,False
+22,P,6.0,,,,"22.P.06  When using stilts exposes workers to a fall of 6 ft (1.8 m) or more in areas protected by guardrails, the height of the guardrails must be raised accordingly to maintain a protective height of 42 in (107cm) above the stilt. > See Section 21.A.04.",True,False
+22,Q,,,,,22.Q Turbine Maintenance Platforms (TMPs).  A TMP is type of scaffold unique to hydropower Operations and Maintenance that incorporates aspects of both suspended scaffolds and hanging scaffolds. These TMPs are assembled in the draft tube below the turbine where they are physically attached to the structure. Some TMPs must be assembled below the turbine at the draft tube door level and raised into position and may also be required to be close to the turbine blades such that the TMP must wrap around the turbine hub. This applies to vertical access turbines where the TMP is assembled under the runner. >Note: This Section does not apply to standard off-the-shelf applications of scaffolds designed and used in accordance with ANSI A.10.,True,False
+22,Q,1.0,,,,22.Q.01 Design.,True,False
+22,Q,1.0,a,,,a. TMPs shall be designed and/or certified by a RPE. Existing TMPs shall be certified prior to the next use. There is a grace period of 6 months from the effective date of this manual.,False,False
+22,Q,1.0,b,,,b. TMPs shall be designed to support their own weight plus 4 times the maximum intended load.,False,False
+22,Q,1.0,c,,,"c. A data plate will be attached or the documentation showing the design will be readily available on-site. The RPE will be listed on the drawings and calculations for the platform and not on the data plate. Data, when used, will include the following:",False,False
+22,Q,1.0,c,1.0,,(1) Descriptive name indicating intended usage;,False,False
+22,Q,1.0,c,2.0,,(2) Assembled weight of TMP;,False,False
+22,Q,1.0,c,3.0,,"(3) Total maximum live load, pounds;",False,False
+22,Q,1.0,c,4.0,,(4) Total maximum distributed live load (psf);,False,False
+22,Q,1.0,c,5.0,,(5) Date of fabrication;,False,False
+22,Q,1.0,c,6.0,,(6) Name of fabricator;,False,False
+22,Q,1.0,c,7.0,,(7) Any load restrictions or usage limitations.,False,False
+22,Q,1.0,d,,,"d. If wire rope is used to either support the platform after installation or to raise the platform while occupied, the wire rope shall have a safety factor of 6.",False,False
+22,Q,1.0,e,,,e. Deflections in structural members and structural systems under appropriate service load combinations shall not impair the serviceability of the structure.,False,False
+22,Q,1.0,f,,,"f. If hooks are used to support the platform in its final position, they will be designed with a positive means of securing them to prevent the hooks from being disengaged.",False,False
+22,Q,1.0,g,,,"g. The decking/platform shall be designed so that the space between adjacent obstacles or structures and the space between the platform is no more than 9.5 in (24.1 cm) wide, except where the user can demonstrate that a wider space is necessary. Where gaps exceed 9.5 in, needed FP measures shall be evaluated in accordance with Section 21.",False,False
+22,Q,1.0,h,,,h. The working surfaces shall be slip-resistant.,False,False
+22,Q,5.0,,,,"22.Q.05 Testing. Immediately after fabrication and after any modification of the structural members, the platform shall be proof tested to 100% of its rated capacity. The test may take place in the fabricator’s shop or other location provided the supports and connections are also tested to 100%. The full rated load shall be statically applied for a minimum of 15 minutes. Following the load test, the TMP shall be inspected for plastic deformation, fracture, and 100% of welds shall receive Non-Destructive Inspection.",True,False
+22,Q,6.0,,,,22.Q.06 Assembly/Disassembly.,True,False
+22,Q,6.0,a,,,"a. An AHA shall be developed for the process of installing and removing TMPs. Fall protection, working over water, and fire protection will be addressed in the AHA along with any other hazards the workers identify. The AHA will be reviewed immediately prior to the start of work with the entire crew.",False,False
+22,Q,6.0,b,,,b. The TMP will be positively attached prior to use. Platform components shall be supported and secured such that each component is stable in all anticipated load conditions. When attachment points are welded they will be either welded by an AWS certified welder or a pull test will be done in accordance with the RPE specifications.,False,False
+22,Q,6.0,c,,,"c. Raising and lowering the platform, when occupied by personnel, will only be done with rated grip hoists or other lifting equipment rated for lifting personnel. Chain falls will not be used to lift personnel unless an independent FP system is used.",False,False
+22,Q,7.0,,,,22.Q.07 Visual inspections shall be done daily in accordance with Section 22.B.03.,True,False
+22,Q,8.0,,,,22.Q.08 Training.,True,False
+22,Q,8.0,a,,,"a. Employees that install and/or remove TMPs shall be trained on how to properly assemble, install and the removal of the specific type of TMP. > See Section 22.B.06.",True,False
+22,Q,8.0,b,,,b. FP training shall be done IAW Section 21.,False,False
+22,R,,,,,22.R Forklift-/Powered Industrial Truck (PIT) – Mounted Work Platforms.,True,False
+22,R,1.0,,,,"22.R.01 Forklifts/PITs will not be used to support work platforms unless there is no other practical method. If a rough terrain (RT) forklift must be used, all the conditions in this Section must be met.",True,False
+22,R,2.0,,,,22.R.02 The manufacturer must specifically allow this specific machine to lift personnel. The operator’s manual shall be maintained at the work site on the forklift.,True,False
+22,R,3.0,,,,22.R.03 The manufacturer’s platform specifications shall be maintained on site and those specifications must reference ASME B56-6.,True,False
+22,R,3.0,a,,,a. A data plate may be used in lieu of the manufacturer’s specifications if it references ASME B56.6.,False,False
+22,R,3.0,b,,,"b. If the platform is not manufactured by, or for, the company that manufactures the forklift, a letter must be obtained from the forklift manufacturer that states the machine is compatible with the platform design. This letter must be kept on site and a copy provided to the GDA.",False,False
+22,R,4.0,,,,22.R.04 The platform must be securely attached to the lifting carriage and forks.,True,False
+22,R,5.0,,,,22.R.05 The lifting carriage and forks must be secured from pivoting forward.,True,False
+22,R,6.0,,,,"22.R.06 If the truck is equipped with a rotator, the rotator must be deactivated.",True,False
+22,R,7.0,,,,22.R.07 Personnel shall be protected from moving parts while in their normal working positions.,True,False
+22,R,8.0,,,,22.R.08 Overhead protection shall be provided as necessary for the operating conditions.,True,False
+22,R,9.0,,,,22.R.09 The lifting operation shall be done smoothly throughout the entire range of the lift.,True,False
+22,R,10.0,,,,"22.R.10 All lift limiting devices and latches, if so equipped, shall be functional.",True,False
+22,R,11.0,,,,22.R.11 A firm footing will be verified by the operator before lifting personnel.,True,False
+22,R,12.0,,,,22.R.12 A fall restraint system shall be used in accordance with Section 21 and personnel will maintain a firm footing on the platform at all times.,True,False
+22,R,13.0,,,,22.R.13 The platform shall not be tilted forward or rearward.,True,False
+22,R,14.0,,,,22.R.14 The platform shall be lowered to the ground level for personnel to enter and exit.,True,False
+22,R,15.0,,,,22.R.15 The operator shall remain at the controls whenever personnel are elevated.,True,False
+22,R,16.0,,,,22.R.16 The forklift shall not be moved horizontally while occupied.,True,False
+22,R,17.0,,,,"22.R.17 Before elevating personnel, forklift travel controls must be in neutral and the parking brake set.",True,False
+22,R,18.0,,,,22.R.18 The operator shall verify that the mast or boom travel is vertical and will not operate on a slope unless the RT forklift is level.,True,False
+22,R,19.0,,,,"22.R.19 The operator shall verify that the path of the platform travel is clear of hazards, such as electrical wires, overhead obstructions, scaffolding, storage racks, and other obstacles.",True,False
+22,R,20.0,,,,"22.R.20 Before elevating personnel, the work area must be marked to warn of work by elevated personnel.",True,False
+22,R,21.0,,,,22.R.21 Driving a forklift equipped with a personnel work platform in a raised position or with personnel on the platform is forbidden.,True,False
+22,R,22.0,,,,"22.R.22 Before raising or lowering the platform, the operator shall alert the personnel on the platform and then move the platform smoothly and with caution as requested by the occupants.",True,False
+22,R,23.0,,,,"22.R.23 The combined weight of the platform, load, and personnel shall not exceed one-third of the capacity at the related load center position as indicated on the information plate(s) of the RT forklift truck.",True,False
+22,S,,,,,22.S Work Stands (Portable Work Platforms).,True,False
+22,S,1.0,,,,22.S.01 Work stands shall be designed in accordance with either ANSI A14.2 (aluminum) or ANSI A14.5 (plastic/fiberglass).  > See Figure 22-2.,True,False
+22,S,2.0,,,,22.S.02 Work stands shall not have a working height exceeding 4 ft (1.2 m).,True,False
+22,S,3.0,,,,22.S.03 The load rating shall be clearly and legibly marked and the work stand shall not be loaded beyond the manufacturer’s rated capacity. The maximum intended load includes the worker and all tools and supplies.,True,False
+22,S,4.0,,,,"22.S.04 When work stands are used adjacent to stairs or ramps where a fall to a different level could occur, guardrails (as defined in 21.F.01.b) or other fall protection shall be provided (increased in height by an amount equal to the height of the work stand. > See Section 21.A.04.",True,False
+22,S,5.0,,,,22.S.05 Work stands shall inspected for visible defects on a daily basis and shall be maintained with no structural damage.,True,False
+22,S,6.0,,,,22.S.06 Job-built work stands are not allowed. Saw horses shall not be used as work stands.,True,False
+22,T,,,,,22.T Trestle Ladder Scaffolds.,True,False
+22,T,1.0,,,,22.T.01 Scaffold platforms must be placed no higher than the second-highest rung or step of the ladder supporting the platform.,True,False
+22,T,2.0,,,,"22.T.02 All ladders used in step, platform and trestle ladder scaffolds must:",True,False
+22,T,2.0,a,,,a. Meet or exceed 29 CFR 1926 Subpart X.   >NOTE: job-made ladders are not permitted.,False,False
+22,T,2.0,b,,,"b. Be prevented from slipping by how they are placed, fastened, or equipped.",False,False
+22,T,3.0,,,,22.T.03 Scaffolds must not be bridged one to another.,True,False
+22,T,4.0,,,,22.T.04 Climbing and Working Locations. The user shall climb or work with the body near the middle of the step or rung.  Higher than the step or rung indicated on the label marking the highest standing level of a ladder. The user shall not step or stand on:,True,False
+22,T,4.0,a,,,"a. A ladder top cap or the top step of the step or trestle ladder, or the bucket or pail shelf of a self-supporting ladder.",False,False
+22,T,4.0,b,,,"b. The rear braces of a self-supporting ladder, unless designed and recommended for that purpose by the manufacturer.",False,False
+22,T,4.0,c,,,c. The top step of the extension section of an extension trestle ladder.,False,False
+22,T,4.0,d,,,d. The top cap or top step of a combination ladder when it is used as a self-supporting ladder.,False,False

@@ -1,0 +1,59 @@
+chapter,section,topic,refOne,refTwo,refThree,content,highlight,bookmark
+4,A,,,,,04.A General.,True,False
+4,A,1.0,,,,"04.A.01 Plans for the layout of temporary construction buildings, facilities, fencing, access routes and anchoring systems for temporary structures shall be submitted to and approved by the GDA. > See Section 09.A.18 for temporary building spacing requirements; Section 11 for temporary power distribution approval requirements; Section 24 for temporary ramp, trestle, scaffold, and platform approval requirements.",True,False
+4,A,2.0,,,,"04.A.02 The design and construction of temporary structures shall consider the following loadings. > See American Society of Civil Engineers (ASCE) 7-10, Minimum Design Loads for Buildings and Other Structures:",True,False
+4,A,2.0,a,,,a. Dead and live loads;,False,False
+4,A,2.0,b,,,b. Soil and hydrostatic pressures;,False,False
+4,A,2.0,c,,,c. Wind loads;,False,False
+4,A,2.0,d,,,d. Rain and snow loads;,False,False
+4,A,2.0,e,,,"e. Flood and ice loads, and",False,False
+4,A,2.0,f,,,f. Seismic forces.,False,False
+4,A,3.0,,,,"04.A.03 Trailers and other temporary structures used as field offices, as personnel housing, or for storage shall be anchored with rods and cables or by steel straps to ground anchors. The anchor system shall be designed to withstand winds and must meet applicable state or local standards for anchoring mobile trailer homes.",True,False
+4,A,4.0,,,,04.A.04 Fencing and warning signs.,True,False
+4,A,4.0,a,,,"a. Temporary project fencing (or a substitute acceptable to the GDA and delineated in the APP) shall be provided on all projects located in areas of active use by members of the public, including those areas in close proximity to family housing areas and/or school facilities.",False,False
+4,A,4.0,b,,,b. Fencing shall extend from grade to a minimum of  4 ft (1.2 m) above grade and shall have a maximum mesh size of 2 in (5 cm). Fencing shall remain rigid/taut with a minimum of 200 lbs (.9 kN) of force exerted on it from any direction with less than 4 in  (10 cm) of deflection.,False,False
+4,A,4.0,c,,,"c. Signs warning of the presence of construction hazards and requiring unauthorized persons to keep out of the construction area shall be posted on the fencing. At minimum, signs shall be posted every 150 ft (45.7 m). Fenced sides of projects that are less than 150 ft shall, at minimum, have at least one warning sign. > See also Section 8.",False,False
+4,A,4.0,d,,,"d. Depending upon the nature and location of the project site, the GDA may determine that fencing is not required. This will be based on a risk analysis of public exposure and other project specific considerations, and will be included in the applicable AHA. In those locations where the GDA has determined fencing is not required, signs, warning of construction hazards, shall be conspicuously posted.",False,False
+4,A,5.0,,,,04.A.05 Temporary Work Camps (Floating plant excluded). The design and construction of work/labor camps shall be IAW 29 CFR 1910.142.,True,False
+4,A,5.0,a,,,"a. All sites used for temporary work camps shall be adequately drained. They shall not be subject to periodic flooding nor located within 200 ft (61 m) of swamps, pools, sink holes, or other surface collections of water unless adequate mosquito control methods have been implemented. The sites shall be graded, ditched, and rendered free from depressions in which water may become a nuisance.",False,False
+4,A,5.0,b,,,b. Sites shall be sized to prevent overcrowding of necessary structures.,False,False
+4,A,5.0,c,,,"c. The grounds and open areas surrounding the shelters shall be maintained free of rubbish, debris, waste paper, garbage, or other refuse.",False,False
+4,A,5.0,d,,,"d. Shelters will provide protection from the elements, and each room used for sleeping purposes shall contain at least 55 ft2 (5.06 m2) of floor space for each occupant and at least 7 ft-6 in (2.3 m) ceilings. The floor space does not include areas occupied by closets or wall lockers.",False,False
+4,A,5.0,e,,,"e. Beds, cots, or bunks, and suitable storage facilities (such as wall lockers for clothing and personal articles) shall be provided in every room used for sleeping purposes. Beds shall be spaced not closer than 3 ft (1 m) both laterally and end-to-end and shall be elevated at least 1 ft (.3 m) from the floor. Double-decked bunk beds shall be spaced not fewer than 4 ft (1.2 m) both laterally and end-to-end with a minimum space of not fewer than 27 in (68.5 cm) between the upper and lower bunk. Triple deck bunks are prohibited.",False,False
+4,A,5.0,f,,,"f. Floors shall be constructed of wood, asphalt, or concrete. Wooden floors shall be of smooth and tight construction. Floors shall be kept in good repair.",False,False
+4,A,5.0,g,,,"g. All wooden floors shall be elevated not less than 1.5 ft (0.5 m) above the ground level at all points to prevent dampness and permit free circulation of air beneath, and for easier and safer maintenance.",False,False
+4,A,5.0,h,,,h. Living quarters shall be provided with windows that may be opened for purposes of ventilation.,False,False
+4,A,5.0,i,,,i. All exterior openings shall be effectively screened with 16-mesh material and screen doors shall be equipped with self-closing devices.,False,False
+4,A,5.0,j,,,"j. Temporary sleeping quarters shall be heated, cooled, ventilated, lighted, and maintained in a clean and safe condition.",False,False
+4,A,5.0,k,,,"k. Sleeping quarters must comply with applicable provisions of the National Fire Protection Agency (NFPA) 101, Life Safety Code.",False,False
+4,A,6.0,,,,"04.A.06 Unless otherwise indicated, throughout this manual, lumber dimensions are given in nominal sizes.",True,False
+4,A,7.0,,,,"04.A.07 Temporary Explosives Storage Areas. Temporary Explosives Storage Areas shall be IAW the EM 385-1-97, Explosives Safety and Health Requirements.",True,False
+4,B,,,,,04.B  Access and Haul Roads.,True,False
+4,B,1.0,,,,"04.B.01 Prior to construction, the Contractor shall provide the GDA with a copy of an Access/Haul Road plan for review and acceptance. Access/haul roads shall be designed in accordance with current engineering criteria. Work on the haul road shall not commence until the GDA has accepted the plan. The plan shall address the following items:",True,False
+4,B,1.0,a,,,"a. Equipment usage, traffic density and patterns, right-of-way rules, and hours of operation;",False,False
+4,B,1.0,b,,,"b. Road layout and widths, horizontal and vertical curve data, and sight distances;",False,False
+4,B,1.0,c,,,"c. Sign and signalperson requirements, road markings, and traffic control devices;",False,False
+4,B,1.0,d,,,d. Drainage controls;,False,False
+4,B,1.0,e,,,"e. Points of contact between vehicles and the public, vehicles and pedestrians, and safety controls at these points;",False,False
+4,B,1.0,f,,,"f. Maintenance requirements, including roadway hardness and smoothness and dust control, and",False,False
+4,B,1.0,g,,,"g. Hazards adjacent to the road (e.g., bodies of water, steep embankments).",False,False
+4,B,2.0,,,,"04.B.02 No employer shall move, or cause to be moved, any equipment or vehicle upon an access or haul road unless the roadway is constructed and maintained to safely accommodate the movement of the equipment or vehicle involved.",True,False
+4,B,3.0,,,,"04.B.03 When road levels are above working levels, berms, barricades, or curbs shall be constructed to prevent vehicles overrunning the edge or end of embankment. Berms/curbs shall be constructed to one-half the diameter of the tires of the largest piece of equipment using the roadway.",True,False
+4,B,4.0,,,,04.B.04 Roadways shall have a crown and ditches for drainage. Water shall be intercepted before reaching a switch back or large fill and be led off.,True,False
+4,B,5.0,,,,04.B.05 Haul roads shall be constructed to widths suitable for safe operation of the equipment at the travel speeds proposed by the Contractor and accepted by the GDA.,True,False
+4,B,6.0,,,,"04.B.06 All roads, including haul roads, shall be posted with maximum speed limits.",True,False
+4,B,7.0,,,,"04.B.07 An adequate number of turn-outs shall be provided on single lane roads with twoway traffic. When turn-outs are not practical, the Contractor shall provide a traffic control system to prevent accidents.",True,False
+4,B,8.0,,,,"04.B.08 Whenever possible, use a right-hand traffic pattern on two-way haul roads.",True,False
+4,B,9.0,,,,04.B.09 Curves.,True,False
+4,B,9.0,a,,,a. All curves shall have open sight lines and as great a radius as practical.,False,False
+4,B,9.0,b,,,b. Vehicle speed shall be limited on curves so that vehicles can be stopped within one-half the visible distance of the roadway.,False,False
+4,B,9.0,c,,,"c. The design of horizontal curves shall consider vehicle speed, roadway width and surfacing, and super elevation.",False,False
+4,B,10.0,,,,04.B.10 Grades.,True,False
+4,B,10.0,a,,,"a. When necessary, based on grade and machine and load weight, machines shall be equipped with retarders to assist in controlling downgrade descent.",False,False
+4,B,10.0,b,,,b. Access/haul roads should be kept to less than a 10% grade. There should be no more than 400 ft (121.9 m) of grade exceeding 10%.,False,False
+4,B,10.0,c,,,c. The maximum allowable grade shall not exceed 12% ppp.,False,False
+4,B,11.0,,,,04.B.11 Adequate lighting shall be provided. > See Section 7.,True,False
+4,B,12.0,,,,"04.B.12 Traffic control lights, barricades, road markings, signs, and signalpersons for the safe movement of traffic shall be provided in accordance with the DOT Federal Highway Administration's “Manual on Uniform Traffic Control Devices” and this Section.",True,False
+4,B,13.0,,,,"04.B.13 Roadway hardness, smoothness, and dust control shall be used to maintain the safety of the roadway.",True,False
+4,B,14.0,,,,"04.B.14 All roads shall be maintained in a safe condition and eliminate or control dust, ice, and similar hazards.",True,False
+4,B,15.0,,,,04.B.15 The deposition of mud and or other debris on public roads shall be minimized to the extent possible and in accordance with local requirements.,True,False

@@ -7,6 +7,39 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A8243E752DCB31E8006268B4 /* Chapter22.csv in Resources */ = {isa = PBXBuildFile; fileRef = A8243E672DCB31E8006268B4 /* Chapter22.csv */; };
+		A8243E762DCB31E8006268B4 /* Chapter05.csv in Resources */ = {isa = PBXBuildFile; fileRef = A8243E572DCB31E8006268B4 /* Chapter05.csv */; };
+		A8243E772DCB31E8006268B4 /* Chapter33.csv in Resources */ = {isa = PBXBuildFile; fileRef = A8243E722DCB31E8006268B4 /* Chapter33.csv */; };
+		A8243E782DCB31E8006268B4 /* Chapter08.csv in Resources */ = {isa = PBXBuildFile; fileRef = A8243E5A2DCB31E8006268B4 /* Chapter08.csv */; };
+		A8243E792DCB31E8006268B4 /* Chapter32.csv in Resources */ = {isa = PBXBuildFile; fileRef = A8243E712DCB31E8006268B4 /* Chapter32.csv */; };
+		A8243E7A2DCB31E8006268B4 /* Chapter29.csv in Resources */ = {isa = PBXBuildFile; fileRef = A8243E6E2DCB31E8006268B4 /* Chapter29.csv */; };
+		A8243E7B2DCB31E8006268B4 /* Chapter34.csv in Resources */ = {isa = PBXBuildFile; fileRef = A8243E732DCB31E8006268B4 /* Chapter34.csv */; };
+		A8243E7C2DCB31E8006268B4 /* Chapter16.csv in Resources */ = {isa = PBXBuildFile; fileRef = A8243E622DCB31E8006268B4 /* Chapter16.csv */; };
+		A8243E7D2DCB31E8006268B4 /* Chapter06.csv in Resources */ = {isa = PBXBuildFile; fileRef = A8243E582DCB31E8006268B4 /* Chapter06.csv */; };
+		A8243E7E2DCB31E8006268B4 /* Chapter04.csv in Resources */ = {isa = PBXBuildFile; fileRef = A8243E562DCB31E8006268B4 /* Chapter04.csv */; };
+		A8243E7F2DCB31E8006268B4 /* Chapter01.csv in Resources */ = {isa = PBXBuildFile; fileRef = A8243E532DCB31E8006268B4 /* Chapter01.csv */; };
+		A8243E802DCB31E8006268B4 /* Chapter12.csv in Resources */ = {isa = PBXBuildFile; fileRef = A8243E5E2DCB31E8006268B4 /* Chapter12.csv */; };
+		A8243E812DCB31E8006268B4 /* Chapter25.csv in Resources */ = {isa = PBXBuildFile; fileRef = A8243E6A2DCB31E8006268B4 /* Chapter25.csv */; };
+		A8243E822DCB31E8006268B4 /* Chapter19.csv in Resources */ = {isa = PBXBuildFile; fileRef = A8243E652DCB31E8006268B4 /* Chapter19.csv */; };
+		A8243E832DCB31E8006268B4 /* Chapter09.csv in Resources */ = {isa = PBXBuildFile; fileRef = A8243E5B2DCB31E8006268B4 /* Chapter09.csv */; };
+		A8243E842DCB31E8006268B4 /* Chapter26.csv in Resources */ = {isa = PBXBuildFile; fileRef = A8243E6B2DCB31E8006268B4 /* Chapter26.csv */; };
+		A8243E852DCB31E8006268B4 /* Chapter14.csv in Resources */ = {isa = PBXBuildFile; fileRef = A8243E602DCB31E8006268B4 /* Chapter14.csv */; };
+		A8243E862DCB31E8006268B4 /* Chapter20.csv in Resources */ = {isa = PBXBuildFile; fileRef = A8243E662DCB31E8006268B4 /* Chapter20.csv */; };
+		A8243E872DCB31E8006268B4 /* Chapter02.csv in Resources */ = {isa = PBXBuildFile; fileRef = A8243E542DCB31E8006268B4 /* Chapter02.csv */; };
+		A8243E882DCB31E8006268B4 /* Chapter31.csv in Resources */ = {isa = PBXBuildFile; fileRef = A8243E702DCB31E8006268B4 /* Chapter31.csv */; };
+		A8243E892DCB31E8006268B4 /* Chapter03.csv in Resources */ = {isa = PBXBuildFile; fileRef = A8243E552DCB31E8006268B4 /* Chapter03.csv */; };
+		A8243E8A2DCB31E8006268B4 /* Chapter23.csv in Resources */ = {isa = PBXBuildFile; fileRef = A8243E682DCB31E8006268B4 /* Chapter23.csv */; };
+		A8243E8B2DCB31E8006268B4 /* Chapter27.csv in Resources */ = {isa = PBXBuildFile; fileRef = A8243E6C2DCB31E8006268B4 /* Chapter27.csv */; };
+		A8243E8C2DCB31E8006268B4 /* Chapter07.csv in Resources */ = {isa = PBXBuildFile; fileRef = A8243E592DCB31E8006268B4 /* Chapter07.csv */; };
+		A8243E8D2DCB31E8006268B4 /* Chapter11.csv in Resources */ = {isa = PBXBuildFile; fileRef = A8243E5D2DCB31E8006268B4 /* Chapter11.csv */; };
+		A8243E8E2DCB31E8006268B4 /* Chapter13.csv in Resources */ = {isa = PBXBuildFile; fileRef = A8243E5F2DCB31E8006268B4 /* Chapter13.csv */; };
+		A8243E8F2DCB31E8006268B4 /* Chapter18.csv in Resources */ = {isa = PBXBuildFile; fileRef = A8243E642DCB31E8006268B4 /* Chapter18.csv */; };
+		A8243E902DCB31E8006268B4 /* Chapter17.csv in Resources */ = {isa = PBXBuildFile; fileRef = A8243E632DCB31E8006268B4 /* Chapter17.csv */; };
+		A8243E912DCB31E8006268B4 /* Chapter24.csv in Resources */ = {isa = PBXBuildFile; fileRef = A8243E692DCB31E8006268B4 /* Chapter24.csv */; };
+		A8243E922DCB31E8006268B4 /* Chapter28.csv in Resources */ = {isa = PBXBuildFile; fileRef = A8243E6D2DCB31E8006268B4 /* Chapter28.csv */; };
+		A8243E932DCB31E8006268B4 /* Chapter10.csv in Resources */ = {isa = PBXBuildFile; fileRef = A8243E5C2DCB31E8006268B4 /* Chapter10.csv */; };
+		A8243E942DCB31E8006268B4 /* Chapter30.csv in Resources */ = {isa = PBXBuildFile; fileRef = A8243E6F2DCB31E8006268B4 /* Chapter30.csv */; };
+		A8243E952DCB31E8006268B4 /* Chapter15.csv in Resources */ = {isa = PBXBuildFile; fileRef = A8243E612DCB31E8006268B4 /* Chapter15.csv */; };
 		A83185EA2C543285004BFDB4 /* ChapterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A83185E92C543285004BFDB4 /* ChapterViewController.swift */; };
 		A83185EC2C54366B004BFDB4 /* Chapter.swift in Sources */ = {isa = PBXBuildFile; fileRef = A83185EB2C54366B004BFDB4 /* Chapter.swift */; };
 		A83573982C72A40E00944196 /* RealmSwift in Frameworks */ = {isa = PBXBuildFile; productRef = A83573972C72A40E00944196 /* RealmSwift */; };
@@ -16,6 +49,7 @@
 		A84723FC2C6CA1BE005CFD80 /* SearchCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A84723FA2C6CA1BE005CFD80 /* SearchCell.swift */; };
 		A84723FD2C6CA1BE005CFD80 /* SearchCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = A84723FB2C6CA1BE005CFD80 /* SearchCell.xib */; };
 		A84723FF2C6CA60B005CFD80 /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A84723FE2C6CA60B005CFD80 /* SearchViewController.swift */; };
+		A84FAAE92DA9F57400885EB4 /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A84FAAE82DA9F57400885EB4 /* PageViewController.swift */; };
 		A8954C1E2D85D5F000026B70 /* WaiverViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8954C1D2D85D5F000026B70 /* WaiverViewController.swift */; };
 		A8954C202D85D65100026B70 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8954C1F2D85D65100026B70 /* SettingsViewController.swift */; };
 		A8A1E15D2CF12707004E7C35 /* MyItemProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8A1E15C2CF12707004E7C35 /* MyItemProvider.swift */; };
@@ -32,6 +66,7 @@
 		A8C76D2B2C4E0693003537B6 /* TabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8C76D2A2C4E0693003537B6 /* TabBarController.swift */; };
 		A8C76D2D2C4E0900003537B6 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8C76D2C2C4E0900003537B6 /* HomeViewController.swift */; };
 		A8C76D2F2C4E1068003537B6 /* SectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8C76D2E2C4E1068003537B6 /* SectionViewController.swift */; };
+		A8FAD5892DA60CDC006EC3E1 /* TutorialPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8FAD5882DA60CDC006EC3E1 /* TutorialPageViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,6 +101,39 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		A8243E532DCB31E8006268B4 /* Chapter01.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = Chapter01.csv; sourceTree = "<group>"; };
+		A8243E542DCB31E8006268B4 /* Chapter02.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = Chapter02.csv; sourceTree = "<group>"; };
+		A8243E552DCB31E8006268B4 /* Chapter03.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = Chapter03.csv; sourceTree = "<group>"; };
+		A8243E562DCB31E8006268B4 /* Chapter04.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = Chapter04.csv; sourceTree = "<group>"; };
+		A8243E572DCB31E8006268B4 /* Chapter05.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = Chapter05.csv; sourceTree = "<group>"; };
+		A8243E582DCB31E8006268B4 /* Chapter06.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = Chapter06.csv; sourceTree = "<group>"; };
+		A8243E592DCB31E8006268B4 /* Chapter07.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = Chapter07.csv; sourceTree = "<group>"; };
+		A8243E5A2DCB31E8006268B4 /* Chapter08.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = Chapter08.csv; sourceTree = "<group>"; };
+		A8243E5B2DCB31E8006268B4 /* Chapter09.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = Chapter09.csv; sourceTree = "<group>"; };
+		A8243E5C2DCB31E8006268B4 /* Chapter10.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = Chapter10.csv; sourceTree = "<group>"; };
+		A8243E5D2DCB31E8006268B4 /* Chapter11.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = Chapter11.csv; sourceTree = "<group>"; };
+		A8243E5E2DCB31E8006268B4 /* Chapter12.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = Chapter12.csv; sourceTree = "<group>"; };
+		A8243E5F2DCB31E8006268B4 /* Chapter13.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = Chapter13.csv; sourceTree = "<group>"; };
+		A8243E602DCB31E8006268B4 /* Chapter14.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = Chapter14.csv; sourceTree = "<group>"; };
+		A8243E612DCB31E8006268B4 /* Chapter15.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = Chapter15.csv; sourceTree = "<group>"; };
+		A8243E622DCB31E8006268B4 /* Chapter16.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = Chapter16.csv; sourceTree = "<group>"; };
+		A8243E632DCB31E8006268B4 /* Chapter17.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = Chapter17.csv; sourceTree = "<group>"; };
+		A8243E642DCB31E8006268B4 /* Chapter18.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = Chapter18.csv; sourceTree = "<group>"; };
+		A8243E652DCB31E8006268B4 /* Chapter19.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = Chapter19.csv; sourceTree = "<group>"; };
+		A8243E662DCB31E8006268B4 /* Chapter20.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = Chapter20.csv; sourceTree = "<group>"; };
+		A8243E672DCB31E8006268B4 /* Chapter22.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = Chapter22.csv; sourceTree = "<group>"; };
+		A8243E682DCB31E8006268B4 /* Chapter23.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = Chapter23.csv; sourceTree = "<group>"; };
+		A8243E692DCB31E8006268B4 /* Chapter24.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = Chapter24.csv; sourceTree = "<group>"; };
+		A8243E6A2DCB31E8006268B4 /* Chapter25.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = Chapter25.csv; sourceTree = "<group>"; };
+		A8243E6B2DCB31E8006268B4 /* Chapter26.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = Chapter26.csv; sourceTree = "<group>"; };
+		A8243E6C2DCB31E8006268B4 /* Chapter27.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = Chapter27.csv; sourceTree = "<group>"; };
+		A8243E6D2DCB31E8006268B4 /* Chapter28.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = Chapter28.csv; sourceTree = "<group>"; };
+		A8243E6E2DCB31E8006268B4 /* Chapter29.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = Chapter29.csv; sourceTree = "<group>"; };
+		A8243E6F2DCB31E8006268B4 /* Chapter30.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = Chapter30.csv; sourceTree = "<group>"; };
+		A8243E702DCB31E8006268B4 /* Chapter31.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = Chapter31.csv; sourceTree = "<group>"; };
+		A8243E712DCB31E8006268B4 /* Chapter32.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = Chapter32.csv; sourceTree = "<group>"; };
+		A8243E722DCB31E8006268B4 /* Chapter33.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = Chapter33.csv; sourceTree = "<group>"; };
+		A8243E732DCB31E8006268B4 /* Chapter34.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = Chapter34.csv; sourceTree = "<group>"; };
 		A83185E92C543285004BFDB4 /* ChapterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChapterViewController.swift; sourceTree = "<group>"; };
 		A83185EB2C54366B004BFDB4 /* Chapter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter.swift; sourceTree = "<group>"; };
 		A839F6002D725A36006CDF99 /* EM385-1-1-2024-Kugan-Formatted.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "EM385-1-1-2024-Kugan-Formatted.pdf"; sourceTree = "<group>"; };
@@ -73,6 +141,7 @@
 		A84723FA2C6CA1BE005CFD80 /* SearchCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchCell.swift; sourceTree = "<group>"; };
 		A84723FB2C6CA1BE005CFD80 /* SearchCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SearchCell.xib; sourceTree = "<group>"; };
 		A84723FE2C6CA60B005CFD80 /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
+		A84FAAE82DA9F57400885EB4 /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
 		A8954C1D2D85D5F000026B70 /* WaiverViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaiverViewController.swift; sourceTree = "<group>"; };
 		A8954C1F2D85D65100026B70 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		A8A1E15C2CF12707004E7C35 /* MyItemProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyItemProvider.swift; sourceTree = "<group>"; };
@@ -93,6 +162,7 @@
 		A8C76D2A2C4E0693003537B6 /* TabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarController.swift; sourceTree = "<group>"; };
 		A8C76D2C2C4E0900003537B6 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		A8C76D2E2C4E1068003537B6 /* SectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionViewController.swift; sourceTree = "<group>"; };
+		A8FAD5882DA60CDC006EC3E1 /* TutorialPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutorialPageViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +191,46 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		A8243E742DCB31E8006268B4 /* 2014 Books */ = {
+			isa = PBXGroup;
+			children = (
+				A8243E532DCB31E8006268B4 /* Chapter01.csv */,
+				A8243E542DCB31E8006268B4 /* Chapter02.csv */,
+				A8243E552DCB31E8006268B4 /* Chapter03.csv */,
+				A8243E562DCB31E8006268B4 /* Chapter04.csv */,
+				A8243E572DCB31E8006268B4 /* Chapter05.csv */,
+				A8243E582DCB31E8006268B4 /* Chapter06.csv */,
+				A8243E592DCB31E8006268B4 /* Chapter07.csv */,
+				A8243E5A2DCB31E8006268B4 /* Chapter08.csv */,
+				A8243E5B2DCB31E8006268B4 /* Chapter09.csv */,
+				A8243E5C2DCB31E8006268B4 /* Chapter10.csv */,
+				A8243E5D2DCB31E8006268B4 /* Chapter11.csv */,
+				A8243E5E2DCB31E8006268B4 /* Chapter12.csv */,
+				A8243E5F2DCB31E8006268B4 /* Chapter13.csv */,
+				A8243E602DCB31E8006268B4 /* Chapter14.csv */,
+				A8243E612DCB31E8006268B4 /* Chapter15.csv */,
+				A8243E622DCB31E8006268B4 /* Chapter16.csv */,
+				A8243E632DCB31E8006268B4 /* Chapter17.csv */,
+				A8243E642DCB31E8006268B4 /* Chapter18.csv */,
+				A8243E652DCB31E8006268B4 /* Chapter19.csv */,
+				A8243E662DCB31E8006268B4 /* Chapter20.csv */,
+				A8243E672DCB31E8006268B4 /* Chapter22.csv */,
+				A8243E682DCB31E8006268B4 /* Chapter23.csv */,
+				A8243E692DCB31E8006268B4 /* Chapter24.csv */,
+				A8243E6A2DCB31E8006268B4 /* Chapter25.csv */,
+				A8243E6B2DCB31E8006268B4 /* Chapter26.csv */,
+				A8243E6C2DCB31E8006268B4 /* Chapter27.csv */,
+				A8243E6D2DCB31E8006268B4 /* Chapter28.csv */,
+				A8243E6E2DCB31E8006268B4 /* Chapter29.csv */,
+				A8243E6F2DCB31E8006268B4 /* Chapter30.csv */,
+				A8243E702DCB31E8006268B4 /* Chapter31.csv */,
+				A8243E712DCB31E8006268B4 /* Chapter32.csv */,
+				A8243E722DCB31E8006268B4 /* Chapter33.csv */,
+				A8243E732DCB31E8006268B4 /* Chapter34.csv */,
+			);
+			path = "2014 Books";
+			sourceTree = "<group>";
+		};
 		A8C1D3E32C4887CB005A5322 = {
 			isa = PBXGroup;
 			children = (
@@ -185,7 +295,10 @@
 				A83B1BEE2CB9B55E003FEB5E /* SectionSearchView.swift */,
 				A8954C1F2D85D65100026B70 /* SettingsViewController.swift */,
 				A8954C1D2D85D5F000026B70 /* WaiverViewController.swift */,
+				A8FAD5882DA60CDC006EC3E1 /* TutorialPageViewController.swift */,
+				A84FAAE82DA9F57400885EB4 /* PageViewController.swift */,
 				A839F6002D725A36006CDF99 /* EM385-1-1-2024-Kugan-Formatted.pdf */,
+				A8243E742DCB31E8006268B4 /* 2014 Books */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -326,6 +439,39 @@
 				A839F6012D725A36006CDF99 /* EM385-1-1-2024-Kugan-Formatted.pdf in Resources */,
 				A8C1D3FC2C4887CF005A5322 /* Base in Resources */,
 				A8C1D3F72C4887CB005A5322 /* Base in Resources */,
+				A8243E752DCB31E8006268B4 /* Chapter22.csv in Resources */,
+				A8243E762DCB31E8006268B4 /* Chapter05.csv in Resources */,
+				A8243E772DCB31E8006268B4 /* Chapter33.csv in Resources */,
+				A8243E782DCB31E8006268B4 /* Chapter08.csv in Resources */,
+				A8243E792DCB31E8006268B4 /* Chapter32.csv in Resources */,
+				A8243E7A2DCB31E8006268B4 /* Chapter29.csv in Resources */,
+				A8243E7B2DCB31E8006268B4 /* Chapter34.csv in Resources */,
+				A8243E7C2DCB31E8006268B4 /* Chapter16.csv in Resources */,
+				A8243E7D2DCB31E8006268B4 /* Chapter06.csv in Resources */,
+				A8243E7E2DCB31E8006268B4 /* Chapter04.csv in Resources */,
+				A8243E7F2DCB31E8006268B4 /* Chapter01.csv in Resources */,
+				A8243E802DCB31E8006268B4 /* Chapter12.csv in Resources */,
+				A8243E812DCB31E8006268B4 /* Chapter25.csv in Resources */,
+				A8243E822DCB31E8006268B4 /* Chapter19.csv in Resources */,
+				A8243E832DCB31E8006268B4 /* Chapter09.csv in Resources */,
+				A8243E842DCB31E8006268B4 /* Chapter26.csv in Resources */,
+				A8243E852DCB31E8006268B4 /* Chapter14.csv in Resources */,
+				A8243E862DCB31E8006268B4 /* Chapter20.csv in Resources */,
+				A8243E872DCB31E8006268B4 /* Chapter02.csv in Resources */,
+				A8243E882DCB31E8006268B4 /* Chapter31.csv in Resources */,
+				A8243E892DCB31E8006268B4 /* Chapter03.csv in Resources */,
+				A8243E8A2DCB31E8006268B4 /* Chapter23.csv in Resources */,
+				A8243E8B2DCB31E8006268B4 /* Chapter27.csv in Resources */,
+				A8243E8C2DCB31E8006268B4 /* Chapter07.csv in Resources */,
+				A8243E8D2DCB31E8006268B4 /* Chapter11.csv in Resources */,
+				A8243E8E2DCB31E8006268B4 /* Chapter13.csv in Resources */,
+				A8243E8F2DCB31E8006268B4 /* Chapter18.csv in Resources */,
+				A8243E902DCB31E8006268B4 /* Chapter17.csv in Resources */,
+				A8243E912DCB31E8006268B4 /* Chapter24.csv in Resources */,
+				A8243E922DCB31E8006268B4 /* Chapter28.csv in Resources */,
+				A8243E932DCB31E8006268B4 /* Chapter10.csv in Resources */,
+				A8243E942DCB31E8006268B4 /* Chapter30.csv in Resources */,
+				A8243E952DCB31E8006268B4 /* Chapter15.csv in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -356,7 +502,9 @@
 				A83185EC2C54366B004BFDB4 /* Chapter.swift in Sources */,
 				A8C76D2F2C4E1068003537B6 /* SectionViewController.swift in Sources */,
 				A8A1E15D2CF12707004E7C35 /* MyItemProvider.swift in Sources */,
+				A8FAD5892DA60CDC006EC3E1 /* TutorialPageViewController.swift in Sources */,
 				A8C1D3F42C4887CB005A5322 /* WelcomeViewController.swift in Sources */,
+				A84FAAE92DA9F57400885EB4 /* PageViewController.swift in Sources */,
 				A83B1BEF2CB9B55E003FEB5E /* SectionSearchView.swift in Sources */,
 				A8954C202D85D65100026B70 /* SettingsViewController.swift in Sources */,
 				A8C1D3F02C4887CB005A5322 /* AppDelegate.swift in Sources */,

@@ -1,0 +1,283 @@
+chapter,section,topic,refOne,refTwo,refThree,content,highlight,bookmark
+26,A,,,,,"26.A General. This section applies to the construction of underground tunnels, shafts, chambers, and passageways. This section also applies to cut-and-cover excavations which are both physically connected to ongoing underground construction operations within the scope of this section, and covered in such a manner as to create conditions characteristic of underground construction.",True,False
+26,A,1.0,,,,26.A.01 Access and Egress.,True,False
+26,A,1.0,a,,,a. Access to all underground openings shall be controlled to prevent unauthorized entry.,False,False
+26,A,1.0,b,,,b. Unused access ways or other openings shall be tightly covered or fenced off and shall be posted with warning signs indicating “KEEP OUT” or similar language.,False,False
+26,A,1.0,c,,,c. Completed or unused sections of underground structures shall be barricaded.,False,False
+26,A,1.0,d,,,d. See Section 34 of this manual for confined space requirements.,False,False
+26,A,2.0,,,,26.A.02 Every location of underground construction shall have a check-in/check-out system that will ensure that above-ground personnel can determine the identification of all underground personnel.,True,False
+26,A,3.0,,,,"26.A.03 Oncoming shifts shall be informed of any hazardous occurrences or conditions that have affected or might affect employee safety, including liberation of gas, equipment failures, earth or rock slides, cave-ins, flooding, fires, or explosions.",True,False
+26,A,4.0,,,,26.A.04 Communications.,True,False
+26,A,4.0,a,,,"a. In situations where unassisted voice communication is inadequate, power-assisted means shall be used to provide communication among workers and support personnel.",False,False
+26,A,4.0,b,,,b. At least two effective means of communication (at least one of which shall be voice communication) shall be provided in all shafts that are being developed or used either for personnel access or for hoisting.,False,False
+26,A,4.0,c,,,c. Powered communication systems shall operate on an independent power supply and shall be installed so that the use of or disruption of any one phone or signal location will not disrupt the operation of the system from any other location.,False,False
+26,A,4.0,d,,,d. Communication systems shall be tested upon initial entry of each shift to the underground and as often as necessary thereafter to ensure proper operation.,False,False
+26,A,4.0,e,,,"e. Any employee working alone underground, who is both out of range of natural unassisted voice communication and not under observation by other persons, shall be provided with effective means to communicate the need for and to obtain emergency assistance. Employees working alone shall be required to check in with their supervisor at least once an hour.",False,False
+26,A,5.0,,,,26.A.05 Emergency rescue plans and equipment.,True,False
+26,A,5.0,a,,,a. Plans for rescuing personnel who might become injured or incapacitated while underground or in a shaft or caisson shall be developed.,False,False
+26,A,5.0,a,1.0,,(1) Plans shall be incorporated in either the APP or the AHA and posted at the job site.,False,False
+26,A,5.0,a,2.0,,(2) Plans shall be periodically reviewed with all affected personnel so that they maintain a working knowledge of emergency responsibilities and procedures.,False,False
+26,A,5.0,a,3.0,,(3) Emergency plans shall be drilled on a periodic basis to ensure their efficacy.,False,False
+26,A,5.0,b,,,b. Emergency equipment specified in the emergency plan shall be provided within 15 minutes of each portal or shaft entry. Inspections and workability tests of the equipment shall be made and documented monthly.,False,False
+26,A,5.0,c,,,"c. When a shaft is used as a means of egress, arrangements shall be made for power-assisted hoisting capability to be readily available in an emergency, unless the regular hoisting means can continue to function during a power failure.",False,False
+26,A,5.0,d,,,d. Hoisting devices used for emergencies shall be designed so that the load hoist drum is powered in both directions of rotation and so that the brake is automatically applied upon power release or failure.,False,False
+26,A,5.0,e,,,e. Self-rescuing/emergency respirators shall be immediately available to all employees at workstations in underground areas where they may be trapped by smoke or gas. > See Section 05.G.,True,False
+26,A,5.0,f,,,f. At least one designated person shall be on duty above ground whenever personnel are underground.,False,False
+26,A,5.0,f,1.0,,(1) The designated person shall be responsible for keeping an accurate count of employees’ underground and securing immediate aid in case of emergency.,False,False
+26,A,5.0,f,2.0,,(2) The designated person shall not be given other responsibilities that could affect his emergency response duties.,False,False
+26,A,5.0,g,,,"g. Each worker underground shall have an acceptable portable hand lamp or cap lamp in his work area for emergency use, unless natural light or an emergency lighting system provides adequate illumination for escape.",False,False
+26,A,6.0,,,,26.A.06 Rescue teams.,True,False
+26,A,6.0,a,,,"a. On job sites where less than 25 persons are underground at one time, provisions shall be made for at least one five-person rescue team to be either on the job site or within 30-minutes travel time from the underground entry point. This rescue team may be provided by local emergency response services.",False,False
+26,A,6.0,b,,,"b. On job sites where 25 or more persons are underground at one time, provisions shall be made for at least two five-person rescue teams. One rescue team shall be on the job site or be within 30-minutes travel time from the underground entry point, and the other rescue team shall be within 2-hours travel time. These rescue teams may be provided by local emergency response services.",False,False
+26,A,6.0,c,,,"c. Rescue team members shall be qualified in rescue procedures, the use and limitations of breathing apparatus, and the use of firefighting equipment. Qualifications shall be reviewed not less than annually.",False,False
+26,A,6.0,d,,,"d. On job sites where flammable or noxious gases are encountered or anticipated in hazardous quantities, rescue team members shall practice donning and using SCBA monthly.",False,False
+26,A,6.0,e,,,e. Rescue teams shall be kept informed of conditions at the job site with may impact their response.,False,False
+26,A,7.0,,,,"26.A.07 In addition to the requirements of Section 5, personnel in wet underground areas shall wear rubber boots (and rain gear, as necessary).",True,False
+26,A,8.0,,,,26.A.08  First aid facilities.,True,False
+26,A,8.0,a,,,a. A fully equipped first aid station and emergency transportation shall be provided at each underground construction project regardless of the number of persons employed.,False,False
+26,A,8.0,b,,,"b. If an underground construction project has multiple portals, a first aid station shall be provided at each portal or entry shaft or shall be so located between them that the distance from the station to each portal/entry shaft is less than 5 mi (8 km) and travel time less than 15 minutes.",False,False
+26,A,9.0,,,,26.A.09 Electrical and lighting.,True,False
+26,A,9.0,a,,,a. All electrical systems used in hazardous locations must be approved for that location. > See Section 11.H.,True,False
+26,A,9.0,b,,,b. Lighting circuits shall be installed on one side of the tunnel near the spring line and shall be mounted on insulators at each point of suspension.,False,False
+26,A,9.0,c,,,c. Light fixtures shall be nonmetallic and weatherproof and mounted in a manner that provides safe clearance for personnel and equipment.,False,False
+26,A,9.0,d,,,d. Only portable lighting equipment that is approved for the hazardous location shall be used within:,False,False
+26,A,9.0,d,1.0,,"(1) Storage areas, or",False,False
+26,A,9.0,d,2.0,,(2) 50 ft (15.2 m) of any underground heading during explosives handling.,False,False
+26,A,10.0,,,,"26.A.10 Inspections, testing and documentation.",True,False
+26,A,10.0,a,,,a. A program for testing all rock bolts for tightness shall be established. The frequency of testing shall be determined by rock conditions and the distance from vibration sources.,False,False
+26,A,10.0,b,,,"b. The employer shall examine and test the roof, face, and walls of the work area at the start of each shift and frequently thereafter.",False,False
+26,A,10.0,c,,,c. Ground conditions along underground haulways and accessways shall be inspected by a Competent Person (CP) as frequently as necessary to maintain safe passage.,False,False
+26,A,10.0,d,,,d. All drilling and associated equipment to be used during a shift shall be inspected before each shift by a CP.,False,False
+26,A,10.0,e,,,e. Drilling areas shall be inspected for hazards before drilling operations are started.,False,False
+26,A,10.0,f,,,f. A CP shall inspect haulage equipment before each shift.,False,False
+26,A,10.0,g,,,"g. Whenever defects affecting safety or health are identified, the defects shall be corrected before activities are initiated or continued.",False,False
+26,A,11.0,,,,26.A.11 Protection from falling material.,True,False
+26,A,11.0,a,,,"a. A CP shall inspect the roof, face and walls of the work area at the start of each shift and as often as necessary to determine the stability of the tunnel. > See 29 CFR 1926.800(o)(3)(i)(A).",False,False
+26,A,11.0,b,,,"b. Portal openings and access areas shall be guarded by shoring, fencing, head walls, shotcreting, or other equivalent means to ensure safe access of employees and equipment. Adjacent areas shall be scaled or otherwise secured to prevent loose soil or rock from endangering the portal and access areas.",False,False
+26,A,11.0,c,,,"c. Ground stability in hazardous subsidence areas shall be ensured by shoring or filling in, or by erecting barricades and posting warning signs to prevent entry.",False,False
+26,A,11.0,d,,,"d. Loose ground in underground areas that might be hazardous to employees shall be taken down, scaled, or supported.",False,False
+26,A,11.0,e,,,"e. Rock masses separated from the main mass by faults, joints, or fractures shall be secured by rock bolting or other suitable means or shall be removed. The means of securing shall be designed by a foundation engineer, an engineering geologist, or other qualified person.",False,False
+26,A,11.0,f,,,f. Anchored chain-link fabric or other method approved by the GDA shall be provided on rock faces subject to spalling.,False,False
+26,A,11.0,g,,,"g. Where tunnels are excavated through earth or shale, any excavation above or adjacent to portal areas shall be sloped to the angle of repose or held in place by ground supports. When undercutting occurs on these slopes (whether due to erosion or other causes) the overhanging material shall be promptly removed.",False,False
+26,A,11.0,h,,,"h. Where the need is indicated, a protective shelter shall be provided at each underground portal to protect persons and equipment from the hazards of falling rock or other material. The protective shelter shall project at least 15 ft (4.5 m) out from the portal.",False,False
+26,A,11.0,i,,,i. Ice or snow buildup on rock faces or earth slopes that create a hazard shall be promptly removed.,False,False
+26,A,12.0,,,,26.A.12 Tunneling in soil.,True,False
+26,A,12.0,a,,,"a. Where tunnels are excavated by conventional methods, the excavation shall not be extended more than 24 in (60.9 cm) ahead of ground supports; where continuous mining machines are used for tunnel excavation, the excavation shall not be extended more than 48 in (121.8 cm) ahead of ground supports.",False,False
+26,A,12.0,b,,,b. Under no circumstances shall persons be permitted to work in unsupported sections of the tunnels.,False,False
+26,A,12.0,c,,,"c. All voids in back of ground supports shall be filled, blocked, braced, or treated to prevent further cave-ins.",False,False
+26,A,12.0,d,,,"d. Where liner plate is not used for tunnel support, 2 in (5 cm) wire mesh or chain-link fabric shall be installed over the crown section, extending down to the spring line on each side of the tunnel and secured in place.",False,False
+26,A,13.0,,,,26.A.13 Ground support systems.,True,False
+26,A,13.0,a,,,a. Torque meters and/or torque wrenches shall be used where rock bolts are used for ground support.,False,False
+26,A,13.0,b,,,b. Frequent tests shall be made to determine if bolts meet the required torque. The test frequency shall be determined by rock conditions and distance from vibration sources.,False,False
+26,A,13.0,c,,,"c. Rock bolt support systems shall be designed by a foundation engineer, geologist, geotechnical engineer, mining engineer or other qualified Registered Professional Engineer (RPE). Suitable protection shall be provided for employees exposed to the hazard of loose ground while installing ground support systems.",False,False
+26,A,13.0,d,,,d. Support sets shall be installed so that the bottoms have sufficient anchorage to prevent ground pressures from dislodging the support base of the sets. Lateral bracing shall be provided between immediately adjacent sets to provide added stability.,False,False
+26,A,13.0,e,,,"e. Damaged or dislodged ground supports shall be repaired or replaced. Whenever possible, new supports shall be installed before removing the damaged supports.",False,False
+26,A,13.0,f,,,f. A shield or other type of support shall be used to maintain a safe travel way for personnel working in dead-end areas ahead of any support replacement operation.,False,False
+26,A,14.0,,,,26.A.14 Material handling equipment.,True,False
+26,A,14.0,a,,,a. Powered mobile haulage equipment shall have audible warning devices to inform personnel to stay clear. The operator shall sound the warning device before moving the equipment and whenever necessary during travel.,False,False
+26,A,14.0,b,,,"b. All vehicles and mobile equipment required to move in and out of underground construction areas shall have a revolving, flashing amber light, mounted so as to be visible in all directions. The flashing light shall be on whenever a vehicle or mobile equipment is in operation.",False,False
+26,A,14.0,c,,,"c. Haulage equipment shall be equipped with two headlights at both ends, a backup light, and an automatic backup alarm.",False,False
+26,A,14.0,d,,,"d. Conveyors used to transport muck from tunnels shall be installed, guarded, and maintained as required by Section 17. Fire extinguishers or equivalent protection shall be provided at the head and tail pulleys of underground belt conveyors and at 300 ft (91.4 m) intervals along the belt line.",False,False
+26,A,14.0,e,,,"e. No person shall ride haulage equipment unless it is equipped with seating for each passenger and passengers are protected from being struck, crushed, or caught between other equipment or surfaces.",False,False
+26,A,14.0,f,,,"f. When dumping cars by hand, the car dumps shall be provided with tie-down chains or bumper blocks to prevent cars from overturning.",False,False
+26,A,14.0,g,,,"g. Where narrow-gage railroads are used for haulage, the tracks shall be secured to prevent shifting. No humping"" of mine dump cars shall be permitted.""",False,False
+26,A,14.0,h,,,"h. Whenever rails serve as a return for a trolley circuit, both rails shall be bonded at every joint and cross-bonded every 200 ft (60.9 m).",False,False
+26,A,14.0,i,,,"i. Mine dump cars shall be equipped with automatic safety couplings, and cradle cars shall be equipped with a positive locking device to prevent accidental dumping.",False,False
+26,A,14.0,j,,,"j. Berms, bumper blocks, safety hooks, or equivalent means shall be provided to prevent over-travel and overturning of haulage equipment at dumping locations.",False,False
+26,A,14.0,k,,,k. Bumper blocks or equivalent shall be provided at all track dead ends.,False,False
+26,A,15.0,,,,26.A.15 Vehicles not directly involved in work shall be kept away from portals and separated from construction activities.,True,False
+26,A,16.0,,,,26.A.16 A caution sign reading “BURIED LINE” (or similar wording) shall be posted where air lines or other utility lines are buried or otherwise hidden by water or debris.,True,False
+26,A,17.0,,,,"26.A.17 Where underground openings are located adjacent to sources of water with potential for causing flooding in the underground work area, measures shall be taken to ensure that the underground area cannot be flooded.",True,False
+26,B,,,,,26.B Hazardous Classifications.,True,False
+26,B,1.0,,,,26.B.01 Underground construction operations shall be classified in accordance with the following.,True,False
+26,B,1.0,a,,,a. Underground construction operations shall be classified as potentially gassy operations if either:,False,False
+26,B,1.0,a,1.0,,"(1) Air monitoring discloses 10% or more of the lower explosive limit (LEL) for methane or other flammable gases measured at 12 in +/- 0.25 in (30.4 cm +/- 0.6 cm) from the roof, face, floor, or walls for a period of more than 24 hours; or",False,False
+26,B,1.0,a,2.0,,(2) The history of the geological area or geological formation indicates that 10% or more of the LEL for methane or other flammable gas is likely to be encountered.,False,False
+26,B,1.0,b,,,b. Underground operations shall be classified as gassy operations if:,False,False
+26,B,1.0,b,1.0,,"(1) Air monitoring discloses 10% or more of the LEL for methane or other flammable gases measured at 12 in +/- 0.25 in (30.4 cm +/- 0.6 cm) from the roof, face, floor, or walls for three consecutive days; or",False,False
+26,B,1.0,b,2.0,,(2) There has been an ignition of methane or other flammable gases emanating from the strata that indicates the presence of such gases; or,False,False
+26,B,1.0,b,3.0,,(3) The underground construction operation is both connected to an underground work area that is currently classified as gassy and is also subject to a continuous course of air containing the flammable gas concentration.,False,False
+26,B,2.0,,,,26.B.02 Underground construction gassy operations may be downgraded to potentially gassy operations when air monitoring results remain under 10% of the LEL for methane or other flammable gases for 3 consecutive days.,True,False
+26,B,3.0,,,,26.B.03 Requirements for gassy operations.,True,False
+26,B,3.0,a,,,a. Only equipment approved for the hazardous location and maintained in suitable condition shall be used in gassy operations.,False,False
+26,B,3.0,b,,,b. Mobile diesel-powered equipment used in gassy operations shall be approved in accordance with the requirements of 30 CFR 36 by MSHA and State regulations and shall be operated in accordance with these requirements and the manufacturer's instructions.,False,False
+26,B,3.0,c,,,c. Each entrance to a gassy operation shall be prominently posted with signs notifying all entrants of the gassy classification.,False,False
+26,B,3.0,d,,,"d. Smoking shall be prohibited in all gassy operations and the employer shall be responsible for collecting all personal sources of ignition, such as matches and lighters, from all persons entering a gassy operation.",False,False
+26,B,3.0,e,,,e. A permit is required and a fire watch shall be maintained when hot work is performed.  >  See Section 9.,False,False
+26,B,3.0,f,,,"f. Once an operation has been classified as gassy, all activities in the affected area (except those in (1) through (3), below) shall be discontinued until the operation either is in compliance with all gassy operation requirements or has been downgraded to potentially gassy:",False,False
+26,B,3.0,f,1.0,,(1) Activities related to the control of the gas concentration;,False,False
+26,B,3.0,f,2.0,,"(2) Installation of new equipment, or conversion of existing equipment, to comply with subparagraph (1), above; and",False,False
+26,B,3.0,f,3.0,,(3) Installation of above-ground controls for reversing the air flow.,False,False
+26,C,,,,,"26.C Air Monitoring, Air Quality Standards, and Ventilation.",True,False
+26,C,1.0,,,,26.C.01  Air monitoring requirements.,True,False
+26,C,1.0,a,,,"a. Air monitoring devices shall be inspected, calibrated, maintained, and used in accordance with the manufacturer's instructions. Back-up monitoring devices shall be maintained in calibrated and working condition at the worksite. > See Section 6.",False,False
+26,C,1.0,b,,,b. When air monitoring is required as often as necessary”,False,False
+26,C,1.0,b,1.0,,"(1) The location of the job site and proximity to fuel tanks, sewers, gas lines, old landfills, coal deposits, and swamps;",False,False
+26,C,1.0,b,2.0,,"(2) The geology of the job site, particularly the soil types and their permeability;",False,False
+26,C,1.0,b,3.0,,(3) Any history of air contaminants in nearby job sites or any changes in air quality monitored during a previous shift; and,False,False
+26,C,1.0,b,4.0,,"(4) Work practices and job site conditions (use of diesel engines, explosives, or fuel gas, ventilation characteristics, visible atmospheric conditions, decompression of the atmosphere, welding, cutting, or hot work, etc.).",False,False
+26,C,1.0,c,,,"c. A record (including location, date, time, substance, monitoring results, and name of person conducting the test) of all air quality tests shall be maintained at the job site.",False,False
+26,C,1.0,d,,,d. The atmosphere in all underground work areas shall be tested as often as necessary to assure that the atmosphere at normal atmospheric pressure contains at least 19.5% oxygen and no more than 22% oxygen.,False,False
+26,C,1.0,e,,,"e. The atmosphere in all underground work areas shall be tested quantitatively for CO, nitrogen dioxide, hydrogen sulfide, and other toxic gases, dusts, vapors, mists, and fumes as often as necessary to ensure that the PEL are not exceeded.",False,False
+26,C,1.0,f,,,f. The atmosphere in all underground work areas shall be tested quantitatively for methane and other flammable gases as often as necessary to determine whether action is to be taken under 26.C.02.f-h and to determine whether an operation is to be classified gassy or potentially gassy under 26.B.01.,True,False
+26,C,1.0,g,,,g. The atmosphere in all underground work areas shall be tested as often as necessary to ensure that the ventilation requirements of Section 26.C.03-05 are met.,True,False
+26,C,1.0,h,,,"h. If diesel-engine or gasoline-engine driven ventilating fans or compressors are used, an initial test shall be made of the inlet air of the fan or compressor, with the engine operating, to ensure that the air supply is not contaminated by engine exhaust.",False,False
+26,C,1.0,i,,,"i. When rapid excavation machines are used, a continuous flammable gas monitor shall be operated at the face with the sensor(s) placed as high and close to the front of the machine's cutter head as possible.",False,False
+26,C,1.0,j,,,j. Operations that meet the criteria for potentially gassy or gassy operations shall be subjected to the following monitoring:,False,False
+26,C,1.0,j,1.0,,(1) Tests for oxygen content shall be conducted in all affected work areas and work areas immediately adjacent to such areas at least at the beginning and midpoint of each shift;,False,False
+26,C,1.0,j,2.0,,"(2) When using rapid excavation machines, continuous automatic flammable gas monitoring equipment shall be used to monitor the air at the heading, on the rib, and in the return air duct. The continuous monitor shall signal the heading and shut down electric power in the affected underground work area, except for acceptable pumping and ventilation equipment, when 20% or more of the LEL for methane or other flammable gases is encountered.",False,False
+26,C,1.0,j,3.0,,"(3) A manual flammable gas monitor shall be used as needed, but at least at the beginning and midpoint of each shift, to ensure that the limits prescribed in 26.B 01 and 26.C.01.d and f are not exceeded. In addition, a manual electrical shut down control shall be provided near the heading.",True,False
+26,C,1.0,j,4.0,,"(4) Local gas tests shall be made prior to and continuously during any welding, cutting, or other hot work.",False,False
+26,C,1.0,j,5.0,,"(5) In underground operations driven by drill-and-blast methods, the air in the affected area shall be tested for flammable gas prior to re-entry after blasting and continuously when employees are working underground.",False,False
+26,C,2.0,,,,26.C.02 Air quality standards.,True,False
+26,C,2.0,a,,,"a. Whenever air monitoring indicates the presence of 5 ppm or more of hydrogen sulfide, a test shall be conducted in the affected underground work areas, at least at the beginning and midpoint of each shift, until the concentration of hydrogen sulfide has been less than 5 ppm for 3 consecutive days.",False,False
+26,C,2.0,b,,,"b. Whenever hydrogen sulfide is detected in an amount exceeding 10 ppm, a continuous sampling and indicating hydrogen sulfide monitor shall be used to monitor the affected work areas.",False,False
+26,C,2.0,c,,,c. Employees shall be informed when a concentration of 10 ppm hydrogen sulfide is exceeded.,False,False
+26,C,2.0,d,,,"d. The continuous sampling and indicating hydrogen sulfide monitor shall be designed, installed, and maintained to provide a visual and aural alarm when the hydrogen sulfide concentration reaches 10 ppm to signal that additional measures might be necessary to maintain hydrogen sulfide exposure below the PEL.",False,False
+26,C,2.0,e,,,"e. When the competent person determines, on the basis of air monitoring results or other information, that air contaminants may be present in sufficient quantities to be dangerous to life, the employer shall:",False,False
+26,C,2.0,e,1.0,,"(1) Prominently post a notice at all entrances to the underground area to inform all entrants of the hazardous condition, and",False,False
+26,C,2.0,e,2.0,,(2) Ensure that the necessary precautions are taken.,False,False
+26,C,2.0,f,,,"f. Whenever 5% or more of the LEL for methane or other flammable gases is detected in any underground work area or in the air return, steps shall be taken to increase ventilation air volume or otherwise control the gas concentration, unless operations are conducted in accordance with the potentially gassy or gassy operation requirements: such additional ventilation controls may be discontinued when gas concentrations are reduced below 5% of the LEL.",False,False
+26,C,2.0,g,,,"g. Whenever 10% or more of the LEL for methane or other flammable gases is detected in the vicinity of welding, cutting, or other hot work, such work shall be suspended until the concentration of such flammable gas is reduced to less than 10% of the LEL.",False,False
+26,C,2.0,h,,,h. Whenever 20% or more of the LEL for methane or other flammable gases is detected in any underground work area or in the return:,False,False
+26,C,2.0,h,1.0,,"(1) All employees, except those necessary to eliminate the hazard, shall be immediately withdrawn to a safe location above ground; and",False,False
+26,C,2.0,h,2.0,,"(2) Electrical power, except for acceptable pumping and ventilation equipment, shall be cut off to the area endangered by the flammable gas until the concentration of such gas is reduced to less than 20% of the LEL.",False,False
+26,C,2.0,i,,,"i. When ventilation has been reduced to the extent that hazardous levels of methane or other flammable gas may have accumulated, all affected areas shall be tested after ventilation has been restored and before any power, other than for acceptable equipment, is restored or work is resumed and shall determine whether the atmosphere is within flammable limits.",False,False
+26,C,2.0,j,,,"j. Whenever the ventilation system has been shut down with all employees out of the underground area, only competent persons authorized to test for air contaminants shall be allowed underground until the ventilation has been restored and all affected areas have been tested for air contaminants and declared safe.",False,False
+26,C,3.0,,,,26.C.03 Ventilation.,True,False
+26,C,3.0,a,,,"a. Fresh air shall be supplied to all underground work areas in sufficient quantities to prevent dangerous accumulation of dusts, fumes, mists, gases, or vapors.",False,False
+26,C,3.0,b,,,b. Mechanical ventilation shall be provided in all underground work areas except where it is demonstrated that natural ventilation provides the necessary air quality through sufficient air volume and airflow.,False,False
+26,C,3.0,b,1.0,,(1) Ventilation and exhaust systems for tunnel excavation shall be of sufficient capacity to maintain an adequate supply of uncontaminated air at all points in the tunnel.,False,False
+26,C,3.0,b,2.0,,(2) The supply of fresh air shall not be less than  200 CFM (94.4 L/s) each employee underground plus that necessary to operate the equipment.,False,False
+26,C,3.0,b,3.0,,"(3) The linear velocity of air flow in all underground work areas shall be at least 30 ft/min (0.15 m/s) where blasting or rock drilling is conducted or where there are other conditions likely to produce dusts, fumes, vapors, or gases in harmful quantities.",False,False
+26,C,3.0,b,4.0,,(4) The direction of mechanical airflow shall be reversible.,False,False
+26,C,3.0,b,5.0,,"(5) Ventilation doors shall be designed and installed so that they remain closed when in use, regardless of the direction of airflow.",False,False
+26,C,3.0,c,,,"c. Following blasting, ventilation systems shall exhaust smoke and fumes to the outside atmosphere before work is resumed in affected areas.",False,False
+26,C,3.0,d,,,"d. Potentially gassy or gassy operations shall have ventilation systems installed which are constructed of fire-resistant materials and have acceptable electrical systems, including fan motors.",False,False
+26,C,3.0,e,,,e. Gassy operations shall be conducted with controls for reversing the airflow of ventilation systems located above ground.,False,False
+26,C,3.0,f,,,"f. In potentially gassy or gassy operations, wherever mine-type ventilation systems using an offset main fan installed on the surface are used, they shall be equipped with explosion-doors or a weak-wall having an area at least equivalent to the cross sectional area of the airway.",False,False
+26,C,3.0,g,,,g. Air that has passed through underground oil or fuel-storage areas shall not be used to ventilate work areas.,False,False
+26,C,4.0,,,,"26.C.04  When drilling rock or concrete, appropriate dust control measures shall be taken to maintain dust levels within safe limits.",True,False
+26,C,5.0,,,,"26.C.05  Internal combustion engines, except diesel-powered engines on mobile equipment, are prohibited underground.",True,False
+26,C,6.0,,,,"26.C.06  Mobile diesel-powered equipment used underground in atmospheres other than gassy operations shall be either approved by MSHA (30 CFR 36), or shall be demonstrated to be fully equivalent to such MSHA-approved equipment, and shall be operated in accordance 30 CFR 36.",True,False
+26,D,,,,,26.D Fire Prevention and Protection.,True,False
+26,D,1.0,,,,26.D.01  Fire Prevention and Protection Plans.,True,False
+26,D,1.0,a,,,"a. For every underground construction project, a Fire Prevention and Protection Plan shall be developed and implemented. The plan shall detail:",False,False
+26,D,1.0,a,1.0,,(1) The specific work practices to be implemented for preventing fires;,False,False
+26,D,1.0,a,2.0,,(2) Response measures to be taken in case of fire to control and extinguish the fire;,False,False
+26,D,1.0,a,3.0,,(3) Equipment required;,False,False
+26,D,1.0,a,4.0,,(4) Personnel requirements and responsibilities; and,False,False
+26,D,1.0,a,5.0,,(5) Requirements for daily and weekly fire prevention and protection inspections.,False,False
+26,D,1.0,b,,,b. Fire prevention and protection plans shall be incorporated in either the APP or the AHA and posted at the job site.,False,False
+26,D,1.0,c,,,c. Fire prevention and protection plans shall be reviewed with all affected personnel as often as is necessary for them to maintain a working knowledge of emergency responsibilities and procedures.,False,False
+26,D,1.0,d,,,d. Plans shall be drilled as often as is necessary to ensure their efficacy.,False,False
+26,D,2.0,,,,26.D.02 Fire extinguishers.,True,False
+26,D,2.0,a,,,a. Fire extinguishers shall be provided and maintained in accordance with the requirements of Section 9.,False,False
+26,D,2.0,b,,,"b. Fire extinguishers (or equivalent protection) shall be provided and maintained at each portal and shaft entry, within 100 ft (30.4 m) of the advancing face of each tunnel, and at locations containing combustible materials.",False,False
+26,D,2.0,c,,,c. A fire extinguisher of at least 4A:40B:C rating or other equivalent extinguishing means shall be provided at the head pulley and tail pulley of underground belt conveyors.,False,False
+26,D,3.0,,,,26.D.03 Open flames/fires and smoking.,True,False
+26,D,3.0,a,,,"a. Open flames and fires are prohibited in all underground construction operations except as permitted for welding, cutting, and other hot work operations.",False,False
+26,D,3.0,b,,,b. Smoking may be allowed only in areas free of fire and explosion hazards.,False,False
+26,D,3.0,c,,,c. Readily visible signs prohibiting smoking and open flames shall be posted in areas having fire or explosion hazards.,False,False
+26,D,4.0,,,,26.D.04 Heating devices used in tunnels shall be approved for such locations by a nationally-recognized testing laboratory.,True,False
+26,D,5.0,,,,"26.D.05 Gasoline shall not be taken, stored, or used underground.",True,False
+26,D,6.0,,,,"26.D.06 Acetylene, LP-Gas, and methyl acetylene propadiene stabilized gas may be used underground only for welding, cutting, and other hot work. No more than the amount necessary for work during the next 24-hour period shall be permitted underground.",True,False
+26,D,7.0,,,,26.D.07 Only fire-resistant hydraulic fluids approved by a nationally-recognized authority or agency shall be used in hydraulically actuated underground machinery and equipment unless the machinery or equipment is protected by a fire suppression system or a multi-purpose fire extinguisher rated for sufficient capacity for the type and size of hydraulic equipment involved (but at least 4A:40B:C).,True,False
+26,D,8.0,,,,26.D.08 Storage of flammable and combustible materials.,True,False
+26,D,8.0,a,,,a. Not more than a 1-day supply of diesel fuel may be stored underground.,False,False
+26,D,8.0,b,,,"b. Oil, grease, and diesel fuel stored underground shall be kept in tightly sealed containers in fire-resistant areas at least 300 ft (91.4 m) from underground explosive magazines and at least 100 ft (30.4 m) from shaft stations and steeply inclined passageways.",False,False
+26,D,8.0,c,,,c. Flammable or combustible materials shall not be stored above ground within 100 ft (30.4 m) of any access opening to any underground operation unless they are located as far as practical from the opening and either a fire-resistant barrier of not less than a 1-hour rating is placed between the stored material and the opening.,False,False
+26,D,8.0,d,,,"d. Electrical installations in underground areas where oil, grease, or diesel fuel are stored shall be used only for lighting fixtures.",False,False
+26,D,8.0,e,,,"e. Lighting fixtures in storage areas or within 25 ft (7.6 m) of underground areas where oil, grease, or diesel fuel are stored shall be approved for Class I, Division 2 locations > See Section 11.H.",True,False
+26,D,9.0,,,,26.D.09 The piping of diesel fuel from the surface to an underground location is permitted only if:,True,False
+26,D,9.0,a,,,a. Diesel fuel is contained at the surface in a tank whose maximum capacity is no more than the amount required to supply the equipment serviced by the underground fueling station for a 24-hour period;,False,False
+26,D,9.0,b,,,"b. The surface tank is connected to the underground fueling station by an acceptable pipe or hose system controlled at the surface by a valve, and at the shaft bottom by a hose nozzle (nozzle shall not be of the latch-open type);",False,False
+26,D,9.0,c,,,c. The pipe is empty at all times except when transferring diesel fuel from the surface tank to a piece of equipment in use underground; and,False,False
+26,D,9.0,d,,,d. Hoisting operations in the shaft are suspended during refueling operations if the supply piping in the shaft is not protected from damage.,False,False
+26,D,10.0,,,,26.D.10  Any structure located underground or within 100 ft (30.4 m) of an opening to the underground shall be constructed of material having a fire-resistance rating of at least 1 hour.,True,False
+26,D,11.0,,,,26.D.11  Oil-filled transformers shall not be used underground unless they are located in a fire-resistant enclosure and surrounded by a dike to contain the contents of the transformers in event of a rupture.,True,False
+26,D,12.0,,,,26.D.12  Noncombustible barriers shall be installed below welding or burning operations in or over shaft or raise.,True,False
+26,E,,,,,26.E Drilling.,True,False
+26,E,1.0,,,,26.E.01  Drilling machines. > See also Section 18.,True,False
+26,E,1.0,a,,,a. Employees shall not be allowed on a drill mast while the drill bit is in operation or the drill machine is being moved.,False,False
+26,E,1.0,b,,,"b. When drill machines are being moved from one drilling area to another, drill steel, tools, and other equipment shall be secured and the mast placed in a safe position.",False,False
+26,E,1.0,c,,,c. Drills on columns shall be anchored firmly before drilling is started and shall be retightened frequently.,False,False
+26,E,1.0,d,,,"d. Accessible areas within the swing radius of the rear of the equipment’s rotating superstructure, either permanently or temporarily mounted, shall be barricaded to prevent an employee from being struck or crushed by the crane and hoisting equipment.",False,False
+26,E,1.0,e,,,e.  Jumbos.,False,False
+26,E,1.0,e,1.0,,(1) Safe access shall be provided to all working levels of drill jumbos.,False,False
+26,E,1.0,e,2.0,,(2) Jumbo decks and stair treads shall be designed to be slip-resistant and secured to prevent accidental displacement.,False,False
+26,E,1.0,e,3.0,,"(3) Only employees assisting the operator shall be allowed to ride on jumbos, unless the jumbo meets the requirements for adequate seating arrangements that protect passengers from being struck, crushed, or caught between equipment or surfaces, and has safe access.",False,False
+26,E,1.0,e,4.0,,(4) Employees working under jumbo decks shall be warned whenever drilling is about to begin.,False,False
+26,E,1.0,e,5.0,,"(5) On jumbo decks over 10 ft (3 m) in height, guardrails, which are removable, or equal protection shall be provided on all open sides, excluding access openings of platforms, unless an adjacent surface provides equivalent fall protection.",False,False
+26,E,1.0,e,6.0,,(6) Stair access to jumbo decks wide enough to accommodate two persons if the deck is over 10 ft (3 m) in height.,False,False
+26,E,1.0,e,7.0,,(7) Receptacles or racks shall be provided for drill steel stored on jumbos.,False,False
+26,E,1.0,e,8.0,,"(8) The employer shall provide mechanical means for lifting drills, roof bolts, mine straps, and other material to the top decks of jumbos over 10 ft (3 m) in height.",False,False
+26,E,2.0,,,,26.E.02  Scaling bars shall be available at scaling operations and shall be maintained in good conditions at all times. Blunted or severely worn bars shall not be used.,True,False
+26,E,3.0,,,,26.E.03  Blasting holes shall not be drilled through blasted rock (muck) or water.,True,False
+26,E,4.0,,,,"26.E.04  Before commencing the drill cycle after a blast, the face and any remaining blasting holes shall be examined for misfires that, if found, shall be removed.",True,False
+26,E,5.0,,,,26.E.05  Employees in a shaft shall be protected either by location or by suitable barriers if powered mechanical loading equipment is used to remove muck containing unfired explosives.,True,False
+26,F,,,,,26.F Shafts.,True,False
+26,F,1.0,,,,"26.F.01 All wells or shafts over 5 ft (1.5 m) in depth that employees must enter shall be supported by lagging, piling, or casing of sufficient strength to withstand shifting of the surrounding earth.",True,False
+26,F,1.0,a,,,a. The full depth of the shaft shall be supported by casing or bracing except where the shaft penetrates into solid rock having characteristics that will not change because of exposure as determined by a CP or a Qualified Geotechnical Engineer.,False,False
+26,F,1.0,a,1.0,,"(1) Where the shaft passes through earth into solid rock or through solid rock into earth and where there is potential for shear, the casing or bracing shall extend at least 5 ft (1.5 m) into the solid rock.",False,False
+26,F,1.0,a,2.0,,"(2) When the shaft terminates in solid rock, the casing of bracing shall extend to the end of the shaft or 5 ft (1.5 m) into the solid rock, whichever is less.",False,False
+26,F,1.0,b,,,"b. The casing or bracing shall extend 42 in +/- 3 in (106.6 cm +/- 7.6 cm) above ground level, except that the minimum casing height may be reduced to 12 in (30.4 cm) provided that a standard railing is installed, that the ground adjacent to the top of the shaft is sloping away from the shaft collar to prevent entry of liquids, and that effective barriers are used to prevent mobile equipment operating near the shaft from jumping over the 12 in (30.4 cm) barrier.",False,False
+26,F,2.0,,,,"26.F.02 After blasting operations in shafts, a competent person shall inspect the walls, ladders, timbers, blocking, and wedges to determine if they have loosened. Where found unsafe, corrections shall be made before shift operations are started.",True,False
+26,F,3.0,,,,"26.F.03 No employee shall be permitted to enter an unsupported auger-type excavation in unstable material for any purpose. In such cases, necessary clean-out shall be accomplished without entry.",True,False
+26,F,4.0,,,,26.F.04 There shall be two safe means of access in shafts at all times: this may include the ladder and hoist.,True,False
+26,G,,,,,"26.G Hoisting. Hoistways may be used to hoist materials or personnel, but not both simultaneously.",True,False
+26,G,1.0,,,,"26.G.01 A warning light suitably located to warn employees at the shaft bottom and subsurface shaft entrances shall flash whenever a load is being moved in the shaft, except in fully enclosed hoistways.",True,False
+26,G,2.0,,,,"26.G.02  Whenever a hoistway is not fully enclosed and employees are at the shaft bottom, conveyances or equipment shall be stopped at least 15 ft (4.5 m) above the bottom of the shaft and held there until the signalman at the bottom of the shaft directs the operator to continue lowering the load; except that the load may be lowered without stopping if the load or conveyance is within full view of a bottom signalman who is in constant voice communication with the operator.",True,False
+26,G,3.0,,,,"26.G.03  Before maintenance, repairs, or other work is commenced in a shaft served by a cage, skip, or bucket, the operator and other employees shall be informed and given suitable safety precautions. A sign warning that work is being performed in the shaft shall be installed at the shaft collar, at the operator's station, and at each underground landing.",True,False
+26,G,4.0,,,,26.G.04  Any connection between the hoisting rope and the cage or skip shall be compatible with the type of wire rope used for hoisting.,True,False
+26,G,5.0,,,,"26.G.05  Spin-type connections, where used, shall be maintained in a clean condition and protected from foreign matter that could affect their operation.",True,False
+26,G,6.0,,,,"26.G.06 Cage, skip, and load connections to the hoist rope shall be made so that the force of the hoist pull, vibration, misalignment, release of lift force, or impact will not disengage the connection. Moused or latched open-throat hooks do not meet this requirement.",True,False
+26,G,7.0,,,,"26.G.07  When using wire rope wedge sockets, means shall be provided to prevent wedge escapement and to ensure that the wedge is properly seated.",True,False
+26,H,,,,,26.H  Caissons.,True,False
+26,H,1.0,,,,"26.H.01 In caisson work in which compressed air is used and the working chamber is less than 11 ft (3.3 m) in length, whenever such caissons are at any time suspended or hung while work is in progress so that the bottom of the excavation is more than 9 ft (2.7 m) below the deck of the working chamber, a shield shall be erected for the protection of the workers.",True,False
+26,H,2.0,,,,"26.H.02  Shafts shall be subjected to a hydrostatic test, at which pressure they shall be tight. The shaft shall be stamped on the outside shell about 12 in (30.4 cm) from each flange to show the safe working pressure.",True,False
+26,H,3.0,,,,"26.H.03 Whenever a shaft is used, it shall be provided, where space permits, with a safe, proper, and suitable staircase for its entire length, including landing platforms (not more than 20 ft (6 m) apart). Where this is impractical, ladders not more than 20 ft (6 m) high shall be installed with each section offset from adjacent sections and a guarded landing provided at each offset.",True,False
+26,H,4.0,,,,26.H.04 All caissons having a diameter or side greater than 10 ft (3 m) shall be provided with a man lock and shaft for the exclusive use of employees.,True,False
+26,H,5.0,,,,"26.H.05 In addition to gauges in the locks, an accurate gauge shall be maintained on the outer and inner side of each bulkhead. These gauges shall be accessible at all times and kept in accurate working order.",True,False
+26,H,6.0,,,,"26.H.06 In caisson operations where employees are exposed to compressed air working environments, the requirements of Section 26.I shall be complied with.",True,False
+26,I,,,,,26.I Compressed Air Work.,True,False
+26,I,1.0,,,,26.I.01 All safety requirements for compressed air work will be carefully detailed in a Compressed Air Work Plan that shall be included as a part of the Accident Prevention Plan or AHA.,True,False
+26,I,2.0,,,,26.I.02 The Compressed Air Work Plan shall include the following considerations:,True,False
+26,I,2.0,a,,,a. Requirements for a medical lock and its operation;,False,False
+26,I,2.0,b,,,b. An identification system for compressed air workers;,False,False
+26,I,2.0,c,,,c. Communications system requirements;,False,False
+26,I,2.0,d,,,d. Requirements for signs and recordkeeping;,False,False
+26,I,2.0,e,,,e. Special compression and decompression requirements;,False,False
+26,I,2.0,f,,,f. Man lock and decompression chamber requirements;,False,False
+26,I,2.0,g,,,g. Requirements for compressor systems and air supply;,False,False
+26,I,2.0,h,,,h. Ventilation requirements;,False,False
+26,I,2.0,i,,,i. Electrical power requirements;,False,False
+26,I,2.0,j,,,j. Sanitation considerations;,False,False
+26,I,2.0,k,,,"k. Fire prevention and fire protection considerations, and",False,False
+26,I,2.0,l,,,l. Requirements for bulkheads and safety screens.,False,False
+26,I,3.0,,,,26.I.03 Work in compressed air environments shall be performed in compliance with the requirements of 29 CFR 1926.803.,True,False
+26,J,,,,,26.J Underground Blasting. A Blasting Plan must be developed and submitted for this work. > See also Section 29.,True,False
+26,J,1.0,,,,26.J.01 Explosives.,True,False
+26,J,1.0,a,,,a. Dynamite used in tunnel blasting shall be Fume Class 1. Fume Class 2 and Fume Class 3 explosives may be used if adequate ventilation is provided.,False,False
+26,J,1.0,b,,,"b. Storage of explosives, blasting agents, and detonators in tunnels or underground work areas shall be prohibited.",False,False
+26,J,1.0,c,,,c. Trucks used for the transportation of explosives underground shall have the electrical system checked weekly to detect any failures that may constitute an electrical hazard. A written record of such inspections shall be kept on file and available for review. The installation of auxiliary lights on truck beds that are powered by the truck's electrical system shall be prohibited.,False,False
+26,J,1.0,d,,,"d. Explosives or blasting agents, not in original containers, shall be placed in a suitable container when transported manually. Detonators, primers, and other explosives shall be carried in separate containers when transported manually.",False,False
+26,J,2.0,,,,26.J.02 Blasting circuits.,True,False
+26,J,2.0,a,,,a. All underground blasts fired by external power shall be by a power blasting switch system.,False,False
+26,J,2.0,b,,,"b. Blasting power circuits shall be separate and distinct from, and kept clear of, other power and lighting circuits and pipes, rails, and other conductive material (excluding earth) to prevent explosives initiation or employee exposure to electric current.",False,False
+26,J,2.0,c,,,c. Sectioning switches or equivalent shall be installed in the firing line at 500-ft (150.4 m) intervals.,False,False
+26,J,3.0,,,,26.J.03 Loading.,True,False
+26,J,3.0,a,,,"a. Prior to loading, all power, water, and air lines shall be disconnected from the loading jumbo and power lines, including lighting circuits, shall be moved back a minimum of 50 ft (15.2 m).",False,False
+26,J,3.0,b,,,"b. The loading area shall be illuminated a minimum 10 ft-candles (107.6 lx) by floodlights located 50 ft (15.2 m) from the face. If additional illumination is needed, the loading crew shall be provided with head lamps approved by the United States Bureau of Mines.",False,False
+26,J,3.0,c,,,c. Equipment used for pneumatic placement of non-cap-sensitive blasting agents shall be designed for that purpose and shall be grounded while in use.,False,False
+26,J,4.0,,,,26.J.04 Blasting.,True,False
+26,J,4.0,a,,,"a. The person in charge of blasting shall be the last to leave the blast area, shall see that no one remains in the blast area, and shall operate the sectioning switches in the firing line while proceeding out of the blast area.",False,False
+26,J,4.0,b,,,"b. No persons shall enter the tunnel blast area until the ventilation system has cleared the heading of harmful gases, smoke, and dust.",False,False
+26,J,4.0,c,,,"c. After each blast, the underground supports in the blast area shall be inspected and secured as necessary work is resumed. Rock surfaces shall be inspected, scaled, and if required, provided with shoring, bracing, rock bolts, shotcrete, or chain-link fabric, before mucking is started. Rock bolts within 100 ft (30.4 m) of a blast shall be tested after each blast before drilling for the next round begins.",False,False
+26,J,4.0,d,,,d. The muck pile shall be wet down prior to mucking and kept wet during mucking operations.,False,False
+26,J,5.0,,,,26.J.05 Blasting in excavation work under compressed air.,True,False
+26,J,5.0,a,,,"a. When detonators or explosives are brought into an air lock, no employee (except the blaster, lock tender, and employees necessary for transport) shall be permitted to enter the air lock; no other material, supplies, or equipment shall be locked through with the explosive materials.",False,False
+26,J,5.0,b,,,b. Detonators and explosives shall be taken separately into pressure working chambers.,False,False
+26,J,5.0,c,,,"c. All metal pipes, rails, air locks, and steel tunnel lining shall be electrically bonded and grounded at or near the portal or shaft. Such pipes and rails shall be cross-bonded at not less than 1000-ft (304.8-m) intervals throughout the length of the tunnel. In addition, each low air supply pipe shall be grounded at its delivery end.",False,False
+26,J,5.0,d,,,d. The explosive suitable for use in wet holes shall be water resistant and shall be Fume Class 1.,False,False
+26,J,5.0,e,,,"e. When tunnel excavation in rock face is approaching mixed face, and when tunnel excavation is in mixed face, blasting shall be performed with less explosive per drilled hole and with less dimension in hole spacing and to the free face. Advance drilling shall be performed as tunnel excavation in rock face approaches mixed face to determine the nature and extent of rock cover and the remaining distance ahead to soft ground.",False,False

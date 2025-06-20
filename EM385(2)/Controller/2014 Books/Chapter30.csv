@@ -1,0 +1,327 @@
+chapter,section,topic,refOne,refTwo,refThree,content,highlight,bookmark
+30,A,,,,,"30.A General. All USACE diving operations, both government and contractor shall be performed in accordance with this manual. Failure to meet these requirements will be cause for rejection or cessation of operations.",True,False
+30,A,1.0,,,,"30.A.01 Unless otherwise delegated in this section, requests for waivers or variance to the requirements of this section must be made in accordance with Appendix D of this manual through the local Designated Dive Coordinator (DDC) or the Alternate Dive Coordinator (ADC) acting on their behalf.",True,False
+30,A,2.0,,,,"30.A.02 Diving shall not be used as a work method if the work objective can be more safely and efficiently accomplished by another means, including but not limited to, using Remotely Operated Vehicles (ROV’s), and/or camera systems, or by dewatering the work area so work may be accomplished in the dry.",True,False
+30,A,3.0,,,,30.A.03 Surface-Supplied Air (SSA) shall be used whenever possible in accordance with the practical constraints of the diving operations.,True,False
+30,A,4.0,,,,30.A.04 Live boating will not be used without prior specific acceptance by the DDC.,True,False
+30,A,5.0,,,,"30.A.05 Training documentation shall be in compliance with the OSHA Diving Standards 29 CFR 1910.410 and shall show that dive team members, including dive tenders, have successfully completed training to the appropriate level (e.g., SSA diver’s certificate, surface supplied mixed-gas diver certificate). Copies of all dive-related training certificates are required. Such training shall be provided by:",True,False
+30,A,5.0,a,,,"a. A commercial diving school, military school, Federal school (e.g., USACE), or an Association of Commercial Diving Educators (ACDE) accredited school;",False,False
+30,A,5.0,b,,,"b. An in-house training program that meets the requirements contained in ANSI/ACDE­01, or in the Association of Diving Contractors International (ADCI) Consensus Standards;",False,False
+30,A,5.0,c,,,"c. Training for Scientific Divers using compressed air (SCUBA or SSA), shall be in compliance with 29 CFR 1910.410 and shall meet the above requirements or the training guidelines in the Standards for Scientific Diving published by the American Academy of Underwater Scientists (AAUS).",False,False
+30,A,6.0,,,,"30.A.06 Proof of certification (a diploma and/or official transcript) as a commercial working diver from an accredited commercial dive school and other dive-related training certificates (e.g. chamber operator, saturation diver, etc.) are required as proof of a dive team member’s certification and/or experience. An ADCI card or similar certification from an internationally recognized commercial diving organization may be substituted as proof of training for divers demonstrating more than five (5) years of diving experience within the six (6) years preceding beginning of dive operations.",True,False
+30,A,7.0,,,,30.A.07 Contractors shall provide dive-log evidence that each dive team member has training and experience consistent with the performance requirements of the scope of work.,True,False
+30,A,7.0,a,,,"a. As a minimum, each diver, back-up diver, and dive team supervisor shall have at least 1 year of commercial experience in the applicable position.",False,False
+30,A,7.0,b,,,"b. Divers shall have completed at least 4 working dives with similar decompression techniques as in the dive plan, using the particular diving techniques and equipment. Divers shall demonstrate that at least 1 of the 4 qualification dives was performed in the last 9 months prior to the start of dive operations.",False,False
+30,A,7.0,c,,,c. Dive tenders must have previous experience and training as a dive tender.,False,False
+30,A,8.0,,,,"30.A.08 Each dive team member shall have current certification in first aid and CPR from the American Red Cross (ARC), the American Heart Association (AHA), or from an organization whose training adheres to the standards of the International Liaison Committee on Resuscitation, or from a Licensed Physician (LP).",True,False
+30,A,8.0,a,,,"a. Additionally, each dive team member shall have current certification in the use of emergency oxygen systems, and, if provided on the dive site, the use of Automated External Defibrillators (AEDs).",False,False
+30,A,8.0,b,,,b. All classes shall contain a hands-on component and cannot be taken online. Evidence of this will be a photocopy of the certificates. The certificate(s) shall state the date of issue and length of validity.,False,False
+30,A,8.0,b,,,"Note: Training in the use of emergency oxygen systems shall be specific to underwater diving and shall meet the requirements of a nationally recognized training organization such as Divers Alert Network (DAN), Professional Association of Diving Instructors (PADI), National Association of Underwater Instructor s (NAUI), the YMCA or other recognized sources.",False,False
+30,A,9.0,,,,30.A.09 Divers shall receive an annual diving physical according to ADCI or similar standards preferably by a hyperbaric physician (MD or DO) or other licensed physician knowledgeable in the physiology of diving.,True,False
+30,A,9.0,a,,,a. A “Fit to Dive” statement that each diver has been medically examined within the previous 12 months and has been determined fit and approved to dive shall be signed and signature stamped by the examining physician.,False,False
+30,A,9.0,b,,,b. The DDC will maintain a file of physician “Fit to Dive” statement for all USACE qualified divers.,False,False
+30,A,9.0,c,,,c. Contractors shall submit physician’s “Fit to Dive” statement to the DDC in accordance with Section 30.A.13.,True,False
+30,A,9.0,d,,,"d. After any serious diving-related injury or illness such as an over-pressurization injury and/or decompression illness, divers shall be re-examined by a hyperbaric physician and be re-certified as “Fit to Dive”.",False,False
+30,A,10.0,,,,30.A.10 Divers will wait at least 12 hours before flying after any dive. This interval should be extended to 24 hours following multiple days of repetitive dives.,True,False
+30,A,11.0,,,,"30.A.11 When diving at altitudes of 1000 ft (304.8 m) or more of elevation above sea level, dive supervisors shall use appropriate high altitude decompression tables that compensate for the increased elevation.",True,False
+30,A,12.0,,,,"30.A.12 Contract diving operations will be monitored and/or inspected by personnel qualified as USACE Dive Inspectors. Individual USACE Dive teams shall be inspected during operations at least once annually by the DDC, ADC and/or Dive Safety Representative (DSR).",True,False
+30,A,12.0,a,,,"a. Qualified Dive Inspectors shall hold current USACE training certification as Dive Inspector, Diver/ Dive Supervisor, Dive Safety Administrator, or Dive Coordinator. All USACE personnel used as dive inspectors must be approved by the DDC prior to performing inspector duties.",False,False
+30,A,12.0,a,,,Note: Use of trained monitors/inspectors with other credentials will be considered on a case-by-case basis and may be approved in writing by the DDC and HQUSACE Program Manager (PM) for Diving Safety.,False,False
+30,A,12.0,b,,,"b. Inspectors shall conduct on-site monitoring/ inspections of contractor dive sites during pre-dive conference, equipment inspection, and initial dives. Monitoring should be continuous for the duration of the contract dive activity but may be intermittent, as determined by the DDC based on an evaluation of the job complexity and degree of hazards.",False,False
+30,A,13.0,,,,"30.A.13 The following documents are required for all Contractor diving operations. All documents will be reviewed and found acceptable by two of the following: DDC/ADC/DSR, prior to start of diving operations. Contractors shall submit the documents to the DDC through the Contracting Officer (KO). Additional documentation may be required depending on the scope of the diving operation:",True,False
+30,A,13.0,a,,,a. Safe Practices Manual; > See Section 30.A.15.,True,False
+30,A,13.0,b,,,b. Dive Operations Plan(s); > See Section 30.A.16.,True,False
+30,A,13.0,c,,,c. AHA to cover all aspects of the job; > See Section 30.A.17.,True,False
+30,A,13.0,d,,,d. Emergency Management Plan; > See Section 30.A.18.,True,False
+30,A,13.0,e,,,e. Dive Personnel Qualifications. > See Sections 30.A.05 – 30.A.09. >Note: The above review requirement is that two USACE Qualified Personnel independently evaluate the documents prior to acceptance. The ADC may substitute for either the DDC or DSR in the review and/or acceptance process if these personnel are not available at the time of review.,True,False
+30,A,14.0,,,,"30.A.14 A Dive Operations Plan, AHA, emergency management plan, and personnel list with qualifications will be developed for each separate diving operation.",True,False
+30,A,14.0,a,,,"a. These documents will be submitted to the DDC through the KO for review, and found acceptable, prior to commencement of diving operations and will be at the diving location at all times. Each of these documents will become a part of the project file.",False,False
+30,A,14.0,b,,,"b. Potential high-hazard conditions, such as penetration diving, contaminated environment diving, dives outside the no decompression limits, and in areas where differential pressure entrapment hazards exist, will be specifically addressed in the Dive Operations Plan and AHA when they are anticipated as part of the diving operation.",False,False
+30,A,14.0,c,,,"c. Diving in contaminated water is prohibited for all USACE projects unless supporting documentation is provided that demonstrates that divers and topside personnel are not exposed to, or will be protected from, known or potential contamination hazards that would pose a chronic or acute health risk.",False,False
+30,A,14.0,c,1.0,,"(1) All divers and topside personnel shall be trained, equipped and resourced to dive in contaminated water.",False,False
+30,A,14.0,c,2.0,,"(2) The dive plan shall be accepted by the GDA within 10 business days prior to dive operations and shall specifically address the areas below in accordance with the U.S. Navy Guidance For Diving In Contaminated Waters, SS521-AJ-PRO-010 located at the U.S. Navy SEA 00C3 website:",False,False
+30,A,14.0,c,2.0,a,"(a) Types of contaminants and Category (CAT 1, 2, 3, 4). Additional hazard scenarios and control measures shall be considered for surface, mud-line/sediment, rainfall, points of discharge, and vertical and bottom water contamination (i.e., a diver walking/crawling/working including swim fin action that stirs up bottom sediments);",False,False
+30,A,14.0,c,2.0,b,(b) Levels of protection and protective equipment;,False,False
+30,A,14.0,c,2.0,c,(c) Contaminated water diver and topside personnel training and qualifications;,False,False
+30,A,14.0,c,2.0,d,(d) Sources of information used to determine water quality;,False,False
+30,A,14.0,c,2.0,e,(e) Dive Station Decontamination Procedures for Divers and Topside Personnel;,False,False
+30,A,14.0,c,2.0,f,(f) Medical evaluation support and post dive monitoring;,False,False
+30,A,14.0,c,2.0,g,(g) Hazardous waste minimization and disposal.,False,False
+30,A,15.0,,,,"30.A.15 Safe Practices Manual. Contractors and USACE Districts/Labs with in-house dive teams shall develop and maintain a safe practices manual that encompasses their entire diving program. The safe practices manual shall be available at all times to the Government representative and all dive team members at each diving location. The safe practices manual shall include, as a minimum, the following:",True,False
+30,A,15.0,a,,,a. Dive safety procedures and checklists;,False,False
+30,A,15.0,b,,,b. Assignments and responsibilities of dive team members;,False,False
+30,A,15.0,c,,,"c. Equipment certifications, procedures, and inspection checklists;",False,False
+30,A,15.0,d,,,"d. Emergency procedures for fire, equipment failure, adverse weather conditions, and medical illness or injury and specific procedures for:",False,False
+30,A,15.0,d,1.0,,(1) Entrapped or fouled diver including fouled umbilical (suction and entanglement/debris);,False,False
+30,A,15.0,d,2.0,,(2) Actions upon loss of vital support equipment;,False,False
+30,A,15.0,d,3.0,,(3) Actions upon loss of gas supply;,False,False
+30,A,15.0,d,4.0,,(4) Action upon loss of communication;,False,False
+30,A,15.0,d,5.0,,(5) Lost diver plan (SCUBA Operations only);,False,False
+30,A,15.0,d,6.0,,(6) Injured diver plan;,False,False
+30,A,15.0,d,7.0,,(7) Actions upon discovery of fire;,False,False
+30,A,15.0,d,8.0,,(8) Diver blow up/over rapid ascent to surface;,False,False
+30,A,15.0,d,9.0,,(9) Diver loss of consciousness; and,False,False
+30,A,15.0,d,10.0,,(10) Injury/illness of member of surface crew with diver in the water.,False,False
+30,A,15.0,e,,,"e. Procedures for internal safety inspections (frequency, checklists, etc.);",False,False
+30,A,15.0,f,,,"f. A complete copy of OSHA, 29 CFR 1910, Subpart T, and a statement of the employer's policy for ensuring compliance with the standard;",False,False
+30,A,15.0,g,,,"g. The appropriate U.S. Navy Table(s), including as a minimum:",False,False
+30,A,15.0,g,1.0,,(1) U.S. Navy Table of No-Decompression Limits and Repetitive Group Designation for No-Decompression Air Dives;,False,False
+30,A,15.0,g,2.0,,(2) U.S. Navy Residual Nitrogen Timetables for Repetitive Air Dives;,False,False
+30,A,15.0,g,3.0,,(3) U.S. Navy Standard Air Decompression Table.,False,False
+30,A,15.0,h,,,h. A sample of the diving log sheets to be used;,False,False
+30,A,15.0,i,,,i. A sample of the repetitive dive worksheets or equivalent (dive profile method) to be used;,False,False
+30,A,15.0,j,,,"j. An outline of the fitness for duty (including medical) requirements for dive team members, and",False,False
+30,A,15.0,k,,,k. An outline of administrative and record-keeping procedures.,False,False
+30,A,16.0,,,,"30.A.16 Dive Operations Plan. This plan is a general overview of all tasks to be performed, dive modes and equipment, site access, etc. Complex projects involving more than one work task, location, and/or dive team require task-specific dive plans as part of the overall",True,False
+30,A,16.0,,,,"Dive Operations Plan. As a minimum, the Dive Operations Plan will contain the following:    a.  Date of dive plan submission;",False,False
+30,A,16.0,b,,,b. Name and contact information for diving supervisor preparing the dive plan;,False,False
+30,A,16.0,c,,,"c. Names and duties of on-site dive team members, including diving supervisor;",False,False
+30,A,16.0,d,,,d. List of diving equipment to be used;,False,False
+30,A,16.0,e,,,e. Type of diving platform to be used;,False,False
+30,A,16.0,f,,,f. Detailed description of the mission; Identify how/if work will be divided into separate tasks or phases of work;,False,False
+30,A,16.0,g,,,"g. Date(s), time(s), duration, and location of operation;",False,False
+30,A,16.0,h,,,"h. Diving mode used (SCUBA, SSA, and snorkeling) including a description of the backup air supply, as required;",False,False
+30,A,16.0,i,,,"i. Nature of work to be performed by the divers, including tools used and materials to be handled or installed;",False,False
+30,A,16.0,j,,,"j. Anticipated surface and underwater conditions, to include visibility, temperature, currents, etc. Thermal protection will be considered as appropriate;",False,False
+30,A,16.0,k,,,k. Maximum single dive bottom time for the planned depth of dive for each diver. Altitude adjustments to dive tables will be calculated for dives made at altitudes of 1000 ft (304.8 m) or more above sea level;,False,False
+30,A,16.0,l,,,"l. Identification of topside assistance/support to the dive team (i.e., crane operator, lock operator, etc.);",False,False
+30,A,16.0,m,,,"m. Means of direct communication between the dive site and the DDC, project office, the lockmaster or USACE project manager, and the contracting officer (if applicable);",False,False
+30,A,16.0,n,,,"n. Plans submitted for Contractor operations shall also include the name of Contractor (and diving subcontractor if applicable), Contract number, and names and contact information for key personnel. >Note: The dive plan will include the following statement: “If for any reason the dive plan is altered in mission, depth, personnel, or equipment, the DDC will be contacted in order to review and accept the alteration prior to actual operation.”",False,False
+30,A,17.0,,,,"30.A.17 Activity Hazard Analysis (AHA). An AHA represents the dive team's best effort to anticipate and mitigate or prevent the adverse effects of equipment failure, extreme weather and environmental conditions, or other hazardous/unexpected situations.",True,False
+30,A,17.0,a,,,"a. AHA's shall address risk to personnel, property and to impacts to the overall USACE mission. When required, a new AHA shall be conducted to reflect changes in site conditions, operational changes, etc.",False,False
+30,A,17.0,b,,,"b. Each AHA will be job specific and address each phase of work, to include the hazards associated with flying after diving.",False,False
+30,A,17.0,c,,,"c. For USACE dive teams, a Risk Assessment Code (RAC) shall be applied to all underwater diving activities, with residual risk being approved by the appropriate level of command.",False,False
+30,A,17.0,d,,,d. Hazardous Energy Control (HEC) procedures in accordance with Section 12 of this manual and procedures for dealing with differential pressures will be included if appropriate.,False,False
+30,A,17.0,d,1.0,,"(1) If HEC procedures are required for the diving operation, the diving supervisor will visually check all lockout/tagout and other control procedures/devices to assure they are in place and redundant where possible prior to the commencement of the diving operation.",False,False
+30,A,17.0,d,2.0,,(2) A copy of any clearances/permits to be issued to deal with identified hazards will be attached to the AHA.,False,False
+30,A,17.0,e,,,e. Some dives may be sufficiently complex to warrant several separate analyses.,False,False
+30,A,17.0,f,,,f. The AHA will be covered in detail at the pre-dive conference.,False,False
+30,A,18.0,,,,30.A.18 Emergency management plan. An emergency management plan will be prepared for each dive operation. The minimum content of the plan will be as follows:,True,False
+30,A,18.0,a,,,a. Location and phone number of nearest operational recompression chamber if not located at the dive site and the Divers Alert Network (DAN) phone number (919-684-9111);,False,False
+30,A,18.0,b,,,"b. Location, directions to and phone number(s) of nearest hospital(s) or available physicians capable of treating dive injuries;",False,False
+30,A,18.0,c,,,"c. Location and phone number of nearest USCG Rescue Coordination Center, where appropriate;",False,False
+30,A,18.0,d,,,d. Description of an emergency victim transport plan including phone numbers of appropriate emergency transport services;,False,False
+30,A,18.0,e,,,e. Procedures and phone numbers or other means of communications to activate emergency services at the facility where the work is being performed;,False,False
+30,A,18.0,f,,,"f. Diver rescue procedures conducted by the dive team, including responsibilities of team members, best location(s) where injured divers may be removed from the water, and best location(s) for performing first aid/stabilization prior to emergency medical assistance arrival.",False,False
+30,A,19.0,,,,"30.A.19 Prior to the initial work on each dive operation, a Pre-Dive Conference shall be held with key personnel designated by the DDC to discuss the Dive Operations plan, AHA, and Emergency Management Plan and any modifications needed. For contractor operations, the pre-dive conference will also be attended by the USACE dive inspector or DDC and a representative of the Contractor with sufficient authority to implement any changes required by the USACE diving inspector or coordinator.",True,False
+30,A,20.0,,,,"30.A.20 Prior to each dive, the entire dive team will be briefed in detail on the following (as a minimum):",True,False
+30,A,20.0,a,,,"a. Description of mission and location, including drawings and/or photographs pertinent to the mission and equipment and materials that are to be installed as part of the mission;",False,False
+30,A,20.0,b,,,b. Description of diving apparatus/equipment and craft to be used;,False,False
+30,A,20.0,c,,,c. Maximum working depth with estimated bottom times and water temperatures;,False,False
+30,A,20.0,d,,,"d. Names and duties of personnel on the team (when possible, incorporate at least one person on the dive that has previously performed the same or similar mission);",False,False
+30,A,20.0,e,,,e. Discussion of AHA; and,False,False
+30,A,20.0,f,,,f. Emergency procedures.,False,False
+30,A,21.0,,,,"30.A.21 Upon completion of each diving operation or at the conclusion of each day, a dive team debriefing shall be conducted by the dive supervisor. At the debriefing divers are advised of the location of the nearest recompression chamber (if not located on site), the phone number for DAN or local dive medical facility, and cautioned on the limitations of their post dive activities including repetitive dives, traveling to higher altitude, and flying.",True,False
+30,A,22.0,,,,30.A.22 If for any reason the dive mission is altered:,True,False
+30,A,22.0,a,,,"a. Minor to moderate revisions to the accepted dive plan will be reviewed and accepted by the DDC or ADC prior to continuing the operation. These revisions may include differences in time, date, dive team members, work methods/tools used, and other changes that do not affect overall risk. This review may be conducted electronically or verbally and confirmed in writing after completion of the dive operation.",False,False
+30,A,22.0,b,,,"b. Major changes or those which modify high-risk activities, such as modifying pressure differential and hazardous energy controls, adding penetration diving, changing dive equipment modes (i.e. from SCUBA to SSA), discovery of unexpected contaminated diving conditions, etc. require a two-person review as outlined in Section 30.A.13.",True,False
+30,A,22.0,c,,,"c. For contract operations, the project superintendent or the dive supervisor shall submit/request the revised plan through the GDA for DDC acceptance.",False,False
+30,A,23.0,,,,"30.A.23 All diving activities shall be conducted with full knowledge and close coordination with the GDA and on-site authorities such as the dive inspector, lockmaster/ project manager, etc.",True,False
+30,A,24.0,,,,"30.A.24 For each diver and dive, the following dive log information, as a minimum, shall be recorded and maintained at the dive location:",True,False
+30,A,24.0,a,,,a. Full name;,False,False
+30,A,24.0,b,,,"b. Date, time and location of dive;",False,False
+30,A,24.0,c,,,c. Maximum depth and bottom time;,False,False
+30,A,24.0,d,,,d. Surface interval between dives;,False,False
+30,A,24.0,e,,,e. Breathing medium and type of equipment used;,False,False
+30,A,24.0,f,,,f. Group classification at the beginning and end of each interval and repetitive dive worksheet;,False,False
+30,A,24.0,g,,,g. Underwater and surface conditions;,False,False
+30,A,24.0,h,,,h. Depth(s) and duration(s) of any decompression stops;,False,False
+30,A,24.0,i,,,i. Date and time of last previous dive if it occurred in the last 24 hours;,False,False
+30,A,24.0,j,,,j. Name of Dive Supervisor(s) during dive;,False,False
+30,A,24.0,k,,,k. General description of work performed; and,False,False
+30,A,24.0,l,,,"l. For dives outside the no-decompression limits, deeper than 100 ft salt water (fsw) (30.5m), or using mixed-gas, include depth-time and breathing-gas profiles and decompression tables (including any modifications).",False,False
+30,A,25.0,,,,"30.A.25 For each dive in which decompression sickness and/or pulmonary barotraumas is suspected or symptoms are evident, the following information shall be recorded and maintained:",True,False
+30,A,25.0,a,,,a. Descriptions of signs and symptoms (including depth and time of onset);,False,False
+30,A,25.0,b,,,b. Description and results of treatment; and,False,False
+30,A,25.0,c,,,"c. Name, address, and phone number of attending physician.",False,False
+30,A,26.0,,,,"30.A.26 Prior to the dive, the Dive Supervisor shall assure, as a minimum, the following pre-dive checks are performed:",True,False
+30,A,26.0,a,,,"a. Breathing air tanks contain sufficient air supply to perform the required work (i.e., standby air tanks are on site and full to the necessary capacity);",False,False
+30,A,26.0,b,,,b. All diving equipment shall be checked for proper function prior to diver entry;,False,False
+30,A,26.0,c,,,c. All necessary safety equipment specified herein is on site and functioning properly;,False,False
+30,A,26.0,d,,,d. Lockout/tagout procedures are followed;,False,False
+30,A,26.0,e,,,"e. When applicable, crane signals are reviewed and radio communication with the crane operator is functioning properly;",False,False
+30,A,26.0,f,,,"f. When applicable, welding or cutting procedures are clearly reviewed, the proper welder polarity is set, and precautions have been taken to ensure that electrocution will not occur;",False,False
+30,A,26.0,g,,,"g. When applicable, blasting procedures are clearly reviewed and precautions have been taken to ensure unplanned/unscheduled blasts will not occur;",False,False
+30,A,26.0,h,,,"h. A pre-dive briefing shall be given that includes, but is not limited to, the accident management plan, AHA, equipment checklist, diving logs, diving conditions, and diving procedures;",False,False
+30,A,26.0,i,,,"i. When applicable, manbaskets used for diver access shall be inspected and load tested prior to use, and a Critical Lift Plan shall be submitted per Section 16.H and Section 30.B.06).",True,False
+30,A,27.0,,,,"30.A.27 Copies of the dive logs shall be submitted to the DDC after completion of the dive operation. For USACE dive teams, these records shall be maintained on file for two years.",True,False
+30,B,,,,,30.B Diving Operations.,True,False
+30,B,1.0,,,,"30.B.01 Staging areas, where the fully suited and equipped diver enters the water, shall be selected and configured based on a hazard analysis that includes an examination of:",True,False
+30,B,1.0,a,,,a. Ease of diver access to the water;,False,False
+30,B,1.0,b,,,"b. Hazards to diver (currents, equipment, etc.) in route from surface to work area;",False,False
+30,B,1.0,c,,,c. Ability of standby diver to access the water immediately and to reach the diver quickly;,False,False
+30,B,1.0,d,,,"d. If used as the topside dive team station, the ability to protect topside members and the standby diver from weather, operational, and other hazards;",False,False
+30,B,1.0,e,,,e. Whether topside equipment can be stowed safely and function properly;,False,False
+30,B,1.0,f,,,"f. If diver entry to water is remote from the staging area, the standby diver shall be placed at the water entry or immediately accessible to it.",False,False
+30,B,2.0,,,,30.B.02 All Dive teams shall be manned in accordance with the criteria established in Appendix G.,True,False
+30,B,3.0,,,,30.B.03 A standby diver will be provided whenever a diver(s) is in the water to serve as immediate emergency assistance to the primary diver(s).,True,False
+30,B,3.0,a,,,"a. Untethered SCUBA divers, working in “buddy” pairs, shall have one tethered standby diver at the surface for each pair.",False,False
+30,B,3.0,b,,,b. A standby diver will deploy only after the dive supervisor assesses the situation and instructs him/her to do so.,False,False
+30,B,3.0,c,,,c. The standby diver shall be fully equipped to dive and immediately available the entire time the diver is in the water.,False,False
+30,B,3.0,c,1.0,,"(1) The standby shall don all specific gear (suits, harnesses, and equipment) they will wear/use and test all for proper operation before the primary diver leaves the surface.",False,False
+30,B,3.0,c,2.0,,"(2) With the exception of Appendix G, Table G-3, the stand-by diver shall not assume other work responsibilities, other than communications, as required, with the diver.",False,False
+30,B,3.0,c,3.0,,"(3) All gear shall be maintained operational and ready for immediate use for the duration of the dive. If any of the tested gear is exchanged or replaced during the dive, it shall be donned and tested by the standby.",False,False
+30,B,3.0,d,,,"d. The standby diver shall be dressed appropriately for the water and air temperature and remain fully suited up with helmet/mask ready for immediate donning from the time the primary diver leaves the surface until reaching the work area/working depth. The standby may remove the portions of his or her gear needed to prevent heat/cold stress and prevent fatigue. If the AHA identifies a need for the standby diver to remain fully dressed to deploy, it will address measures that will be taken to control these hazards (i.e., standby in water at surface). Any gear that has been removed must be maintained ready for immediate donning and use, accessible to the standby at the entry to the water.",False,False
+30,B,3.0,e,,,"e. If configuration of the surface staging area prevents safe, immediate entry of the standby into the water, the standby diver will be placed in the water fully dressed prior to the primary diver leaving the surface, and remain at the surface ready for deployment if needed.",False,False
+30,B,4.0,,,,"30.B.04 Dive operations that require surface decompression as an integral part of the dive operation shall have a trained competent person (CP)/operator, whose sole purpose is to attend to the chamber operation.",True,False
+30,B,4.0,a,,,"a. In dive operations where the chamber is required for emergency, first aid, or used for other unexpected recompression events, a team member with other team duties (tender, console operations, etc.) not diving during the current dive may serve as the chamber operator so long as he is specifically trained and competent in hyperbaric chamber operations. If used for the latter purpose, all diving shall be suspended during the chamber operations.",False,False
+30,B,4.0,b,,,"b. Whenever a chamber is on site, the chamber CP/operator shall be capable of communicating with a diving physician.",False,False
+30,B,4.0,c,,,c. Divers completing a recompression dive will remain within 60 minutes drive time from a fully operable and staffed recompression chamber for a minimum of 2 hours after completing the recompression dive.,False,False
+30,B,5.0,,,,30.B.05 Dive operations will be conducted in full coordination with external operations and processes that may impact the safety of the dive.,True,False
+30,B,5.0,a,,,"a. When the operation of machinery or release of hazardous energy will affect the diver or dive team safety, the dive supervisor will develop a HECP. > See Section 12. When diving at a facility with an existing HECP, the dive supervisor will review the facility’s plan and establish positive control procedures with the facility leader.",False,False
+30,B,5.0,b,,,"b. When water traffic, land-based traffic, industrial operations, heavy equipment operation, or other operations exist that present a hazard to the diver or dive team, the dive supervisor shall coordinate with the controlling authorities to minimize the hazards. This shall include coordination with the USCG, as required, for establishing a safety zone.",False,False
+30,B,6.0,,,,30.B.06 Crane operations conducted to support diving operations shall follow the requirements of Section 16 of this manual.,True,False
+30,B,6.0,a,,,"a. All working dives requiring communications between the divers and topside to direct crane load movements, etc., shall be performed in SSA mode.",False,False
+30,B,6.0,b,,,b. The crane operator will take direction from the tender or supervisor directly in communication with the diver.,False,False
+30,B,6.0,c,,,c. Crane operations where the load is placed or removed while a diver is underwater shall be considered Critical Lifts and the diver/load director will participate in the Critical Lift Plan development as outlined in Section 16.H.,True,False
+30,B,6.0,d,,,"d. If divers are required to perform rigging duties, they must be a qualified rigger and meet the personnel qualifications listed in Section 15.B.",True,False
+30,B,7.0,,,,"30.B.07 When dives will take place in an area or facility where potential or actual pressure differentials exist (i.e., locks, dams, spillways, powerhouses, etc.), the dive supervisor will develop specific plans and procedures, in coordination with the facility operator, to prevent diver exposure to pressure differentials. The plans and procedures shall be site-specific and include the following:",True,False
+30,B,7.0,a,,,"a. Identification of all potential exposure points (gate sills, valve openings, holes, etc.);",False,False
+30,B,7.0,b,,,"b. Means for identifying whether control structures/mechanisms are fully in place (measurements of stop gates and openings, valve indicators, etc.);",False,False
+30,B,7.0,c,,,"c. Methods for checking pressure differential openings (observing current/water flow, remote testing of opening area with objects (rope, sandbags, cinders, etc.);",False,False
+30,B,7.0,d,,,d. Route diver will take from staging area to work area with specific designs to prevent diver and umbilical from uncontrolled pressure differential openings;,False,False
+30,B,7.0,e,,,"e. Procedures for immediate emergency pressure equalization or reduction, if possible, and",False,False
+30,B,7.0,f,,,"f. Procedures for emergency diver extraction or rescue due to pressure differential exposure, including standby diver deployment precautions.",False,False
+30,B,8.0,,,,30.B.08 Underwater Welding and Burning Operations.,True,False
+30,B,8.0,a,,,a. Underwater welding and burning shall be limited to SSA mode only.,False,False
+30,B,8.0,b,,,"b. Equipment configuration and procedures shall be in accordance with the U.S. Navy Underwater Cutting & Welding Manual, S0300-BB-MAN-010.",False,False
+30,B,8.0,c,,,c. Divers performing underwater welding and burning operations shall be equipped with the following as a minimum:,False,False
+30,B,8.0,c,1.0,,(1) A rubber or neoprene dive suit in good condition that provides electrical insulation to the diver;,False,False
+30,B,8.0,c,2.0,,"(2) Insulating gloves with a cuff that, as a minimum, reaches and fully covers the wrist;",False,False
+30,B,8.0,c,3.0,,(3) A welding/burning eye shield attached to the dive helmet with appropriate shade for the conditions at the working area.,False,False
+30,C,,,,,30.C SCUBA Operations.,True,False
+30,C,1.0,,,,30.C.01 SCUBA diving operations shall not be conducted:,True,False
+30,C,1.0,a,,,a. At depths greater than 100 ft (30.5 m);,False,False
+30,C,1.0,b,,,"b. On dives outside the no-decompression limits unless a dual lock, multi-place, recompression chamber (capable of recompressing diver at the surface to a depth equivalent to 165 ft (50.3 m) of sea water) is available at the dive location and is immediately available for use, a trained competent operator is on site, and the chamber is of sufficient size to accommodate the diver as well as an inside tender;",False,False
+30,C,1.0,c,,,c. Against currents exceeding one knot;,False,False
+30,C,1.0,d,,,d. In enclosed or physically confining spaces;,False,False
+30,C,1.0,e,,,e. Using closed circuit or semi-closed circuit SCUBA;,False,False
+30,C,1.0,f,,,f. In visibility less than 3 ft (0.9 m) unless line tended with diver/surface two-way voice communications;,False,False
+30,C,1.0,g,,,g. In areas where pressure differentials exist and it cannot be positively verified that all potential leaks have been eliminated;,False,False
+30,C,1.0,h,,,h. When the diver does not have direct access to the surface.,False,False
+30,C,2.0,,,,30.C.02 Specific operational requirements for SCUBA operations are as follows:,True,False
+30,C,2.0,a,,,"a. The minimum sized SCUBA tank allowed as primary air is a standard 80 ft3 aluminum tank pressurized to at least 2,700 PSI at the beginning of dive operations.",False,False
+30,C,2.0,a,1.0,,(1) Divers shall terminate their dive so that they reach the surface with a minimum tank pressure of 500 PSI.,False,False
+30,C,2.0,a,2.0,,(2) Each diver shall be equipped with a minimum 30 ft3 bailout bottle for emergency use pressurized to at least 90 percent of its working PSI rating and equipped with a separate 1st and 2nd stage regulator. An “octopus” is not considered to be an alternate air source.,False,False
+30,C,2.0,b,,,"b. Each diver shall be equipped with a buoyancy compensation device (BCD) having a manually activated inflation source, an oral inflation device, and an exhaust valve.",False,False
+30,C,2.0,c,,,c. Each SCUBA diver shall be equipped with a submersible cylinder pressure gauge capable of being monitored by the diver during the dive.,False,False
+30,C,2.0,d,,,d. Each SCUBA diver shall be equipped with a weight belt or assembly capable of quick release.,False,False
+30,C,2.0,e,,,e. Each SCUBA diver shall be equipped with a depth gauge and knife.,False,False
+30,C,2.0,f,,,f. SCUBA air cylinders shall comply with the following requirements:,False,False
+30,C,2.0,f,1.0,,(1) Air cylinders of seamless steel or aluminum that meet DOT 3AA and DOT 3AL specifications are approved for used on USACE projects;,False,False
+30,C,2.0,f,2.0,,(2) Each cylinder used on USACE projects must have identification symbols stamped into the shoulder of the tank; and,False,False
+30,C,2.0,f,3.0,,(3) SCUBA tanks used on USACE projects must be visually inspected internally at least annually and hydrostatically tested at least once every 5 years in accordance with DOT and the CGA regulations; hydrostatic test dates will be stamped into the shoulder of each tank.,False,False
+30,C,2.0,g,,,"g. A timekeeping device shall be used for recording diving times for all SCUBA diving operations. When two-way voice communications are not used, each dive supervisor and diver shall have a timekeeping device. When two-way voice communications are used, the dive supervisor, at a minimum shall have a timekeeping device.",False,False
+30,C,2.0,h,,,"h. Each tethered SCUBA diver shall wear a safety harness with a positive buckling device, attachment point for the safety line, and a lifting point to distribute the pull force of the line over the diver’s body while maintaining the body in a heads-up vertical position when unconscious or inert.",False,False
+30,D,,,,,30.D Surface Supplied Air (SSA) Operations.,True,False
+30,D,1.0,,,,"30.D.01 SSA operations shall not be conducted at depths greater than 190 ft (57.9 m) except that dives with bottom times of 30 minutes or less may be conducted to depth of 220 ft (67 m). Exceptional exposure dives, as defined by the US Navy Diving Manual, shall not be conducted except in emergency lifesaving situations. USACE in-house SSA operations shall not exceed a depth of 110 ft (33.5 m) unless a waiver is requested by the DDC and approved by the HQUSACE Dive Safety Program Manager.",True,False
+30,D,2.0,,,,30.D.02 SSA equipment components shall be a type specifically designed to be used in diving support systems.,True,False
+30,D,3.0,,,,"30.D.03  A recompression chamber shall be available for all SSA operations when diving outside the decompression limits, utilizing mixed gas, and/or when diving at or deeper than 100 ft (30.5 m) is planned.",True,False
+30,D,3.0,a,,,"a. Under these conditions, a dual lock, multi-place, recompression chamber (capable of recompressing a diver at the surface to a depth equivalent to 165 ft (50.3 m) of sea water) must be available at the dive location and immediately available for use.",False,False
+30,D,3.0,b,,,"b. The chamber must be of sufficient size to accommodate the diver as well as an inside tender, and a trained chamber operator must be immediately available.",False,False
+30,D,3.0,c,,,c. Sufficient oxygen shall be available to complete chamber operations.,False,False
+30,D,4.0,,,,"30.D.04 A bell shall be used for dives with an in-water decompression time greater than 120 minutes, unless heavy gear is worn or diving is conducted in physically confining spaces.",True,False
+30,D,5.0,,,,30.D.05 Minimum specific operational requirements for SSA diving operations are as follows:,True,False
+30,D,5.0,a,,,"a. Each diver shall be continuously tendered while in the water, with one diver per tender, regardless of depth. The tender shall not perform any other duties outside of tending the diver except as allowed by Appendix G;",False,False
+30,D,5.0,b,,,b. An underwater tender/diver shall be stationed at the immediate underwater point of entry when any overhead obstruction limiting direct access to the surface is present and/or penetration diving is conducted or in enclosed or physically confining spaces;,False,False
+30,D,5.0,c,,,"c. Each diving operation shall have a primary breathing air supply sufficient to support divers for the duration of the planned dive, including decompression;",False,False
+30,D,5.0,d,,,d. Each diver must have a reserve breathing supply available that can be turned on immediately by the diver in the event of loss of air. The reserve breathing air supply shall be of sufficient capacity to recover the diver and complete emergency recompression (if required) in the event of loss of primary air but no less than 30 ft3 (0.85 m3). Heavy-gear diving is exempted from these provisions because the gear carries its own reserve;,False,False
+30,D,5.0,e,,,e. Each dive location shall have a reserve breathing air supply integral or in-line with the primary air source sufficient to safely terminate the dive and recover the diver(s) in the event of loss of the primary air supply;,False,False
+30,D,5.0,f,,,"f. For dives deeper than 100 ft (30.5 m) or outside the no decompression limits and using heavy gear, a spare air supply hose, to replace the diver’s air hose should it become damaged, shall be available to the standby diver. An in-water support stage shall be provided to divers in water when using heavy gear, regardless of depth;",False,False
+30,D,5.0,g,,,g. Electronic communication systems with an external speaker shall be incorporated so the entire dive team can monitor communications.,False,False
+30,D,5.0,g,1.0,,"(1) Communications devices shall be tested prior to each dive, maintained in an operable condition, and protected from damage during use and storage IAW the manufacturer’s recommendations.",False,False
+30,D,5.0,g,2.0,,"(2) All dive operations will be terminated in a safe, orderly fashion using line-pull signals if voice communications are lost.",False,False
+30,D,5.0,g,3.0,,(3) Defective electronic communication equipment shall not prevent a standby diver from deploying in an emergency if the dive supervisor determines it is safe for the diver to deploy and line-pull signals are used.,False,False
+30,E,,,,,30.E Mixed-Gas Diving Operations.,True,False
+30,E,1.0,,,,"30.E.01 A dual lock, multi-place, recompression chamber with a trained, competent operator shall be available and ready for use at the dive location for any mixed-gas dive. Sufficient oxygen shall be available to complete chamber operations. At extreme depth, mixed gas diving can only be done if:",True,False
+30,E,1.0,a,,,"a. A bell is used at depths greater than 220 ft (67 m) or when the dive involves in- water decompression time of greater than 120 minutes (except when heavy gear is worn or when diving in physically confining spaces), or",False,False
+30,E,1.0,b,,,"b. A closed bell is used at depths greater than 300 ft (91.4 m), except when diving is conducted in physically confining spaces.",False,False
+30,E,2.0,,,,"30.E.02 Each diving operation shall have a primary breathing gas supply sufficient to support divers for the duration of the planned dive, including decompression.",True,False
+30,E,3.0,,,,30.E.03 Each diving operation shall have a reserve breathing gas supply integral or in-line with the primary air source sufficient to safely recover the diver(s) in the event of failure of the primary breathing gas supply.,True,False
+30,E,4.0,,,,30.E.04 When heavy gear is worn:,True,False
+30,E,4.0,a,,,"a. An extra breathing gas hose capable of supplying breathing gas to the diver in the water shall be available to the standby diver, and",False,False
+30,E,4.0,b,,,b. An in-water stage shall be provided to divers in the water.,False,False
+30,E,5.0,,,,30.E.05 An in-water stage shall be provided for divers without access to a bell for dives deeper than 100 ft (30.4 m) or outside the no-decompression limits.,True,False
+30,E,6.0,,,,"30.E.06 When a closed bell is used, one dive team member in the bell shall be available and tend the diver in the water.",True,False
+30,E,7.0,,,,30.E.07 Oxygen Enriched Air.,True,False
+30,E,7.0,a,,,"a. The use of “Oxygen Enriched Air” (OEA) such as Nitrox (EANx) breathing mixtures by USACE in-house dive teams requires the specific initial approval of the HQUSACE Dive Safety Program Manager prior to the first use of such equipment. Requests for approval will be accompanied by a written program that identifies training, certification, and procedures for OEA use. Use of OEA by Contractors requires approval by the local DDC.",False,False
+30,E,7.0,b,,,b. Navy or NOAA Nitrox Dive Tables or other decompression tables designed specifically for the OEA mixture being used shall be followed without exception.,False,False
+30,E,7.0,c,,,c. The use of OEA/Nitrox is considered mixed gas diving and requires a decompression chamber on site and ready for use.,False,False
+30,E,8.0,,,,30.E.08 Contractors must provide evidence of training and experience with OEA breathing mixtures prior to actual diving operations.,True,False
+30,E,9.0,,,,30.E.09 OEA breathing mixture shall be analyzed/tested by the diver to assure proper mix prior to each use. No more than 40% OEA is allowed for normal diving operations. Higher OEA concentrations are allowable for in-water decompression at shallow safety stops.,True,False
+30,E,10.0,,,,"30.E.10 Use of Surface Decompression with Oxygen (SUR-D-O2) and/or 100% oxygen in-water decompression by trained and certified dive teams, shall only be authorized as a decompression methodology upon submittal of an oxygen-specific decompression plan and schedule, and only with the expressed written approval of the District Dive Coordinator or alternate.",True,False
+30,F,,,,,30.F Equipment Requirements.,True,False
+30,F,1.0,,,,"30.F.01 Equipment modifications, repairs, tests, calibrations, or maintenance shall be recorded by means of a tagging or logging system, and include the date and nature of work performed and the name of the individual performing the work.",True,False
+30,F,2.0,,,,"30.F.02 Air compressor systems used on-site as a direct source to supply air to SSA divers (Direct Source Compressors) shall be equipped with a volume tank with a check valve on the inlet side, a pressure gauge, a relief valve, and a drain valve.",True,False
+30,F,3.0,,,,"30.F.03 Direct Source compressors shall be of sufficient capacity to overcome any line loss or other losses and deliver a minimum 4.5 ft3 (2.1 l/s), actual, or a delivery amount (cfm) as set by the helmet manufacturer, to each diver at the maximum diving depth.",True,False
+30,F,4.0,,,,30.F.04 All air compressor intakes shall be located away from/upwind of areas containing exhaust or other contaminants.,True,False
+30,F,4.0,a,,,a. All shall be equipped with appropriate in-line air purifying absorbent beds and/or filters inserted into the supply line to assure breathing air quality.,False,False
+30,F,4.0,b,,,b. Oil-lubricated compressors containing a petroleum or potential CO-producing lubricant for the air pressurization pistons will not be used.,False,False
+30,F,4.0,c,,,c. All monitor/alarm systems shall be so designed with a visual and/or audio alarm and placed so that the dive supervisor will be made aware of the hazardous conditions.,False,False
+30,F,4.0,d,,,"d. Direct Source compressors shall be equipped specifically for their intended use and shall have a suitable approved means to regulate the pressure and a low air pressure alarm in the system. In addition, they will have a Carbon Monoxide (CO) monitor with alarm in the following situations:",False,False
+30,F,4.0,d,1.0,,"(1) The compressor is powered by an internal combustion engine,",False,False
+30,F,4.0,d,2.0,,"(2) Compressors used in close proximity to internal combustion engines that may/will be running during dive operations (boat motors, generators, cranes, etc.). Air intake pipes shall be placed away from/upwind of the exhaust source;",False,False
+30,F,4.0,d,3.0,,(3) Fueling a compressor during operation shall not be allowed.,False,False
+30,F,5.0,,,,30.F.05 Air compressor systems will be tested by means of sampling at the connection to the distribution system.,True,False
+30,F,5.0,a,,,a. All air compressors with a working pressure greater than 500 psi will be tested every six months by an accredited testing laboratory.,False,False
+30,F,5.0,b,,,"b. Compressors with a working pressure less than 500 psi may be tested in-house with documentation every six months and must be tested by an accredited testing laboratory every two years. Lab accreditation shall be from NIST/NVLAP, American Association of Laboratory Accreditation (A2LA – for environmental or calibration) or similar recognized accreditation.",False,False
+30,F,5.0,c,,,c. Purchased air must be certified by the supplier that it has been tested and meets the standards below.,False,False
+30,F,5.0,d,,,d. A copy of the certificate of analysis showing the breathing air meets the minimum acceptable criteria shall be provided to the GDA.,False,False
+30,F,5.0,e,,,e. Air purity standards are as follows:,False,False
+30,F,5.0,e,1.0,,(1) Air shall not contain a level of carbon monoxide greater than 10 ppm;,False,False
+30,F,5.0,e,2.0,,"(2) Air shall not contain a level of carbon dioxide greater than 1,000 ppm;",False,False
+30,F,5.0,e,3.0,,(3) Air shall not contain a level of oil mist greater than 5 mg/m3;,False,False
+30,F,5.0,e,4.0,,(4) Air shall not contain a level of hydrocarbons other than methane greater than 25 ppm; and,False,False
+30,F,5.0,e,5.0,,(5) Air shall not contain a noxious or pronounced odor.,False,False
+30,F,6.0,,,,30.F.06 Breathing supply hoses.,True,False
+30,F,6.0,a,,,a. Breathing air supply hoses shall be suitable for breathing gas service or shall be specifically manufactured for SSA use. Hoses shall have a maximum allowable working pressure equal to or greater than supply pressure plus 150 psi.,False,False
+30,F,6.0,b,,,b. Breathing air supply hoses shall have connectors made of corrosion resistant materials and have a working pressure at least equal to the working pressure of the hose to which they are attached: connectors must not be able to become accidentally disengaged.,False,False
+30,F,6.0,c,,,"c. Umbilicals shall be marked, beginning at the divers end, in 10 ft (3 m) increments to 100 ft (30.5 m) and in 50 ft (15.2 m) increments thereafter.  >  See Table 30-1. USACE in-house dive teams shall use the following umbilical marking system found in the ADCI Consensus Standard 006 in order to assure consistency and interoperability:",False,False
+30,F,6.0,d,,,d. Umbilicals shall have a nominal breaking strength of 1000 lb (453.6 kg) and shall be made of kink resistant materials.,False,False
+30,F,6.0,e,,,"e. Hoses must be tested prior to being placed into initial service and after any repair, modification, or alteration, and at least every 12 months to 1.5 times the working pressure. Umbilical assemblies shall be tensile tested at the same time intervals by subjecting each hose-to-fitting connection to a 200 lb axial load.",False,False
+30,F,6.0,f,,,"f. When breathing gas hoses are not in use, their open ends must be closed by capping.",False,False
+30,F,6.0,g,,,g. The umbilical assembly used for the standby diver must be of sufficient length to reach the primary diver at the furthest distance he can proceed from the dive station or beyond.,False,False
+30,F,6.0,h,,,"h. Umbilicals shall be carefully tended to maintain them and the diver clear of hazards such as propellers (including those of ROV’s) or intakes present in the diving zone, so that the diver or umbilical cannot be drawn into them.",False,False
+30,F,7.0,,,,30.F.07 SSA and mixed-gas helmets and masks shall have a non-return valve at the attachment between the helmet or mask and hose which will close readily and also have an exhaust valve.,True,False
+30,F,7.0,a,,,a. Helmets and masks shall have a minimum ventilation rate capacity of 4.5 ft3 (2.1 L/s) (actual) at the depth at which they are operated.,False,False
+30,F,7.0,b,,,b. The use of Jack Brown masks is prohibited on SSA operations unless it incorporates electronic communication and a means of incorporating a diver carried bailout system.,False,False
+30,F,8.0,,,,30.F.08 SSA and mixed-gas helmets and masks must be capable of supporting a reserve breathing supply which can be immediately turned on by the diver in event of loss of air.,True,False
+30,F,9.0,,,,30.F.09 SSA and mixed-gas helmets and masks must be capable of supporting a two-way or four-way diver-surface communication system.,True,False
+30,F,10.0,,,,"30.F.10 Weights and harnesses. Unless heavy gear is worn, each tethered diver shall wear a divers safety harness with a positive buckling device, attachment point for the safety line, and a lifting point to distribute the pull force of the line over the diver’s body while maintaining the body in a heads-up vertical position when unconscious or inert.",True,False
+30,F,11.0,,,,30.F.11 The following emergency and first aid equipment shall be located at all dive sites:,True,False
+30,F,11.0,a,,,a. A first aid kit meeting the requirements of Section 3;,False,False
+30,F,11.0,b,,,"b. An oxygen resuscitation system shall contain a pocket mask with O2 inlet, non­rebreather mask, demand inhalator and/or demand resuscitator capable of delivering oxygen for a minimum of 30 minutes at 15 lpm or until emergency medical assistance can be administered; and",False,False
+30,F,11.0,c,,,"c. A stokes litter or backboard, equipped with at least four body straps and snap buckles, a head block and have flotation capability.",False,False
+30,F,12.0,,,,"30.F.12 When diving from vessels, International alpha code and recreational dive flags with a minimum dimension of 23 in (58.4 cm) will be displayed a minimum of 3 ft (0.9 m) above the working surface at the dive location during diving operations. When diving from surfaces other than vessels in areas capable of supporting marine traffic, a rigid replica of the international code flag A"" at least 3 ft (1 m) in height shall be displayed at the dive location in a manner which allows all-round visibility",True,False
+30,F,13.0,,,,30.F.13 Hand-held power tools shall be tested and certified to be safe for underwater use. These tools shall be de-energized at the surface before being placed into or retrieved from the water and shall not be supplied with power until requested by the diver.,True,False
+30,F,14.0,,,,"30.F.14 The use of one-atmosphere suits (e.g., Newt Suits) requires the specific approval of the MSC DDC and FOA DDC prior to the use of such equipment.",True,False
+30,G,,,,,30.G Scientific Snorkeling.,True,False
+30,G,1.0,,,,30.G.01 Scientific snorkeling will be conducted only with prior acceptance of the DDC.,True,False
+30,G,2.0,,,,"30.G.02 Scientific snorkeling will be allowed only for environmental assessments such as fish surveys, stream surveys, and the like. It will not be used for structural inspections or other work.",True,False
+30,G,3.0,,,,"30.G.03 An on-site snorkeling team shall be made up of no less than two persons: snorkeler, and observer/assistant. Additional site personnel may be required by the DDC or Safety Office DSR based on site hazards and conditions. Snorkeling team plans and procedures shall be developed and enacted by a team supervisor who is qualified and experienced in scientific snorkeling.",True,False
+30,G,4.0,,,,30.G.04 Quality assurance for contractor snorkeling operations will be provided by USACE certified Diving Inspectors or qualified USACE scientific snorkelers.,True,False
+30,G,5.0,,,,30.G.05 Scientific snorkeling will only be done on the surface of the water. No diving of any kind is permitted.,True,False
+30,G,5.0,a,,,"a. Untethered scientific snorkeling will NOT be allowed in waters deeper than 5 ft (1.5 m), in bodies of water that a snorkeler cannot wade across, or anywhere a pressure differential may exist.",False,False
+30,G,5.0,b,,,b. Scientific snorkeling in open waters greater than 5 feet deep may be allowed by the local DDC based on an acceptable AHA and compliance with all of the following:,False,False
+30,G,5.0,b,1.0,,(1) The snorkeler shall be tethered with a harness and a maximum of 40 ft (12.2 m) of floating line;,False,False
+30,G,5.0,b,2.0,,(2) The tether must be constantly tended from the shore or boat;,False,False
+30,G,5.0,b,3.0,,"(3) The snorkeler must wear a device providing a minimum of 15.5 lbs (7 kg) of positive buoyancy (Type III PFD, fully inflated snorkeling vest, etc.), and",False,False
+30,G,5.0,b,4.0,,"(4) There are no potential tether entanglement hazards in the snorkeling area (overhanging branches, surface stumps, rocks, etc.).",False,False
+30,G,6.0,,,,"30.G.06 All snorkelers and observers/assistants will be certified as skin divers (snorkelers) or open water divers by a nationally-recognized organization (e.g., Professional Association of Diving Instructors (PADI), National Association of Underwater Instructors (NAUI), etc.) or the U.S. Forest Service Snorkel Safety Program.",True,False
+30,G,7.0,,,,30.G.07 An observer/assistant will accompany each untethered snorkeler either along the shore or in a boat and be within 50 ft (15.2 m) of the snorkeler at all times.,True,False
+30,G,7.0,a,,,a. Two untethered snorkelers in the same body of water may act as observer/ assistant for each other if they remain within 50 ft (15.2 m) of each other.,False,False
+30,G,7.0,b,,,"b. Non-snorkeling observer/assistants shall wear a PFD and be equipped with a throw bag and/or ring buoy with at least 70 ft (21.3) of line, and must be capable of performing a rescue on the specific snorkeler(s) in an emergency.",False,False
+30,G,8.0,,,,30.G.08 Areas of extreme water velocity and turbulence will be avoided especially those immediately upstream from debris jams or bedrock outcrops.,True,False
+30,G,9.0,,,,30.G.09 Snorkelers will be provided with appropriate thermal protection.,True,False
+30,G,10.0,,,,"30.G.10 Employees will be determined medically fit by a licensed physician (DO or MD) prior to snorkeling. This certification shall be signed by a physician familiar with sports medicine, and state that each snorkeler is physically and medically fit to perform snorkeling activities according to commonly accepted sports medicine guidelines. The Contractor shall submit such certification to the GDA for acceptance.",True,False
+30,G,11.0,,,,"30.G.11 All snorkeling team members shall be certified in first aid and CPR. Certification shall be in accordance with most recent Emergency Cardiovascular Care (ECC) guidelines, and/or American Heart Association or ARC standards.",True,False
+30,G,12.0,,,,"30.G.12 A first aid kit meeting the requirements of Section 3 will be available at each location where snorkeling is being performed. A means of securely transporting an unconscious person, such as a litter or stretcher, shall be provided when snorkeling is conducted in areas inaccessible to vehicles or boats.",True,False
+30,G,13.0,,,,30.G.13 A means of communication capable of contacting emergency services must be available at locations where snorkeling is performed.,True,False
+30,G,14.0,,,,"30.G.14 Each snorkeler will be equipped with a Dive Equipment Manufacturer’s Association (DEMA) rated professional grade mask, fins, snorkel and snorkeling vest.",True,False
+30,G,15.0,,,,"30.G.15 A snorkeling protocol will be developed and included in the project file. It will contain as a minimum, the following:",True,False
+30,G,15.0,a,,,a. An AHA for each specific snorkeling mission. Particular detail will be given to currents and other environmental considerations;,False,False
+30,G,15.0,b,,,b. Records for snorkeling activities will be maintained and will include as a minimum:,False,False
+30,G,15.0,b,1.0,,(1) Snorkeler’s annual physician certifications;,False,False
+30,G,15.0,b,2.0,,"(2) AHAs, and",False,False
+30,G,15.0,b,3.0,,(3) A snorkeling plan that is based on the requirements of Section 30.A.15.a-e. Contractors shall submit these to the GDA for acceptance by the DDC/SOH Dive Safety Officer a minimum of 10 days prior to start of work.,True,False
+30,G,16.0,,,,30.G.16 Snorkelers will wear apparel which provides appropriate protection from environmental conditions. The apparel must include fins or other appropriate foot protection.,True,False

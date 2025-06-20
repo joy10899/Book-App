@@ -1,0 +1,127 @@
+chapter,section,topic,refOne,refTwo,refThree,content,highlight,bookmark
+14,A,,,,,14.A Material Handling.,True,False
+14,A,1.0,,,,14.A.01 Employees shall be trained in and shall use safe lifting techniques. > See Section 6.K.,True,False
+14,A,2.0,,,,14.A.02 Requirements for PPE are covered in  Section 5.,True,False
+14,A,3.0,,,,14.A.03 Material handling devices shall be available and used for the material handling needs of an activity.,True,False
+14,A,4.0,,,,"14.A.04 Whenever heavy or bulky material is to be moved, the material handling needs shall be evaluated in terms of weight, size, distance, and path of movement. The following hierarchy shall be followed in selecting a means for material handling:",True,False
+14,A,4.0,a,,,a. Elimination of material handling needs via engineering solutions;,False,False
+14,A,4.0,b,,,"b. Movement by mechanical device (e.g., lift truck, overhead crane, or conveyor);",False,False
+14,A,4.0,c,,,"c. Movement by manual means with handling aid (e.g., dollie or cart); or",False,False
+14,A,4.0,d,,,"d. Movement using safe lifting techniques. > See NIOSH, “Work Practices Guide for Manual Lifting”.",False,False
+14,A,5.0,,,,14.A.05 Materials will not be moved over or suspended above personnel unless positive precautions have been taken to protect the personnel from falling objects.,True,False
+14,A,6.0,,,,"14.A.06 Where the movement of materials may be hazardous to persons, taglines or other devices shall be used to control the loads being handled by hoisting equipment. These devices shall be nonconductive when used near energized lines.",True,False
+14,A,7.0,,,,14.A.07 Banding or strapping shall not be used as rigging to hoist loads of bundled materials.,True,False
+14,B,,,,,14.B Material Hoists.,True,False
+14,B,1.0,,,,"14.B.01 Material hoists shall be designed to raise and lower materials during construction, alteration, or demolition. It is not applicable to the temporary use of permanently installed elevators used as material hoists. They shall be constructed and installed in accordance with the requirements of ANSI A10.5.",True,False
+14,B,2.0,,,,"14.B.02 Material hoist towers, masts, guy or braces, counterweights, drive machinery supports, sheave supports, platforms, supporting structures, and accessories shall be designed by a licensed engineer.",True,False
+14,B,3.0,,,,14.B.03  Hoist towers shall be erected and dismantled only under the direct supervision of a qualified individual.,True,False
+14,B,4.0,,,,14.B.04  A copy of the hoist operating manual shall be available for each hoist on site.,True,False
+14,B,5.0,,,,14.B.05  Material hoists and hoist tower systems shall be inspected in accordance with the manufacturer's recommendations.,True,False
+14,B,5.0,a,,,"a. Prior to initial use and each time after the tower is extended, all parts of the tower or mast, cage, bucket, boom, platform, hoisting machine, guy, and other equipment shall be inspected by a Qualified Person (QP) to ensure compliance with the manufacturer's inspection guidelines and ANSI A10.5.",False,False
+14,B,5.0,b,,,"b. Prior to initial use on a USACE project, and monthly thereafter, a periodic inspection shall be conducted by a QP. Periodic inspections shall cover those items specified by the manufacturer.",False,False
+14,B,5.0,c,,,c. A GDA shall be notified at least 24 hours prior to any of the above inspections and may wish to accompany the contractor's inspector.,False,False
+14,B,5.0,d,,,d. Pre-operational inspections (start-up procedures) shall be conducted by the operator prior to every operation (shift) of the hoist.,False,False
+14,B,6.0,,,,"14.B.06 Before a hoist is placed in service and every 4 months thereafter, a car arresting device test shall be performed.",True,False
+14,B,6.0,a,,,"a. For rope-supported cars, the test shall be conducted in the following manner:",False,False
+14,B,6.0,a,1.0,,(1) Pull a loop in the lifting rope and attach the test rope to each side of the loop above the bucket or platform;,False,False
+14,B,6.0,a,2.0,,(2) Raise the platform or bucket to allow the load to be supported by the test rope; and,False,False
+14,B,6.0,a,3.0,,(3) Cut the test rope to allow the load to fall and activate the car-arresting device.,False,False
+14,B,6.0,b,,,"b. For car suspension other than rope supported, the test shall be conducted by creating an over speed condition of the car.",False,False
+14,B,6.0,c,,,c. Structural components shall be inspected for damage after the test and before the hoist is placed in operation again.,False,False
+14,B,7.0,,,,14.B.07 Maintenance and repairs.,True,False
+14,B,7.0,a,,,a. Replacement parts for load bearing or critical components shall be either obtained from or certified by the equipment manufacturer.,False,False
+14,B,7.0,b,,,b. Maintenance and repairs shall be conducted in accordance with the manufacturer's procedures.,False,False
+14,B,8.0,,,,14.B.08 Landings and runways.,True,False
+14,B,8.0,a,,,a. Landing platforms and runways that connect the hoist way or tower to a structure shall be designed and constructed to sustain the maximum intended load without failure.,False,False
+14,B,8.0,b,,,b. Floors or platforms that may become slippery shall have slip-resistant surfaces.,False,False
+14,B,8.0,c,,,"c. When workers may be exposed to falling objects, overhead protection, composed of 2 in (5 cm) planking or equivalent, shall be provided.",False,False
+14,B,8.0,d,,,"d. A barricade shall be provided at the open ends of each landing. The barricade shall extend a minimum distance of 6 ft (1.8 m) laterally along the outer edge of the landing from each side of the hoist way, shall extend from the floor a distance of at least 3 ft (0.9 m), and shall be of #19 US gauge wire or the equivalent, with openings not exceeding ½-in (1.2 cm).",False,False
+14,B,8.0,e,,,"e. All hoist way entrances shall be protected by substantial gates or bars that shall guard the full width of the landing entrance. Gates shall be not less than 66 in (167.6 cm) in height, with a maximum under clearance of 2 in (5 cm), and shall be located not more than 4 in (10 cm) from the hoist way line. Gates of grille, lattice, or other open work shall have openings of not more than 2 in (5 cm).",False,False
+14,B,8.0,f,,,f. Material shall not be stored on landing platforms or runways.,False,False
+14,B,9.0,,,,"14.B.09 Whenever a slack line condition occurs, the proper seating of the rope in the sheaves and on the drum shall be checked prior to further operations.",True,False
+14,B,10.0,,,,14.B.10 Riding on material hoists or other hoisting equipment not meant for personnel handling is prohibited.,True,False
+14,B,11.0,,,,"14.B.11 While hoisting equipment is in operation, the operator shall not perform any other work and shall not leave his/her position at the controls until the load has been safely landed or returned to ground level.",True,False
+14,B,12.0,,,,14.B.12 Not more than one cage or bucket shall be operated at the same time by any one hoisting machine or operator.,True,False
+14,B,13.0,,,,"14.B.13 Operating rules shall be established and posted at the operator's station of the hoist. Such rules shall include signal system and allowable line speed for various loads. Rules and notices shall be posted on the car frame or crosshead in a conspicuous location, including the statement NO RIDERS ALLOWED.""""",True,False
+14,B,14.0,,,,14.B.14 Air-powered hoists shall be connected to an air supply of sufficient capacity and pressure to safely operate the hoist. Pneumatic hoses shall be secured by some positive means to prevent accidental disconnection.,True,False
+14,C,,,,,14.C Material Storage.,True,False
+14,C,1.0,,,,"14.C.01 All material in bags, containers, bundles, or stored in tiers shall be stacked, blocked, interlocked, and limited in height so that it is stable and secured against sliding or collapse.",True,False
+14,C,1.0,a,,,a. Material shall be stacked as low as practical and in no case higher than 20 ft (6 m) unless otherwise specified in this Section.,False,False
+14,C,1.0,b,,,b. Storage of flammable and combustible materials is covered in Section 9.,False,False
+14,C,1.0,c,,,c. Storage of hazardous and toxic agents is covered in Section 6.,False,False
+14,C,1.0,d,,,d. Storage of compressed gas cylinders is covered in Section 20.D.03.,True,False
+14,C,2.0,,,,14.C.02 Materials that could become damaged or affected by exposure to the elements shall be adequately covered or stored indoors.,True,False
+14,C,3.0,,,,14.C.03 Materials shall not be stored in areas that would interfere with other normal operations.,True,False
+14,C,4.0,,,,14.C.04 Materials shall not be stored directly under power lines unless safe clearance/distance from all materials to the power line is achieved. Documentation shall be in an AHA.,True,False
+14,C,5.0,,,,14.C.05 Material storage shall be in compliance with manufacturer’s recommendations.,True,False
+14,C,6.0,,,,"14.C.06 Materials stored inside buildings under construction shall not be placed within 6 ft (1.8 m) of any hoistway or floor opening, or within 10 ft (3 m) of an exterior wall that does not extend above the materials stored.",True,False
+14,C,7.0,,,,14.C.07 Accessways shall be kept clear.,True,False
+14,C,8.0,,,,"14.C.08 Unauthorized persons shall be prohibited from entering storage areas. All persons shall be in a safe position while materials are being loaded or unloaded from railroad cars, trucks or barges.",True,False
+14,C,9.0,,,,"14.C.09  Material shall not be stored on scaffolds, work platforms, or runways in excess of the standards in Section 22.",True,False
+14,C,10.0,,,,14.C.10 Materials stored in bins or hoppers that could create an engulfment hazard shall be evaluated and comply with the confined space requirements in Section 33.,True,False
+14,C,11.0,,,,14.C.11 Noncompatible materials shall be segregated in storage.,True,False
+14,C,12.0,,,,14.C.12 Storage of lumber.,True,False
+14,C,12.0,a,,,a. Storage of lumber during construction shall be in sections containing a maximum of 1 million board feet with at least a 10 ft (3 m) clearance from buildings.,False,False
+14,C,12.0,b,,,"b. Lumber shall be supported on stable sills and shall be stacked level, stable, and self-supporting.",False,False
+14,C,12.0,c,,,c. Reusable lumber shall have all nails withdrawn before it is stacked for storage.,False,False
+14,C,12.0,d,,,d. Lumber piles shall not exceed 20 ft (6 m) in height; lumber to be handled manually shall not be stacked more than 16 ft (4.8 m) high.,False,False
+14,C,13.0,,,,14.C.13 Storage of bagged materials.,True,False
+14,C,13.0,a,,,a. Bagged materials shall be stacked by stepping back the layers and cross-keying the bags at least every 10 bags high.,False,False
+14,C,13.0,b,,,"b. Bags of cement and lime shall not be stacked more than 10 high without setback, except when restrained by walls of appropriate strength.",False,False
+14,C,13.0,c,,,c. The bags around the outside of the stack shall be placed with the mouths of the bags facing the center of the stack.,False,False
+14,C,13.0,d,,,"d. During unstacking, the top of the stack shall be kept nearly level and the necessary setback maintained.",False,False
+14,C,14.0,,,,14.C.14 Storage of brick.,True,False
+14,C,14.0,a,,,"a. Brick shall be stacked on an even, solid surface.",False,False
+14,C,14.0,b,,,"b. Bricks stacks shall not be more than 7 ft (2.1 m) high. When stacked loose brick reaches a height of 4 ft (1.2 m), it shall be tapered back 2 in (5 cm) in every 1 ft (0.3 m) of height above the 4 ft (1.2 m) level.",False,False
+14,C,14.0,c,,,c. Unitized brick (brick securely gathered into large standard packages and fastened with straps) shall not be stacked more than three units high.,False,False
+14,C,15.0,,,,"14.C.15 Storage of floor, wall, and partition block.",True,False
+14,C,15.0,a,,,"a. Blocks shall be stacked in tiers on solid, level surfaces.",False,False
+14,C,15.0,b,,,"b. When masonry blocks are stacked higher than 6 ft (1.8 m), the stack shall be tapered back one-half block per tier above the 6 ft level.",False,False
+14,C,16.0,,,,14.C.16 Storage of reinforcing and structural steel.,True,False
+14,C,16.0,a,,,a. Reinforcing steel shall be stored in orderly piles away from walkways and roadways.,False,False
+14,C,16.0,b,,,b. Structural steel shall be securely piled to prevent members sliding off or the pile toppling over.,False,False
+14,C,17.0,,,,14.C.17 Storage of cylindrical material.,True,False
+14,C,17.0,a,,,"a. Structural steel, poles, pipe, bar stock, and other cylindrical materials, unless racked, shall be stacked and blocked so as to prevent spreading or tilting.",False,False
+14,C,17.0,b,,,"b. Pipe, unless racked, shall not be stacked higher than 5 ft (1.5 m).",False,False
+14,C,17.0,c,,,c. Either a pyramid or battened stack shall be used.,False,False
+14,C,17.0,d,,,"d. Where a battened stack is used, the outside pile or pole shall be securely chocked. Battened stacks shall be tapered back at least one pile or pole in each tier.",False,False
+14,C,17.0,e,,,e. Unloading of round material shall be done so that no person is required to be on the unloading side of the carrier after the tie wires have been cut or during the unlocking of the stakes.,False,False
+14,D,,,,,14.D Housekeeping.,True,False
+14,D,1.0,,,,14.D.01 Work areas and means of access shall be maintained safe and orderly.,True,False
+14,D,1.0,a,,,a. Sufficient personnel and equipment shall be provided to ensure compliance with all housekeeping requirements.,False,False
+14,D,1.0,b,,,b. Work areas shall be inspected daily for adequate housekeeping and findings shall be recorded on daily inspection reports.,False,False
+14,D,1.0,c,,,c. Work will not be allowed in those areas that do not comply with the requirements of this Section.,False,False
+14,D,2.0,,,,"14.D.02 All stairways, passageways, gangways, and accessways shall be kept free of materials, supplies, and obstructions at all times.",True,False
+14,D,3.0,,,,"14.D.03 Loose or light material shall not be stored or left on roofs or floors that are not closed in, unless it is safely secured.",True,False
+14,D,4.0,,,,"14.D.04 Tools, materials, extension cords, hoses, or debris shall not cause tripping or other hazards.",True,False
+14,D,5.0,,,,"14.D.05 Tools, materials, and equipment subject to displacement or falling shall be adequately secured.",True,False
+14,D,6.0,,,,"14.D.06 Empty bags having contained lime, cement, and other dust-producing material shall be removed periodically as specified by the GDA.",True,False
+14,D,7.0,,,,14.D.07 Form and scrap lumber and debris shall be cleared from work areas and accessways in and around building storage yards and other structures.,True,False
+14,D,8.0,,,,"14.D.08 Protruding nails in scrap boards, planks, and timbers shall be removed, hammered in, or bent over flush with the wood at the time it is disassembled.",True,False
+14,D,9.0,,,,14.D.09 Storage and construction sites shall be kept free from the accumulation of combustible materials.,True,False
+14,D,9.0,a,,,a. Weeds and grass shall be kept down.,False,False
+14,D,9.0,b,,,b. A regular procedure shall be established for the cleanup of the areas as specified by the GDA.,False,False
+14,D,9.0,c,,,"c. Rubbish, brush, long grass, or other combustible material shall be kept from areas where flammable and combustible liquids are stored, handled, or processed.",False,False
+14,D,10.0,,,,"14.D.10 Accumulation of liquids, particularly flammable and combustible liquids, on floors, walls, etc., is prohibited. All spills of flammable and combustible liquids shall be cleaned up immediately.",True,False
+14,E,,,,,14.E Debris Nets.,True,False
+14,E,1.0,,,,"14.E.01 When used with personnel safety nets, debris nets shall be secured on top of the personnel safety net but shall not compromise the design, construction or performance of the personnel nets.",True,False
+14,E,2.0,,,,"14.E.02 A competent person (CP) shall determine and document the size, weight and height of fall of potential falling debris. The debris netting shall have a mesh of the size and strength sufficient to contain the expected debris without penetration when properly supported.",True,False
+14,E,3.0,,,,"14.E.03 Materials, scraps, equipment, tools and debris that have fallen into the net shall be removed as soon as possible from the net and at least before the next work shift.",True,False
+14,E,4.0,,,,14.E.04 Nets and debris shall be protected from sparks and hot slag resulting from welding and cutting operations.,True,False
+14,E,5.0,,,,14.E.05 Inspection of debris nets.,True,False
+14,E,5.0,a,,,a. Debris nets shall be inspected by a CP in accordance with the manufacturer’s recommendations.,False,False
+14,E,5.0,b,,,"b. Inspections shall be conducted after installation, at least weekly thereafter, and following any alteration, repair or any occurrence that could affect the integrity of the net system. Inspections shall be documented and maintained on site.",False,False
+14,E,5.0,c,,,c. Defective nets shall not be used; defective components shall be removed from service.,False,False
+14,E,5.0,d,,,"d. When welding or cutting operations occur above the nets, frequency of inspections shall be increased in proportion to the potential for damage to the nets.",False,False
+14,F,,,,,14.F Material Disposal.,True,False
+14,F,1.0,,,,"14.F.01 Waste material and rubbish shall be placed in containers or, if appropriate, in piles.",True,False
+14,F,1.0,a,,,"a. All containers holding waste material, piles, or stacked material shall be labeled as a waste.",False,False
+14,F,1.0,b,,,b. Waste material shall be piled or stacked so to prevent engulfment or material avalanche and away from any traffic areas or walkways.,False,False
+14,F,2.0,,,,"14.F.02 Waste materials and rubbish shall not be thrown down from a height of more than 6 ft (1.8 m), unless the following are complied with:",True,False
+14,F,2.0,a,,,"a. The materials or rubbish are dropped through an enclosed chute constructed of wood or equivalent material. Chutes for debris shall be enclosed, except for openings equipped with closures at or about floor level for the insertion of materials. The openings shall not exceed 4 ft (1.2 m) in height measured along the wall of the chute. Openings shall be kept closed when not in use.",False,False
+14,F,2.0,b,,,"b. When debris cannot be handled by chutes, the area into which the material is dropped shall be enclosed with barricades not less than 42 in (1.1 ) in height. Barricades shall be positioned to keep personnel from all debris landing areas. Signs warning of the hazard of falling material shall be posted at all debris landing areas and at each level exposed to falling debris.",False,False
+14,F,3.0,,,,14.F.03 Burning requirements are found in Section 9.,True,False
+14,F,4.0,,,,"14.F.04 Separate covered, self-closing, nonflammable/non-reactive containers shall be provided for the collection of garbage, oily, flammable, and dangerous wastes.",True,False
+14,F,4.0,a,,,a. The containers shall be labeled with a description of the contents.,False,False
+14,F,4.0,b,,,b. The contents shall be properly disposed of daily.,False,False
+14,F,5.0,,,,"14.F.05 Hazardous material waste (i.e., vehicle and equipment oils and lubricants, containers and drums for solvents, adhesives, etc.) shall be collected, stored, and disposed of in accordance with Section 06.B.03, Federal, State, and local requirements.",True,False

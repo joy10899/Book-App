@@ -1,0 +1,139 @@
+chapter,section,topic,refOne,refTwo,refThree,content,highlight,bookmark
+20,A,,,,,20.A  General,True,False
+20,A,1.0,,,,20.A.01 Inspections and Tests - General.,True,False
+20,A,1.0,a,,,a. Pressurized equipment and systems shall be inspected and performance tested before being placed in service AND after any repair or modification.,False,False
+20,A,1.0,b,,,"b. Frequency. Unless State or local codes specify more frequent inspection, temporary or portable pressurized equipment and systems shall be inspected at intervals of not more than 6 months and permanent installations shall be inspected at least annually.",False,False
+20,A,1.0,c,,,c. New pressure vessels. Inspections of pressure vessels prior to being placed in service shall be in accordance with the ASME “Boiler and Pressure Vessel Code”.,False,False
+20,A,1.0,d,,,"d. In-service pressure vessels. Inspections of pressure vessels shall be in accordance with the National Board of Boiler and Pressure Vessel Inspectors (NBBI), “National Board Inspection Code.”",False,False
+20,A,1.0,e,,,e. Qualified Inspectors. Inspections and tests will be performed by personnel qualified in accordance with the ASME Code or the NBBI.,False,False
+20,A,2.0,,,,20.A.02 Hydrostatic testing of In-Service Pressure Vessels.,True,False
+20,A,2.0,a,,,"a. Unless otherwise specified by State or local codes, hydrostatic testing of in-service, unfired pressured vessels shall be performed:",False,False
+20,A,2.0,a,1.0,,"(1) After any repairs or modifications that may affect the integrity of the system, or its ability to maintain stored pressure, as determined by the qualified inspector, and",False,False
+20,A,2.0,a,2.0,,"(2) In accordance with the manufacturer's recommendations, and/or a qualified inspector’s recommendations after consultation with the manufacturer, which may include:",False,False
+20,A,2.0,a,2.0,a,(a) When vessels are installed;,False,False
+20,A,2.0,a,2.0,b,(b) When vessels are placed in service after lay-up;,False,False
+20,A,2.0,a,2.0,c,"(c) Every 3 years, (starting at the time of installation);",False,False
+20,A,2.0,a,2.0,d,(d) If the vessel shows any rust or other deterioration; and/or,False,False
+20,A,2.0,a,2.0,e,(e) When conditions found during inspections warrant tests.,False,False
+20,A,2.0,b,,,b. The following unfired vessels are exempt from this requirement:,False,False
+20,A,2.0,b,1.0,,(1) Vessels designed for a maximum allowable pressure not exceeding 15 psi (103.4 kPa);,False,False
+20,A,2.0,b,2.0,,(2) Vessels having an internal volume of 5 ft3 (0.14 m3) or less and a maximum pressure of 100 psi (689.4 kPa);,False,False
+20,A,2.0,b,3.0,,(3) Compression tanks containing water under pressure not exceeding 100 psi (689.4 kPa) and temperatures not exceeding 200°F (93.3°C);,False,False
+20,A,2.0,b,4.0,,(4) Compression tanks containing water and fitted with a permanent air charging line subject to pressures not exceeding 15 psi (103.4 kPa) and temperatures not exceeding 200°F (93.3°C);,False,False
+20,A,2.0,b,5.0,,(5) Fire extinguishers. > See Section 9.,False,False
+20,A,2.0,b,6.0,,"(6) For vessels with inspection doors (such as oil-filled (governor) pressure tanks), hydrostatic tests need only be performed on repaired, modified, or deteriorated tanks. Inspections to determine deterioration will be made every 2 years for external condition and every 4 years for internal condition.",False,False
+20,A,3.0,,,,20.A.03 Records of the inspections and tests shall be available for review on request. A certificate shall be posted and maintained near the vessel controls prior to operation of the equipment.,True,False
+20,A,4.0,,,,20.A.04 Testing using Pressurized Gases/Air.,True,False
+20,A,4.0,a,,,"a. Tests for structural integrity or leaks using pressurized gases, such as air, are prohibited, except for:",False,False
+20,A,4.0,a,1.0,,"(1) Testing of bulk petroleum, oil, and lubricant (POL) storage tanks under API standards, or",False,False
+20,A,4.0,a,2.0,,(2) Testing when permitted by all applicable manufacturers’ specifications or when specified by an applicable code.,False,False
+20,A,4.0,b,,,"b. Testing with pressurized air or gases must be conducted within the limits of the specific codes or standards specified by the manufacturer’s recommendations using detailed test procedures that have been prepared by a Competent Person (CP), submitted to and accepted by the GDA. A CP shall be responsible for supervision of the testing procedures and all workers performing the testing shall be knowledgeable of the procedures, hazards and controls. Quality assurance/control measures shall assure strict enforcement of all requirements.",False,False
+20,A,4.0,c,,,"c. If interim or final acceptance testing is anticipated to occur 2 or more months after the initial pipe or system installation preparatory meeting, a supplemental preparatory meeting shall be held immediately prior to the testing to review the test procedures and AHA.",False,False
+20,A,5.0,,,,"20.A.05 Any pressurized equipment or system found to be in an unsafe operating condition shall be tagged UNSAFE PRESSURIZED SYSTEM - DO NOT USE"" at the controls and its use shall be prohibited until the unsafe conditions have been corrected.""",True,False
+20,A,6.0,,,,"20.A.06 Pressurized equipment and systems shall be operated and maintained only by qualified, designated personnel.",True,False
+20,A,7.0,,,,20.A.07 The normal operating pressure of pressurized equipment and systems shall not exceed the design pressure.,True,False
+20,A,8.0,,,,"20.A.08 No safety appliance or device shall be removed or made ineffective, except for making immediate repairs or adjustments, and then only after the pressure has been relieved and the power shut off using proper lockout/tagout procedures. > See Section 12.",True,False
+20,A,9.0,,,,20.A.09 Repairs or adjustments to equipment or systems under pressure require a written safe clearance procedure.,True,False
+20,A,10.0,,,,"20.A.10 The discharge from safety valves, relief valves, and blowoffs shall be located so that it is not a hazard to personnel.",True,False
+20,A,11.0,,,,20.A.11 Master valves and controls shall be either located or equipped to permit operation from the floor level or they shall be provided with safe access.,True,False
+20,A,12.0,,,,20.A.12 A pressure gauge shall be provided on all pressurized equipment and systems and shall be in good operational condition.,True,False
+20,A,13.0,,,,20.A.13 Safety and relief valves shall be provided on all pressurized equipment and systems.,True,False
+20,A,13.0,a,,,a. A safety relief valve setting not more than 10% over working pressure is recommended. In no case shall the safety relief valve setting be higher than the maximum allowable pressure of the receiver or the system.,False,False
+20,A,13.0,b,,,b. No valve shall be placed between the pressure vessel or generating equipment and a safety or relief valve or between the safety or relief valve and the atmosphere.,False,False
+20,A,13.0,c,,,c. Adjustments and settings of safety relief valves must be made by a qualified mechanic with equipment designed for valve adjustment. Valves shall be sealed after adjustment.,False,False
+20,A,13.0,d,,,"d. In the event that the pressure registers above the maximum allowable working pressure on the gauge without the safety or relief valve operating, the pressure gauge shall be checked immediately. If such check indicates that the safety or relief valve is inoperative, the equipment shall be removed from service until the safety or relief valve has been adjusted or replaced.",False,False
+20,A,14.0,,,,20.A.14 Piping shall meet requirements of the ASME B31.,True,False
+20,A,15.0,,,,"20.A.15 Pressurized manual equipment, subject to whipping or rotation if released, shall be provided with an automatic shut-off or control of the dead-man type.",True,False
+20,A,16.0,,,,"20.A.16 Except where automatic shutoff valves are used, safety lashings or suitable double action locking devices shall be used at connections to machines of high pressure hose lines and between high pressure hose lines.",True,False
+20,A,17.0,,,,20.A.17 Connections with high pressure hoses must be secured with a safety lashing/whip check:,True,False
+20,A,17.0,a,,,a. Safety lashings shall consist of two metal hose clamps connected by a flexible lacing: the metal hose clamps shall be attached to the hose ends separate from the quick makeup connection;,False,False
+20,A,17.0,b,,,"b. The flexible lacing shall be suitably strong cables, chains, or wires. Wires or pins through the quick makeup connection are not acceptable for use as safety lashings.",False,False
+20,A,18.0,,,,"20.A.18 All pressurized cylinders, actuating booms, outriggers, or other load supporting appliances shall be equipped with pilot check valves, holding valves, or positive mechanical locks to prevent movement in case of failure in the pressure system. Replacement of pressure system fittings shall be with new parts equivalent to the manufacturer's standards.",True,False
+20,B,,,,,20.B Compressed Air and Gas Systems.,True,False
+20,B,1.0,,,,20.B.01 Standards.,True,False
+20,B,1.0,a,,,a. Air receivers shall be constructed in accordance with the ASME “Code for Unfired Pressure Vessels.”,False,False
+20,B,1.0,b,,,"b. All safety valves used shall be constructed, installed, tested, and maintained in accordance with the ASME “Code for Unfired Pressure Vessels.”",False,False
+20,B,2.0,,,,20.B.02 Access and guarding.,True,False
+20,B,2.0,a,,,"a. Compressors and related equipment shall be located to provide safe access to all parts of the equipment for operation, maintenance, and repairs.",False,False
+20,B,2.0,b,,,"b. Safety appliances, such as valves, indicating devices, and controlling devices, shall be constructed, located, and installed so that they cannot be readily rendered inoperative by any means, including the elements.",False,False
+20,B,3.0,,,,"20.B.03 Air hose, pipes, valves, filters, and other fittings shall be pressure rated by the manufacturer and this pressure shall not be exceeded. Defective hose shall be removed from service.",True,False
+20,B,4.0,,,,"20.B.04 Hose shall not be laid over ladders, steps, scaffolds, or walkways to create a tripping hazard.",True,False
+20,B,5.0,,,,20.B.05 Compressed air for cleaning.,True,False
+20,B,5.0,a,,,"a. The use of compressed air for blowing dirt from hands, face, or clothing is prohibited.",False,False
+20,B,5.0,b,,,"b. Compressed air shall not be used for other cleaning purposes except where reduced to less than 30 psi (206.8 kPa) and then only with effective chip guarding and PPE (face shield and safety glasses). This 30 psi requirement does not apply for concrete forms, mill scale, and similar cleaning purposes.",False,False
+20,B,6.0,,,,"20.B.06 When used on tools and equipment such as track drills, all airlines exceeding 0.5 in (1.2 cm) inside diameter shall have a safety device at the source of supply or branch line to reduce pressure in case of hose failure.",True,False
+20,B,7.0,,,,20.B.07 Governors.,True,False
+20,B,7.0,a,,,"a. A speed governor, independent of the unloaders, shall be installed on all air compressors except those driven by electrical induction or electrical synchronized motors.",False,False
+20,B,7.0,b,,,"b. If the air compressor is engine or turbine driven, an auxiliary control to the governor shall be installed to prevent racing when the unloader operates.",False,False
+20,B,8.0,,,,20.B.08 Every air compressor shall automatically stop its air-compressing operation before the discharge pressure exceeds the maximum working pressure allowable on the weakest portion of the system.,True,False
+20,B,8.0,a,,,"a. If this automatic mechanism is electrically operated, the actuating device shall be so designed and constructed that the electrical contact or contacts cannot lock or fuse in a position that will cause the compressor to continue its operation.",False,False
+20,B,8.0,b,,,b. An air bypass and alarm may be used as an alternative.,False,False
+20,B,9.0,,,,"20.B.09 Provisions shall be made to exclude flammable materials and toxic gases, vapors, or dusts from the compressor and compressor intake and to prevent steam, water, or waste being blown or drawn into a compressor intake.",True,False
+20,B,10.0,,,,20.B.10 No valve shall be installed in the air intake pipe to an air compressor with an atmospheric intake.,True,False
+20,B,11.0,,,,20.B.11 The air discharge piping from the compressor to the air receiver shall be at least as large as the discharge opening on the air compressor.,True,False
+20,B,12.0,,,,"20.B.12 A stop valve shall be installed between the air receiver and each piece of stationary utilization equipment at a point convenient to the operator, and a stop valve shall be installed at each outlet to which an air hose may be attached.",True,False
+20,B,13.0,,,,"20.B.13 If a stop valve is installed between the compressor and the receiver, spring-loaded safety valves shall be installed between the air compressor and the stop valve.",True,False
+20,B,13.0,a,,,a. The capacity of safety valves shall be sufficient to limit pressure in the air discharge piping to 10% above the working pressure of the piping.,False,False
+20,B,13.0,b,,,"b. Stop valves should be of the gate type. If a globe valve is used, it shall be installed so that the pressure is under the seat and that the valve will not trap condensation.",False,False
+20,B,14.0,,,,20.B.14 Provisions shall be made in compressed air and gas systems for expansion and contraction and to counteract pulsation and vibration.,True,False
+20,B,15.0,,,,20.B.15 Piping shall be equipped with traps or other means for removing liquid from the lines.,True,False
+20,B,16.0,,,,20.B.16 Air discharge piping shall be installed to eliminate possible oil pockets.,True,False
+20,B,17.0,,,,20.B.17 Installation and location of air receivers.,True,False
+20,B,17.0,a,,,"a. Air receivers shall be installed so that all drains, hand holes, and manholes are accessible.",False,False
+20,B,17.0,b,,,b. Air receivers should be supported with sufficient clearance to permit a complete external inspection and to avoid corrosion of external surfaces.,False,False
+20,B,17.0,c,,,c. Air receivers shall not be buried underground or located in inaccessible places.,False,False
+20,B,17.0,d,,,d. The receiver should be located to keep the discharge pipe as short as possible.,False,False
+20,B,17.0,e,,,e. The receiver should be located in a cool place to facilitate condensation of moisture and oil vapors.,False,False
+20,B,18.0,,,,20.B.18 A drain valve shall be installed at the lowest point of every air receiver for the removal of accumulated oil and water.,True,False
+20,B,19.0,,,,20.B.19 Automatic traps may be installed in addition to drain valves.,True,False
+20,B,20.0,,,,20.B.20 The drain valve on the air receiver shall be opened and the receiver drained often enough to prevent the accumulation of excessive liquid in the receiver.,True,False
+20,B,21.0,,,,20.B.21 No tool change or repair work shall be done until the stop valve in the air line supplying the equipment is closed.,True,False
+20,B,22.0,,,,"20.B.22 Soapy water or any suitable non-toxic, non-flammable solution may be used for cleaning the system.",True,False
+20,B,23.0,,,,20.B.23 Hose and hose connections used for connecting compressed air to utilization equipment shall be designed for the pressure and service to which they are subjected and utilized in accordance with the manufacturer’s specifications.,True,False
+20,C,,,,,20.C Boilers and Systems.,True,False
+20,C,1.0,,,,"20.C.01 Provisions of the ASME “Boiler and Pressure Vessel Code” shall apply in the construction, operation, maintenance, and inspection of steam boilers and pressure vessels.",True,False
+20,C,2.0,,,,20.C.02 Inspection.,True,False
+20,C,2.0,a,,,a. Inspections shall be made to assure that all safety devices affecting operation of the firing equipment are installed in such a location that they cannot be isolated from the heat source by the closing of a valve.,False,False
+20,C,2.0,b,,,b. Boilers that have undergone major structural repairs or that have been relocated during the 12 calendar months for which certification has been made shall be re-inspected and a new certificate posted before being put into operation.,False,False
+20,C,3.0,,,,"20.C.03 When any boiler is being placed in service or restored to service after repairs to control circuits or safety devices, an operator shall be in constant attendance until controls have functioned through several cycles or for a period of 24 hours whichever is greater. A report of the operating test shall be provided to the GDA and include the following specific information: time, date, and duration of test; water pressure at boiler; boiler make, type, and serial number; design pressure and rated capacity; gas pressure at burner; flue gas temperature at boiler outlet; and the surface temperature of the boiler jacket. All indicating instruments shall be read and recorded at half-hour intervals.",True,False
+20,C,4.0,,,,"20.C.04 Fusible plugs shall be provided on all boilers, other than those of the water tube type.",True,False
+20,C,4.0,a,,,a. Replacement of fusible plugs shall coincide with the inspections recommended by the ASME Boiler and Pressure Vessel Code.,False,False
+20,C,4.0,b,,,"b. When necessary to replace fusible plugs between inspections, a written report covering the circumstances and providing make and heat number of plugs removed and inserted shall be forwarded to the responsible boiler inspector.",False,False
+20,C,5.0,,,,"20.C.05 All boilers shall be equipped with water columns, gauge glass, and try cocks approved by a nationally-recognized testing laboratory.",True,False
+20,C,5.0,a,,,a. Gauge glasses and water columns shall be guarded.,False,False
+20,C,5.0,b,,,"b. When shutoffs are used on the connections to a water column, they shall be of an approved locking or sealing type.",False,False
+20,C,6.0,,,,20.C.06 All boilers shall be equipped with blowoff cocks or valves approved by a nationally-recognized testing laboratory. The blowoff line shall be arranged so that leakage can be observed by the operator.,True,False
+20,D,,,,,20.D Compressed Gas Cylinders.,True,False
+20,D,1.0,,,,"20.D.01 Compressed gas cylinders shall be visually inspected in accordance with 49 CFR 171 through 179, CGA C6, and CGA C8.",True,False
+20,D,2.0,,,,20.D.02 All Government-owned cylinders shall be color coded and the gas contained identified by name in accordance with Military Standard (MIL-STD) 101B.,True,False
+20,D,3.0,,,,20.D.03 Storage. > See also Section 20.D.10.,True,False
+20,D,3.0,a,,,a. Cylinders shall be stored in well-ventilated locations.,False,False
+20,D,3.0,b,,,b. Cylinders containing the same gas shall be stored in a segregated group. Empty cylinders shall be labeled as empty and stored in the same manner.,False,False
+20,D,3.0,c,,,"c. Cylinders in storage shall be separated from flammable or combustible liquids and from easily ignitable materials (such as wood, paper, packaging materials, oil, and grease) by at least 40 ft (12 m) or by a fire resistive partition having at least a 1-hour rating.",False,False
+20,D,3.0,d,,,d. Cylinders containing oxygen or oxidizing gases shall be separated from cylinders in storage containing fuel gases by at least 20 ft (6 m) or by a fire resistive partition having at least a 1-hour rating.,False,False
+20,D,3.0,e,,,"e. Areas containing hazardous gas in storage shall be appropriately placarded. >Exception: If it is reasonably anticipated that gas will be drawn from the cylinders within 24 hours, they are considered “in service” and these storage requirements do not apply.",False,False
+20,D,4.0,,,,"20.D.04 Smoking shall be prohibited wherever cylinders are stored, handled, or used.",True,False
+20,D,5.0,,,,"20.D.05 Cylinders shall be protected from physical damage, electric current, and extremes of temperature. The temperature of cylinders shall not be allowed to exceed 125°F (51.7°C).",True,False
+20,D,6.0,,,,20.D.06 Cylinders containing oxygen and acetylene (or other fuel gas) shall not be taken into confined spaces.,True,False
+20,D,7.0,,,,20.D.07 Cylinder valves and valve caps.,True,False
+20,D,7.0,a,,,"a. Cylinder valves shall be closed when cylinders are in storage, in transit, not in use, or empty.",False,False
+20,D,7.0,b,,,"b. Cylinder valve caps shall be in place when cylinders are in storage, in transit, or whenever the regulator is not in place.",False,False
+20,D,8.0,,,,20.D.08 All compressed gas cylinders in service shall be secured in substantial fixed or portable racks or hand trucks.,True,False
+20,D,9.0,,,,"20.D.09 Compressed gas cylinders transported by crane, hoist, or derrick shall be securely transported in cradles, nets, or skip pans, and never directly by slings, chains, or magnets, unless the cylinder manufacturer’s handling instructions specifically allows for handling cylinders otherwise.",True,False
+20,D,10.0,,,,"20.D.10 Compressed gas cylinders shall be secured in an upright position at all times, except when being hoisted (except acetylene cylinders, which shall never be laid horizontally). Horizontal storage configurations approved for transportation are permitted for cylinders other than acetylene.",True,False
+20,D,11.0,,,,20.D.11 Valve wrench or wheel shall be in operating position when cylinder is in use.,True,False
+20,D,11.0,a,,,a. Valves shall be opened slowly.,False,False
+20,D,11.0,b,,,b. Quick closing valves on fuel gas cylinders shall not be opened more than 1 1/2 turns.,False,False
+20,D,12.0,,,,20.D.12 Cylinders shall be used only for their designed purpose of containing a specific compressed gas.,True,False
+20,D,13.0,,,,20.D.13 Cylinders shall be refilled only by qualified persons.,True,False
+20,D,14.0,,,,20.D.14 Cylinders shall be handled in a manner that will not weaken or damage the cylinder or valve.,True,False
+20,D,15.0,,,,"20.D.15 If the movement can be accomplished safely, leaking cylinders shall be moved to an isolated location out of doors, the valve shall be cracked and the gas shall be allowed to escape slowly.",True,False
+20,D,15.0,a,,,a. Personnel and all sources of ignition shall be kept at least 100 ft (30 m) away.,False,False
+20,D,15.0,b,,,b. Instrumentation should be used to assure protection of personnel from health and flammability hazards.,False,False
+20,D,15.0,c,,,"c. The cylinder shall be tagged “DEFECTIVE”, after the gas has escaped.",False,False
+20,D,16.0,,,,20.D.16 Cylinders containing different gases shall not be bled simultaneously in close proximity of each other.,True,False
+20,D,17.0,,,,"20.D.17 Bleeding of cylinders containing toxic gases shall be accomplished in accordance with environmental regulations, and in accordance with a government accepted APP and AHA specifically addressing the bleeding of compressed gas cylinders, and only under the direct supervision of qualified personnel.",True,False
+20,D,18.0,,,,20.D.18 Oxygen cylinders and fittings shall be kept away from oil or grease.,True,False
+20,D,18.0,a,,,"a. Cylinders, cylinder valves, couplings, regulators, hose, and apparatus shall be kept free from oil or greasy substance and shall not be handled with oily hands or gloves.",False,False
+20,D,18.0,b,,,"b. Oxygen shall not be directed at oily surfaces, greasy cloths, or within a fuel oil or other storage tank or vessel.",False,False
+20,D,19.0,,,,"20.D.19 Oxygen and fuel gas pressure regulators, including their related gauges, shall be in proper working order while in use.",True,False

@@ -1,0 +1,146 @@
+chapter,section,topic,refOne,refTwo,refThree,content,highlight,bookmark
+25,A,,,,,25.A General. The requirements of this Section are applicable to all Government and contractor work forces when their employees are performing excavation or trenching activities.,True,False
+25,A,1.0,,,,"25.A.01 Excavation/Trenching Plan. An Excavation/ Trenching Plan and/or Activity Hazard Analysis (AHA) will be prepared by the Competent Person (CP) for Excavation or a Registered Professional Engineer (RPE), submitted and accepted by the GDA prior to beginning operations.",True,False
+25,A,1.0,a,,,"a.	For excavations or trenches greater than 5 ft (1.5 m) in depth, both an Excavation/Trenching plan and AHA are required;",False,False
+25,A,1.0,b,,,"b.	For excavations/trenches less than 5 ft (1.5 m) in depth, or made entirely in stable rock, an AHA is required (See Sections 1 and 25.A.01.a) and the Excavation/Trenching plan is optional;",True,False
+25,A,1.0,c,,,"c. The Excavation/Trenching Plan shall include, at a minimum;",False,False
+25,A,1.0,c,1.0,,(1)  Activity Hazard Analysis (AHA). The AHA shall include required information per Section 1 and in addition:,False,False
+25,A,1.0,c,1.0,a,"(a)	For all piping activities, include workers’ increased exposure during connection activities (i.e. bent over, kneeling);",False,False
+25,A,1.0,c,1.0,b,(b)	Methods and locations for egress;,False,False
+25,A,1.0,c,1.0,c,(c)	Identification and credentials of the CP for Excavation;,False,False
+25,A,1.0,c,1.0,d,(d)	Documentation that examination of the ground by the CP provides no indication of a potential cave-in.,False,False
+25,A,1.0,c,2.0,,(2) Rescue plan and procedures (See Section 25.B.02). A rescue plan shall be prepared and maintained when workers are working at depths in excess of 5 ft (1.5 m);,True,False
+25,A,1.0,c,3.0,,"(3) Diagram or sketch of the area where the work is to be done, with adjacent and nearby structures shown;",False,False
+25,A,1.0,c,4.0,,(4) Projected maximum depth of the excavation;,False,False
+25,A,1.0,c,5.0,,(5) Projected soil type and method of testing to determine soil type;,False,False
+25,A,1.0,c,6.0,,"(6) Planned method of shoring, sloping and/or benching;",False,False
+25,A,1.0,c,7.0,,"(7) Planned method for confined space entry, trench access and egress and atmospheric monitoring processes;",False,False
+25,A,1.0,c,8.0,,(8) Location of utility shut offs (if required);,False,False
+25,A,1.0,c,9.0,,"(9) Proposed methods for preventing damage to overhead utility lines, trees designated to remain, and other man-made facilities or natural features designated to remain within or adjacent to the construction rights-of-way;",False,False
+25,A,1.0,c,10.0,,(10) Plan for management of excavated soil/asphalt/concrete;,False,False
+25,A,1.0,c,11.0,,(11)	Plan for traffic control;,False,False
+25,A,1.0,c,12.0,,"(12)	Digging permits (Excavation permits). All underground lines/utilities (communication lines, water, fuel, electric lines) shall be located and protected from damage or displacement.",False,False
+25,A,1.0,c,12.0,a,"(a)	Utility companies and other responsible authorities shall be contacted to locate and mark the locations and, if they so desire, direct or assist with protecting the underground installations.",False,False
+25,A,1.0,c,12.0,b,(b)	The Contractor shall obtain a “Digging Permit” (excavation permit) from Base Civil Engineers or other authority having jurisdiction prior the initiation of any excavation work. Requests for the permits will be processed through the GDA.,False,False
+25,A,1.0,c,13.0,,"(13)	Certification of UXO clearance. Where excavations are to be performed in areas known or suspected to contain explosives, unexploded munitions, or military ordnance, surface and subsurface clearance by qualified explosive ordnance disposal (EOD) personnel shall be accomplished prior to excavation work;",False,False
+25,A,1.0,c,14.0,,"(14)	For Cofferdams: Controlled flooding plan, fall protection, access/egress and evacuation procedures.",False,False
+25,A,2.0,,,,25.A.02 Excavation Testing and Documentation. > See Table 25-1.,True,False
+25,A,2.0,a,,,"a.	When workers will be in or around an excavation, a CP for Excavation shall inspect the excavation, the adjacent areas, and protective systems daily. Inspections shall also be completed:  before each work shift, throughout the work shifts as dictated by the work being done; after every rainstorm; when fissures, tension cracks, sloughing, undercutting, water seepage, bulging at the bottom or similar conditions occur; when there is a change in size, location or placement of the spoil pile; where there is any indication or change in adjacent structures; and after other events that could increase hazards (e.g., snowstorm, windstorm, thaw, earthquake, etc.).",False,False
+25,A,2.0,b,,,b.	The CP shall be able to demonstrate:,False,False
+25,A,2.0,b,1.0,,"(1)	Training, experience, and knowledge of soil analysis, use of protective systems, and requirements of this Section and 29 CFR 1926 Subpart P;",False,False
+25,A,2.0,b,2.0,,"(2)	Ability to detect conditions that could result in cave-ins, failures in protective systems, hazardous atmospheres, and other hazards including those associated with confined spaces; and",False,False
+25,A,2.0,b,3.0,,(3)	The authority to take prompt corrective measures to eliminate existing and predictable hazards and stop work when required.,False,False
+25,A,2.0,c,,,"c. When persons for the purpose of inspection/testing will be in or around an excavation that is between 6 ft (1.8 m) and 20 ft (6.1 m) deep, that has vertical face leading edge fall exposure (sides have not been laid back), or that contains hazards (e.g., impalement hazards, hazardous substances), they shall be provided with fall protection per Section 21. >Exception: The Designated CP for Excavation may exempt the use of fall protection for inspectors/supervisors provided those individuals are not exposed to hazards within 24 in (0.6 m) of edges, the excavation contains no additional hazards and the individual(s) stay a minimum of 24 in (0.6 m) from the excavation’s edge.",False,False
+25,A,2.0,d,,,"d.	Testing for soil classification shall be of an approved method: pocket penetrometer, plasticity/ wet thread test or visual test and shall be conducted at a minimum of once prior to the start of each work shift or, if conditions warrant, as described in Section 25.A.02.a.",True,False
+25,A,2.0,e,,,"e.	 All testing for soil classification shall be determined by the CP, documented, and maintained for the life of the project (i.e., QC daily reports, excavation inspection log, etc.). > See Table 25-1.",False,False
+25,A,2.0,f,,,"f.	If evidence of a situation that could result in possible cave-ins, slides, failure of protective systems, hazardous atmospheres, or other hazardous condition is identified, exposed workers shall be removed from the hazard and all work in the excavation stopped until all necessary safety precautions have been implemented.",False,False
+25,A,2.0,g,,,"g.	In locations where oxygen deficiency or gaseous conditions are known or suspected, in excavations 4 ft (1.2 m) or greater in depth, air in the excavation shall be tested prior to the start of each shift or more often if directed by the GDA. A log of all test results shall be maintained at the work site. > See Sections 5 and 6.",False,False
+25,A,3.0,,,,25.A.03 Protective systems. Protective systems shall have the capacity to resist without failure all loads that are intended or could reasonably be expected to be applied or transmitted to the system.,True,False
+25,A,3.0,a,,,"a.	The sides of all excavations in which employees are exposed to danger from moving ground shall be guarded by a support system, sloping or benching of the ground, or other equivalent means.",False,False
+25,A,3.0,b,,,"b.	Excavations less than 5 ft (1.5 m) in depth and which a CP examines, determines and documents that there is no potential for cave-in do not require protective systems, however, a fixed means of egress shall be provided.",False,False
+25,A,3.0,c,,,c.	Sloping or benching of the ground shall be in accordance with Section 25.C.,True,False
+25,A,3.0,d,,,d.	Support systems shall be in accordance with Section 25.D.,True,False
+25,A,3.0,e,,,e.	Protective systems shall have the capacity to resist without failure all loads that are intended or could reasonably be expected to be applied to the system.,False,False
+25,A,3.0,f,,,"f.	Shoring shall be used for unstable soil or depths greater than 5 ft (>1.5 m) unless benching, sloping, or other acceptable plan is implemented by the Contractor and accepted by the GDA.",False,False
+25,A,4.0,,,,25.A.04 Stability of adjacent structures.,True,False
+25,A,4.0,a,,,"a. Except in stable rock, excavations below the level of the base of footing of any foundation or retaining wall shall not be permitted unless:",False,False
+25,A,4.0,a,1.0,,"(1)	A support system, such as underpinning, is provided to ensure the stability of the structure and to protect employees involved in the excavation work or in the vicinity thereof; or",False,False
+25,A,4.0,a,2.0,,(2)	A RPE has approved the determination that the structure is sufficiently removed from the excavation so as to be unaffected by the excavation and that the excavation will not pose a hazard to employees.,False,False
+25,A,4.0,b,,,"b.	If the stability of adjoining buildings or walls is endangered by excavations, shoring, bracing, or underpinning designed by a qualified person shall be provided to ensure the stability of the structure and to protect employees.",False,False
+25,A,4.0,c,,,"c.	Sidewalks, pavements, and related structures shall not be undermined unless a support system is provided to protect employees and the sidewalk, pavement, or related structure.",False,False
+25,A,5.0,,,,"25.A.05 Where it is necessary to undercut the side of an excavation, overhanging material shall be safely supported.",True,False
+25,A,6.0,,,,25.A.06 Protection from water.,True,False
+25,A,6.0,a,,,"a.	Diversion ditches, dikes, or other means shall be used to prevent surface water entering an excavation and to provide good drainage of the area adjacent to the excavation.",False,False
+25,A,6.0,b,,,b.	Employees shall not work in excavations in which there is accumulated water or in which water is accumulating unless the water hazards posed by accumulation is controlled.,False,False
+25,A,6.0,b,1.0,,"(1)	Freezing, pumping, drainage, and similar control measures shall be planned and directed by a RPE. Consideration shall be given to the existing moisture balances in surrounding soils and the effects on foundations and structures if it is disturbed.",False,False
+25,A,6.0,b,2.0,,"(2)	When continuous operation of ground water control equipment is necessary, an emergency power source shall be provided. Water control equipment and operations shall be monitored by the CP to ensure proper operation.",False,False
+25,A,7.0,,,,25.A.07 Protection from falling material.,True,False
+25,A,7.0,a,,,"a.	Employees shall be protected (by scaling, ice removal, benching, barricading, rock bolting, wire mesh, or other means) from loose rock or soil that could create a hazard by falling from the excavation wall: special attention shall be given to slopes that may be adversely affected by weather, moisture content, or vibration.",False,False
+25,A,7.0,b,,,"b.	Materials, such as boulders or stumps, that may slide or roll into the excavation shall be removed or made safe.",False,False
+25,A,7.0,c,,,"c.	Excavated material shall be placed at least 2 ft (0.6 m) from the edge of an excavation or shall be retained by devices that are sufficient to prevent the materials from falling into the excavation. In any case, material shall be placed at a distance to prevent excessive loading on the face of the excavation.",False,False
+25,A,8.0,,,,25.A.08 Mobile equipment and motor vehicle precautions.,True,False
+25,A,8.0,a,,,"a.	When vehicles or mobile equipment are used or allowed adjacent to an excavation, substantial stop logs or barricades shall be installed. The use of a ground guide is recommended.",False,False
+25,A,8.0,b,,,b.	Workers shall stand away from vehicles being loaded or unloaded to avoid being struck by spillage or falling materials.,False,False
+25,A,8.0,c,,,"c.	Excavating or hoisting equipment shall not be allowed to raise, lower, or swing loads over or adjacent to personnel in the excavation without substantial overhead protection. Personnel shall maintain a safe distance from hoisting operation until the load has been placed. >Note: Any equipment used to hoist loads, with the use of rigging attached to the equipment (to include excavators, forklifts, etc.) shall be considered “load handling equipment (LHE) or hoisting equipment” and as such, shall follow the requirements in Section 16.",False,False
+25,A,8.0,d,,,"d. Employees exposed to public vehicular traffic shall be provided with, and shall wear, high visibility apparel as per Section 05.F.",True,False
+25,A,9.0,,,,25.A.09  Employees shall not be permitted to work on the faces of sloped or benched excavations at levels above other employees except when employees at lower levels are adequately protected from the hazard of falling material or equipment.,True,False
+25,A,10.0,,,,"25.A.10 When operations approach the location of underground utilities, excavation shall progress with caution until the exact location of the utility is determined. Workers shall be protected from the utility and the utility shall be protected from damage or displacement.",True,False
+25,A,11.0,,,,"25.A.11 Employees entering excavations classified as confined spaces, or that otherwise present the potential for emergency rescue (i.e., bell-bottom pier holes or similar), shall wear rescue equipment and maintain communication with the (confined space) attendant. > See Section 34.",True,False
+25,B,,,,,25.B Safe Access.,True,False
+25,B,1.0,,,,"25.B.01 Protection shall be provided to prevent personnel, vehicles, and equipment from falling into excavations. Protection shall be provided according to the following hierarchy. > See Appendix Q for definitions of Perimeter Protection: Class I, Class II, and Class III.",True,False
+25,B,1.0,a,,,"a.	If the excavation is exposed to members of the public or vehicles or equipment, then Class I perimeter protection is required.",False,False
+25,B,1.0,b,,,b.	Class II perimeter protection is the minimum protection required if the excavation does not meet the requirements for Class I perimeter protection but is:,False,False
+25,B,1.0,b,1.0,,"(1)	Routinely exposed to employees, and",False,False
+25,B,1.0,b,2.0,,(2)	Is deeper than 6 ft (1.8 m) or,False,False
+25,B,1.0,b,3.0,,"(3)	Contains hazards (e.g., impalement hazards, hazardous substances).",False,False
+25,B,1.0,c,,,"c.	When workers are in the zone between the warning barricades/ flagging and the excavation, they shall be provided with fall protection as specified in Section 21. > See Section 25.A.02.c for exception.",True,False
+25,B,1.0,d,,,"d.	If the excavation does not meet the requirements for either Class I or Class II perimeter protection, then Class III perimeter protection is the minimum protection required.",False,False
+25,B,2.0,,,,25.B.02 Rescue Plan and Procedures. The employer is required to provide prompt rescue to all buried workers.,True,False
+25,B,2.0,a,,,"a.	A written rescue plan shall be prepared by the CP or a RPE, submitted and accepted by the GDA prior to beginning operations and maintained when workers are working at depths of over 5 ft (1.5 m).",False,False
+25,B,2.0,b,,,"b.	The plan shall contain provisions for self-rescue and assisted rescue of any worker who is buried during a cave-in including rescue equipment. If other methods of rescue are planned (i.e. by a jurisdictional, public or Government emergency rescue agencies), it shall be indicated in the rescue plan including how to contact and summon the agency to the mishap site.",False,False
+25,B,2.0,c,,,c.	Personnel conducting rescue shall be trained accordingly.,False,False
+25,B,3.0,,,,"25.B.03 All wells, calyx holes, pits, shafts, etc., shall be barricaded or covered.",True,False
+25,B,4.0,,,,"25.B.04 Excavations shall be backfilled as soon as possible. Upon completion of exploration and similar operations, test pits, temporary wells, calyx holes, etc., shall be backfilled immediately.",True,False
+25,B,5.0,,,,25.B.05 Walkways or bridges shall be provided with standard guardrails (as defined in Section 21.F.01) where people or equipment are required or permitted to cross over excavations.,True,False
+25,B,6.0,,,,"25.B.06 Where personnel are required to enter excavations/trenches over 4 ft (1.2 m) in depth, sufficient stairs, ramps, or ladders shall be provided to require no more than 25 ft (7.6 m) of lateral travel.",True,False
+25,B,6.0,a,,,"a.	At least two means of exit shall be provided for personnel working in excavations. Where the width of the excavation exceeds 100 ft (30.4 m), two or more means of exit shall be provided on each side of the excavation.",False,False
+25,B,6.0,b,,,"b.	When access to excavations in excess of 20 ft (6 m) in depth is required, ramps, stairs, or mechanical personnel hoists shall be provided.",False,False
+25,B,7.0,,,,25.B.07 Ramps. > See Sections 24.B. and 24.F.,True,False
+25,B,7.0,a,,,a. Ramps used solely for personnel access shall be a minimum width of 4 ft (1.2 m) and provided with standard guardrails. > See Section 21.F.01.,True,False
+25,B,7.0,b,,,"b. Ramps used for equipment access shall be a minimum width of 12 ft (3.6 m). Curbs not less than 8-in x 8-in (20.3-cm x 20.3-cm) timbers, or equivalent protection, shall be provided. Equipment ramps shall be designed and constructed in accordance with accepted engineering practice.",False,False
+25,B,8.0,,,,25.B.08 Ladders used as access ways shall extend from the bottom of the excavation to not less than 3 ft (0.9 m) above the surface.,True,False
+25,C,,,,,25.C Sloping and Benching.,True,False
+25,C,1.0,,,,"25.C.01 Sloping or benching of the ground shall be in accordance with one of the systems outlined below. > See 29 CFR 1926, Subpart P, Appendix B).",True,False
+25,C,1.0,a,,,"a.	Allowable configurations and slopes. For excavations less than 20 ft (6 m) in depth, the maximum slope shall be 34° measured from the horizontal (1-1/2 horizontal to 1 vertical). These slopes shall be excavated to form configurations that are in accordance with the slopes shown for Type C soil. > See also Section 25.A.03 and 29 CFR 1926, Subpart P, Appendices A and B and Figure 25-1.",True,False
+25,C,1.0,b,,,"b.	Determination of slopes and configurations using classification of soil and rock deposits. > See Section 25.A.03 and 29 CFR 1926, Subpart P, Appendix A. All excavations less than 20 ft (6m) in depth which have vertically lowered portions shall be shielded or supported to a height at least 18 in (.5 m) above the top of the vertical side with a maximum allowable slope of 1-1/2:1. Maximum allowable slopes and allowable configurations for sloping and benching systems, shall be determined in accordance with the conditions and requirements set forth in 29 CFR 1926, Subpart P, Appendices A and B. > See also Figure 25-1.",True,False
+25,C,1.0,c,,,"c.	Designs using other tabulated data. The design shall be selected from and be in accordance with written tabulated data, such as charts and tables approved by a RPE. At least one copy of the tabulated data shall be maintained at the job site during excavation. The tabulated data shall include:",False,False
+25,C,1.0,c,1.0,,(1)	Identification of the parameters that affect the selection of a sloping or benching system drawn from the data;,False,False
+25,C,1.0,c,2.0,,"(2)	Identification of the limits of use of the data, to include the magnitude and configuration of slopes determined to be safe;",False,False
+25,C,1.0,c,3.0,,(3)	Explanatory information as may be necessary to aid the user in correctly selecting a protective system from the data; and,False,False
+25,C,1.0,c,4.0,,(4)	The identity of the RPE who approved the data.,False,False
+25,C,1.0,d,,,"d. Design by a RPE. The sloping or benching systems was not created using Options a, b or c above but is instead, approved by a RPE. At least one copy of the design shall be maintained at the job site during excavation. Designs shall be in writing and include:",False,False
+25,C,1.0,d,1.0,,"(1)	The magnitudes and configurations of the slopes that were determined to be safe for the particular excavation, and",False,False
+25,C,1.0,d,2.0,,"(2)	The identity of the RPE who approved the design, including name, address, telephone, fax and email address.",False,False
+25,D,,,,,25.D Support Systems.,True,False
+25,D,1.0,,,,25.D.01 Support systems (including shield systems and other protective systems) shall be in accordance with one of the following systems:,True,False
+25,D,1.0,a,,,"a. Designs Using Manufacturer’s Tabulated Data. Designs drawn from manufacturer's tabulated data shall be in accordance with all specifications, limitations, and recommendations issued or made by the manufacturer.",False,False
+25,D,1.0,a,1.0,,"(1)	Deviation from the specifications, recommendations, and limitations are only allowed after the manufacturer issues specific written approval.",False,False
+25,D,1.0,a,2.0,,"(2)	A copy of the manufacturer's specifications, recommendations, and limitations (and the manufacturer's approval to deviate from these, if required) shall be in written form and maintained at the job site during excavation.",False,False
+25,D,1.0,b,,,b. Designs using other tabulated data. Designs shall be selected from and be in accordance with tabulated data (such as tables and charts). At least one copy of the tabulated data shall be maintained at the job site during excavation. The tabulated data shall include:,False,False
+25,D,1.0,b,1.0,,"(1)	Identification of the parameters that affect the selection of the protective system drawn from such data,",False,False
+25,D,1.0,b,2.0,,"(2)	Identification of the limits of use of the data, and",False,False
+25,D,1.0,b,3.0,,"(3)	Explanatory information as may be necessary to aid the user in correctly selecting a protective system from the data, and",False,False
+25,D,1.0,b,4.0,,"(4)	The identity of the RPE who approved the data, including name, address, telephone, fax and email address.",False,False
+25,D,1.0,c,,,c. Designed by a RPE. At least one copy of the design shall be maintained at the job site during excavation. Designs shall be in writing and include:,False,False
+25,D,1.0,c,1.0,,"(1)	A plan indicating the sizes, types, and configurations of the materials to be used in the protective system, and",False,False
+25,D,1.0,c,2.0,,"(2)	The identity of the RPE who approved the design, including name, address, telephone, fax and email address.",False,False
+25,D,2.0,,,,25.D.02 Materials and equipment used for protective systems.,True,False
+25,D,2.0,a,,,a.	Materials and equipment shall be free from damage or defects that might impair their proper function.,False,False
+25,D,2.0,b,,,b.	Manufactured materials and equipment shall be used and maintained in a manner consistent with the recommendations of the manufacturer and in a manner that will prevent employee exposure to hazards.,False,False
+25,D,2.0,c,,,"c.	When material or equipment is damaged, a CP shall examine the material or equipment and evaluate its suitability for continued use.",False,False
+25,D,3.0,,,,25.D.03 Installation and removal of support systems. > See Figures 25-1 through 25-3.,True,False
+25,D,3.0,a,,,"a.	Members of support systems shall be securely connected together to prevent sliding, falling, kickouts, or other predictable failure.",False,False
+25,D,3.0,b,,,"b.	Support systems shall be installed and removed in manners that protect employees from cave-ins, structural collapses, or from being struck by members of the support system.",False,False
+25,D,3.0,c,,,c.	Individual members of a support system shall not be subjected to loads exceeding those for which they were designed to withstand.,False,False
+25,D,3.0,d,,,"d.	Before temporary removal of individual members, additional precautions shall be taken to ensure the safety of employees, such as installing other structural members to carry the loads imposed on the support system.",False,False
+25,D,3.0,e,,,e.	Removal shall begin at and progress from the bottom of the excavation. Members shall be released slowly as to note any indication of possible failure of the remaining members or possible cave-in of the sides of the excavation.,False,False
+25,D,3.0,f,,,f.	Backfilling shall progress together with the removal of support systems from excavations.,False,False
+25,D,3.0,g,,,"g.	For trench excavations: excavation material shall be permitted to a level not greater than 2 ft (.6 m) below the bottom of the members of a support system, only if the system is designed to resist the forces calculated for the full depth of the trench, and there is no indication while the trench is open of a possible loss of soil from behind or below the bottom of the support system.",False,False
+25,D,4.0,,,,25.D.04 Shield systems.,True,False
+25,D,4.0,a,,,a.	Shield systems shall not be subjected to loads exceeding those that the system was designed to withstand.,False,False
+25,D,4.0,b,,,b.	Shields shall be installed in a manner to restrict lateral or other hazardous movement of the shield in the event of the application of sudden lateral loads.,False,False
+25,D,4.0,c,,,c.	Employees shall be protected from the hazard of cave-ins when entering or exiting the area protected by shields.,False,False
+25,D,4.0,d,,,"d.	Employees shall not be allowed in shields when shields are being installed, removed, or moved vertically.",False,False
+25,D,4.0,e,,,"e.	For shield systems used in trench excavations: excavations of earth material to a level not greater than 2 ft (.6 m) below the bottom of the shield shall be permitted, only if the shield is designed to resist the forces calculated for the full depth of the trench, and there is no indications while the trench is open of a possible loss of soil from behind or below the bottom of the shield.",False,False
+25,D,5.0,,,,25.D.05 Additional requirements for trenching.,True,False
+25,D,5.0,a,,,a.	Installation of support systems shall be closely coordinated with excavations of trenches.,False,False
+25,D,5.0,b,,,b.	Bracing or shoring of trenches shall be carried along with the excavation.,False,False
+25,D,5.0,c,,,"c.	Backfilling and removal of trench supports should progress together from the bottom of the trench. Jacks or braces shall be released slowly and, in unstable soil, ropes shall be used to pull out the jacks or braces from above after personnel have cleared the trench. > See Figure 25-3.",False,False
+25,D,5.0,d,,,"d.	Excavation of material to a level no greater than 2 ft (0.6 m) below the bottom of the members of a trench support system (including a shield) shall be permitted, only if the system is designed to resist the forces calculated for the full depth of the trench and there are no indications while the trench is open of a possible loss of soil from behind or below the bottom of the support system.",False,False
+25,E,,,,,25.E Cofferdams.,True,False
+25,E,1.0,,,,"25.E.01 If overtopping of the cofferdams by high water is possible, design shall include provisions for controlled flooding of the work area.",True,False
+25,E,2.0,,,,"25.E.02 If personnel or equipment are required or permitted on cofferdams, standard railings, or equivalent protection, shall be provided.",True,False
+25,E,3.0,,,,"25.E.03 Walkways, bridges, or ramps with at least two means of rapid exit, with standard guardrails (as defined in Section 21.F.01), shall be provided for personnel and equipment working on cofferdams.",True,False
+25,E,4.0,,,,25.E.04 A plan (including warning signals) for evacuation of personnel and equipment in case of emergency and for controlled flooding shall be developed and posted.,True,False
+25,E,5.0,,,,25.E.05 Cofferdams located close to navigable shipping channels shall be protected from vessels in transit.,True,False
+25,E,5.0,,,,,False,False

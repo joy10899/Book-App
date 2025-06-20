@@ -78,11 +78,12 @@ class SearchViewController: UIViewController {
             if let vc = segue.destination  as? SectionSearchView {
                 if let indexPath = searchTableView.indexPathForSelectedRow {
                     let selectedChapter = searchContents?[indexPath.row].chapter
-                    let selectedContent = searchContents?[indexPath.row].content
+//                    let selectedContent = searchContents?[indexPath.row].content
+                    let selectedSection = searchContents?[indexPath.row].section
                     vc.selectedChapter = selectedChapter
                     vc.searchText = searchBar.text ?? "training"
-                    vc.selectedContent = selectedContent
-                    
+//                    vc.selectedContent = selectedContent
+                    vc.selectedSection = selectedSection
                 }
             }
         }

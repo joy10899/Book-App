@@ -1,0 +1,94 @@
+chapter,section,topic,refOne,refTwo,refThree,content,highlight,bookmark
+34,A,,,,,34.A  General.,True,False
+34,A,1.0,,,,"34.A.01  Confined Spaces – Non-Marine Facilities. Confined space (CS) work performed in permanent, fixed facilities and/or performed on construction sites shall be performed in accordance with this Section, 29 CFR 1910.146 and ANSI Z117.1. This section does not regulate underground construction work (tunneling) as a confined space. > See Section 26.",True,False
+34,A,2.0,,,,34.A.02 USACE-conducted CS work activities on or in a watercraft or vessel of any kind and/or associated with vessel repair and maintenance operations are covered in Section 34.B.,True,False
+34,A,3.0,,,,"34.A.03 The definitions for CS that are applicable to all CSs, during operations, maintenance and construction are listed in Appendix Q, Definitions.",True,False
+34,A,4.0,,,,34.A.04 Confined Space Identification. Facilities and job sites shall assign a Safety Supervisor or Confined Space Competent Person (CSCP) to identify all CSs and determine entry rules and requirements. > See Figure 34-1.,True,False
+34,A,4.0,a,,,"a. On USACE facilities, all fixed permit-required CS (PRCS) shall be labeled as a PRCS. With the approval of the local Safety Office (SOHO), the CSCP may exclude from labeling those confined spaces that pose little or no hazard, (i.e., a navigation lock), but meet the strict definition of a permit-required confined space (PRCS).",False,False
+34,A,4.0,b,,,"b. On construction sites and/or during O&M activities, all fixed PRCS shall be labeled as a danger. PRCS that are created as part of construction work shall be labeled and have a barrier to restrict entry. All Non Permit-Required Confined Spaces (NPRCS) created as part of construction and/or O&M activities are not required to be labeled.",False,False
+34,A,4.0,c,,,"c. If activities in a NPRCS (i.e., welding), create or have a potential to create a hazardous atmosphere, that space shall be declared a PRCS.",False,False
+34,A,4.0,d,,,d. All previously identified CSs shall be identified in writing to any contract personnel prior to the beginning of work if they are required to enter and/or work in this area.,False,False
+34,A,4.0,d,1.0,,(1) The contract documents shall list any known hazards and controls in the CS.,False,False
+34,A,4.0,d,2.0,,"(2) If it is known that work to be conducted inside a CS would create a possible hazardous atmosphere, the contractor shall be notified prior to beginning work and shall be required to follow the requirements for PRCS.",False,False
+34,A,4.0,d,3.0,,(3) All entry into an identified or contractor-created PRCS shall be coordinated with the GDA and site security or emergency personnel before each entry.,False,False
+34,A,4.0,e,,,"e. For work conducted on military installations, the CSCP or designer shall coordinate with the installation CS program manager/team to identify all CSs and determine any specific installation requirements for entry.",False,False
+34,A,5.0,,,,34.A.05 Confined Space Entry (CSE) Procedures.,True,False
+34,A,5.0,a,,,a. PRCS Entry Procedures. Entry into PRCSs shall comply with the requirements of 29 CFR 1910.146.,False,False
+34,A,5.0,b,,,b. NPRCS Entry Procedures:,False,False
+34,A,5.0,b,1.0,,(1) There are no entry requirements if the space does not contain or have the ability to contain an atmospheric hazard capable of causing death or physical harm.,False,False
+34,A,5.0,b,2.0,,"(2) If a NPRCS has an environment being controlled by permanent ventilation system and/or has an isolation barrier, then entry requires: continual air monitoring; the use of audible/visual alarms for failure of the ventilation system or isolation barrier; and training for the employees in visual contact with the CS and those working in the CS on the proper rescue procedures to be used shall be required. The alarm shall be capable of notifying both the entrants and rescue personnel. This shall be documented and written in the CSE Plan.",False,False
+34,A,5.0,c,,,c. PRCS Permit. The CSCP shall complete or review and sign the completed PRCS permit (see Form 34-1 for non-mandatory example) and shall be responsible for enforcing the use of PRCS permits for entry into all PRCSs at the facility/site.,False,False
+34,A,5.0,d,,,"d. At the end of the work task where a PRCS was entered, there shall be an after action review by all parties on procedures used and if improvement can be gained. For USACE operations, this review should include safety personnel for the site, and any security or emergency responders. For contract operations, this review should include GDA and any security or emergency responders on site.",False,False
+34,A,6.0,,,,34.A.06 CSCP/Safety Supervisor Responsibilities.,True,False
+34,A,6.0,a,,,a. Identification and Labeling. The CSCP shall identify and label all PRCSs as noted in Section 34.A.04.b.,True,False
+34,A,6.0,b,,,b. The CSCP shall develop and implement an activity/site-specific Confined Space program. The program shall contain and adequately address the CS program elements of 29 CFR 1910.146 and those defined in this section.,False,False
+34,A,6.0,c,,,c. It is the responsibility of the site supervisor or project manager to ensure all entries into a CS are completed in a safe and protective manner. The procedures shall be documented in a CS program which is part of the APP or Project Safety and Health Plan.,False,False
+34,A,6.0,d,,,"d. Coordination with local emergency responders. The CSCP shall coordinate with local emergency responders to determine if they are capable of a timely (5 minutes) rescue from the specific CS. If the local emergency responders do not have the appropriate rescue capability, the rescue capability should be developed on-site.",False,False
+34,A,6.0,e,,,e. Review CS program and all past entries annually.,False,False
+34,A,7.0,,,,34.A.07  CS Program Elements. The CS program shall address each of the following elements with facility-/site- specific detail:,True,False
+34,A,7.0,a,,,a. Identification and Labeling. Describe the process for identifying a work area as a CS and rationale used for classifying the type of CSs. Describe labeling and enforcement procedures that will assure personnel do not enter CSs in an unauthorized fashion;,False,False
+34,A,7.0,b,,,"b. CS hazard identification. Describe the hazards in the CS and all potential hazards that may be created by potential work in the CS, any permanent air monitoring, physical isolation identification, or permanent ventilation;",False,False
+34,A,7.0,c,,,c. Safe CSE conditions. Describe the practices and procedures that will be followed to assure that CSs will be entered safely. Procedures and practices shall include but are not limited to the following:,False,False
+34,A,7.0,c,1.0,,"(1) NPRCSs. Describe any monitoring and employee training that will assure non- permit conditions are maintained and that employees entering the NPRCS understand how to maintain a safe working environment while working in it.  Describe the potential atmospheric and/or physical hazards that are present in the CS and the necessary controls for these hazards, necessary training requirements of entrants and workers within visual contact.",False,False
+34,A,7.0,c,2.0,,"(2) PRCSs. At a minimum, describe how each of the elements below will be enforced at each PRCS:",False,False
+34,A,7.0,c,2.0,a,"(a) Entry permit (See Form 34-1 34-2 for example) completion, review, processes, signature authority, and maintenance procedures for all PRCS. The entry supervisor or manager shall be required to sign all permits daily before entry;",False,False
+34,A,7.0,c,2.0,b,(b) Acceptable entry conditions;,False,False
+34,A,7.0,c,2.0,c,(c) Observation by the authorized entrant of monitoring or testing in PRCSs;,False,False
+34,A,7.0,c,2.0,d,(d) Isolation and/or any alarms for physical hazards or atmospheric hazards of the PRCSs;,False,False
+34,A,7.0,c,2.0,e,"(e) Purging, inerting, flushing or ventilating the PRCS as necessary to eliminate or control atmospheric hazards;",False,False
+34,A,7.0,c,2.0,f,(f) Installation of barriers to protect entrants from external hazards;,False,False
+34,A,7.0,c,2.0,g,(g) Monitoring requirements and procedures used to verify that acceptable entry conditions are maintained for the duration of the authorized entry;,False,False
+34,A,7.0,d,,,d. Equipment (and equipment maintenance procedures) to be used for CSE at the facility/site. All equipment shall be calibrated and functionally tested before each entry in accordance with the manufacturer’s instructions. Equipment shall include the following at a minimum:,False,False
+34,A,7.0,d,1.0,,(1) Appropriate atmospheric testing and monitoring equipment necessary to assure safe entry and that safe entry conditions are maintained;,False,False
+34,A,7.0,d,2.0,,(2) Ventilation equipment to assure maintenance of safe entry conditions;,False,False
+34,A,7.0,d,3.0,,(3) Communication equipment for constant contact between the attendant and the entrants and means of communication to the emergency personnel;,False,False
+34,A,7.0,d,4.0,,(4) Personal Protective Equipment (PPE) necessary in the event that engineering controls and work practices do not adequately protect entrants;,False,False
+34,A,7.0,d,5.0,,(5) Lighting equipment for entry;,False,False
+34,A,7.0,d,6.0,,(6) Barriers and shields to keep unauthorized entrants out of the CS during entry;,False,False
+34,A,7.0,d,7.0,,(7) Ladders or other equipment necessary for entrant access and egress;,False,False
+34,A,7.0,d,8.0,,(8) Rescue and emergency equipment needed to remove entrants in the event of an emergency. Particular emphasis shall be placed on the use and implementation of appropriate self-rescue procedures and equipment;,False,False
+34,A,7.0,d,9.0,,(9) Any other equipment necessary for safe entry into or rescue from CSs;,False,False
+34,A,7.0,e,,,e. Procedures for evaluating PRCS conditions when entry is conducted. Address each of the following in facility/site-specific detail:,False,False
+34,A,7.0,e,1.0,,(1) Atmosphere conditions required to be maintained during entry to ensure safe entry;,False,False
+34,A,7.0,e,2.0,,"(2) At a minimum, test the PRCS atmosphere for the following in the order specified:",False,False
+34,A,7.0,e,2.0,a,(a) Oxygen (before and continual while entrant is in the PRCS);,False,False
+34,A,7.0,e,2.0,b,(b) Combustible gases and vapors; and,False,False
+34,A,7.0,e,2.0,c,(c) Toxic gases and vapors.,False,False
+34,A,7.0,f,,,"f. Policies and procedures to assure that at least one attendant is immediately available outside the PRCS during entry operations to monitor the conditions of the space, to communicate with entrants, and to respond to emergencies;",False,False
+34,A,7.0,g,,,"g. Designate by name, personnel at the facility/site with active roles in CSE and their responsibilities for PRCS entry. All permits shall be signed by each employee entering the CS, the CSCP, attendant and a responsible entry supervisor;",False,False
+34,A,7.0,h,,,h. Document procedures and agreements with local emergency responders for notifying emergency services of a pending entry and summoning rescue and emergency services for rescuing PRCS entrants;,False,False
+34,A,7.0,i,,,"i. Document a facility/site procedure for preparing, issuing, using and canceling PRCS entry permits;",False,False
+34,A,7.0,j,,,"j. Document procedures for coordinating with employees from outside organizations who will be participating in PRCS entry. The coordination shall include the type of CS, the known hazards, safety procedures, PPE and debrief following the entry;",False,False
+34,A,7.0,k,,,k. Document procedures for concluding an entry after entry operations have been completed;,False,False
+34,A,7.0,l,,,l. Develop procedures for reviewing PRCS entries and documenting lessons learned from them; and,False,False
+34,A,7.0,m,,,"m. Establish a policy to review cancelled, expired or revoked permits to modify the PRCS entry procedures annually.",False,False
+34,A,7.0,n,,,n. Establish a policy to review the CS program annually.,False,False
+34,A,8.0,,,,"34.A.08 Employee Training. All employees entering PRCS or NPRCS, authorized attendants, supervisors and managers, and workers within visual contact of the CS shall be trained to understand the requirements of the facility/site-specific CSE Program and procedures and emergency retrieval procedures.",True,False
+34,A,8.0,a,,,"a. Initial CS training. All entrants, authorized attendants, and supervisor or managers shall receive an initial CS training course that includes hands-on practical exercise with all the equipment; rescue exercise; and completing the CS permit. The training shall include, as a minimum: the roles and responsibilities in conducting an entry; specialized training on the use, calibration, and maintenance of monitoring, communications, and retrieval equipment; the hazards of the entry and the control of the hazards of the entry.",False,False
+34,A,8.0,b,,,"b. Before each activity requiring entry into a CS, the entrant, authorized attendants, supervisor/managers, and workers in close proximity, shall review the entry procedures, the use of the air monitoring, PPE, and retrieval equipment. Emergency responders shall be invited to the training review. If it has been over a year since the initial training, a rescue exercise shall be part of the training review.",False,False
+34,A,8.0,c,,,c. Training shall be documented and include a roster of those attending and topics discussed.,False,False
+34,A,9.0,,,,"34.A.09 Rescue and Emergency Services. The CSCP shall develop or establish rescue and emergency services for PRCS entry. Emergency responders shall be notified of the training and at least annually, or immediately prior to each entry, shall have participated in an emergency response drill for retrieval of an employee or dummy from the CSs.",True,False
+34,B,,,,,"34.B  Confined and Enclosed Spaces on Ships and Vessels (defined as any watercraft). The following applies only to ship and vessel repair and maintenance, not operational ship and vessel activities. > See Section 19; See Appendix Q for CS definitions.",True,False
+34,B,1.0,,,,"34.B.01 All spaces on a vessel or ship or floating plant that could be considered a “Potential Confined Space”, shall be posted as a “Potential Confined Space”.",True,False
+34,B,1.0,a,,,"a. If the potential CS has an oxygen deficient atmosphere, the space shall be labeled “Not Safe for Workers”.",False,False
+34,B,1.0,b,,,"b. If the potential CS has an oxygen-enriched atmosphere, the space shall be labeled “Not Safe for Workers – Not Safe for Hot Work”.",False,False
+34,B,1.0,c,,,"c. If the potential CS contains a flammable gas or vapor at 10% or higher than the lower explosive limit (LEL) for the gas, then the space shall be labeled “Not Safe for Workers – Not Safe for Hot Work”.",False,False
+34,B,1.0,d,,,"d. If the CS contains a potential atmosphere that is toxic, corrosive, or irritants that exceed the OEL, the space shall be labeled “Not Safe for Workers”.",False,False
+34,B,1.0,e,,,e. An inventory of these spaces shall be maintained in the pilot house and the land-based office.,False,False
+34,B,2.0,,,,"34.B.02 Before and during entry into the types of spaces listed below, the Competent Person for Confined Spaces in ships and vessels (CPCSSV) shall test for oxygen content, flammability, and toxicity. These tests and all entries shall be recorded on an entry form or in an entry log which will be reviewed by the GDA. At a minimum, the entry log or form shall have the time and date, monitoring device type, model, serial number, and calibration date, and the name of the individual doing the testing.",True,False
+34,B,2.0,a,,,a. Unventilated CSs that have been closed up or freshly painted;,False,False
+34,B,2.0,b,,,b. CSs that have contained or do contain combustible or flammable liquids or gases;,False,False
+34,B,2.0,c,,,"c. CSs that have contained or do contain toxic, corrosive, or irritant liquid, gases, or solids.",False,False
+34,B,3.0,,,,34.B.03 Testing Requirements.,True,False
+34,B,3.0,a,,,"a. If the testing determines the oxygen is below 19.5% or above 23.5%, or the lower explosive limit (LEL) of 10% is exceeded, or other toxic substances are measured, then the space should be thoroughly ventilated and appropriate PPE used for entry as directed by the CPCSSV. Entry is prohibited when the LEL is greater than 10% unless it is required for emergency rescue.",False,False
+34,B,3.0,b,,,b. Air monitoring shall be continuous during entry into the confined space if the oxygen level is not between 19.5% and 23.5% or ventilation was required to lower the explosive limit to below 10% of the LEL.,False,False
+34,B,3.0,c,,,"c. Air testing for toxic, corrosive, or irritant chemicals shall be made using a calibrated direct reader that provides a reading at a minimum of 50% of the OEL. If the reading is over the OEL, then the space shall be ventilated until the value is below the OEL and/or entry shall be made with appropriate PPE.",False,False
+34,B,3.0,d,,,"d. Before hot work is completed in a confined space with toxic, corrosive, or irritating chemicals, the CPCSSV shall conduct an evaluation to confirm the hot work will not create a toxic, corrosive, or irritant atmosphere. This evaluation shall be documented and signed by the CPCSSV. During the entry the air shall be continually monitored.",False,False
+34,B,3.0,e,,,e. Air sampling shall be conducted at the ventilation discharge point if there is anyone in the area or if the discharge is a semi-enclosed or enclosed area.,False,False
+34,B,4.0,,,,34.B.04 Entry Precautions.,True,False
+34,B,4.0,a,,,a. No hot work will be completed adjacent to flammable chemicals unless the area is well ventilated and continually tested.,False,False
+34,B,4.0,b,,,b. No ignition source shall be taken into an area of flammable chemicals unless the area is well ventilated and continually tested.,False,False
+34,B,5.0,,,,34.B.05 Training.,True,False
+34,B,5.0,a,,,"a. Anyone required to enter a potential confined space shall be trained when the hazards change or annually, whichever is sooner. The training shall include discussion of the hazards of the space, including the symptoms of any hazardous materials; the controls, including blanking and ventilation; the warnings if the controls fail; personal protective equipment required; and emergency procedures.",False,False
+34,B,5.0,b,,,b. The training on the emergency procedures shall include an exercise on retrieving a person from the confined space.,False,False
+34,B,5.0,c,,,"c. This training shall be documented on a certificate that includes the date of training, name of individual trained, the trainer, and the topics covered. The training certificate shall be available for GDA review.",False,False

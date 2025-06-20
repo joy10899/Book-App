@@ -1,0 +1,94 @@
+chapter,section,topic,refOne,refTwo,refThree,content,highlight,bookmark
+12,A,,,,,"12.A General. Hazardous energy is any energy, including but not limited to mechanical (e.g., power transmission apparatus, counterbalances, springs, pressure, and gravity), pneumatic, hydraulic, electrical, chemical, nuclear, and thermal (e.g., high or low temperature) energies, that could cause injury to employees. > See Section 12.B.",True,False
+12,A,1.0,,,,"12.A.01 When working on or near any system that produces, uses, or stores hazardous energy, a Hazardous Energy Control Program (HECP) is required.",True,False
+12,A,1.0,a,,,"a. USACE-owned/operated facilities and activities shall comply with ER 385-1-31, The Control of Hazardous Energy Program, and any regional HECP as well as local supplements in lieu of this section. > Note: When USACE employees are on a site that is controlled by a contractor and are affected by the contractor-managed HECP (e.g., QA’s on construction sites, etc.), they shall comply with the contractor’s HECP.",False,False
+12,A,1.0,b,,,b. On contractor-controlled sites:,False,False
+12,A,1.0,b,1.0,,"(1) The contractor shall develop an HECP in accordance with this Section as well as all requirements of 29 CFR 1910.147, ANSI Z244.1, and ANSI A10.44. This HECP shall be submitted as part of their Accident Prevention Plan (APP) to the GDA for acceptance.",False,False
+12,A,1.0,b,2.0,,"(2) The GDA and the contractor shall fully coordinate all control activities with one another throughout the planning and implementation of these activities. Each shall inform the other of their HECPs and Hazardous Energy Control (HEC) procedures, ensure that their own personnel understand and comply with rules and restrictions of the procedures agreed upon to be used for the job, and ensure that their employees affected by the HEC activity are notified when the procedural steps outlined in the HECP are to be initiated.",False,False
+12,A,1.0,b,3.0,,(3) HEC procedures shall be submitted to the GDA as part of the AHA for that phase of work. HEC procedures cannot be initiated until these procedures have been accepted by the GDA.,False,False
+12,A,1.0,b,4.0,,"(4) The Prime Contractor, as the Controlling Contractor, is also responsible for the HEC procedures of all their sub-contractors. The prime and the sub-contractors shall fully coordinate all HEC activities with one another throughout the planning and implementation of work. Procedures to be used shall be discussed and coordinated to insure all contractor, government or public persons are protected from hazardous energy, especially where crossover of contractor programs occur.",False,False
+12,A,1.0,c,,,"c. When contractor work involving hazardous energy will be performed at or on a USACE-operated facility, the following must occur:",False,False
+12,A,1.0,c,1.0,,(1) Contractors shall submit their HECP to the GDA for acceptance;,False,False
+12,A,1.0,c,2.0,,(2) HEC procedures shall be submitted to the GDA as part of the AHA for that phase of work. HEC procedures cannot be initiated until these procedures have been reviewed by a person knowledgeable in HEC and accepted by the GDA.,False,False
+12,A,1.0,c,3.0,,(3) The GDA and the Contractor shall fully coordinate all HEC activities with one another throughout the planning and implementation of these activities. The agreed upon HECP and HEC procedures shall be identified and documented.,False,False
+12,A,1.0,c,4.0,,"(4) Both parties shall ensure that their own personnel understand and comply with rules and restrictions of the procedures agreed upon to be used for the job, and ensure that their employees affected by the HEC activity are notified when the procedural steps outlined in the HECP are to be initiated.",False,False
+12,A,2.0,,,,12.A.02 A preparatory meeting and inspection with the GDA and Contractor personnel shall be conducted to coordinate HEC activities. This meeting/inspection shall be documented.,True,False
+12,A,2.0,a,,,a. Employees shall be trained and tested prior to working on Corps’ Facilities where the Corps’ HECP is in use to ensure that they are knowledgeable of the procedures.,False,False
+12,A,2.0,b,,,b. Contractors shall ensure that all of their employees and sub-contractors are trained and knowledgeable in their HECPs.,False,False
+12,A,2.0,c,,,"c. When HEC procedures affect USACE and Contractors, USACE and Contractor authorized personnel will participate to ensure that HEC programs and procedures are in place and coordinated.",False,False
+12,A,3.0,,,,"12.A.03 Introducing Energy inside Clearance Boundaries. To provide for safe work practices where energy is introduced within boundaries of an existing clearance (e.g., commissioning equipment and/or testing activities, etc.), these activities will be coordinated with and communicated to all affected personnel.",True,False
+12,A,3.0,a,,,"a. An AHA, by the contractor performing the work, shall be created and implemented for these activities to ensure the integrity of the clearance boundary.",False,False
+12,A,3.0,b,,,b. Test procedures shall be provided to the GDA prior to performing these activities.,False,False
+12,B,,,,,12.B Hazardous Energy Control Program (HECP).,True,False
+12,B,1.0,,,,"12.B.01 The HECP shall clearly and specifically outline the scope, purpose, authorization, roles and responsibilities, rules, and techniques to be used for the control of hazardous energy.",True,False
+12,B,2.0,,,,"12.B.02 The HECP shall include, but not be limited to, the following:",True,False
+12,B,2.0,a,,,"a. HECP procedures: Equipment-specific steps to control each energy source and must include isolating, blocking, verifying and securing systems;",False,False
+12,B,2.0,b,,,"b. Means of coordinating and communicating HEC activities with all site personnel (include contractor, sub-contractor, government, suppliers, public, visitors and any other personnel) to insure continuity of protection;",False,False
+12,B,2.0,c,,,"c. Procedural steps and responsibilities for the placement, removal, and transfer of locks, tags and other control devices;",False,False
+12,B,2.0,d,,,"d. Procedural steps, responsibilities and a means of accounting for placing and removing personal protective grounds;",False,False
+12,B,2.0,e,,,"e. Procedural steps, responsibilities and requirements for testing the system to verify the effectiveness of isolation and control;",False,False
+12,B,2.0,f,,,f. Coordination (Shift/Schedule Change). Provisions shall be made to ensure total continuity of HEC protection during shift or personnel change;,False,False
+12,B,2.0,g,,,g. Details of any emergency procedures;,False,False
+12,B,2.0,h,,,"h. Procedural steps and responsibilities for daily inspections (conducted to insure that all requirements of the HECP procedures are being followed and documented) and periodic inspections (shall be documented and shall specify the system where the HEC procedures were inspected, the date of the inspection, the names of employees performing and included in the inspections, and any deficiencies in complying with the HEC procedures); and",False,False
+12,B,2.0,i,,,i. The means to enforce compliance with the HECP.,False,False
+12,C,,,,,12.C Training.,True,False
+12,C,1.0,,,,"12.C.01 Training applicable to the roles and responsibilities shall be provided to ensure that the purpose and function of the HEC procedures are understood by employees and that employees possess the knowledge and skills required for the safe application, usage, and removal of HEC devices.",True,False
+12,C,2.0,,,,"12.C.02 When tagout systems are used (only when lockout is not possible), employees shall be trained in the limitations of tags.",True,False
+12,C,3.0,,,,12.C.03 Employees shall be retrained in HEC procedures whenever:,True,False
+12,C,3.0,a,,,a. There is a change in employee job responsibilities or a change in systems or processes that present a new energy control hazard;,False,False
+12,C,3.0,b,,,"b. A periodic inspection reveals, or there is reason to suspect the presence of, inadequacies in or deviations from the employee's knowledge or use of HEC procedures;",False,False
+12,C,3.0,c,,,c. There is a change in contractor or local HEC procedures.,False,False
+12,C,4.0,,,,"12.C.04 All training shall be documented. Documentation shall contain: names of employees trained; the time, date, and location of training; the name and qualifications of the trainer.",True,False
+12,D,,,,,12.D Energy Isolating Devices and Procedures.,True,False
+12,D,1.0,,,,12.D.01 Energy Isolating Devices.,True,False
+12,D,1.0,a,,,"a. Energy isolating devices are mechanical devices that, when utilized or activated, physically prevent the unplanned transmission or release of energy and include, but are not limited to the following:",False,False
+12,D,1.0,a,1.0,,(1) A manually operated electrical circuit breaker;,False,False
+12,D,1.0,a,2.0,,(2) A disconnect switch;,False,False
+12,D,1.0,a,3.0,,"(3) A valve, bolted blank flange and bolted slip blinds;",False,False
+12,D,1.0,a,4.0,,"(4) A block (e.g., a safety block or cribbing).",False,False
+12,D,1.0,b,,,"b. Push-buttons, selector switches, safety interlocks, programmable logic controllers, software programming, and other control circuit type devices shall NOT be used as energy isolating devices.",False,False
+12,D,2.0,,,,12.D.02 Locks or other positive means control must always be used when the energy isolation involves equipment that is accessible by the public.,True,False
+12,D,3.0,,,,"12.D.03 All equipment shall be covered by the HEC procedures and all energy sources shall be controlled before performing servicing, maintenance, testing, installation or removal on equipment in which the unexpected energizing, startup, or release of stored energy could occur and cause any of the following: Personal injury, property damage, loss of content, loss of protection, loss of capacity, or harm to the environment.",True,False
+12,E,,,,,12.E Locks and Tags.,True,False
+12,E,1.0,,,,"12.E.01 Systems with energy isolating devices that are capable of being locked out shall be locked out. If an energy isolating device is not capable of being locked out, the HEC procedures shall use tagout providing full personnel protection.",True,False
+12,E,1.0,a,,,a. All tagout requirements of this regulation and of the HEC procedures shall be complied with;,False,False
+12,E,1.0,b,,,"b. The tag shall be attached to the same location, if possible, that the lock would have been attached. If this is not possible then the tag shall be attached as close a safely possible to the device and in a position that will be immediately obvious to anyone attempting to operate the device, and",False,False
+12,E,1.0,c,,,"c. Additional means (e.g., placement of the tag in a manner that inhibits operation of the energy isolating device, removal of an isolating circuit mechanism, blocking of a control switch, opening of an extra disconnecting device, removal of a valve handle to reduce the likelihood of inadvertent energizing, etc.) shall be employed to provide a level of protection commensurate with that provided by a lock.",False,False
+12,E,1.0,d,,,"d. When tags only must be used (the use of locks is not possible), employees shall be instructed in the following requirements and limitations of tags.",False,False
+12,E,1.0,d,1.0,,(1) Tags must be legible and understood by all authorized and affected employees and incidental personnel.,False,False
+12,E,1.0,d,2.0,,(2) Tags and their means of attachment must be made of materials that will withstand the environments encountered in the workplace.,False,False
+12,E,1.0,d,3.0,,(3) Tags shall be securely attached to energy isolating devices so that they cannot become inadvertently or accidentally detached during use.,False,False
+12,E,1.0,d,4.0,,"(4) Tags shall not be removed without authorization of the authorized employee and shall never be bypassed, ignored, or otherwise defeated.",False,False
+12,E,1.0,d,5.0,,(5) Tags are essentially warning devices affixed to energy isolating devices and do not provide the physical protection that is provided by a lock; tags may evoke a false sense of security.,False,False
+12,E,2.0,,,,12.E.02 LOTO shall be performed only by authorized employees.,True,False
+12,E,3.0,,,,"12.E.03 All employees affected by the LOTO shall be notified, before and upon completion of, the application and removal of locks or tags.",True,False
+12,E,4.0,,,,12.E.04 Locks and tags used for lockout/tagout (LOTO) shall:,True,False
+12,E,4.0,a,,,a. Be capable of withstanding the environment that they are exposed to for the maximum period of time the exposure is expected;,False,False
+12,E,4.0,b,,,b. Indicate the identity of the employee applying the device;,False,False
+12,E,4.0,c,,,c. Be of a unique design or color to readily identify them as belonging to the LOTO program;,False,False
+12,E,4.0,d,,,d. Not be used for anything other than lockout activities;,False,False
+12,E,4.0,e,,,e. Identify the person who applied the lock or tag. Locks may have a tag attached with the employee’s name and/or photograph which will satisfy this requirement;,False,False
+12,E,4.0,f,,,f. Locks shall be substantial enough to prevent removal without the use of excessive force or unusual techniques (such as with the use of bolt cutters);,False,False
+12,E,4.0,g,,,"g. Tags shall, in addition, meet all of the following requirements:",False,False
+12,E,4.0,g,1.0,,(1) Have a standardized (within a project) print and format;,False,False
+12,E,4.0,g,2.0,,"(2) Be constructed and printed so that exposure to weather conditions, ultraviolet (UV) light, wet or damp locations, or corrosive environments will not cause the tag to deteriorate or the message to become illegible;",False,False
+12,E,4.0,g,3.0,,"(3) Be attached by means that are: Non-reusable; Substantial enough to prevent inadvertent or accidental removal; Attachable by hand; Self-locking; Non-releasable, with a minimum unlocking strength of no less than 50 lb (22.6 kg); and have the basic characteristics of being at least equivalent to a one-piece, all-environment-tolerant nylon cable tie; and",False,False
+12,E,4.0,g,4.0,,"(4) Warn against the hazardous condition resulting from system energization and include wording such as ""DANGER - DO NOT START, OPEN, CLOSE, ENERGIZE, OPERATE"".",False,False
+12,E,5.0,,,,12.E.05 Application and Removal Of Locks and Tags.,True,False
+12,E,5.0,a,,,"a. The authorized employee shall ensure that all energy isolating devices needed to control energy to or within the system are identified and that the system is shut down, isolated, blocked and secured in accordance with HEC procedures.",False,False
+12,E,5.0,b,,,b. Any system operated by a remotely controlled source will be completely isolated such that it cannot be operated by that or any other source.,False,False
+12,E,5.0,c,,,c. The authorized employee shall affix lock and tag to each energy isolating device in accordance with the HEC procedures.,False,False
+12,E,5.0,d,,,"d. When there is a possibility of re-accumulation of stored energy to a hazardous level, verification of isolation shall be continued until the energy control procedure is complete.",False,False
+12,E,5.0,e,,,"e. Before starting work on systems that have been locked/tagged out, the authorized individual shall verify that isolation and de-energization of the system have successfully been accomplished.",False,False
+12,E,6.0,,,,"12.E.06 Personal Protective Grounds. Following the application of locks and/or tags to energy isolating devices, all potentially hazardous stored or residual energy shall be relieved or otherwise rendered safe.",True,False
+12,E,6.0,a,,,"a. Protective grounds shall be identified and accounted for in some manner, as identified in the Contractor’s HECP and procedures.",False,False
+12,E,6.0,b,,,b. The authorized employee (or his designee) is responsible for ensuring the control of residual energy and for placing and removing personal protective grounds in accordance with the Contractor’s HECP and procedures.,False,False
+12,E,7.0,,,,"12.E.07 Before locks or tags are removed and energy restored to the system, the authorized individual shall ensure that the following actions have been taken:",True,False
+12,E,7.0,a,,,"a. The work area has been inspected and all nonessential items (e.g., tools and materials) have been removed from the system, the system components are operationally intact, and all employees have been safely positioned or removed from the area; and",False,False
+12,E,7.0,b,,,b. All affected individuals have been notified that the locks or tags are about to be removed.,False,False
+12,E,8.0,,,,"12.E.08 With the exception of the following conditions, each lock and/or tag shall be removed from each energy-isolating device by the authorized individual or systems operator who applied the device. When this employee is not available, the device(s) may be removed by another individual appointed by, and under the direction of the Contractor Project Manager or Contractor designated authority, provided that the following procedures are complied with:",True,False
+12,E,8.0,a,,,a. The Contractor ensures that the individual appointed to remove locks and/or tags is knowledgeable of the scope and procedures of the safe clearance;,False,False
+12,E,8.0,b,,,b. This individual and the requirements for transferring removal authority to him/her from the authorized individual are listed in the hazardous energy control plan;,False,False
+12,E,8.0,c,,,c. Verification by the Contractor that the authorized employee who applied the device is not at the facility;,False,False
+12,E,8.0,d,,,"d. The Contractor designated authority makes all reasonable efforts to contact the authorized employee to inform him that the locks and/or tags are to be removed; and if a group clearance is involved, then an attempt must be made to have all affected persons sign off on the clearance or they must be contacted by phone. If contact cannot be made, then the lift may be made only after all necessary precautions are taken;",False,False
+12,E,8.0,e,,,"e. The authorized employee, upon returning, must be immediately notified of the lift prior to resuming their work.",False,False

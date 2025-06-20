@@ -37,7 +37,6 @@ class ChapterViewController: UITableViewController {
     
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         if chapters[section].open {
-            print(chapters[section].contents?.count ?? 0)
             return (chapters[section].contents?.count ?? 0) + 1
         } else {
             return 1
@@ -60,7 +59,7 @@ class ChapterViewController: UITableViewController {
             // Display the title of the chapter
             cell.textLabel?.font = UIFont.boldSystemFont(ofSize: 18)
             cell.textLabel?.text = chapters[indexPath.section].title
-            cell.textLabel?.textColor = .black // Ensure text is visible
+            cell.textLabel?.textColor = .color // Ensure text is visible
             cell.setNeedsLayout()
             cell.layoutIfNeeded()
         } else {

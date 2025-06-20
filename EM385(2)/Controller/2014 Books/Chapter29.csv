@@ -1,0 +1,188 @@
+chapter,section,topic,refOne,refTwo,refThree,content,highlight,bookmark
+29,A,,,,,"29.A General. This section applies to blasting activities performed by DA civilians or under DA contract with the use of commercial explosives on non-military lands/installations. For all other blasting activities, see Section 01.G.",True,False
+29,A,1.0,,,,29.A.01 Prerequisites.,True,False
+29,A,1.0,a,,,"a. An Explosives Safety Site Plan (ESSP), approved by DoD Explosives Safety Board (DDESB), IAW DA Pam 385-64 and DA Pam 385-65, is required prior to the placement of explosives on site or the start of explosives-related operations.",False,False
+29,A,1.0,b,,,b. Permission in writing shall be obtained from the GDA before explosive materials are brought onto the job site. Periodic replenishment of approved supplies does not require written approval.,False,False
+29,A,1.0,c,,,"c. A Blasting Plan shall be developed by the contractor, submitted and accepted by the GDA prior to the placement of explosives on site or the start of any explosives-related operations. As a minimum, it shall include the following:",False,False
+29,A,1.0,c,1.0,,"(1) List the names, qualifications, and responsibilities of personnel involved with explosives;",False,False
+29,A,1.0,c,2.0,,"(2) The Contractor's requirements for handling, transportation, and storage of explosives; employee training programs and certifications; types of explosives; schedule of activities and loading procedures; detailed blasting schedule; explosives transportation route; safety signals methods and locations; danger area clearance; methods for securing the site; seismograph, vibration and damage control; test shots, post-blast inspection and misfire procedures; provisions for disposal of explosives, blasting agents, unused and associated material; and post-blast ventilation requirements;",False,False
+29,A,1.0,c,3.0,,"(3) Public relations requirements before and after blasting (e.g. community communication, protection of structures and personnel).",False,False
+29,A,2.0,,,,"29.A.02 The transporting, handling, storage, and use of explosives, blasting agents, and blasting equipment shall be directed and supervised by a person of proven experience and ability in blasting operations in accordance with ANSI A10.7; 29 CFR 1910.109; 29 CFR 1926, Subpart U; 27 CFR 555; the manufacturers, the Institute of Makers of Explosives (IME), and, where applicable, DoD 6055.9M.",True,False
+29,A,3.0,,,,29.A.03 All persons working with explosives shall be in good physical condition and be able to understand and give written and verbal orders.,True,False
+29,A,4.0,,,,29.A.04 Warning signs shall be provided at points of access to blasting area.,True,False
+29,A,5.0,,,,29.A.05 Operations involving the handling or use of explosive materials shall be discontinued and personnel moved to a safe area during the approach or progress of a thunderstorm or dust storm; controls will be established to prevent accidental discharge of electric blasting caps from extraneous electricity.,True,False
+29,A,6.0,,,,"29.A.06  Blasting operations near overhead power lines, communications lines, utility services, or other structures shall not be carried on until the operators and/or owners have been notified and measures for safe control have been taken.",True,False
+29,A,7.0,,,,29.A.07 All loading and firing shall be directed and supervised by one designated person.,True,False
+29,A,8.0,,,,29.A.08 A positive system to detect and measure the probability of lightning or massive static electrical discharges shall be used.,True,False
+29,A,9.0,,,,"29.A.09 Before adopting any system of electrical firing, a thorough survey shall be made for extraneous currents and all dangerous currents shall be eliminated before any holes are loaded.",True,False
+29,A,10.0,,,,29.A.10 Blasts using electric detonators shall be fired with an electric blasting machine or a properly designed power source.,True,False
+29,A,10.0,a,,,a. Blasts using non-electric detonators shall be fired by a blasting machine or starting device prescribed by the manufacturer.,False,False
+29,A,10.0,b,,,"b. When blasting near radar or radio transmission facilities or near electrical energy sources where testing has shown that RF energy or stray electrical current may present a hazard to electrical blasting, an approved non-electrical initiation system shall be employed.",False,False
+29,A,10.0,c,,,"c. When electric detonators are used, leg wires shall be short circuited (shunted) until connected into the circuit for firing.",False,False
+29,A,11.0,,,,"29.A.11 Detonating cord shall be initiated by non-electric detonator (cap and fuse), electric detonator, shock tube detonator or gas initiated detonator in accordance with the manufacturer's recommendation.",True,False
+29,A,12.0,,,,"29.A.12 Delay electric detonators, non-electric delay detonators, detonating cord connectors, or sequential blasting machines shall be used for all delayed blasts; the practice shall conform to the manufacturer's recommendations.",True,False
+29,A,13.0,,,,29.A.13 Blasting machines.,True,False
+29,A,13.0,a,,,"a. Blasting machines shall be operated, maintained, tested, and inspected as prescribed by the manufacturer.",False,False
+29,A,13.0,b,,,b. Blasting machines shall be tested prior to use and periodically thereafter as prescribed by the manufacturer.,False,False
+29,A,13.0,c,,,c. Blasting machines shall be secured and accessible only to the blaster; only the blaster shall connect the leading wire to the machine.,False,False
+29,A,14.0,,,,"29.A.14 When energy for blasting is taken from power circuits, the voltage shall not exceed 550 volts. The wiring controlling arrangements shall conform to the following (see Figures 29-1 and 29-2):",True,False
+29,A,14.0,a,,,"a. The blasting switch shall be an ungrounded UL (or other nationally-recognized testing laboratory) listed, enclosed, externally operated double-pole double-throw switch that, when locked in the open position, will shunt the firing lines.",False,False
+29,A,14.0,b,,,b. A grounded switch shall be installed between the blasting switch and the power circuit at a distance not less than 15 ft (4.5 m) from the blasting switch.,False,False
+29,A,14.0,c,,,"c. A lightning gap of at least 15 ft (4.5 m) shall be provided between the two switches; the gap connection shall be made by cable, plug, and receptacle.",False,False
+29,A,15.0,,,,29.A.15 The cable between switches shall be disconnected and both switches shall be locked in the open position immediately after firing the shot.,True,False
+29,A,16.0,,,,29.A.16 Keys to the switches shall remain in the possession of the blaster at all times.,True,False
+29,A,17.0,,,,29.A.17 Insulated solid core wires of an appropriate gage in good condition shall be used for all lines.,True,False
+29,A,18.0,,,,29.A.18 Sufficient firing line shall be provided to permit the blaster to be located at a safe distance from the blast.,True,False
+29,A,19.0,,,,29.A.19 Mechanized equipment (including drills) shall not be operated within 50 ft (15.2 m) of a loaded hole.,True,False
+29,A,19.0,,,,Exception: Mechanized equipment may be permitted to operate within 50 ft (15.2 m) of a loaded hole when placing blasting mats or back covering.,False,False
+29,A,20.0,,,,29.A.20 The use of black powder is prohibited.,True,False
+29,A,21.0,,,,"29.A.21 All refuse from explosive loading such as empty boxes, paper, and fiber packing shall not be used again for any purpose, but shall be destroyed by burning at an approved location.",True,False
+29,A,22.0,,,,29.A.22 Storage of explosives.,True,False
+29,A,22.0,a,,,"a. The storage of explosives shall be in accordance with requirements of the Bureau of Alcohol, Tobacco, and Firearms (as outlined in 27 CFR 555, Subpart K) or the State in which they are stored.",False,False
+29,A,22.0,b,,,b. An accurate running inventory of all explosives and blasting agents stored at the project shall be maintained: two copies shall be maintained - one at the magazine and one in a facility which is at least 50 ft (15.2 m) from the magazine.,False,False
+29,A,23.0,,,,29.A.23 Security of Explosives.,True,False
+29,A,23.0,a,,,a. Area shall be guarded to control access to the explosives and ensure no tapping with explosives during non-working times.,False,False
+29,A,23.0,b,,,b. Explosive materials shall not be abandoned.,False,False
+29,B,,,,,29.B Transportation of Explosive Materials.,True,False
+29,B,1.0,,,,29.B.01 Transportation of explosives by the following modes shall be in accordance with the prescribed federal regulations and the applicable state requirements.,True,False
+29,B,1.0,a,,,a. Transportation of explosive materials over public highways shall be in accordance with DOT requirements.,False,False
+29,B,1.0,b,,,b. Marine transportation of explosive materials shall be in accordance with USCG requirements.,False,False
+29,B,1.0,c,,,c. Transportation of explosive materials by aircraft shall be in accordance with FAA requirements.,False,False
+29,B,2.0,,,,"29.B.02 Vehicles used for transportation of explosive materials shall not be loaded beyond their rated capacity and the explosive materials shall be secured to prevent shifting of load or dislodgment from the vehicle; when explosive materials are transported by a vehicle with an open body, a magazine or closed container shall be securely mounted on the bed to contain the cargo.29.B.03 Vehicles transporting explosive materials shall display all placards, lettering, and/or numbering required by DOT.",True,False
+29,B,4.0,,,,29.B.04 Explosive materials and blasting supplies shall not be transported with other materials or cargoes. Blasting caps (including electric) shall not be transported in the vehicle or conveyance with other explosives unless the conditions of 49 CFR 177.835(g) are met.,True,False
+29,B,5.0,,,,29.B.05 Personnel.,True,False
+29,B,5.0,a,,,"a. Vehicles for transportation of explosive materials shall be in the charge of and operated by a person who is physically fit, careful, reliable, able to read and understand safety instructions, and not under the influence of intoxicants or narcotics.",False,False
+29,B,5.0,b,,,b. Only the authorized driver and a properly trained helper shall be permitted to ride on any conveyance transporting explosive materials or detonators.,False,False
+29,B,6.0,,,,"29.B.06 Vehicles used in the transportation of explosives shall be substantially constructed, in good repair, and shall have tight beds to prevent explosives from falling from the vehicle. The ends and sides of vehicles shall be high enough to prevent containers from falling off.",True,False
+29,B,7.0,,,,"29.B.07 Explosives shall not be exposed to sparking metal during transportation. When steel or part steel bodies are used, non-sparking cushioning materials shall separate the containers of explosives from the metal.",True,False
+29,B,8.0,,,,"29.B.08 No spark-producing tools, carbides, oils, matches, firearms, electric storage batteries, flammable substances, acids, or oxidizing or corrosive compounds shall be carried in the bed or body of any vehicle transporting explosive materials.",True,False
+29,B,9.0,,,,29.B.09 Vehicles transporting explosive materials shall be equipped with one or more fire extinguishers having a rating of 10-B:C and placed at strategic points.,True,False
+29,B,9.0,a,,,a. The extinguishers shall be of a type listed by a nationally- recognized testing laboratory and shall be ready for use.,False,False
+29,B,9.0,b,,,b. The driver will be trained in the use of the extinguisher.,False,False
+29,B,10.0,,,,"29.B.10 A vehicle containing explosive materials shall not be taken into a garage or repair shop, parked in congested areas, or stored at any time in a public garage or similar building.",True,False
+29,B,11.0,,,,"29.B.11 Vehicles transporting explosive materials shall be operated with extreme care. Full stops shall be made at approaches to all railroad crossings and main highways, and the vehicles shall not proceed until it is known that the way is clear.",True,False
+29,B,12.0,,,,29.B.12 No vehicle shall be refueled while explosive materials are on the motor vehicle except in an emergency.,True,False
+29,B,13.0,,,,"29.B.13 Persons employed in the transportation, handling, or other use of explosive materials shall not smoke or carry on their persons or in the vehicle, matches, firearms, ammunition, or flame-producing devices.",True,False
+29,B,14.0,,,,29.B.14 Provision shall be made for safe transfer of explosive materials to magazine vessels including substantial ramps or walkways free of tripping hazards.,True,False
+29,B,15.0,,,,29.B.15 Vehicles transporting explosive materials shall not be left unattended.,True,False
+29,B,16.0,,,,29.B.16 The hoist operator shall be notified before explosive materials are transported in a shaft conveyance.,True,False
+29,B,17.0,,,,"29.B.17 Explosive materials shall be hoisted, lowered, or conveyed in a powder car. No other materials, supplies or equipment shall be transported in the same conveyance at the same time.",True,False
+29,B,18.0,,,,29.B.18  No person shall ride in any shaft conveyance transporting explosive materials.  Loading and unloading shall be accomplished only when the conveyance is stationary.,True,False
+29,B,19.0,,,,29.B.19  No explosive materials shall be transported on any locomotive.  At least two car lengths shall separate the locomotive from the powder car.,True,False
+29,B,20.0,,,,29.B.20  No explosive materials shall be transported on a man haul trip.,True,False
+29,B,21.0,,,,"29.B.21 The car or conveyance containing explosive materials shall be pulled, not pushed, whenever possible.",True,False
+29,B,22.0,,,,"29.B.22 The powder car or conveyance built for transporting explosive materials shall bear a reflectorized sign with a sharply contrasting background on each side with the word EXPLOSIVES"" in letters not less than 4 in (10.1 cm) in height.""",True,False
+29,C,,,,,29.C Handling of Explosive Materials.,True,False
+29,C,1.0,,,,"29.C.01 There shall be no smoking, open lights, or fire of any kind within 50 ft (15.2 m) of any area where explosives are being handled. No source of ignition, except necessary means to light fuses or fire electric detonators, shall be permitted in an area containing loaded holes.",True,False
+29,C,2.0,,,,"29.C.02 Containers of explosive materials shall be opened only with non-sparking tools or instruments. Metal cutters may be used for opening fiberboard boxes, paper bags or plastic tubes.",True,False
+29,C,3.0,,,,29.C.03 Explosive materials shall be removed from containers only as they are needed for immediate use.,True,False
+29,C,4.0,,,,"29.C.04 Explosive materials and detonators or primers shall be separated and taken to the blasting area in original containers, Type 3 Magazines, or containers prescribed by 49 CFR 177.835.",True,False
+29,C,5.0,,,,29.C.05 Primers shall not be made up in excess of immediate need for holes to be loaded.,True,False
+29,C,6.0,,,,29.C.06 Primers shall not be made up in or near magazines or excessive quantities of explosive materials.,True,False
+29,C,7.0,,,,"29.C.07 After loading of a blast is completed, all excess explosive materials and detonators shall be removed to a safe location or returned at once to the storage magazines, observing the same rules as when being conveyed to the blasting area.",True,False
+29,C,8.0,,,,29.C.08 The quantity of explosive materials taken to an underground loading area shall not exceed the amount estimated to be necessary for the blast.,True,False
+29,C,9.0,,,,29.C.09 Detonators and explosive materials shall be taken separately into pressure working chambers.,True,False
+29,D,,,,,29.D Electromagnetic Radiation.,True,False
+29,D,1.0,,,,29.D.01 Blasting operations or storage of electrical detonators shall be prohibited in vicinity of operating RF transmitters or other RF producing devices except where the clearances in ANSI C95.4 can be maintained.,True,False
+29,D,2.0,,,,"29.D.02 When necessary to perform blasting operations at a distance less than those shown in ANSI C95.4 tables, an approved non-electric initiation system shall be used.",True,False
+29,D,3.0,,,,"29.D.03 Mobile radio transmitters, which are less than 100 ft (30.4 m) away from electric blasting caps in other than original containers, shall be de-energized and effectively locked, except in blasting areas where a non-electric initiation system as described in Section 29.A.11 is used.",True,False
+29,E,,,,,29.E Vibration and Damage Control.,True,False
+29,E,1.0,,,,"29.E.01 Blasting operations in or adjacent to cofferdams, piers, underwater structures, buildings, structures, or other facilities shall be carefully planned with full consideration for all forces and conditions involved.",True,False
+29,E,2.0,,,,"29.E.02 Prior to initiation of vibration controlled blasting operations, a written plan for monitoring the operations shall be established.",True,False
+29,E,3.0,,,,"29.E.03 When appropriate, owners, occupants, and the public shall be notified of the nature of blasting operations to be undertaken and controls to be established.",True,False
+29,E,4.0,,,,"29.E.04 Where vibration damage may occur, energy ratios and peak particle velocities shall be limited in accordance with state requirements or the requirements in Table 29-1, whichever is more stringent. When any recording indicates either energy ratio or peak particle velocity limits have been exceeded, blasting shall be suspended and the designated authority (Government and Contractor) shall be immediately notified; blasting shall not be resumed until the probable cause has been determined and corrective measures taken.",True,False
+29,E,5.0,,,,"29.E.05 Where required by State regulations, scaled distances shall be determined before each shot and included in the records. Scaled distances shall not exceed limitations set by the State.",True,False
+29,E,6.0,,,,29.E.06 Air blast pressure exerted on structures resulting from blasting shall not exceed 133 dB (0.013 psi).,True,False
+29,E,7.0,,,,"29.E.07 The monitoring, recording, and interpreting of vibrations shall be by qualified personnel. Records and interpretations shall be furnished to the GDA.",True,False
+29,F,,,,,29.F Drilling and Loading.,True,False
+29,F,1.0,,,,29.F.01 All drill holes shall be sufficiently large enough to freely allow for the insertion of the explosives.,True,False
+29,F,2.0,,,,"29.F.02 Drilling shall not be done in an area already blasted until remaining bootlegs"" are examined for unexploded charges and the total area has been examined to make sure that there are no unexploded charges remaining.""",True,False
+29,F,2.0,a,,,"a. Never insert a drill, pick, or bar into bootlegs even if examination fails to disclose explosives.",False,False
+29,F,2.0,b,,,"b. When misfires have occurred and drilling must be done in an area where undetonated holes may exist, holes shall not be drilled where there is danger of intersecting a misfired hole.",False,False
+29,F,2.0,c,,,"c. All drilling necessary to neutralize misfires must be done under the supervision of a competent person who has a working knowledge of the explosive materials involved and is familiar with the conditions under which the misfired holes were drilled, loaded, primed, and initiated, and is familiar with the drilling equipment capabilities that will be used during the neutralization.",False,False
+29,F,3.0,,,,29.F.03 Drilling and loading operations shall not be carried on in the same area. Drilling shall be separated from loaded holes by at least the depth of the loaded hole but in no case less than 50 ft (15.2 m).,True,False
+29,F,4.0,,,,29.F.04 No person shall be allowed to deepen drill holes that have contained explosives or blasting agents.,True,False
+29,F,5.0,,,,29.F.05 Holes shall not be drilled so that they disturb or intersect a loaded hole.,True,False
+29,F,6.0,,,,29.F.06 See Section 18.H for earth drilling requirements.,True,False
+29,F,7.0,,,,"29.F.07 The loading or loaded area shall be kept free of any equipment, operations, or persons not essential to loading; no vehicle traffic shall be permitted over loaded holes; the blast site shall be guarded or barricaded and posted with danger signs to restrict unauthorized entry.",True,False
+29,F,8.0,,,,"29.F.08 No holes shall be loaded except those to be fired in the next round of blasting; after loading, all remaining explosive materials and detonators shall be immediately returned to an authorized magazine; no explosive materials or loaded holes shall be left unattended at the blast site at any time.",True,False
+29,F,9.0,,,,29.F.09 Loading of sprung or jet-pierced holes shall be prohibited until it is established that the hole has cooled sufficiently to allow loading.,True,False
+29,F,10.0,,,,"29.F.10 No explosive shall be loaded or used underground in the presence of combustible gases or combustible dusts unless the conditions of use have been thoroughly identified and accepted, in writing, as safe by a competent person qualified by a thorough knowledge of the factors to be evaluated or by the written permission of the authority having jurisdiction where an authority exercises jurisdiction.",True,False
+29,F,11.0,,,,29.F.11 Cartridges shall be primed only in the number required for a single round of blasting.,True,False
+29,F,12.0,,,,"29.F.12 No detonator shall be inserted in explosive materials which do not have a cap well without first making a hole in the cartridge with a non-sparking punch of proper size, or the appropriate pointed handle of a cap crimper.",True,False
+29,F,13.0,,,,29.F.13 Cartridges shall be seated by even steady pressure only.,True,False
+29,F,14.0,,,,29.F.14 Tamping shall be done with wood rods without exposed metal parts. Non-sparking metal connectors may be used for joint poles. An approved plastic tamping pole may also be used.,True,False
+29,F,15.0,,,,29.F.15 Springing boreholes.,True,False
+29,F,15.0,a,,,a. A borehole shall never be sprung when it is adjacent to or near a hole that is loaded.,False,False
+29,F,15.0,b,,,b. Flashlight batteries shall never be used as a power source to replace a blasting machine when springing boreholes.,False,False
+29,F,16.0,,,,29.F.16 Use of detonating cord.,True,False
+29,F,16.0,a,,,a. Detonating cord shall be handled and used with the same respect and care given other explosives. Care shall be made to avoid damaging or severing cord during and after loading and hooking-up.,False,False
+29,F,16.0,b,,,"b. When using a detonating cord down line, after the primer is loaded in the hole, the detonating cord shall be cut from the supply reel before loading the rest of the charge.",False,False
+29,F,16.0,c,,,c. Detonating cord connections shall be positive in accordance with recommended methods. Knot or other cord-to-cord connections shall be made only with detonating cord in which the explosive core is dry.,False,False
+29,F,16.0,d,,,"d. All detonating cord trunk lines and branch lines shall be free of loops, sharp kinks, or angles that direct the cord back toward the oncoming line of detonation.",False,False
+29,F,16.0,e,,,"e. When connecting a detonator to detonating cord, the detonators shall be taped or otherwise attached securely along the side or the end of the detonating cord, with the end of the detonator containing the explosive charge pointing in the direction in which the detonation is to proceed.",False,False
+29,F,16.0,f,,,f. Detonators for firing the trunk line shall not be brought to the loading area nor attached to the detonating cord until everything else is in ready for the blast.,False,False
+29,F,17.0,,,,"29.F.17 The blaster shall keep an accurate, up-to-date record of explosives, blasting agents, and blasting supplies used in a blast.",True,False
+29,F,18.0,,,,29.F.18 Loaded holes shall be stemmed to the collar with non-combustible material.,True,False
+29,F,19.0,,,,29.F.19 All loaded holes or charges shall be checked and located and all detonating cord connections shall be inspected before firing the blast.,True,False
+29,F,20.0,,,,"29.F.20 All charges shall be covered with blasting mats or back covered before firing where blasting may cause injury or damage by flying rock or debris. Where mats are used, care shall be taken to protect electric blasting circuits.",True,False
+29,G,,,,,29.G Wiring.,True,False
+29,G,1.0,,,,"29.G.01 In any blast using electric detonators, all blasting caps shall be from the same manufacturer.",True,False
+29,G,2.0,,,,29.G.02  Wiring.,True,False
+29,G,2.0,a,,,a. Bus wires shall be single solid wires of sufficient current carrying capacity.,False,False
+29,G,2.0,b,,,b. The insulation on all firing lines shall be adequate and in good condition.,False,False
+29,G,3.0,,,,29.G.03 The number of electric blasting caps in a circuit shall not exceed the capacity of blasting machine or power source.,True,False
+29,G,4.0,,,,29.G.04 A power circuit used for firing electric detonators shall not be grounded.,True,False
+29,G,5.0,,,,"29.G.05 Whenever the possibility exists that a leading wire might be thrown onto a live power source by the force of the explosion, care shall be taken to see that the total length of wires is kept too short to contact the source or that the wires are securely anchored to the ground. Alternatively, de-energize the live power until it is certain during the post blast inspection that the lines have not crossed. If these requirements cannot be met, a non-electric system shall be used.",True,False
+29,G,6.0,,,,29.G.06 The manufacturer's shunt shall not be removed from the cap leg wires until the cap is connected to the lead line or to another cap in preparation for the assembly of two or more caps into a series circuit or when the cap is to be tested.,True,False
+29,G,7.0,,,,29.G.07 No lead wire shall be connected to the circuit until it has been grounded to dissipate any static charge.,True,False
+29,G,8.0,,,,"29.G.08 The circuit, including all caps, shall be tested with an approved blasting instrument (blasting galvanometer, blasting ohmmeter, blaster's ohmmeter, or blaster's multimeter) before being connected to a firing line.",True,False
+29,G,9.0,,,,29.G.09 No firing line shall be connected to a blasting machine or other power source until the shot is to be fired. The firing line shall be checked with an approved blasting instrument before being connected to the blasting machine or other power source.,True,False
+29,G,10.0,,,,"29.G.10 When a single series of caps is to be fired, or a number of series of caps is to be fired as a series-in-parallel circuit, the resistance of the circuit shall be checked with an approved blasting instrument.",True,False
+29,G,11.0,,,,"29.G.11 For series-in-parallel circuits, each series shall have the same resistance.",True,False
+29,G,12.0,,,,29.G.12 Each series circuit shall be separately tested for two readings:,True,False
+29,G,12.0,a,,,a. To ensure that the series is complete; and,False,False
+29,G,12.0,b,,,"b. To ensure that each series shows the same resistance and that this resistance is as close to the calculated resistance for such a series of caps as the testing instrument will read. If the first reading shows a series to be incomplete, the faulty cap or connection shall be located and corrected. If the second reading shows incorrect resistance, the cause shall be found and corrected.",False,False
+29,H,,,,,29.H Firing.,True,False
+29,H,1.0,,,,"29.H.01  Prior to the firing of a shot, all persons in the danger area shall be warned of the blast and ordered to a safe distance from the area. Blasts shall not be fired until it is certain that every person has retreated to a safe distance and no one remains in a dangerous location.",True,False
+29,H,2.0,,,,"29.H.02  Prior to the firing of a shot, a competent flag person shall be posted at all access points to danger areas.",True,False
+29,H,3.0,,,,"29.H.03 Prior to the firing of a shot, drill boats and other vessels shall be moved a safe distance from the danger area.",True,False
+29,H,3.0,a,,,"a. Prior to and while the drill boat or vessel is being moved from the danger area, a series of short signals by horn or whistle similar to the usual navigation warning signals shall be given.",False,False
+29,H,3.0,b,,,"b. No blast shall be fired while any vessel under way is closer than 1,500 ft (457.2 m) to the underwater blasting area. Those on board vessels or craft moored or anchored within 1,500 ft must be notified before a blast is fired.",False,False
+29,H,3.0,c,,,c. No blast shall be fired closer than 250 ft (76.2 m) to a boat or vessel containing an explosive magazine; personnel engaged in drilling operations on another drill boat within 500 ft (152.4 m) shall leave the drill frames for cover if any holes have been loaded.,False,False
+29,H,3.0,d,,,d. No blast shall be fired while any swimming or diving is in progress near the blasting area.,False,False
+29,H,3.0,e,,,"e. Whenever a drill boat is moved from the drilling setting, all loaded under water holes shall be fired.",False,False
+29,H,4.0,,,,29.H.04 Safety signals.,True,False
+29,H,4.0,a,,,a. All blasting operations shall use the following safety signals:,False,False
+29,H,4.0,a,1.0,,(1) WARNING SIGNAL - a one-minute series of long audible signals 5 minutes prior to blast signal;,False,False
+29,H,4.0,a,2.0,,(2) BLAST SIGNAL - a series of short audible signals 1 minute prior to the shot; and,False,False
+29,H,4.0,a,3.0,,(3) ALL CLEAR SIGNAL - a prolonged audible signal following the inspection of blast area.,False,False
+29,H,4.0,b,,,"b. The safety signals shall be given by use of a compressed air whistle, a horn, or equivalent means, and shall be clearly audible at the most distant point in the blast area. The boat whistle on a drill boat shall not be used as a blasting signal.",False,False
+29,H,4.0,c,,,c. The code for safety signals and warning signs and flags shall be posted at all access points.,False,False
+29,H,4.0,d,,,d. Employees shall be made familiar with the signals and instructed accordingly.,False,False
+29,H,5.0,,,,29.H.05 The person making leading wire connections shall fire the shot. All connections shall be made from the borehole back to the source of firing current and the leading wire shall remain shorted and not be connected to the blasting machine or other source of current until the charge is to be fired.,True,False
+29,H,6.0,,,,"29.H.06 After firing an electric blast, the leading wires shall be immediately disconnected from the power source and shunted.",True,False
+29,H,7.0,,,,"29.H.07 When firing a circuit of electric blasting caps, care shall be exercised to ensure that an adequate quantity of delivered current is available in accordance with the manufacturer's recommendations.",True,False
+29,I,,,,,29.I Post-Blast Procedures.,True,False
+29,I,1.0,,,,"29.I.01 Immediately after blast has been fired, the firing line shall be disconnected from the blasting machine or power source. Power switches shall be locked open. Atmospheres in confined areas shall be tested and/or ventilated after blast.",True,False
+29,I,2.0,,,,29.I.02 An inspection shall be made by the blaster to determine that all charges have been exploded. All wires shall be traced and search made for unexploded cartridges.,True,False
+29,I,3.0,,,,"29.I.03 Other persons shall not be allowed to return to the area of the blast until an all clear"" signal is given.""",True,False
+29,I,4.0,,,,29.I.04 Loose pieces of rock and other debris shall be scaled down from the sides of the face of excavation and the area made safe before proceeding with the work.,True,False
+29,I,5.0,,,,29.I.05 Misfires.,True,False
+29,I,5.0,a,,,a. Misfires shall be handled under the direction of the blaster. The blaster shall determine the safest method for handling the hazards of misfires (some misfires may require consultation with the supplier or manufacturer of the explosive material).,False,False
+29,I,5.0,b,,,"b. When a misfire is declared, the blaster shall wait  1-hour before inspecting the site and provide proper safeguards for excluding all employees, except those necessary to do the work, from the danger zone.",False,False
+29,I,5.0,c,,,c. No other work shall be done except that necessary to remove the hazard of the misfire. Only those employees necessary to do the work shall remain in the danger zone.,False,False
+29,I,5.0,d,,,"d. No drilling, digging, or picking shall be permitted until all misfire holes have been detonated or the blaster has approved that work can proceed.",False,False
+29,I,5.0,e,,,"e. Based on contractor experience, a secondary/dual initiation system to prevent misfires should be considered.",False,False
+29,J,,,,,29.J Underwater Blasting.,True,False
+29,J,1.0,,,,29.J.01 A blaster shall conduct all blasting operations. No shot shall be fired without his approval.,True,False
+29,J,2.0,,,,29.J.02 Loading tubes and casings of dissimilar metals shall not be used because of possible electric transient currents from galvanic action of the metals and water.,True,False
+29,J,3.0,,,,29.J.03 Only water-resistant blasting caps and detonating cords shall be used for all marine blasting. Loading shall be done through a non-sparking metal loading tube when necessary.,True,False
+29,J,4.0,,,,29.J.04 Blasting flags shall be displayed.,True,False
+29,J,5.0,,,,29.J.05 The storage and handling of explosive materials aboard vessels used in underwater blasting operations shall be according to provisions in Sections 29.A and 29.C.,True,False
+29,J,6.0,,,,"29.J.06 When more than one hole is loaded to be fired underwater, a steel shot line shall be anchored and floated over the row of loaded holes.",True,False
+29,J,6.0,a,,,a. The detonation down line from each loaded hole shall be tied to the steel line and the loose end shall be tied to the detonation trunk line.,False,False
+29,J,6.0,b,,,"b. After the trunk line fires, the steel shot line shall be inspected for misfires. Misfires shall be handled in accordance with the requirements of Section 29.I.05.",True,False
+29,J,7.0,,,,"29.J.07 When drilling near or adjacent to a loaded hole, drilling shall be limited to vertical holes only. Drilling shall be separated from loaded holes by the depth of water plus the depth of the loaded hole.",True,False
+29,J,7.0,a,,,"a. If a solid casing or drill mast - vertically plumbed with an inclinometer - is extended from the barge and firmly seated on bedrock, the distance between a loaded hole and one being drilled shall be 1/3 the depth of the hole, with a minimum of 8 ft (2.4 m) between the loaded hole and the one being drilled.",False,False
+29,J,7.0,b,,,b. Drilling shall be halted to check alignment with an inclinometer every 4 ft (1.2 m) of hole depth.,False,False
